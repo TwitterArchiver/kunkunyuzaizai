@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967222637505237011",
+    "created_at": "2025-09-14T13:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T14:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967222637505237011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1896929646526308352",
+          "start": 3,
+          "username": "Feiyan0128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967222637505237011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967100528602877952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Feiyan0128: 5200fo啦！！！！！\n依旧是感谢各位的陪伴！！！\n所以开一个小小的抽奖\n一等奖：🧧28.88 一份\n二等奖：🧧18.88 三份\n三等奖：🧧5.20 十份\n抽奖条件：点赞转发加评论这条帖子！\n我将在9.16晚上八点左右开奖！！！ https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 789,
+        "media_key": "3_1967100517563461632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yLf6LbcAAGhnK.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967222637505237011",
+        "created_at": "2025-09-14T13:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967222637505237011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1896929646526308352",
+              "start": 3,
+              "username": "Feiyan0128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967222637505237011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967100528602877952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Feiyan0128: 5200fo啦！！！！！\n依旧是感谢各位的陪伴！！！\n所以开一个小小的抽奖\n一等奖：🧧28.88 一份\n二等奖：🧧18.88 三份\n三等奖：🧧5.20 十份\n抽奖条件：点赞转发加评论这条帖子！\n我将在9.16晚上八点左右开奖！！！ https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967100517563461632"
+          ]
+        },
+        "author_id": "1896929646526308352",
+        "conversation_id": "1967100528602877952",
+        "created_at": "2025-09-14T05:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967100528602877952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RKkx54SFgp",
+              "end": 139,
+              "expanded_url": "https://x.com/Feiyan0128/status/1967100528602877952/photo/1",
+              "media_key": "3_1967100517563461632",
+              "start": 116,
+              "url": "https://t.co/RKkx54SFgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967100528602877952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5263,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "5200fo啦！！！！！\n依旧是感谢各位的陪伴！！！\n所以开一个小小的抽奖\n一等奖：🧧28.88 一份\n二等奖：🧧18.88 三份\n三等奖：🧧5.20 十份\n抽奖条件：点赞转发加评论这条帖子！\n我将在9.16晚上八点左右开奖！！！ https://t.co/RKkx54SFgp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 1797,
+          "like_count": 28068,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1878
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T14:24:14.000Z",
+        "description": "照片纯享@JavedKu33239344｜给我发牛牛的破财｜私信只回口令｜自用蜂鸟vpn：https://t.co/YqSv1OpB8n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "JavedKu33239344"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 68,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=eXrbPm5k",
+                "start": 45,
+                "url": "https://t.co/YqSv1OpB8n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/feiyan1021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/feiyan1021",
+                "start": 0,
+                "url": "https://t.co/h86S7HV1Wf"
+              }
+            ]
+          }
+        },
+        "id": "1896929646526308352",
+        "location": "有🚪",
+        "name": "昭寒（薄荷版）",
+        "pinned_tweet_id": "1965558622739726773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950612748599234560/FsMTWE_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5316,
+          "following_count": 97,
+          "like_count": 6225,
+          "listed_count": 7,
+          "media_count": 125,
+          "tweet_count": 2319
+        },
+        "url": "https://t.co/h86S7HV1Wf",
+        "username": "Feiyan0128",
+        "verified": false
+      }
+    ]
+  }
+}

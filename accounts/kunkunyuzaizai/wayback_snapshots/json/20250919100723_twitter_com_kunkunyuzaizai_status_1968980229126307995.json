@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968887876701028830",
+    "created_at": "2025-09-19T10:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T11:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968980229126307995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1355055103384772610",
+          "start": 0,
+          "username": "L777Rey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968980229126307995",
+    "in_reply_to_user_id": "1355055103384772610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968887876701028830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L777Rey ❛˓◞˂̵✧好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968887866559447040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1LlFUDaQAAV3q5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1218,
+        "media_key": "3_1968887866551111680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1LlFUBbEAAnf3K.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968887876701028830",
+        "created_at": "2025-09-19T10:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T11:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968980229126307995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1355055103384772610",
+              "start": 0,
+              "username": "L777Rey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968980229126307995",
+        "in_reply_to_user_id": "1355055103384772610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968887876701028830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L777Rey ❛˓◞˂̵✧好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968887866559447040",
+            "3_1968887866551111680"
+          ]
+        },
+        "author_id": "1355055103384772610",
+        "conversation_id": "1968887876701028830",
+        "created_at": "2025-09-19T04:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T05:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968887876701028830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rY2jd6qEGZ",
+              "end": 36,
+              "expanded_url": "https://x.com/L777Rey/status/1968887876701028830/photo/1",
+              "media_key": "3_1968887866559447040",
+              "start": 13,
+              "url": "https://t.co/rY2jd6qEGZ"
+            },
+            {
+              "display_url": "pic.x.com/rY2jd6qEGZ",
+              "end": 36,
+              "expanded_url": "https://x.com/L777Rey/status/1968887876701028830/photo/1",
+              "media_key": "3_1968887866551111680",
+              "start": 13,
+              "url": "https://t.co/rY2jd6qEGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968887876701028830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 17037,
+          "like_count": 223,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的iPhone6还能用 https://t.co/rY2jd6qEGZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 1941,
+          "like_count": 29303,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2018
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T07:28:19.000Z",
+        "description": "菠萝小宝为何那样",
+        "id": "1355055103384772610",
+        "location": "L",
+        "name": "🥔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716893687362486272/oTBzbLQo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38913,
+          "following_count": 57,
+          "like_count": 3460,
+          "listed_count": 104,
+          "media_count": 186,
+          "tweet_count": 2153
+        },
+        "username": "L777Rey",
+        "verified": false
+      }
+    ]
+  }
+}

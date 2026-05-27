@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1969649116272869602",
+    "created_at": "2025-09-22T01:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T02:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969936636571156958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889200694986756096",
+          "start": 0,
+          "username": "OvOxiaomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969936636571156958",
+    "in_reply_to_user_id": "1889200694986756096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969649116272869602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvOxiaomi 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 806,
+        "media_key": "3_1969649108278525953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WZbacbQAEwL5e.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1969649116272869602",
+        "created_at": "2025-09-22T01:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T02:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969936636571156958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889200694986756096",
+              "start": 0,
+              "username": "OvOxiaomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969936636571156958",
+        "in_reply_to_user_id": "1889200694986756096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969649116272869602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvOxiaomi 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969649108278525953"
+          ]
+        },
+        "author_id": "1889200694986756096",
+        "conversation_id": "1969649116272869602",
+        "created_at": "2025-09-21T06:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T07:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969649116272869602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kd61j0iUNs",
+              "end": 32,
+              "expanded_url": "https://x.com/OvOxiaomi/status/1969649116272869602/photo/1",
+              "media_key": "3_1969649108278525953",
+              "start": 9,
+              "url": "https://t.co/Kd61j0iUNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969649116272869602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17942,
+          "like_count": 129,
+          "quote_count": 1,
+          "reply_count": 68,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真被我接到了。😳 https://t.co/Kd61j0iUNs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 2036,
+          "like_count": 30020,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2083
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:32:08.000Z",
+        "description": "感谢人生无常 请不要道德绑架我 屏蔽自由谢谢^ 碎碎念在➡️@OnOxiaomi 匿名信箱⬇️ 互关➕v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "OnOxiaomi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%96%B5%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%96%B5%E5%96%B5%E5%96%B556588",
+                "start": 0,
+                "url": "https://t.co/bFvbqgw3Nk"
+              }
+            ]
+          }
+        },
+        "id": "1889200694986756096",
+        "location": "瓦罗兰特",
+        "name": "一只只只只只咪",
+        "pinned_tweet_id": "1966605065499660746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949098283592495104/nnejWRqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 230,
+          "like_count": 18683,
+          "listed_count": 5,
+          "media_count": 519,
+          "tweet_count": 6716
+        },
+        "url": "https://t.co/bFvbqgw3Nk",
+        "username": "OvOxiaomi",
+        "verified": false
+      }
+    ]
+  }
+}

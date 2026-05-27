@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1896741881083814373",
+    "created_at": "2025-03-05T03:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T04:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897120089155273186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1556216052052262912",
+          "start": 0,
+          "username": "nibiedong1"
+        },
+        {
+          "end": 20,
+          "id": "1433678976564662273",
+          "start": 12,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897120089155273186",
+    "in_reply_to_user_id": "1556216052052262912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896750685888397531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nibiedong1 @hsn8086 计算器？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1896741881083814373",
+        "created_at": "2025-03-05T03:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T04:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897120089155273186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1556216052052262912",
+              "start": 0,
+              "username": "nibiedong1"
+            },
+            {
+              "end": 20,
+              "id": "1433678976564662273",
+              "start": 12,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897120089155273186",
+        "in_reply_to_user_id": "1556216052052262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896750685888397531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nibiedong1 @hsn8086 计算器？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556216052052262912",
+        "conversation_id": "1896741881083814373",
+        "created_at": "2025-03-04T02:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T03:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896750685888397531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896750685888397531",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12288,
+          "like_count": 167,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896741881083814373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 符合我对某些计算器大佬的刻板印象👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 623,
+          "like_count": 10376,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 478
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T09:49:55.000Z",
+        "description": "我不要無效社交…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/YvJgvU6abf"
+              }
+            ]
+          }
+        },
+        "id": "1556216052052262912",
+        "location": "距离7.4km",
+        "name": "蜂蜜柚子🧀",
+        "pinned_tweet_id": "1651615699654295552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872945333191536640/nWo2kHK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 174,
+          "like_count": 11754,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 3025
+        },
+        "url": "https://t.co/YvJgvU6abf",
+        "username": "nibiedong1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1895271678005125582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43842,
+          "following_count": 922,
+          "like_count": 36754,
+          "listed_count": 111,
+          "media_count": 7046,
+          "tweet_count": 12351
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

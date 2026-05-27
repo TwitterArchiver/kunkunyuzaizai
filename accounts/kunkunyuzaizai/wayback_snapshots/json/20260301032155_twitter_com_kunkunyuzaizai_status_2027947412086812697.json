@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2027779843367309320",
+    "created_at": "2026-03-01T03:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T04:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027947412086812697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027947412086812697",
+    "in_reply_to_user_id": "623965569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027779843367309320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand 这么多钱😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 962,
+        "media_key": "3_2027779836639645697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQfBI2bEAEdGIO.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2027779843367309320",
+        "created_at": "2026-03-01T03:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027947412086812697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027947412086812697",
+        "in_reply_to_user_id": "623965569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027779843367309320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand 这么多钱😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027779836639645697"
+          ]
+        },
+        "author_id": "623965569",
+        "conversation_id": "2027779843367309320",
+        "created_at": "2026-02-28T16:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027779843367309320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c1UHTRAnUc",
+              "end": 32,
+              "expanded_url": "https://x.com/nothousand/status/2027779843367309320/photo/1",
+              "media_key": "3_2027779836639645697",
+              "start": 9,
+              "url": "https://t.co/c1UHTRAnUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027779843367309320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9160,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的手术费到帐了 https://t.co/c1UHTRAnUc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|\n|不OD|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 137,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 114,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 2651,
+          "like_count": 40257,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2765
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "并非这个世界的生命体",
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022925457822486528/PFJoTs_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2130,
+          "following_count": 120,
+          "like_count": 7573,
+          "listed_count": 5,
+          "media_count": 455,
+          "tweet_count": 5099
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

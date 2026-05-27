@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1955233013626982881",
+    "created_at": "2025-08-13T12:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T13:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955612159100215379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1890630723201368064",
+          "start": 0,
+          "username": "weiwei888o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955612159100215379",
+    "in_reply_to_user_id": "1890630723201368064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955233013626982881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiwei888o 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955233002528837635",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyJiDnjaEAMH01J.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1955233013626982881",
+        "created_at": "2025-08-13T12:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T13:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955612159100215379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1890630723201368064",
+              "start": 0,
+              "username": "weiwei888o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955612159100215379",
+        "in_reply_to_user_id": "1890630723201368064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955233013626982881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiwei888o 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955233002528837635"
+          ]
+        },
+        "author_id": "1890630723201368064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1955233013626982881",
+        "created_at": "2025-08-12T11:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T12:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955233013626982881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uGd1LZ1gjj",
+              "end": 36,
+              "expanded_url": "https://x.com/weiwei888o/status/1955233013626982881/photo/1",
+              "media_key": "3_1955233002528837635",
+              "start": 13,
+              "url": "https://t.co/uGd1LZ1gjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955233013626982881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12028,
+          "like_count": 273,
+          "quote_count": 2,
+          "reply_count": 68,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗好啦，路过的可以拿一个 https://t.co/uGd1LZ1gjj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 1334,
+          "like_count": 21558,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1311
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T05:14:37.000Z",
+        "description": "薇的记录本 | brat | 有🚪| 欢迎投喂",
+        "id": "1890630723201368064",
+        "name": "Wee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918002745765969920/dgm4RCnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 24,
+          "like_count": 1721,
+          "listed_count": 7,
+          "media_count": 51,
+          "tweet_count": 678
+        },
+        "username": "weiwei888o",
+        "verified": false
+      }
+    ]
+  }
+}

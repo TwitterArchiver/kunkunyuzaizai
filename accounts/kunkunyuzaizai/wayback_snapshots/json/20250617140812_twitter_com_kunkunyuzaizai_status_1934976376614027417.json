@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1934585360224559292",
+    "created_at": "2025-06-17T14:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T15:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934976376614027417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1691385929968062464",
+          "start": 0,
+          "username": "zhou1919456789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934976376614027417",
+    "in_reply_to_user_id": "1691385929968062464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934585360224559292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhou1919456789 奶茶是大隐患不过喝奶茶应该不会引起癌症吧 其他没大碍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_1934585357158551552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtkHIekbkAAYUEE.jpg",
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1934585360224559292",
+        "created_at": "2025-06-17T14:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934976376614027417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691385929968062464",
+              "start": 0,
+              "username": "zhou1919456789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934976376614027417",
+        "in_reply_to_user_id": "1691385929968062464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934585360224559292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhou1919456789 奶茶是大隐患不过喝奶茶应该不会引起癌症吧 其他没大碍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934585357158551552"
+          ]
+        },
+        "author_id": "1691385929968062464",
+        "conversation_id": "1934585360224559292",
+        "created_at": "2025-06-16T12:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T13:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934585360224559292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWj8iuvPlZ",
+              "end": 27,
+              "expanded_url": "https://x.com/zhou1919456789/status/1934585360224559292/photo/1",
+              "media_key": "3_1934585357158551552",
+              "start": 4,
+              "url": "https://t.co/bWj8iuvPlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934585360224559292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 175254,
+          "like_count": 720,
+          "quote_count": 33,
+          "reply_count": 86,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁 https://t.co/bWj8iuvPlZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 1248,
+          "like_count": 17122,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 918
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:47:02.000Z",
+        "description": "you can call me in your favour way/高中学生/欢迎互fo/是明日美/",
+        "id": "1691385929968062464",
+        "location": "Shanghai ",
+        "name": "明日美",
+        "pinned_tweet_id": "1910877694759494047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923343824744747008/2zTVcKUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 750,
+          "like_count": 1148,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 521
+        },
+        "username": "zhou1919456789",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1962311569942937827",
+    "created_at": "2025-09-02T00:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T01:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962678848052699488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1551373340497043458",
+          "start": 0,
+          "username": "BZL_77B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962678848052699488",
+    "in_reply_to_user_id": "1551373340497043458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962311569942937827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BZL_77B 还好我本来就素4i外加2i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_1962311557020340224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzuH9t7XUAAJsy8.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1962311569942937827",
+        "created_at": "2025-09-02T00:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T01:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962678848052699488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1551373340497043458",
+              "start": 0,
+              "username": "BZL_77B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962678848052699488",
+        "in_reply_to_user_id": "1551373340497043458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962311569942937827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BZL_77B 还好我本来就素4i外加2i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962311557020340224"
+          ]
+        },
+        "author_id": "1551373340497043458",
+        "conversation_id": "1962311569942937827",
+        "created_at": "2025-09-01T00:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T01:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962311569942937827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KdL2mcyD3",
+              "end": 31,
+              "expanded_url": "https://x.com/BZL_77B/status/1962311569942937827/photo/1",
+              "media_key": "3_1962311557020340224",
+              "start": 8,
+              "url": "https://t.co/1KdL2mcyD3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962311569942937827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 26158,
+          "like_count": 174,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样打直球 https://t.co/1KdL2mcyD3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON  凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 1646,
+          "like_count": 26239,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1751
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T01:06:51.000Z",
+        "description": "嘴巴很贱 不用管我 颜控 高p 4i dom 不准乱私信 我随便发着玩的",
+        "id": "1551373340497043458",
+        "name": "暴炸了",
+        "pinned_tweet_id": "1891489335926501846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886193161501868032/WQtUtufn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 81,
+          "like_count": 1235,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 285
+        },
+        "username": "BZL_77B",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1956675329843515805",
+    "created_at": "2025-08-17T04:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T05:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956934430247043323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3244048580",
+          "start": 0,
+          "username": "y2kstarrychan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956934430247043323",
+    "in_reply_to_user_id": "3244048580",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956675329843515805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y2kstarrychan 🆘吓鼠惹🔞，本🉑素直男🙄💅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_1956675327222001664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeB19vWsAA8Hfe.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1956675329843515805",
+        "created_at": "2025-08-17T04:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T05:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956934430247043323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3244048580",
+              "start": 0,
+              "username": "y2kstarrychan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956934430247043323",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956675329843515805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2kstarrychan 🆘吓鼠惹🔞，本🉑素直男🙄💅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956675327222001664"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1956675329843515805",
+        "created_at": "2025-08-16T11:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T12:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956675329843515805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ffynaLcFEP",
+              "end": 39,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1956675329843515805/photo/1",
+              "media_key": "3_1956675327222001664",
+              "start": 16,
+              "url": "https://t.co/ffynaLcFEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956675329843515805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 18964,
+          "like_count": 137,
+          "quote_count": 1,
+          "reply_count": 256,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在评论区打出你上一次复制的东西 https://t.co/ffynaLcFEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1372,
+          "like_count": 22644,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1426
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃酱",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1971,
+          "following_count": 351,
+          "like_count": 22902,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 3932
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

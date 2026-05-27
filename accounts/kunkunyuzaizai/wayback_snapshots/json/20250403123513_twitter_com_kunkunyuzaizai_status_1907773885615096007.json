@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907773870242967552"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1907773885615096007",
+    "created_at": "2025-04-03T12:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T13:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907773885615096007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SymiIOdMVD",
+          "end": 56,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1907773885615096007/photo/1",
+          "media_key": "3_1907773870242967552",
+          "start": 33,
+          "url": "https://t.co/SymiIOdMVD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907773885615096007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "mg42+jak12 可惜没有蓝蔷薇(蓝蔷薇本名蔷薇刺客-青龙) https://t.co/SymiIOdMVD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907773885615096007].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907773885615096007",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907773885615096007"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1907773870242967552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnnGOieasAAQPPC.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 675,
+          "like_count": 12458,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 621
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

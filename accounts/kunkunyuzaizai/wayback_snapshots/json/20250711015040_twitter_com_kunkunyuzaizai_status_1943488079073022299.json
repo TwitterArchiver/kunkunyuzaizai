@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1943341066461077805",
+    "created_at": "2025-07-11T01:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T02:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943488079073022299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1253165636210978817",
+          "start": 0,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943488079073022299",
+    "in_reply_to_user_id": "1253165636210978817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943341066461077805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exusiai159 哇塞塞这么多可惜我一般只吃三四个饺子 20块钱给我完全浪费"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1943341062539673600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvgiZm4bgAAzFAr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1943341066461077805",
+        "created_at": "2025-07-11T01:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T02:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943488079073022299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943488079073022299",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943341066461077805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 哇塞塞这么多可惜我一般只吃三四个饺子 20块钱给我完全浪费"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943341062539673600"
+          ]
+        },
+        "author_id": "1253165636210978817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1943341066461077805",
+        "created_at": "2025-07-10T16:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T17:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943341066461077805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tdWcW86uqr",
+              "end": 43,
+              "expanded_url": "https://x.com/Exusiai159/status/1943341066461077805/photo/1",
+              "media_key": "3_1943341062539673600",
+              "start": 20,
+              "url": "https://t.co/tdWcW86uqr"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "1943341066461077805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 632,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小城市物价是真便宜\n水饺自助才20块钱 https://t.co/tdWcW86uqr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 1286,
+          "like_count": 19581,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1103
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "混吃等死大学牲，粥批，正太控，中推鹿野灸和能天使粉丝头子/头图来自剧毒的KCN老师/会转发正太黄推🔞，如有介意请不要关注/推特用来当日记本记录碎碎念/数码产品迷，Windows平板爱好者，星粉/编程一生黑/禁极端歧视仇恨言论/有大量政治内容的账号恕不回fo/避难所@Exusiai159_2/扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 132,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/exusiai1592",
+                "end": 23,
+                "expanded_url": "https://ngl.link/exusiai1592",
+                "start": 0,
+                "url": "https://t.co/ZoBj8xEVzX"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916516326706999296/Cqh4R0TB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4377,
+          "following_count": 5517,
+          "like_count": 128563,
+          "listed_count": 9,
+          "media_count": 3643,
+          "tweet_count": 35843
+        },
+        "url": "https://t.co/ZoBj8xEVzX",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1958167981747306518",
+    "created_at": "2025-08-21T00:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T01:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958318831589584984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3341502893",
+          "start": 0,
+          "username": "zhihui999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958318831589584984",
+    "in_reply_to_user_id": "3341502893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958167981747306518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhihui999 一两站都要大几十啦虽然很快还安静当然高铁安静是规定 火车是真吵但便宜很多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958167976877699073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyzPZnBXMAEynG_.jpg",
+        "width": 1050
+      },
+      {
+        "height": 1953,
+        "media_key": "3_1958167976860905472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyzPZm9W8AArzxh.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1031,
+        "media_key": "3_1958167976865091584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyzPZm-W0AAvzwq.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1958167981747306518",
+        "created_at": "2025-08-21T00:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T01:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958318831589584984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3341502893",
+              "start": 0,
+              "username": "zhihui999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958318831589584984",
+        "in_reply_to_user_id": "3341502893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958167981747306518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhihui999 一两站都要大几十啦虽然很快还安静当然高铁安静是规定 火车是真吵但便宜很多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958167976877699073",
+            "3_1958167976860905472",
+            "3_1958167976865091584"
+          ]
+        },
+        "author_id": "3341502893",
+        "conversation_id": "1958167981747306518",
+        "created_at": "2025-08-20T14:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T15:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958167981747306518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RLy4zu65PD",
+              "end": 145,
+              "expanded_url": "https://x.com/zhihui999/status/1958167981747306518/photo/1",
+              "media_key": "3_1958167976877699073",
+              "start": 122,
+              "url": "https://t.co/RLy4zu65PD"
+            },
+            {
+              "display_url": "pic.x.com/RLy4zu65PD",
+              "end": 145,
+              "expanded_url": "https://x.com/zhihui999/status/1958167981747306518/photo/1",
+              "media_key": "3_1958167976860905472",
+              "start": 122,
+              "url": "https://t.co/RLy4zu65PD"
+            },
+            {
+              "display_url": "pic.x.com/RLy4zu65PD",
+              "end": 145,
+              "expanded_url": "https://x.com/zhihui999/status/1958167981747306518/photo/1",
+              "media_key": "3_1958167976865091584",
+              "start": 122,
+              "url": "https://t.co/RLy4zu65PD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958167981747306518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "🔥 转发： 中国高铁这个曾经被捧上天的国家名片,如今正在一座座城市里悄悄关门停运。不是维修,不是升级, 而是运营不下去了, 干脆关了。\n\n你没听错,中国大地上一场前所未有的高铁停运潮正在悄悄席卷那些曾被信誓旦旦承诺连通世界、引爆繁荣的小城市。\n\n什么叫交通强国?县县通高铁⁉️现在都成了站站停运，县县沉没❗️\n\n咱们今天就来揭开中国高铁背后那层没人敢说的铁皮布。这个庞大的交通其实是一场空壳骗局,一夜之间全线停摆。2025年初,甘肃临夏州发布公告,原本每天两趟高铁突然宣布停运,原因很官方——客流量不足,暂停运营。\n而临夏还只是个开端。接下来的几个月里,四川宜宾西、贵州盘州、湖南郴州、安徽阜阳、河南濮阳、黑龙江佳木斯……一个个小城市高铁站,不是缩班,就是彻底停摆。你买不到票,你找不到车,你看到站台却进不去。\n\n全国多个铁路局悄悄在官网下架车次信息。没有公告,没有解释,连媒体都不敢大篇幅报道。有人说这只是优化运营吧。错了,这是彻头彻尾的躺平式停运。\n\n高铁不是交通,是债务。\n\n为什么这些高铁站开了又关,通了又停?很简单,没人坐,养不起。\n\n中国高铁曾被包装成世界奇迹。但你知道吗?每修一公里就要背上1.2亿人民币的债务.一条200公里的线路就是240亿负债。而这 240亿靠什么回本?靠票价回不了,靠客流根本没客,靠招商周边全是空地。\n\n许多小城市为了赶高铁末班车,砸锅卖铁,贷款上马修了站、建了桥。结果车来了人没来,票有了没人买。\n\n一位濮阳的退休铁路职工说,以前火车是通民生的,现在高铁是通政绩的。老百姓连十块钱的绿皮车都坐不起,更别说120块的高铁票。站台成空壳,城市变鬼影。\n\n你想象过一座高铁站,一天一个人都没有吗?广西崇左那座花了三十亿建成的超级高铁站,现在每天只发一趟车,站内工作人员比乘客多。\n\n贵州凯里车站外曾经的高铁新区早就烂尾荒草丛生,一堆空壳写字楼楼盘盖一半就停了。\n\n河北邯郸的东站连本地人都不知道,它还在不在运行。\n\n你再看看高铁站周围餐饮关门,商铺歇业,房子卖不掉,出租车都不来了。\n\n一个又一个高铁新城从最初的交通枢纽变成财政黑洞。最讽刺的是,当初这些城市为了配合高铁选址,还拆了老城,迁了农户,把整片片区都规划成新城区。\n\n但今天呢只有风在站台里吹,民众出行代价更高。\n\n高铁停运,谁最惨?不是开发商,是普通百姓。比如广西柳江今年高铁停运之后,一个农民工想从柳江去南宁,必须改乘中巴客运。路烂车慢票贵,超员严重。原本高铁一小时到,现在要三小时转两次,票价翻倍。河南开封绿皮车取消,动车票涨价,很多低收入老人根本坐不起。\n\n贵州六盘水一对父母带孩子进省城看病,没车,只能走三小时去临市搭车。\n\n你以为高铁不跑了还有别的交通。错了,地方财政根本没钱补贴,一出门就是断线。\n\n中国速度的遮羞布彻底撕掉。这些年,中国高铁被当成国家面子工程到处刷存在。村口要通高铁,旅游景点配高铁站,哪怕人流不够,也要修。修的目的,不是为了人民出行,而是为了GDP 数字、地方政绩、土地炒作。\n\n你看,通了高铁新区可以卖地了,房价可以炒高了,招商引资可以吹牛了。可等债务来了,维护成本来了,车没人坐了,啪一下就躺平了。车次取消,线路暂停,票价上调,站点合并。\n\n你看到的是中国高铁,背后是财政失控,高铁泡沫的真正代价。\n\n中国高铁现在是什么?不是公共交通, 而是一个超级债务。\n\n数据显示,全国高铁运营线路总长突破四万公里,但高铁公司连年亏损,光中国铁路总公司一家的债务,2024年末就突破了六万亿元人民币。而整个地方政府与铁建体系的联保连带隐性债务加起来早就超过了 30 万亿。\n\n谁来还?中央不管,地方没钱,于是就开始停运、合并、减班、冻结建设。你会发现未来越来越多的城市不是开通高铁,而是被高铁抛弃。\n\n这一切。其实早有预兆,早在五年前就有台湾经济学者预言,中国高铁不是通向繁荣的列车,而是驶向债务崩溃的末班车。当时还被网民骂酸葡萄。现在呢小城市高铁成摆设,沿线人流断崖式下降,财政兜不住,地方不敢修,老百姓坐不起,基建成空壳。\n\n这哪是什么中国模式?这明明是一个财政甩锅、匪债隐匿、百姓买单的大型骗局。高铁成了中国现代化的镜中花。高铁的铁轨拉近了城市间的距离,却没拉近百姓的生活。\n\n中国修得起高铁,却用不起。中国开得出车次,却没人坐。中国盖得起车站,却没人来。高铁站成了一个又一个空壳政绩纪念碑,而真正需要公共交通的人,却连一张回家的车票都负担不起‼️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 81404,
+          "like_count": 338,
+          "quote_count": 10,
+          "reply_count": 78,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "🔥 转发： 中国高铁这个曾经被捧上天的国家名片,如今正在一座座城市里悄悄关门停运。不是维修,不是升级, 而是运营不下去了, 干脆关了。\n\n你没听错,中国大地上一场前所未有的高铁停运潮正在悄悄席卷那些曾被信誓旦旦承诺连通世界、引爆繁荣的小城市。 https://t.co/RLy4zu65PD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 1414,
+          "like_count": 23591,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1513
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-22T15:01:26.000Z",
+        "description": "🔥 快来爆料中共黑幕，爆到中共邪党灰飞烟灭！恳请大家私信小編爆真实猛料（视频文字录音均可，请您注明时间地点）! 小编在海外及時选编和發布，告知天下！期盼您的关注点赞👍和转帖❤️，敬請您留言指正👉#海外爆料 🙏",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 102,
+                "start": 97,
+                "tag": "海外爆料"
+              }
+            ]
+          }
+        },
+        "id": "3341502893",
+        "location": "Union City, NJ",
+        "name": "海外爆料",
+        "pinned_tweet_id": "1958167981747306518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611546603046801409/WiecOhob_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200081,
+          "following_count": 2847,
+          "like_count": 87564,
+          "listed_count": 532,
+          "media_count": 80427,
+          "tweet_count": 127858
+        },
+        "username": "zhihui999",
+        "verified": true
+      }
+    ]
+  }
+}

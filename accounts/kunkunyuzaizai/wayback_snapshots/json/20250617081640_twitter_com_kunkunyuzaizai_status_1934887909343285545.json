@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1934482811786064052",
+    "created_at": "2025-06-17T08:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T09:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934887909343285545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934887909343285545",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934482811786064052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaAzure ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1934482811786064052",
+        "created_at": "2025-06-17T08:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T09:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934887909343285545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934887909343285545",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934482811786064052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1934482811786064052",
+        "created_at": "2025-06-16T05:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T06:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934482811786064052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934482811786064052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4492,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "别以为你有多干净，我已经对着你照片导过了，没有照片的我也对着你的账号意淫过了，你已经被我操了知道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 1247,
+          "like_count": 17104,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 916
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "🌊⁉️｜叫líng就好啦 ｜大概是非二元MtX🏳️‍🌈🏳️‍⚧️｜🍥hrt24.4.20｜纯乐子人的生活推｜08年｜川渝常驻重庆｜入坑半年音游忘掉FPS的音游人 ｜maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找 @minokakay｜对象@juhao0721山田凉❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 114,
+                "username": "minokakay"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "Λzure色號の水彩翎.",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921288349119373312/6m5iNDhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6920,
+          "following_count": 1096,
+          "like_count": 27653,
+          "listed_count": 8,
+          "media_count": 1941,
+          "tweet_count": 15002
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": false
+      }
+    ]
+  }
+}

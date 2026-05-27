@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968454723410723237",
+    "created_at": "2025-09-18T10:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T11:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968619936038678904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3388580118",
+          "start": 0,
+          "username": "lllllanyuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968619936038678904",
+    "in_reply_to_user_id": "3388580118",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968454723410723237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lllllanyuri 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968454715861078016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1FbIn9XkAAEZVS.jpg",
+        "width": 1599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968454723410723237",
+        "created_at": "2025-09-18T10:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T11:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968619936038678904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3388580118",
+              "start": 0,
+              "username": "lllllanyuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968619936038678904",
+        "in_reply_to_user_id": "3388580118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968454723410723237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lllllanyuri 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968454715861078016"
+          ]
+        },
+        "author_id": "3388580118",
+        "conversation_id": "1968454723410723237",
+        "created_at": "2025-09-17T23:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T00:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968454723410723237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vgiRiZesDl",
+              "end": 41,
+              "expanded_url": "https://x.com/lllllanyuri/status/1968454723410723237/photo/1",
+              "media_key": "3_1968454715861078016",
+              "start": 18,
+              "url": "https://t.co/vgiRiZesDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968454723410723237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 103138,
+          "like_count": 773,
+          "quote_count": 3,
+          "reply_count": 73,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "今天收房了，感谢爹妈让俺能全力倚父 https://t.co/vgiRiZesDl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 1904,
+          "like_count": 29022,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1990
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-30T03:56:24.000Z",
+        "description": "",
+        "id": "3388580118",
+        "name": "癞疙宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950406781261283328/TQN2LSnP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48780,
+          "following_count": 828,
+          "like_count": 37460,
+          "listed_count": 159,
+          "media_count": 404,
+          "tweet_count": 2704
+        },
+        "username": "lllllanyuri",
+        "verified": false
+      }
+    ]
+  }
+}

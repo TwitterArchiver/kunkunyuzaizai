@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1938619995547975967",
+    "created_at": "2025-06-27T23:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T00:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938747195391668590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878225515561332736",
+          "start": 0,
+          "username": "EScanlon95354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938747195391668590",
+    "in_reply_to_user_id": "1878225515561332736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938619995547975967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EScanlon95354 外八太丑了我初中就给自己改了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1938619995547975967",
+        "created_at": "2025-06-27T23:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T00:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938747195391668590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878225515561332736",
+              "start": 0,
+              "username": "EScanlon95354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938747195391668590",
+        "in_reply_to_user_id": "1878225515561332736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938619995547975967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EScanlon95354 外八太丑了我初中就给自己改了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878225515561332736",
+        "conversation_id": "1938619995547975967",
+        "created_at": "2025-06-27T15:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T16:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938619995547975967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938619995547975967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5867,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹刚跟我说，她面基一个mtf，然后当场就发现这个mtf 是术后的。\n我问，咋发现的，是看出来身材和药娘有区别吗？\n姐妹回答说：看步态，没割蛋的走路都是外八😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1260,
+          "like_count": 18695,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1013
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T23:40:50.000Z",
+        "description": "我决定开始玩抽象：所以你们说的什么糖，什么药娘，什么手术，我都不知道，我是直男",
+        "id": "1878225515561332736",
+        "name": "大 E（变性贝利亚）",
+        "pinned_tweet_id": "1913519699222003943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936037262325956611/KlOspB8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2577,
+          "following_count": 2163,
+          "like_count": 4939,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 1340
+        },
+        "username": "EScanlon95354",
+        "verified": false
+      }
+    ]
+  }
+}

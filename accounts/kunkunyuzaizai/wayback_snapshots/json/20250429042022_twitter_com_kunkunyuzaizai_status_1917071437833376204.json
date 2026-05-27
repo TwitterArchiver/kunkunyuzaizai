@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1916876293486137594",
+    "created_at": "2025-04-29T04:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T05:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917071437833376204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893332752000524290",
+          "start": 0,
+          "username": "StarryCloud1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917071437833376204",
+    "in_reply_to_user_id": "1893332752000524290",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916876293486137594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarryCloud1123 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1916876293486137594",
+        "created_at": "2025-04-29T04:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T05:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917071437833376204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893332752000524290",
+              "start": 0,
+              "username": "StarryCloud1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917071437833376204",
+        "in_reply_to_user_id": "1893332752000524290",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916876293486137594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryCloud1123 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893332752000524290",
+        "conversation_id": "1916876293486137594",
+        "created_at": "2025-04-28T15:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T16:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916876293486137594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916876293486137594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 45265,
+          "like_count": 671,
+          "quote_count": 6,
+          "reply_count": 94,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "推特上14-16岁的初高中生（？）给我一种完全不用上学而且成绩特别好而且特别有钱的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 928,
+          "like_count": 14527,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 751
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T16:11:34.000Z",
+        "description": "愿少年前路，星辰似海\n07高二/辽宁沈阳/福瑞控/源批/明日方舟/算是表里合一推？/挂几个亲友@MoxiYolo @29_AIce @Sweetpu86471930",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "MoxiYolo"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "username": "29_AIce"
+              },
+              {
+                "end": 82,
+                "start": 66,
+                "username": "Sweetpu86471930"
+              }
+            ]
+          }
+        },
+        "id": "1893332752000524290",
+        "location": "辽宁沈阳",
+        "name": "灿云SCloud",
+        "pinned_tweet_id": "1911451616651157522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893332982326530048/TVfU6ja0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 523,
+          "like_count": 7124,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1353
+        },
+        "username": "StarryCloud1123",
+        "verified": false
+      }
+    ]
+  }
+}

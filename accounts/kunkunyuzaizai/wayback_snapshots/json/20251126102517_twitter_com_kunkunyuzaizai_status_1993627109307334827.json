@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1993229559697903708",
+    "created_at": "2025-11-26T10:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T11:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993627109307334827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1849247136694890496",
+          "start": 0,
+          "username": "1314yuzi"
+        },
+        {
+          "end": 19,
+          "id": "1662474877000118272",
+          "start": 10,
+          "username": "ruiximtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993627109307334827",
+    "in_reply_to_user_id": "1849247136694890496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993617887819678096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1314yuzi @ruiximtf 我已经进厂了😭啥也不会 学历也没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1993229559697903708",
+        "created_at": "2025-11-26T10:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993627109307334827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1849247136694890496",
+              "start": 0,
+              "username": "1314yuzi"
+            },
+            {
+              "end": 19,
+              "id": "1662474877000118272",
+              "start": 10,
+              "username": "ruiximtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993627109307334827",
+        "in_reply_to_user_id": "1849247136694890496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993617887819678096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1314yuzi @ruiximtf 我已经进厂了😭啥也不会 学历也没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849247136694890496",
+        "conversation_id": "1993229559697903708",
+        "created_at": "2025-11-26T09:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993617887819678096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1662474877000118272",
+              "start": 0,
+              "username": "ruiximtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993617887819678096",
+        "in_reply_to_user_id": "1662474877000118272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993229559697903708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruiximtf 我才是真的什么也不会，打工都只能进厂子(╥╯﹏╰╥)ง"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 2353,
+          "like_count": 33490,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2460
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T00:31:10.000Z",
+        "description": "我家老头@0712yuzi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "0712yuzi"
+              }
+            ]
+          }
+        },
+        "id": "1849247136694890496",
+        "location": "距离您520m",
+        "name": "是鱼鱼呀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874995946750414849/R-Sr0ccG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 124,
+          "like_count": 324,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 479
+        },
+        "username": "1314yuzi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T15:04:50.000Z",
+        "description": "一个宅在家里的线虫/09休学中/好孤独呀欢迎来聊天互fo/日语学习ing！/看番和玩二游（原神/崩铁/啤酒烧烤/光遇…）来个人和喔说说话吧太无聊咯逃生舱@xi_ruiaha",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "xi_ruiaha"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ahamisaka",
+                "end": 23,
+                "expanded_url": "https://t.me/ahamisaka",
+                "start": 0,
+                "url": "https://t.co/SJMiqGcex1"
+              }
+            ]
+          }
+        },
+        "id": "1662474877000118272",
+        "location": "Tokyo-to, Japan",
+        "name": "荠aha🍥",
+        "pinned_tweet_id": "1908938007543169070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975566499948732416/BV2Fq-Qc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 1012,
+          "like_count": 1720,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 496
+        },
+        "url": "https://t.co/SJMiqGcex1",
+        "username": "ruiximtf",
+        "verified": true
+      }
+    ]
+  }
+}

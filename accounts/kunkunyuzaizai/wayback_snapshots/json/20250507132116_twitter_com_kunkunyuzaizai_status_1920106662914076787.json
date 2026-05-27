@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1919955070105616500",
+    "created_at": "2025-05-07T13:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T14:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920106662914076787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1448187795571286017",
+          "start": 0,
+          "username": "shuiyebush1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920106662914076787",
+    "in_reply_to_user_id": "1448187795571286017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919955070105616500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuiyebush1 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_1919955031991975937",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GqUM7eKbAAEkrho.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GqUM7eKbAAEkrho.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1919955070105616500",
+        "created_at": "2025-05-07T13:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T14:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920106662914076787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1448187795571286017",
+              "start": 0,
+              "username": "shuiyebush1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920106662914076787",
+        "in_reply_to_user_id": "1448187795571286017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919955070105616500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuiyebush1 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1919955031991975937"
+          ]
+        },
+        "author_id": "1448187795571286017",
+        "conversation_id": "1919955070105616500",
+        "created_at": "2025-05-07T03:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T04:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919955070105616500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u6j97zOEij",
+              "end": 34,
+              "expanded_url": "https://x.com/shuiyebush1/status/1919955070105616500/photo/1",
+              "media_key": "16_1919955031991975937",
+              "start": 11,
+              "url": "https://t.co/u6j97zOEij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919955070105616500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6533,
+          "like_count": 194,
+          "quote_count": 1,
+          "reply_count": 116,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "0个人在意今天我生日 https://t.co/u6j97zOEij"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 994,
+          "like_count": 14723,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 785
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T07:24:21.000Z",
+        "description": "爱人是@FlowersRainFall",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "FlowersRainFall"
+              }
+            ]
+          }
+        },
+        "id": "1448187795571286017",
+        "name": "清水",
+        "pinned_tweet_id": "1882740769926369783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915780117114261504/Uw6NIVG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5142,
+          "following_count": 593,
+          "like_count": 43918,
+          "listed_count": 16,
+          "media_count": 2235,
+          "tweet_count": 16085
+        },
+        "username": "shuiyebush1",
+        "verified": false
+      }
+    ]
+  }
+}

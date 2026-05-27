@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1986617211163976183",
+    "created_at": "2025-11-07T23:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T00:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986934406926541035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852615097824251904",
+          "start": 0,
+          "username": "Suimikax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986934406926541035",
+    "in_reply_to_user_id": "1852615097824251904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986617211163976183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suimikax 没有阉割GMS的安卓也可以 比如荣耀V9 现在好多安卓阉割了不挂后台根本收不到提示"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1986617200690798596",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Hh0YfbIAQMhjT.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1986617211163976183",
+        "created_at": "2025-11-07T23:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T00:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986934406926541035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852615097824251904",
+              "start": 0,
+              "username": "Suimikax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986934406926541035",
+        "in_reply_to_user_id": "1852615097824251904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986617211163976183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suimikax 没有阉割GMS的安卓也可以 比如荣耀V9 现在好多安卓阉割了不挂后台根本收不到提示"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986617200690798596"
+          ]
+        },
+        "author_id": "1852615097824251904",
+        "conversation_id": "1986617211163976183",
+        "created_at": "2025-11-07T02:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T03:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986617211163976183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IqU6Yc8ntN",
+              "end": 42,
+              "expanded_url": "https://x.com/Suimikax/status/1986617211163976183/photo/1",
+              "media_key": "3_1986617200690798596",
+              "start": 19,
+              "url": "https://t.co/IqU6Yc8ntN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986617211163976183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 103618,
+          "like_count": 280,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用上了这种消息通知及时的手机❗️❗️ https://t.co/IqU6Yc8ntN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 2220,
+          "like_count": 31849,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2347
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T07:34:06.000Z",
+        "description": "🏳️‍⚧预备️xyn 小宠物猫 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.gov.cn",
+                "start": 0,
+                "url": "https://t.co/i0Orwgdemd"
+              }
+            ]
+          }
+        },
+        "id": "1852615097824251904",
+        "location": "猪肠碌王国",
+        "name": "蜜桃桃🍥",
+        "pinned_tweet_id": "1983597946966032538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975486699523522560/MVGxMEmI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 469,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 279
+        },
+        "url": "https://t.co/i0Orwgdemd",
+        "username": "Suimikax",
+        "verified": false
+      }
+    ]
+  }
+}

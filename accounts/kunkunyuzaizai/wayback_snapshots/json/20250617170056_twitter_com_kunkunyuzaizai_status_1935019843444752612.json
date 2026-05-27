@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1934913521910992919",
+    "created_at": "2025-06-17T17:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T18:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935019843444752612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1620322708994068481",
+          "start": 0,
+          "username": "jinsenala"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935019843444752612",
+    "in_reply_to_user_id": "1620322708994068481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934913521910992919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinsenala 我身上就零点八"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1934913521910992919",
+        "created_at": "2025-06-17T17:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T18:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935019843444752612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1620322708994068481",
+              "start": 0,
+              "username": "jinsenala"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935019843444752612",
+        "in_reply_to_user_id": "1620322708994068481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934913521910992919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinsenala 我身上就零点八"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620322708994068481",
+        "conversation_id": "1934913521910992919",
+        "created_at": "2025-06-17T09:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T10:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934913521910992919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934913521910992919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来个人🈷️我吧😭全身上下就510了，我什么都能做的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1248,
+          "like_count": 17166,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 922
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:27:34.000Z",
+        "description": "时间流逝吧，你是多么的残酷｜\n对那菈最好最好超级好的姐姐！@Puddingbs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "Puddingbs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinsenala",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinsenala",
+                "start": 0,
+                "url": "https://t.co/hD2vn4klWw"
+              }
+            ]
+          }
+        },
+        "id": "1620322708994068481",
+        "location": "终之空",
+        "name": "金色那菈🏳️‍⚧️",
+        "pinned_tweet_id": "1934971718575288500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819587398030053378/F0OxzlKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 578,
+          "like_count": 2152,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 1240
+        },
+        "url": "https://t.co/hD2vn4klWw",
+        "username": "jinsenala",
+        "verified": false
+      }
+    ]
+  }
+}

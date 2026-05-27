@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1934507193837158730",
+    "created_at": "2025-08-21T08:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T09:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958449573296558346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1780733904976220160",
+          "start": 0,
+          "username": "AudreyB89679"
+        },
+        {
+          "end": 21,
+          "id": "1863961527218556928",
+          "start": 14,
+          "username": "Qi__iH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958449573296558346",
+    "in_reply_to_user_id": "1780733904976220160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934619866105000302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AudreyB89679 @Qi__iH 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1934507193837158730",
+        "created_at": "2025-08-21T08:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T09:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958449573296558346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1780733904976220160",
+              "start": 0,
+              "username": "AudreyB89679"
+            },
+            {
+              "end": 21,
+              "id": "1863961527218556928",
+              "start": 14,
+              "username": "Qi__iH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958449573296558346",
+        "in_reply_to_user_id": "1780733904976220160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934619866105000302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AudreyB89679 @Qi__iH 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780733904976220160",
+        "conversation_id": "1934507193837158730",
+        "created_at": "2025-06-16T14:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T15:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934619866105000302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1863961527218556928",
+              "start": 0,
+              "username": "Qi__iH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934619866105000302",
+        "in_reply_to_user_id": "1863961527218556928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 765,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934619658415739062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qi__iH 不准哭…我把他的咪咪割下来给你炒盘菜好吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 1432,
+          "like_count": 23954,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1546
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T23:04:16.000Z",
+        "description": "不要对我莫名其妙丨上网纯冲浪 线下查无此人丨不要污染我的眼睛 丨脾气很好 对个别非人类行为除外",
+        "id": "1780733904976220160",
+        "location": "只有星期四能入🚪50  因为我要吃kfc",
+        "name": "小泪k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946297546759913472/hmtyEiDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 34,
+          "like_count": 219,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 179
+        },
+        "username": "AudreyB89679",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T15:00:41.000Z",
+        "description": "比我的屎更硬的是我的脾气",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ff43369",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ff43369",
+                "start": 0,
+                "url": "https://t.co/wJ2aTWAmV4"
+              }
+            ]
+          }
+        },
+        "id": "1863961527218556928",
+        "name": "芝士一个饼干",
+        "pinned_tweet_id": "1929593107206816112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956184375483359233/Frck5SmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7414,
+          "following_count": 124,
+          "like_count": 9378,
+          "listed_count": 7,
+          "media_count": 539,
+          "tweet_count": 8441
+        },
+        "url": "https://t.co/wJ2aTWAmV4",
+        "username": "Qi__iH",
+        "verified": false
+      }
+    ]
+  }
+}

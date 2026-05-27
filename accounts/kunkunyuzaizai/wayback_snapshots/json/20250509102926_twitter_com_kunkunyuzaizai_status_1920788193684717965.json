@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1920367841036914851",
+    "created_at": "2025-05-09T10:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T11:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920788193684717965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "886560923518779396",
+          "start": 0,
+          "username": "Rippin_C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920788193684717965",
+    "in_reply_to_user_id": "886560923518779396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920787865811800459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rippin_C 我已经好几年没睡过好觉了😭还我好身体😭🥺呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1920367841036914851",
+        "created_at": "2025-05-09T10:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T11:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920788193684717965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886560923518779396",
+              "start": 0,
+              "username": "Rippin_C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920788193684717965",
+        "in_reply_to_user_id": "886560923518779396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920787865811800459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rippin_C 我已经好几年没睡过好觉了😭还我好身体😭🥺呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886560923518779396",
+        "conversation_id": "1920367841036914851",
+        "created_at": "2025-05-09T10:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T11:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920787865811800459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920787865811800459",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920787378001649940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 揉一揉，就是明显感觉大家好像超过20岁都在逐步失去生命的热情一样，我只能尽可能地多坚持一下子( •̥́ ˍ •̀ू )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 1015,
+          "like_count": 14856,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 795
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-16T12:19:30.000Z",
+        "description": "02 | 电波系&碎碎念&白日梦；喜欢可爱单纯的和病娇崩坏的事物；非键政非涩涩日常推；希望做一个少年感&包容&温柔&可爱&冷静的人。爱好游戏&音乐，主包没有雷点只有可能踩雷。好朋友 @bin_x_13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "bin_x_13"
+              }
+            ]
+          }
+        },
+        "id": "886560923518779396",
+        "location": "拉格朗日点L3",
+        "name": "涟漪Rippin",
+        "pinned_tweet_id": "1919319671544615201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899106386937868288/CVCUnFsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 933,
+          "like_count": 22267,
+          "listed_count": 6,
+          "media_count": 554,
+          "tweet_count": 4054
+        },
+        "username": "Rippin_C",
+        "verified": false
+      }
+    ]
+  }
+}

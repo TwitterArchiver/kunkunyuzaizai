@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937190530506711040"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1935491508758811007",
+    "created_at": "2025-06-23T16:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T17:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937190551943807190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1425297694499557377",
+          "start": 0,
+          "username": "QAQ10th"
+        },
+        {
+          "end": 17,
+          "id": "1183028604248027137",
+          "start": 9,
+          "username": "dhqqwww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1LInM8rqoG",
+          "end": 46,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1937190551943807190/photo/1",
+          "media_key": "3_1937190530506711040",
+          "start": 23,
+          "url": "https://t.co/1LInM8rqoG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937190551943807190",
+    "in_reply_to_user_id": "1425297694499557377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935897267942400307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QAQ10th @dhqqwww 是什么鬼 https://t.co/1LInM8rqoG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937190551943807190].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937190551943807190",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937190551943807190"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937190530506711040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuJIhhkaYAAfzzx.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425297694499557377",
+        "conversation_id": "1935491508758811007",
+        "created_at": "2025-06-20T03:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T04:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935897267942400307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1183028604248027137",
+              "start": 0,
+              "username": "dhqqwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935897267942400307",
+        "in_reply_to_user_id": "1183028604248027137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 785,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935491508758811007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dhqqwww 我就是这种🐔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1253,
+          "like_count": 18050,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 954
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T03:27:24.000Z",
+        "description": "什么时候才可以遇到你？",
+        "id": "1425297694499557377",
+        "location": "距离0.1km",
+        "name": "是骨头呀！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555214551196614659/23WoPBJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 51,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "QAQ10th",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T14:36:19.000Z",
+        "description": "来了可以点个关注。",
+        "id": "1183028604248027137",
+        "location": "Hong Kong",
+        "name": "灯火千秋.",
+        "pinned_tweet_id": "1937117694916235443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1400440744435847171/4IUONslj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255909,
+          "following_count": 289,
+          "like_count": 592,
+          "listed_count": 685,
+          "media_count": 41,
+          "tweet_count": 660
+        },
+        "username": "dhqqwww",
+        "verified": true
+      }
+    ]
+  }
+}

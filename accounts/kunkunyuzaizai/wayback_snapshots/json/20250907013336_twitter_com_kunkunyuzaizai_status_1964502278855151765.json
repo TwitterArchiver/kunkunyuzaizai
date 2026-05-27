@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1964355629788909765",
+    "created_at": "2025-09-07T01:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T02:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964502278855151765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913825717785448449",
+          "start": 0,
+          "username": "qiqi_king66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964502278855151765",
+    "in_reply_to_user_id": "1913825717785448449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964355629788909765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqi_king66 可惜我染不上这个病 可能因为我在农村吧 最晚十一二点也就睡啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964355622184636421",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0LLB-DbUAURjaN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1964355629788909765",
+        "created_at": "2025-09-07T01:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T02:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964502278855151765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913825717785448449",
+              "start": 0,
+              "username": "qiqi_king66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964502278855151765",
+        "in_reply_to_user_id": "1913825717785448449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964355629788909765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqi_king66 可惜我染不上这个病 可能因为我在农村吧 最晚十一二点也就睡啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964355622184636421"
+          ]
+        },
+        "author_id": "1913825717785448449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1964355629788909765",
+        "created_at": "2025-09-06T15:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T16:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964355629788909765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/61npAUUSgs",
+              "end": 150,
+              "expanded_url": "https://x.com/qiqi_king66/status/1964355629788909765/photo/1",
+              "media_key": "3_1964355622184636421",
+              "start": 127,
+              "url": "https://t.co/61npAUUSgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964355629788909765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1540,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "劝大家私生活干净一点\n本人00后\n18了\n160➕\n由于没做好防护措施\n染上了不治之症\n      宵夜晚期\n我也不敢告诉家里人\n也去了很多地方\n花了很多钱都 没有治好\n现在每天晚上都馋\n腹部偶尔伴有异常声响\n不吃点喝点根本睡不着\n大家一定要引以为戒！ https://t.co/61npAUUSgs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 1717,
+          "like_count": 26980,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1819
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T05:23:15.000Z",
+        "description": "宝宝 你能不能不要想别人呀 ///不➕v 别来找我约约约//我是高p 超级低脂 ///🎨-ISFP //宝宝们快来找我玩匿名！！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E8%8B%A11",
+                "start": 0,
+                "url": "https://t.co/IL63GGycqt"
+              }
+            ]
+          }
+        },
+        "id": "1913825717785448449",
+        "location": "距离你520m",
+        "name": "S1eepy_",
+        "pinned_tweet_id": "1956348942850867485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957745417480704000/ZrEzFlBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 53,
+          "like_count": 1196,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/IL63GGycqt",
+        "username": "qiqi_king66",
+        "verified": false
+      }
+    ]
+  }
+}

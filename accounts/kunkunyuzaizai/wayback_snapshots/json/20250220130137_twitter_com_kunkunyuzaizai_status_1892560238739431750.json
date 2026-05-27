@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1892062606598324677",
+    "created_at": "2025-02-20T13:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T14:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892560238739431750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1587441603659997184",
+          "start": 0,
+          "username": "ciduoxiner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892560238739431750",
+    "in_reply_to_user_id": "1587441603659997184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892062606598324677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciduoxiner 怎么挑选假发和化妆啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1892062599669481472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkH06OoaAAAWlXB.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1892062603926704128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkH06efaEAADmNI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1892062606598324677",
+        "created_at": "2025-02-20T13:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T14:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892560238739431750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1587441603659997184",
+              "start": 0,
+              "username": "ciduoxiner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892560238739431750",
+        "in_reply_to_user_id": "1587441603659997184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892062606598324677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciduoxiner 怎么挑选假发和化妆啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892062599669481472",
+            "3_1892062603926704128"
+          ]
+        },
+        "author_id": "1587441603659997184",
+        "conversation_id": "1892062606598324677",
+        "created_at": "2025-02-19T04:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T05:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892062606598324677"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "伪娘"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "男娘"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "cos"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "女装男子"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "男の娘"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "飞鸟马时"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzOCNRjgLm",
+              "end": 77,
+              "expanded_url": "https://x.com/ciduoxiner/status/1892062606598324677/photo/1",
+              "media_key": "3_1892062599669481472",
+              "start": 54,
+              "url": "https://t.co/yzOCNRjgLm"
+            },
+            {
+              "display_url": "pic.x.com/yzOCNRjgLm",
+              "end": 77,
+              "expanded_url": "https://x.com/ciduoxiner/status/1892062606598324677/photo/1",
+              "media_key": "3_1892062603926704128",
+              "start": 54,
+              "url": "https://t.co/yzOCNRjgLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892062606598324677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8497,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "不愧是女仆装🤓，连我这种郭楠穿上都能变成这样\n\n#伪娘 #男娘 #cos #女装男子 #男の娘 #飞鸟马时 https://t.co/yzOCNRjgLm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 479,
+          "like_count": 8758,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 356
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-01T13:49:18.000Z",
+        "description": "♂/网络烧鸡🔞/用来分享自己的涩涩欲望/  最爱的宝宝 @hentaiwuhuarou ♡♡\n ～私信随缘回，不接线下，同好欢迎扩列互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "hentaiwuhuarou"
+              }
+            ]
+          }
+        },
+        "id": "1587441603659997184",
+        "location": "Guangdong",
+        "name": "蜜桃冰momo°",
+        "pinned_tweet_id": "1878767567344693676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749766059371192320/29lr2ATh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27617,
+          "following_count": 995,
+          "like_count": 584,
+          "listed_count": 144,
+          "media_count": 60,
+          "tweet_count": 615
+        },
+        "username": "ciduoxiner",
+        "verified": false
+      }
+    ]
+  }
+}

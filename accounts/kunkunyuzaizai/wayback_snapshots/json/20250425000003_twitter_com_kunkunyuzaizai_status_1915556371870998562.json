@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "All the latest basketball action from the NBA.",
+          "id": "10000607734",
+          "name": "NBA Basketball"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10029304530",
+          "name": "NBA Basketball"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "706083902411055104",
+          "name": "Basketball"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "706083889454813185",
+          "name": "NBA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "706083889454813185",
+          "name": "NBA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "706083902411055104",
+          "name": "Basketball"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10042758024",
+          "name": "NBA"
+        }
+      }
+    ],
+    "conversation_id": "1914874010426617910",
+    "created_at": "2025-04-25T00:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T01:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915556371870998562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1252204154170138624",
+          "start": 0,
+          "username": "AmiroKd"
+        },
+        {
+          "end": 15,
+          "id": "1433796155482066955",
+          "start": 9,
+          "username": "W9q7Z"
+        },
+        {
+          "end": 27,
+          "id": "1182158764419403776",
+          "start": 16,
+          "username": "SilenceGvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915556371870998562",
+    "in_reply_to_user_id": "1252204154170138624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915427749889794539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmiroKd @W9q7Z @SilenceGvq NBA高学历可不少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "All the latest basketball action from the NBA.",
+              "id": "10000607734",
+              "name": "NBA Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029304530",
+              "name": "NBA Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "706083889454813185",
+              "name": "NBA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "706083889454813185",
+              "name": "NBA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042758024",
+              "name": "NBA"
+            }
+          }
+        ],
+        "conversation_id": "1914874010426617910",
+        "created_at": "2025-04-25T00:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T01:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915556371870998562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1252204154170138624",
+              "start": 0,
+              "username": "AmiroKd"
+            },
+            {
+              "end": 15,
+              "id": "1433796155482066955",
+              "start": 9,
+              "username": "W9q7Z"
+            },
+            {
+              "end": 27,
+              "id": "1182158764419403776",
+              "start": 16,
+              "username": "SilenceGvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915556371870998562",
+        "in_reply_to_user_id": "1252204154170138624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915427749889794539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmiroKd @W9q7Z @SilenceGvq NBA高学历可不少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252204154170138624",
+        "conversation_id": "1914874010426617910",
+        "created_at": "2025-04-24T15:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T16:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915427749889794539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 22,
+              "id": "1433796155482066955",
+              "start": 16,
+              "username": "W9q7Z"
+            },
+            {
+              "end": 34,
+              "id": "1182158764419403776",
+              "start": 23,
+              "username": "SilenceGvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915427749889794539",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915315474839322920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @W9q7Z @SilenceGvq 你知道高学历怎么来的吗 知道特招吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 877,
+          "like_count": 14200,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 730
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-20T11:55:18.000Z",
+        "description": "",
+        "id": "1252204154170138624",
+        "name": "AmiroKD",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 12,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "AmiroKd",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T14:19:08.000Z",
+        "description": "每一个爱国者，都应为推翻中共事业奋斗终身！之所以中国人民还没有获得自由是因为有着众多为中共发声的汉奸走狗卖国贼。它们除了粉饰太平就是为中共洗地，在网络上制造一个又一个的谎言，面对他们最有效的方法就是说真话，让每一个中国人都能觉醒，共同推翻中共暴政。",
+        "id": "1433796155482066955",
+        "name": "中共罪证收录",
+        "pinned_tweet_id": "1824595214721486999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1433796966853398530/cmWGoZP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 2083,
+          "like_count": 37275,
+          "listed_count": 8,
+          "media_count": 457,
+          "tweet_count": 12684
+        },
+        "username": "W9q7Z",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-10T05:00:30.000Z",
+        "description": "TO     ERR    IS     HUMAN\nTO     FORGIVE      DIVINE",
+        "id": "1182158764419403776",
+        "name": "Silent Bird",
+        "pinned_tweet_id": "1766130988709744839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838472412981268481/IOjA7oTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112257,
+          "following_count": 553,
+          "like_count": 154754,
+          "listed_count": 363,
+          "media_count": 8118,
+          "tweet_count": 24608
+        },
+        "username": "SilenceGvq",
+        "verified": false
+      }
+    ]
+  }
+}

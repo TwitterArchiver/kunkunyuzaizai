@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1862366748454134021",
+    "created_at": "2024-11-29T10:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T11:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862438911123103881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1648489172234293252",
+          "start": 0,
+          "username": "xiaokemeiyouai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862438911123103881",
+    "in_reply_to_user_id": "1648489172234293252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862366748454134021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaokemeiyouai 齐刘海？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1862366748454134021",
+        "created_at": "2024-11-29T10:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T11:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862438911123103881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1648489172234293252",
+              "start": 0,
+              "username": "xiaokemeiyouai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862438911123103881",
+        "in_reply_to_user_id": "1648489172234293252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862366748454134021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaokemeiyouai 齐刘海？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862366740933746688"
+          ]
+        },
+        "author_id": "1648489172234293252",
+        "conversation_id": "1862366748454134021",
+        "created_at": "2024-11-29T05:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T06:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862366748454134021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8KzlqzvpSI",
+              "end": 61,
+              "expanded_url": "https://x.com/xiaokemeiyouai/status/1862366748454134021/photo/1",
+              "media_key": "3_1862366740933746688",
+              "start": 38,
+              "url": "https://t.co/8KzlqzvpSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862366748454134021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4742,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "唔，女孩子刘海的这部分叫什么呀或者怎么和理发师形容呀，小可明天要去剪头发了 https://t.co/8KzlqzvpSI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 276,
+          "like_count": 5584,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 236
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T00:50:36.000Z",
+        "description": "是可！爱！味！蝴！蝶！酥！‖持证含糖‖cos新手‖infp‖家骗党‖拒绝键政‖重度抑郁双相情感障碍‖边缘人格‖超讨厌自己的声音‖梦想着能成为小可爱‖努力学习化妆ing‖有一点小m但是温柔是一种好文明‖摸摸头就能拐走的小呆瓜‖如果可以的话请把我当做小妹妹‖可能是个病娇‖梦想是拍好多好看的照片",
+        "id": "1648489172234293252",
+        "location": "湖北",
+        "name": "小可🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1664666120341553160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657040660917043209/NHjON3g3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235,
+          "following_count": 949,
+          "like_count": 36799,
+          "listed_count": 6,
+          "media_count": 76,
+          "tweet_count": 7727
+        },
+        "username": "xiaokemeiyouai",
+        "verified": false
+      }
+    ]
+  }
+}

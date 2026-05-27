@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1907765034660622562",
+    "created_at": "2025-04-04T07:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T08:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908057121184428089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1096884442755260416",
+          "start": 0,
+          "username": "fubuki_xiaohuli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908057121184428089",
+    "in_reply_to_user_id": "1096884442755260416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907765034660622562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fubuki_xiaohuli 母鸡卡是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20000,
+        "height": 1080,
+        "media_key": "7_1906454315449098240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1906454315449098240/pu/img/d2XsWODDMFLiqtFg.jpg",
+        "public_metrics": {
+          "view_count": 3339
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906454315449098240/pu/vid/avc1/584x270/oTRyvxTySZSTQ2cE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906454315449098240/pu/vid/avc1/778x360/WiKQ039_xkSiYkRb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906454315449098240/pu/vid/avc1/1558x720/DSnEJaIjRP42T6VP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1906454315449098240/pu/pl/0P6p_GAu3ZYJ9ZYQ.m3u8?tag=12"
+          }
+        ],
+        "width": 2338
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1907765034660622562",
+        "created_at": "2025-04-04T07:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T08:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908057121184428089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1096884442755260416",
+              "start": 0,
+              "username": "fubuki_xiaohuli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908057121184428089",
+        "in_reply_to_user_id": "1096884442755260416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907765034660622562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fubuki_xiaohuli 母鸡卡是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1906454315449098240"
+          ]
+        },
+        "author_id": "1096884442755260416",
+        "conversation_id": "1907765034660622562",
+        "created_at": "2025-04-03T12:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907765034660622562"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男娘"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "伪娘"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5VZoJKic0p",
+              "end": 53,
+              "expanded_url": "https://x.com/fubuki_xiaohuli/status/1907765034660622562/video/1",
+              "media_key": "7_1906454315449098240",
+              "start": 30,
+              "url": "https://t.co/5VZoJKic0p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907765034660622562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 9736,
+          "like_count": 368,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "没母鸡卡看，我要性压抑了😭🥵😭🥵\n#男娘 #伪娘 #男の娘 https://t.co/5VZoJKic0p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 689,
+          "like_count": 12600,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 639
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-16T21:30:05.000Z",
+        "description": "03萌新一只 身高体重:180/62 风格随意且潦草 不定时更新还有不要在问我的牛至大小了我是不会告诉你3㎝-9.6㎝的长度的",
+        "id": "1096884442755260416",
+        "name": "特別困",
+        "pinned_tweet_id": "1883137645762752676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762969678450933760/ZQdtiMch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13001,
+          "following_count": 818,
+          "like_count": 26,
+          "listed_count": 62,
+          "media_count": 130,
+          "tweet_count": 1582
+        },
+        "username": "fubuki_xiaohuli",
+        "verified": false
+      }
+    ]
+  }
+}

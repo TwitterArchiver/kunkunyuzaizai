@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1984289373144457242",
+    "created_at": "2025-11-01T07:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T08:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984515798254436453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1046770783190573056",
+          "start": 0,
+          "username": "YC_0910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984515798254436453",
+    "in_reply_to_user_id": "1046770783190573056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984289373144457242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YC_0910 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 436,
+        "media_key": "3_1984289368224505858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mcqsybIAIC0vD.jpg",
+        "width": 434
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1984289373144457242",
+        "created_at": "2025-11-01T07:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T08:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984515798254436453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1046770783190573056",
+              "start": 0,
+              "username": "YC_0910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984515798254436453",
+        "in_reply_to_user_id": "1046770783190573056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984289373144457242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YC_0910 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984289368224505858"
+          ]
+        },
+        "author_id": "1046770783190573056",
+        "conversation_id": "1984289373144457242",
+        "created_at": "2025-10-31T16:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984289373144457242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkRaX0jSyr",
+              "end": 102,
+              "expanded_url": "https://x.com/YC_0910/status/1984289373144457242/photo/1",
+              "media_key": "3_1984289368224505858",
+              "start": 79,
+              "url": "https://t.co/KkRaX0jSyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984289373144457242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3908,
+          "like_count": 188,
+          "quote_count": 0,
+          "reply_count": 73,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "安溜～我是阿西！今天是我的生日啦！🥳\n\n今晚11點會開生日直播🎉\n最後還會有特別告知要公布呦～\n\n歡迎大家一起來陪我過生日吧!!\n感謝水野媽媽繪的可愛圖🫶🫶 https://t.co/KkRaX0jSyr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 2208,
+          "like_count": 31812,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2326
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-01T14:36:17.000Z",
+        "description": "🍂個人勢vtuber/@Ninth_Games合作藝人\n🍂mama:@SEI_404 |Live2D:@Mat_cha_M|Logo:@LXY_Lixin\n🍂LIVE TAG #阿西記得要打卡|ART TAG #阿西下班好開心 \n🍂歡迎連動: Aa0000003704@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 88,
+                "tag": "阿西記得要打卡"
+              },
+              {
+                "end": 113,
+                "start": 105,
+                "tag": "阿西下班好開心"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "Ninth_Games"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "SEI_404"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Mat_cha_M"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "LXY_Lixin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@YC_0910",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@YC_0910",
+                "start": 0,
+                "url": "https://t.co/ikpJWWsLOU"
+              }
+            ]
+          }
+        },
+        "id": "1046770783190573056",
+        "name": "阿西🍂社畜型Vtuber 🌿11月1日有特別告知🌿",
+        "pinned_tweet_id": "1984289373144457242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862538063106220032/WPXBWFYa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 357,
+          "like_count": 3914,
+          "listed_count": 9,
+          "media_count": 295,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/ikpJWWsLOU",
+        "username": "YC_0910",
+        "verified": false
+      }
+    ]
+  }
+}

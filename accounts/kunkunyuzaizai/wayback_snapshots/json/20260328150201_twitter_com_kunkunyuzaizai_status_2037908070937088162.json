@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2037864634766815691",
+    "created_at": "2026-03-28T15:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T16:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037908070937088162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        },
+        {
+          "end": 32,
+          "id": "1543982488019963905",
+          "start": 16,
+          "username": "XPz7qZexOZH76pb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037908070937088162",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037864634766815691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite @XPz7qZexOZH76pb 我来抽下喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2037864634766815691",
+        "created_at": "2026-03-28T15:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037908070937088162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            },
+            {
+              "end": 32,
+              "id": "1543982488019963905",
+              "start": 16,
+              "username": "XPz7qZexOZH76pb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037908070937088162",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037864634766815691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite @XPz7qZexOZH76pb 我来抽下喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2037864634766815691",
+        "created_at": "2026-03-28T12:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037864634766815691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037864634766815691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1661,
+          "like_count": 73,
+          "quote_count": 3,
+          "reply_count": 57,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "为迎接700fo，十七给大家准备了一次小抽奖～\n一等奖（1名）：白兔BRON一瓶（折现62元）\n二等奖（2名）：红pr一盒（折现16元）\n三等奖（3名）：愈美片一盒（折现9元）\ngrok直开，无假抽。\n参与方式：关注 + 点赞 + 评论 + 转帖\n开奖时间：4月5日\n\n快来参与吧，祝大家好运中奖～🍀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 2846,
+          "like_count": 44557,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3066
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/全部友好/回fo(白天上学，晚上在线)/哲学/od报告\n/粉红绕道/intp/重ocd·重抑·中重焦虑·aspd倾向/免费提供药物滥用帮助与心理咨询.私信评论匿问我答都会看哦/引路人:@futi999139732\n/Thrillingly pointless",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 99,
+                "username": "futi999139732"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "第三高原",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2036719144004166068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037208041607868416/uMSZtK-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 660,
+          "like_count": 1626,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 998
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T15:38:41.000Z",
+        "description": "一个普普通通的xyn，也许是xnn，未含糖，mtf/hrt未开始。未来的我想做一个安静的xnn/xyn，最终的梦想是想变成自己内心的另一个她。\n小号@LiFeng88725",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "LiFeng88725"
+              }
+            ]
+          }
+        },
+        "id": "1543982488019963905",
+        "name": "秋风 🍁🍂🫧🍥🏳️‍⚧️🍭🍬一直陪伴在你身边",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991527620484427783/O5xvpGxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 2249,
+          "like_count": 986,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 645
+        },
+        "username": "XPz7qZexOZH76pb",
+        "verified": false
+      }
+    ]
+  }
+}

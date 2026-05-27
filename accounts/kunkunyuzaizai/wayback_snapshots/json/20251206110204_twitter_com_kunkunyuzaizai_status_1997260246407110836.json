@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1996759089880457717",
+    "created_at": "2025-12-06T11:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T12:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997260246407110836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746523537303805952",
+          "start": 0,
+          "username": "hq6020161262614"
+        },
+        {
+          "end": 24,
+          "id": "1883043976670011392",
+          "start": 17,
+          "username": "eek1k1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997260246407110836",
+    "in_reply_to_user_id": "1746523537303805952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997136692751523894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hq6020161262614 @eek1k1 虽然但是我一个月一千都没有🙉😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1996759089880457717",
+        "created_at": "2025-12-06T11:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T12:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997260246407110836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1746523537303805952",
+              "start": 0,
+              "username": "hq6020161262614"
+            },
+            {
+              "end": 24,
+              "id": "1883043976670011392",
+              "start": 17,
+              "username": "eek1k1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997260246407110836",
+        "in_reply_to_user_id": "1746523537303805952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997136692751523894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hq6020161262614 @eek1k1 虽然但是我一个月一千都没有🙉😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746523537303805952",
+        "conversation_id": "1996759089880457717",
+        "created_at": "2025-12-06T02:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T03:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997136692751523894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1883043976670011392",
+              "start": 0,
+              "username": "eek1k1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997136692751523894",
+        "in_reply_to_user_id": "1883043976670011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996759089880457717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eek1k1 神经病都是 一个月穷的就只能拿得出两千块钱 畜生真的是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 2357,
+          "like_count": 34004,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2481
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T13:24:11.000Z",
+        "description": "💤💤💤💤💤💤",
+        "id": "1746523537303805952",
+        "location": "Arizona, USA",
+        "name": "hq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997139255043424256/YolH0n9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 50,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "hq6020161262614",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T06:47:42.000Z",
+        "description": "欢迎来到我的小世界 我是菠萝心 请不要伤害我 т ̫ т | @Kikionoe另一个我^^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Kikionoe"
+              }
+            ]
+          }
+        },
+        "id": "1883043976670011392",
+        "location": "有陪聊服务 因为我很喜欢聊天",
+        "name": "宝子你继续",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960555053003235329/T6SwjQ4R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 42,
+          "like_count": 304,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 638
+        },
+        "username": "eek1k1",
+        "verified": false
+      }
+    ]
+  }
+}

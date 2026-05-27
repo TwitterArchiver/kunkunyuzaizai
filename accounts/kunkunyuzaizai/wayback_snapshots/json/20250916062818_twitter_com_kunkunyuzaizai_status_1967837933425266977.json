@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967794195667837394",
+    "created_at": "2025-09-16T06:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T07:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967837933425266977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291988176496545792",
+          "start": 0,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967837933425266977",
+    "in_reply_to_user_id": "1291988176496545792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967794195667837394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vox35112635 我想喝奶茶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1189,
+        "media_key": "3_1967794186981392384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08CYyIawAApMR5.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967794195667837394",
+        "created_at": "2025-09-16T06:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967837933425266977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967837933425266977",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967794195667837394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 我想喝奶茶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967794186981392384"
+          ]
+        },
+        "author_id": "1291988176496545792",
+        "conversation_id": "1967794195667837394",
+        "created_at": "2025-09-16T03:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T04:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967794195667837394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3jNpRyAarv",
+              "end": 23,
+              "expanded_url": "https://x.com/Vox35112635/status/1967794195667837394/photo/1",
+              "media_key": "3_1967794186981392384",
+              "start": 0,
+              "url": "https://t.co/3jNpRyAarv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967794195667837394",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13231,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 301,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3jNpRyAarv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1827,
+          "like_count": 28392,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1903
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "防走丢小号@PDDBJS/抖音号：32625516049/现在会接一点有偿转发/付费线上绿色交友委托/广告正规推以外的其他投稿均为免费/加vx随缘给门槛就好了/咱家御用卦师算卦找她@minglishii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "PDDBJS"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "minglishii"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264385,
+          "following_count": 549,
+          "like_count": 487,
+          "listed_count": 297,
+          "media_count": 10003,
+          "tweet_count": 14442
+        },
+        "username": "Vox35112635",
+        "verified": false
+      }
+    ]
+  }
+}

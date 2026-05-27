@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1889973725485040005",
+    "created_at": "2025-02-13T11:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T12:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889998620176584843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545736499597307904",
+          "start": 0,
+          "username": "Andy1782010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889998620176584843",
+    "in_reply_to_user_id": "1545736499597307904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889973725485040005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andy1782010 168 90多斤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1889973725485040005",
+        "created_at": "2025-02-13T11:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T12:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889998620176584843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545736499597307904",
+              "start": 0,
+              "username": "Andy1782010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889998620176584843",
+        "in_reply_to_user_id": "1545736499597307904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889973725485040005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andy1782010 168 90多斤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545736499597307904",
+        "conversation_id": "1889973725485040005",
+        "created_at": "2025-02-13T09:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T10:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889973725485040005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889973725485040005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 573,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜喵\n好羡慕身高矮的\n好羡慕体重轻的\n好羡慕那些可爱的男娘啊呜呜呜……\n好想成为可爱的男娘喵……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 407,
+          "like_count": 8167,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 326
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T11:48:14.000Z",
+        "description": "与你的日常，就是奇迹！\n上海市某中学在读ENTP初三牲喵（2010.06）\n在思考要不要翻车喵（\ncrush @guo_lao32576\n主人@xvque5567 @fc1164283287992\n里推@Andy1782025\n友情链接：鹅鹅 @geeseartist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "guo_lao32576"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "xvque5567"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "fc1164283287992"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Andy1782025"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "geeseartist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andy17820101",
+                "end": 23,
+                "expanded_url": "http://ngl.link/andy17820101",
+                "start": 0,
+                "url": "https://t.co/N8iKz1oOco"
+              }
+            ]
+          }
+        },
+        "id": "1545736499597307904",
+        "location": "永恒之地-翁法罗斯 AMPHOREUS",
+        "name": "Andy1782010",
+        "pinned_tweet_id": "1876669495902917098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870824253593194496/Xhiu7ZRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 2491,
+          "like_count": 4092,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 765
+        },
+        "url": "https://t.co/N8iKz1oOco",
+        "username": "Andy1782010",
+        "verified": false
+      }
+    ]
+  }
+}

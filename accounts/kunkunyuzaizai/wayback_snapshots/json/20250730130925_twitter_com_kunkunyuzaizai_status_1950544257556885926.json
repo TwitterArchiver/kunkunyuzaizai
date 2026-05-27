@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1950035377600778524",
+    "created_at": "2025-07-30T13:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T14:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950544257556885926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639816523190763521",
+          "start": 0,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950544257556885926",
+    "in_reply_to_user_id": "1639816523190763521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950035377600778524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdxfulan 几百不至于 有小的 几十块的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1950035377600778524",
+        "created_at": "2025-07-30T13:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T14:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950544257556885926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950544257556885926",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950035377600778524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 几百不至于 有小的 几十块的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "1950035377600778524",
+        "created_at": "2025-07-29T03:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T04:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950035377600778524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950035377600778524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13875,
+          "like_count": 233,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "去别的药娘家做客\n\n药娘：哇，富姐\n\n旁边的朋友：你怎么看出来的\n\n药娘：你看那一墙\n\n旁边的朋友：那些触手？和奇形怪状的手办？\n\n药娘：嗯，那叫幻龙，一根最少几百\n\n旁边的朋友：😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 1298,
+          "like_count": 20083,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1149
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "纯1、药娘攻、抖s、反差、MtX(半个男同)，喜欢欺负人",
+        "id": "1639816523190763521",
+        "location": "距离你50m",
+        "name": "乖乖哒二小姐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849322272968704/hQan_chB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7809,
+          "following_count": 422,
+          "like_count": 23947,
+          "listed_count": 17,
+          "media_count": 2724,
+          "tweet_count": 9007
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

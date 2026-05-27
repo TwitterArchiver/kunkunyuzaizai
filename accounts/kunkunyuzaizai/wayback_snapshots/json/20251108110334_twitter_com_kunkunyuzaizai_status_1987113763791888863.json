@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1986656035856343376",
+    "created_at": "2025-11-08T11:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T12:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987113763791888863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1878067533070393344",
+          "start": 0,
+          "username": "AkebonoLqx"
+        },
+        {
+          "end": 24,
+          "id": "1944909426596700165",
+          "start": 12,
+          "username": "Htoz1790524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987113763791888863",
+    "in_reply_to_user_id": "1878067533070393344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986757776492953636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkebonoLqx @Htoz1790524 我初中都没有毕业😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1986656035856343376",
+        "created_at": "2025-11-08T11:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T12:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987113763791888863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1878067533070393344",
+              "start": 0,
+              "username": "AkebonoLqx"
+            },
+            {
+              "end": 24,
+              "id": "1944909426596700165",
+              "start": 12,
+              "username": "Htoz1790524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987113763791888863",
+        "in_reply_to_user_id": "1878067533070393344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986757776492953636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkebonoLqx @Htoz1790524 我初中都没有毕业😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878067533070393344",
+        "conversation_id": "1986656035856343376",
+        "created_at": "2025-11-07T11:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986757776492953636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944909426596700165",
+              "start": 0,
+              "username": "Htoz1790524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986757776492953636",
+        "in_reply_to_user_id": "1944909426596700165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6762,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986656035856343376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Htoz1790524 哥们你能不能撑到高考完再说？跑外卖的生活很苦，并且跑外卖的大部分人学历和素质不高，更不用说你的性少数认同，你会遭到比现在大的多的恶意。高中肄业的就业选择实在是非常有限。到大学你可以去做兼职养活自己，没人会管你留什么头发。你现在考虑跑外卖，却怕你父母上大学断掉你的学费，这不矛盾吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 2229,
+          "like_count": 31890,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2356
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T13:12:56.000Z",
+        "description": "TIBETAN/know Mandarin&Eng/IT student\nHoping for a fairer, more equal, democratic and law-based China.\nAnime/rpg/ctf/soulslike/coding/linguistics/🕊",
+        "id": "1878067533070393344",
+        "location": "🇹🇼🇲🇰",
+        "name": "麻辣小龙虾云吞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984916972518379520/ris0rZep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 76,
+          "like_count": 4374,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 233
+        },
+        "username": "AkebonoLqx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T23:58:56.000Z",
+        "description": "一只07年的小药娘 I  qq 1946649576 I 没有门槛喜欢朋友 I 热爱轻小说 I mtf 2025.8.15 I 中度抑郁 I 无证含糖 I 高中生在校 I 未出柜 I 学习塔罗ing  I紗兒小姐会善良对待所有人！爱你❤",
+        "id": "1944909426596700165",
+        "location": "中国台湾",
+        "name": "白毛少女小紗兒🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953881994003378176/d01pZiDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 356,
+          "like_count": 5116,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 354
+        },
+        "username": "Htoz1790524",
+        "verified": false
+      }
+    ]
+  }
+}

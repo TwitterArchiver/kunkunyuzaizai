@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1900776748381597839",
+    "created_at": "2025-03-16T04:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T05:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901125763312857494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741091789879308288",
+          "start": 0,
+          "username": "zixinmiao2"
+        },
+        {
+          "end": 25,
+          "id": "1795847144928342016",
+          "start": 12,
+          "username": "xingkexingke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901125763312857494",
+    "in_reply_to_user_id": "1741091789879308288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900776748381597839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zixinmiao2 @xingkexingke 泥手机好黄"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1900776708753776640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDqWIqa4AAmhLB.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1900776694623203328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDqVUBbcAABaXF.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1900776748381597839",
+        "created_at": "2025-03-16T04:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T05:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901125763312857494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741091789879308288",
+              "start": 0,
+              "username": "zixinmiao2"
+            },
+            {
+              "end": 25,
+              "id": "1795847144928342016",
+              "start": 12,
+              "username": "xingkexingke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901125763312857494",
+        "in_reply_to_user_id": "1741091789879308288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900776748381597839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zixinmiao2 @xingkexingke 泥手机好黄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900776708753776640",
+            "3_1900776694623203328"
+          ]
+        },
+        "author_id": "1741091789879308288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1900776748381597839",
+        "created_at": "2025-03-15T05:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T06:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900776748381597839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795847144928342016",
+              "start": 3,
+              "username": "xingkexingke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRaWuaCH7N",
+              "end": 57,
+              "expanded_url": "https://x.com/zixinmiao2/status/1900776748381597839/photo/1",
+              "media_key": "3_1900776708753776640",
+              "start": 34,
+              "url": "https://t.co/wRaWuaCH7N"
+            },
+            {
+              "display_url": "pic.x.com/wRaWuaCH7N",
+              "end": 57,
+              "expanded_url": "https://x.com/zixinmiao2/status/1900776748381597839/photo/1",
+              "media_key": "3_1900776694623203328",
+              "start": 34,
+              "url": "https://t.co/wRaWuaCH7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900776748381597839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1164,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面基 @xingkexingke \n非常感谢星河宝宝的热情招待喵～ https://t.co/wRaWuaCH7N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 628,
+          "like_count": 10700,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 504
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "一只06年的大一医学牲/无证含糖🍬/已炸柜/天残党/hrt 24.12.4，锦依卫/古典乐（斯特劳斯）/集邮/化学党/垃圾佬/摄影/无人机/ ，不键政，不涩涩，互fo ,想给大家带来快乐 ,热爱生活，想变得可爱，欢迎大家找我集邮喵\n永远的姐姐めんま：@TianqiChen666\n  前号：@xiaozixinmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 125,
+                "username": "TianqiChen666"
+              },
+              {
+                "end": 159,
+                "start": 145,
+                "username": "xiaozixinmiao"
+              }
+            ]
+          }
+        },
+        "id": "1741091789879308288",
+        "name": "一只梓欣喵🍥（旅行版）",
+        "pinned_tweet_id": "1894714380895629361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895113357822439424/mCJOi_DP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 781,
+          "like_count": 3171,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 548
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T15:58:34.000Z",
+        "description": "",
+        "id": "1795847144928342016",
+        "name": "星星星河河·",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896824384729559041/dqaNhiMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 67,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "xingkexingke",
+        "verified": false
+      }
+    ]
+  }
+}

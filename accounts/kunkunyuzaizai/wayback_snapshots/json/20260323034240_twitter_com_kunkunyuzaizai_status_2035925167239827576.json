@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2034242584823099743",
+    "created_at": "2026-03-23T03:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T04:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035925167239827576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035925167239827576",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034242584823099743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka CODM😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2034242580721049600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDsU2WraIAAAgJE.jpg",
+        "width": 2204
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2034242581937479680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDsU2bNbYAA6WLM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2034242582470139904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDsU2dMbIAAuSVH.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034242582440820736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDsU2dFbwAAtEcA.jpg",
+        "width": 824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2034242584823099743",
+        "created_at": "2026-03-23T03:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035925167239827576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035925167239827576",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034242584823099743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka CODM😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034242580721049600",
+            "3_2034242581937479680",
+            "3_2034242582470139904",
+            "3_2034242582440820736"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034242584823099743",
+        "created_at": "2026-03-18T12:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034242584823099743"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "CODM"
+            },
+            {
+              "end": 127,
+              "start": 120,
+              "tag": "使命召唤手游"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vosTaDTDbd",
+              "end": 151,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2034242584823099743/photo/1",
+              "media_key": "3_2034242580721049600",
+              "start": 128,
+              "url": "https://t.co/vosTaDTDbd"
+            },
+            {
+              "display_url": "pic.x.com/vosTaDTDbd",
+              "end": 151,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2034242584823099743/photo/1",
+              "media_key": "3_2034242581937479680",
+              "start": 128,
+              "url": "https://t.co/vosTaDTDbd"
+            },
+            {
+              "display_url": "pic.x.com/vosTaDTDbd",
+              "end": 151,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2034242584823099743/photo/1",
+              "media_key": "3_2034242582470139904",
+              "start": 128,
+              "url": "https://t.co/vosTaDTDbd"
+            },
+            {
+              "display_url": "pic.x.com/vosTaDTDbd",
+              "end": 151,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2034242584823099743/photo/1",
+              "media_key": "3_2034242582440820736",
+              "start": 128,
+              "url": "https://t.co/vosTaDTDbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034242584823099743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 892,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前有留置针还会接着打CODM，最高XPR-50国一，传奇战神前300，有人陪你上分掉分，现在枪皮是越来越多，可没有能陪你打游戏的人了，现在根本不想打开，也没有当初的热血了，也或许这就是成长 \n—— 纪念那段小有遗憾的幸福时光\n#CODM #使命召唤手游 https://t.co/vosTaDTDbd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 2725,
+          "like_count": 43127,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2967
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6317,
+          "following_count": 1815,
+          "like_count": 21638,
+          "listed_count": 27,
+          "media_count": 419,
+          "tweet_count": 2100
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

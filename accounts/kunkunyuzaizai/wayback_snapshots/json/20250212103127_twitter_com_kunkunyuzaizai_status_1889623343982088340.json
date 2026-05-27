@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1877232934731616288",
+    "created_at": "2025-02-12T10:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T11:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889623343982088340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1884920735149498368",
+          "start": 0,
+          "username": "xxq111706"
+        },
+        {
+          "end": 19,
+          "id": "1493480857713057793",
+          "start": 11,
+          "username": "wllssml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889623343982088340",
+    "in_reply_to_user_id": "1884920735149498368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888931944127430833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxq111706 @wllssml 灌多了我受不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1877232934731616288",
+        "created_at": "2025-02-12T10:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T11:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889623343982088340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1884920735149498368",
+              "start": 0,
+              "username": "xxq111706"
+            },
+            {
+              "end": 19,
+              "id": "1493480857713057793",
+              "start": 11,
+              "username": "wllssml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889623343982088340",
+        "in_reply_to_user_id": "1884920735149498368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888931944127430833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxq111706 @wllssml 灌多了我受不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884920735149498368",
+        "conversation_id": "1877232934731616288",
+        "created_at": "2025-02-10T12:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T13:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888931944127430833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 24,
+              "id": "1493480857713057793",
+              "start": 16,
+              "username": "wllssml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888931944127430833",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888892906905501934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @wllssml 那是因为进去的水太少了。多灌一点进去，然后拉出来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 388,
+          "like_count": 7855,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 314
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T11:05:20.000Z",
+        "description": "涩切是没钱的屌丝",
+        "id": "1884920735149498368",
+        "location": "suzhou",
+        "name": "阿巴阿巴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888504372688289792/G8hPqpHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "xxq111706",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T07:02:47.000Z",
+        "description": "大家好我是可桢｜生日4.30🎂｜mtf HRT2023.5.1｜ISTP｜天残党 半家长党｜精神病 重度抑郁 阿斯伯格｜自伤🩸｜媚男😘",
+        "id": "1493480857713057793",
+        "location": "北京市",
+        "name": "aki可桢🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673182876144156679/SmpCZyGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 983,
+          "like_count": 44474,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 117
+        },
+        "username": "wllssml",
+        "verified": false
+      }
+    ]
+  }
+}

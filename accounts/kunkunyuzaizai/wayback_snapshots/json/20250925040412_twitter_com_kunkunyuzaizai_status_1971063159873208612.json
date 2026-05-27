@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1970720444467823059",
+    "created_at": "2025-09-25T04:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T05:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971063159873208612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1695800924273598464",
+          "start": 0,
+          "username": "miemieTwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971063159873208612",
+    "in_reply_to_user_id": "1695800924273598464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970720444467823059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miemieTwT 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970720429557129216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1lnyhNboAARcXo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1970720444467823059",
+        "created_at": "2025-09-25T04:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T05:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971063159873208612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1695800924273598464",
+              "start": 0,
+              "username": "miemieTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971063159873208612",
+        "in_reply_to_user_id": "1695800924273598464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970720444467823059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miemieTwT 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970720429557129216"
+          ]
+        },
+        "author_id": "1695800924273598464",
+        "conversation_id": "1970720444467823059",
+        "created_at": "2025-09-24T05:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T06:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970720444467823059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LUzMm21Grw",
+              "end": 43,
+              "expanded_url": "https://x.com/miemieTwT/status/1970720444467823059/photo/1",
+              "media_key": "3_1970720429557129216",
+              "start": 20,
+              "url": "https://t.co/LUzMm21Grw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970720444467823059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3425,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我朋友为了哄我上学给我买了小米10😋😋 https://t.co/LUzMm21Grw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 2089,
+          "like_count": 30606,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2138
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T14:10:31.000Z",
+        "description": "06 switch 我有厌蠢症 脾气不好 碎碎念人格启动…",
+        "id": "1695800924273598464",
+        "location": "🚪88（纯绿好友位 不线下",
+        "name": "咩",
+        "pinned_tweet_id": "1969423054095990995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958574309829742592/aZZyHkID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4106,
+          "following_count": 228,
+          "like_count": 3917,
+          "listed_count": 6,
+          "media_count": 50,
+          "tweet_count": 1121
+        },
+        "username": "miemieTwT",
+        "verified": false
+      }
+    ]
+  }
+}

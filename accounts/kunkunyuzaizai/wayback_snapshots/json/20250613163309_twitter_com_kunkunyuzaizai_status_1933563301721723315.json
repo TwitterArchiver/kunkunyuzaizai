@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1933348430937727197",
+    "created_at": "2025-06-13T16:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T17:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933563301721723315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1865367329007357952",
+          "start": 0,
+          "username": "xiaobao926926"
+        },
+        {
+          "end": 27,
+          "id": "1717103770096828416",
+          "start": 15,
+          "username": "man_li72832"
+        },
+        {
+          "end": 41,
+          "id": "1837477888670814209",
+          "start": 28,
+          "username": "hndmng411809"
+        },
+        {
+          "end": 57,
+          "id": "1786622606336315392",
+          "start": 42,
+          "username": "RichardLee0854"
+        },
+        {
+          "end": 66,
+          "id": "1433678976564662273",
+          "start": 58,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933563301721723315",
+    "in_reply_to_user_id": "1865367329007357952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933475071060029601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaobao926926 @man_li72832 @hndmng411809 @RichardLee0854 @hsn8086 你这说的好像3990x很强一样◝₍ᴑ̑ДO͝₎◞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1933348430937727197",
+        "created_at": "2025-06-13T16:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T17:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933563301721723315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1865367329007357952",
+              "start": 0,
+              "username": "xiaobao926926"
+            },
+            {
+              "end": 27,
+              "id": "1717103770096828416",
+              "start": 15,
+              "username": "man_li72832"
+            },
+            {
+              "end": 41,
+              "id": "1837477888670814209",
+              "start": 28,
+              "username": "hndmng411809"
+            },
+            {
+              "end": 57,
+              "id": "1786622606336315392",
+              "start": 42,
+              "username": "RichardLee0854"
+            },
+            {
+              "end": 66,
+              "id": "1433678976564662273",
+              "start": 58,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933563301721723315",
+        "in_reply_to_user_id": "1865367329007357952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933475071060029601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobao926926 @man_li72832 @hndmng411809 @RichardLee0854 @hsn8086 你这说的好像3990x很强一样◝₍ᴑ̑ДO͝₎◞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865367329007357952",
+        "conversation_id": "1933348430937727197",
+        "created_at": "2025-06-13T10:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T11:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933475071060029601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1717103770096828416",
+              "start": 0,
+              "username": "man_li72832"
+            },
+            {
+              "end": 26,
+              "id": "1837477888670814209",
+              "start": 13,
+              "username": "hndmng411809"
+            },
+            {
+              "end": 42,
+              "id": "1786622606336315392",
+              "start": 27,
+              "username": "RichardLee0854"
+            },
+            {
+              "end": 51,
+              "id": "1433678976564662273",
+              "start": 43,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933475071060029601",
+        "in_reply_to_user_id": "1717103770096828416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933473735241314379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@man_li72832 @hndmng411809 @RichardLee0854 @hsn8086 3990x可是线程撕裂者，跟9800x3d完全不是一个概念🤣。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 1239,
+          "like_count": 16803,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 898
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T12:07:00.000Z",
+        "description": "",
+        "id": "1865367329007357952",
+        "name": "小白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865367404622368768/2YMN-4Hr_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 123,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 88
+        },
+        "username": "xiaobao926926",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T09:00:29.000Z",
+        "description": "",
+        "id": "1717103770096828416",
+        "name": "暴打你的牛牛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751525295633420288/U_0DLnpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 875,
+          "like_count": 4905,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 177
+        },
+        "username": "man_li72832",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T13:04:16.000Z",
+        "description": "键政学创始人，魔法对轰创始人。",
+        "id": "1837477888670814209",
+        "location": "台湾",
+        "name": "韩大华",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839285379788320773/86fIJswW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 97,
+          "like_count": 7985,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 4737
+        },
+        "username": "hndmng411809",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T05:03:41.000Z",
+        "description": "我热爱中国共产党，坚决拥护党的领导，晶哥你能别视奸了吗😭",
+        "id": "1786622606336315392",
+        "name": "赛博张献忠（13岁，已脱支）",
+        "pinned_tweet_id": "1932682635983400996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931319802590851072/QhsXnQnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 60,
+          "like_count": 35,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 5207
+        },
+        "username": "RichardLee0854",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77556,
+          "following_count": 973,
+          "like_count": 40597,
+          "listed_count": 171,
+          "media_count": 12239,
+          "tweet_count": 18668
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

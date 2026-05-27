@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1935640604073165057",
+    "created_at": "2025-06-21T05:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T06:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936301348179657173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906517762756755456",
+          "start": 0,
+          "username": "iui_77777777"
+        },
+        {
+          "end": 27,
+          "id": "1857664023631900674",
+          "start": 14,
+          "username": "baiyixianglo"
+        },
+        {
+          "end": 34,
+          "id": "1703297326016876544",
+          "start": 28,
+          "username": "s9lmi"
+        },
+        {
+          "end": 47,
+          "id": "1737053348740603904",
+          "start": 35,
+          "username": "shiroko2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936301348179657173",
+    "in_reply_to_user_id": "1906517762756755456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936293585516675576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iui_77777777 @baiyixianglo @s9lmi @shiroko2024 梯子不行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1315,
+        "media_key": "3_1936293576045993984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt8Yv50XoAATBLC.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1935640604073165057",
+        "created_at": "2025-06-21T05:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T06:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936301348179657173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906517762756755456",
+              "start": 0,
+              "username": "iui_77777777"
+            },
+            {
+              "end": 27,
+              "id": "1857664023631900674",
+              "start": 14,
+              "username": "baiyixianglo"
+            },
+            {
+              "end": 34,
+              "id": "1703297326016876544",
+              "start": 28,
+              "username": "s9lmi"
+            },
+            {
+              "end": 47,
+              "id": "1737053348740603904",
+              "start": 35,
+              "username": "shiroko2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936301348179657173",
+        "in_reply_to_user_id": "1906517762756755456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936293585516675576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iui_77777777 @baiyixianglo @s9lmi @shiroko2024 梯子不行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936293576045993984"
+          ]
+        },
+        "author_id": "1906517762756755456",
+        "conversation_id": "1935640604073165057",
+        "created_at": "2025-06-21T05:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T06:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936293585516675576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1857664023631900674",
+              "start": 0,
+              "username": "baiyixianglo"
+            },
+            {
+              "end": 20,
+              "id": "1703297326016876544",
+              "start": 14,
+              "username": "s9lmi"
+            },
+            {
+              "end": 33,
+              "id": "1737053348740603904",
+              "start": 21,
+              "username": "shiroko2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSZjxjEwDd",
+              "end": 70,
+              "expanded_url": "https://x.com/iui_77777777/status/1936293585516675576/photo/1",
+              "media_key": "3_1936293576045993984",
+              "start": 47,
+              "url": "https://t.co/wSZjxjEwDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936293585516675576",
+        "in_reply_to_user_id": "1857664023631900674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935949304914706604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiyixianglo @s9lmi @shiroko2024 为什么永远都是在分析中呢 https://t.co/wSZjxjEwDd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1249,
+          "like_count": 17359,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 932
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T01:25:13.000Z",
+        "description": "🍦 🍦 🍦 🍦 🍦 🍦 🍦 🍦 🍦 🍦 🍦 🍦 🍦 🍦",
+        "id": "1906517762756755456",
+        "name": "just",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908244276921643008/2Drf7n0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 34,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "iui_77777777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T05:56:42.000Z",
+        "description": "我们生活的世界是一个充满无尽痛苦的可怕地狱 我们拼命的争取一种虚假的幸福  可无论如何 一切都会回到原点 无论成功与否 存在是徒劳的 解救也是徒劳的 一切皆是",
+        "id": "1857664023631900674",
+        "name": "「无名」",
+        "pinned_tweet_id": "1882508367916372218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902357675847122944/IJOKpzUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 222,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 244
+        },
+        "username": "baiyixianglo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T06:38:32.000Z",
+        "description": "",
+        "id": "1703297326016876544",
+        "name": "Robert Jones",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821885139359764480/d8sopr2J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 819,
+          "like_count": 4618,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 402
+        },
+        "username": "s9lmi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T10:13:24.000Z",
+        "description": "白子单推人！！！\n妈妈 @kurioshifio | 好朋友 @GlimpseAbyss | 爱你 @squirrelGUW | 互动请fo小号@Mostima2025",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "kurioshifio"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "GlimpseAbyss"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "squirrelGUW"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Mostima2025"
+              }
+            ]
+          }
+        },
+        "id": "1737053348740603904",
+        "location": "阿拜多斯职业高中",
+        "name": "白子亲～",
+        "pinned_tweet_id": "1923031111115907115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931342032292978688/6q7r0qNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8433,
+          "following_count": 944,
+          "like_count": 220371,
+          "listed_count": 25,
+          "media_count": 1834,
+          "tweet_count": 15366
+        },
+        "username": "shiroko2024",
+        "verified": false
+      }
+    ]
+  }
+}

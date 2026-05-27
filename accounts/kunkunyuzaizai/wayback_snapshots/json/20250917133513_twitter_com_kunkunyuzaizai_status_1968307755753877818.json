@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968294030539886877",
+    "created_at": "2025-09-17T13:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968307755753877818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1456243266186211332",
+          "start": 0,
+          "username": "CuplRusttt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968307755753877818",
+    "in_reply_to_user_id": "1456243266186211332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968294030539886877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuplRusttt 好萌的猫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968294021740253184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DI-_taUAAHnDH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968294030539886877",
+        "created_at": "2025-09-17T13:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968307755753877818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1456243266186211332",
+              "start": 0,
+              "username": "CuplRusttt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968307755753877818",
+        "in_reply_to_user_id": "1456243266186211332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968294030539886877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuplRusttt 好萌的猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968294021740253184"
+          ]
+        },
+        "author_id": "1456243266186211332",
+        "conversation_id": "1968294030539886877",
+        "created_at": "2025-09-17T12:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T13:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968294030539886877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HqmfJv9POA",
+              "end": 38,
+              "expanded_url": "https://x.com/CuplRusttt/status/1968294030539886877/photo/1",
+              "media_key": "3_1968294021740253184",
+              "start": 15,
+              "url": "https://t.co/HqmfJv9POA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968294030539886877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 554,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忍不住，真的忍不住发照片的手 https://t.co/HqmfJv9POA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1882,
+          "like_count": 28852,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1958
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:53:54.000Z",
+        "description": "北京/云南工作ing/⚖律师/entp/推特Bistro",
+        "id": "1456243266186211332",
+        "name": "Rusttt",
+        "pinned_tweet_id": "1947534331771293802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658123289196101632/IInnJ6r5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5541,
+          "following_count": 346,
+          "like_count": 21891,
+          "listed_count": 16,
+          "media_count": 128,
+          "tweet_count": 1812
+        },
+        "username": "CuplRusttt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2051162461706100962",
+    "created_at": "2026-05-10T09:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053399852831367419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "623275415",
+          "start": 0,
+          "username": "sintleziyaG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053399852831367419",
+    "in_reply_to_user_id": "623275415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051162461706100962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sintleziyaG 为啥不用邮箱注册"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2051162461706100962",
+        "created_at": "2026-05-10T09:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053399852831367419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "623275415",
+              "start": 0,
+              "username": "sintleziyaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053399852831367419",
+        "in_reply_to_user_id": "623275415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051162461706100962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sintleziyaG 为啥不用邮箱注册"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623275415",
+        "conversation_id": "2051162461706100962",
+        "created_at": "2026-05-04T04:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051162461706100962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051162461706100962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好崩溃。我买的这个账号的号主以前咋那么能发帖。要不是国内手机号注册x容易被封我才不花钱买个破海外推特号🙄💅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 3008,
+          "like_count": 46057,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 3182
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T00:51:27.000Z",
+        "description": "168 48kg  接全国",
+        "id": "623275415",
+        "location": "🚪188/288/520/1314",
+        "name": "奈奈",
+        "pinned_tweet_id": "2048314458464780578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048261771970899968/9BW3Vn5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 0,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 612
+        },
+        "username": "sintleziyaG",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1970273860663812191",
+    "created_at": "2025-09-22T23:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T00:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970273860663812191"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1970273860663812191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "才发现我睫毛很长都盖到眼睛上一丢丢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1970273860663812191",
+        "created_at": "2025-09-22T23:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T00:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970273860663812191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970273860663812191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才发现我睫毛很长都盖到眼睛上一丢丢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 2060,
+          "like_count": 30294,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2103
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1977289781873983932",
+    "created_at": "2025-10-12T08:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T09:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977297638463852856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1765333655868801024",
+          "start": 0,
+          "username": "aaaaabbbbcccsss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977297638463852856",
+    "in_reply_to_user_id": "1765333655868801024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977289781873983932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaaabbbbcccsss 哇塞塞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1299,
+        "media_key": "3_1977289751251038208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3C-jXlWsAAjVc_.jpg",
+        "width": 720
+      },
+      {
+        "height": 2080,
+        "media_key": "3_1977289768883937280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3C-kZRXYAAQo2w.jpg",
+        "width": 1560
+      },
+      {
+        "height": 2080,
+        "media_key": "3_1977289772893646848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3C-koNWsAAG2pe.jpg",
+        "width": 1560
+      },
+      {
+        "height": 2080,
+        "media_key": "3_1977289773128536064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3C-kpFW0AAZknL.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1977289781873983932",
+        "created_at": "2025-10-12T08:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T09:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977297638463852856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1765333655868801024",
+              "start": 0,
+              "username": "aaaaabbbbcccsss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977297638463852856",
+        "in_reply_to_user_id": "1765333655868801024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977289781873983932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaaabbbbcccsss 哇塞塞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977289751251038208",
+            "3_1977289768883937280",
+            "3_1977289772893646848",
+            "3_1977289773128536064"
+          ]
+        },
+        "author_id": "1765333655868801024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1977289781873983932",
+        "created_at": "2025-10-12T08:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T09:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977289781873983932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aOvh1K3axJ",
+              "end": 39,
+              "expanded_url": "https://x.com/aaaaabbbbcccsss/status/1977289781873983932/photo/1",
+              "media_key": "3_1977289751251038208",
+              "start": 16,
+              "url": "https://t.co/aOvh1K3axJ"
+            },
+            {
+              "display_url": "pic.x.com/aOvh1K3axJ",
+              "end": 39,
+              "expanded_url": "https://x.com/aaaaabbbbcccsss/status/1977289781873983932/photo/1",
+              "media_key": "3_1977289768883937280",
+              "start": 16,
+              "url": "https://t.co/aOvh1K3axJ"
+            },
+            {
+              "display_url": "pic.x.com/aOvh1K3axJ",
+              "end": 39,
+              "expanded_url": "https://x.com/aaaaabbbbcccsss/status/1977289781873983932/photo/1",
+              "media_key": "3_1977289772893646848",
+              "start": 16,
+              "url": "https://t.co/aOvh1K3axJ"
+            },
+            {
+              "display_url": "pic.x.com/aOvh1K3axJ",
+              "end": 39,
+              "expanded_url": "https://x.com/aaaaabbbbcccsss/status/1977289781873983932/photo/1",
+              "media_key": "3_1977289773128536064",
+              "start": 16,
+              "url": "https://t.co/aOvh1K3axJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977289781873983932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概是提前十天收到生日礼物吧🥺 https://t.co/aOvh1K3axJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 2152,
+          "like_count": 31617,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2264
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T11:08:48.000Z",
+        "description": "",
+        "id": "1765333655868801024",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "Aaa.批发商王姐",
+        "pinned_tweet_id": "1919343041078247564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895850157675028480/rs4b7MVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 44,
+          "like_count": 1481,
+          "listed_count": 2,
+          "media_count": 482,
+          "tweet_count": 3997
+        },
+        "username": "aaaaabbbbcccsss",
+        "verified": false
+      }
+    ]
+  }
+}

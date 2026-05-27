@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1894663114135576921",
+    "created_at": "2025-02-27T06:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T07:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894993532567593369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883266432793976833",
+          "start": 0,
+          "username": "CarbonicWhite"
+        },
+        {
+          "end": 27,
+          "id": "1765034185448636416",
+          "start": 15,
+          "username": "camille8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894993532567593369",
+    "in_reply_to_user_id": "1883266432793976833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894947765006016695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarbonicWhite @camille8964 心理性别和生理不一样可不是精神病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1894663114135576921",
+        "created_at": "2025-02-27T06:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T07:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894993532567593369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883266432793976833",
+              "start": 0,
+              "username": "CarbonicWhite"
+            },
+            {
+              "end": 27,
+              "id": "1765034185448636416",
+              "start": 15,
+              "username": "camille8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894993532567593369",
+        "in_reply_to_user_id": "1883266432793976833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894947765006016695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarbonicWhite @camille8964 心理性别和生理不一样可不是精神病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883266432793976833",
+        "conversation_id": "1894663114135576921",
+        "created_at": "2025-02-27T03:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T04:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894947765006016695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1765034185448636416",
+              "start": 0,
+              "username": "camille8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894947765006016695",
+        "in_reply_to_user_id": "1765034185448636416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894663114135576921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@camille8964 怎么狗屁不通了\n生理性别为男/女就是各个生理指标（染色体，外生殖器，激素等）均为男/女性水平，很难理解吗😡\n那些生理指标有不一致的，就是病患。染色体异常就是染色体疾病啊；外生殖器异常就是发育畸形啊；心理不一致的就是精神病患者啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 601,
+          "like_count": 9971,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 437
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T21:31:42.000Z",
+        "description": "某人的阴暗面👁️👁️",
+        "id": "1883266432793976833",
+        "name": "冰蓝蓝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883269526692966400/hBrTY46o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 311,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 268
+        },
+        "username": "CarbonicWhite",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T15:19:03.000Z",
+        "description": "//精神錯亂//",
+        "id": "1765034185448636416",
+        "location": "潮酷騷孩共和國",
+        "name": "ଳ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892917591858880512/HauaLiV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 572,
+          "like_count": 21391,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 17010
+        },
+        "username": "camille8964",
+        "verified": false
+      }
+    ]
+  }
+}

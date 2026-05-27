@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968813084082081915",
+    "created_at": "2025-09-19T12:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T13:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969015577671860364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1706860686893252608",
+          "start": 0,
+          "username": "Epiphany_Karma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969015577671860364",
+    "in_reply_to_user_id": "1706860686893252608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968813084082081915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Epiphany_Karma 笑死我啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9750,
+        "height": 720,
+        "media_key": "7_1968813068131221504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1968813068131221504/pu/img/CSor5dVUQ-IUTnFH.jpg",
+        "public_metrics": {
+          "view_count": 3554
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968813068131221504/pu/vid/avc1/320x320/ugWylDUsZkW9fgbm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968813068131221504/pu/vid/avc1/540x540/GzcOzfJV5mnhTeaQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968813068131221504/pu/vid/avc1/720x720/SWRmqHmG2E8dP0vm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1968813068131221504/pu/pl/r7rZs9bE10Hbejw-.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968813084082081915",
+        "created_at": "2025-09-19T12:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969015577671860364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1706860686893252608",
+              "start": 0,
+              "username": "Epiphany_Karma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969015577671860364",
+        "in_reply_to_user_id": "1706860686893252608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968813084082081915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epiphany_Karma 笑死我啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1968813068131221504"
+          ]
+        },
+        "author_id": "1706860686893252608",
+        "conversation_id": "1968813084082081915",
+        "created_at": "2025-09-18T23:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T00:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968813084082081915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3j7qcNwT3M",
+              "end": 39,
+              "expanded_url": "https://x.com/Epiphany_Karma/status/1968813084082081915/video/1",
+              "media_key": "7_1968813068131221504",
+              "start": 16,
+              "url": "https://t.co/3j7qcNwT3M"
+            },
+            {
+              "display_url": "x.com/Epiphany_Karma…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Epiphany_Karma/status/1968639028200157620",
+              "start": 40,
+              "url": "https://t.co/3g7KIGvVUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968813084082081915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 21603,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 55,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968639028200157620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早起哞两声，我去耕地种土豆去了 https://t.co/3j7qcNwT3M https://t.co/3g7KIGvVUU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1944,
+          "like_count": 29359,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2028
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T02:38:00.000Z",
+        "description": "没有你，我对生活没有任何想象。\n宠物、书摘博主，INFJ-A，ED男\nngl：https://t.co/xYED5lgi2r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ele60878",
+                "end": 62,
+                "expanded_url": "https://ngl.link/ele60878",
+                "start": 39,
+                "url": "https://t.co/xYED5lgi2r"
+              }
+            ]
+          }
+        },
+        "id": "1706860686893252608",
+        "location": "Pluto",
+        "name": "Epiphany",
+        "pinned_tweet_id": "1962918975417033076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955672827497209856/Tkt9fUgF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 292,
+          "like_count": 14724,
+          "listed_count": 3,
+          "media_count": 373,
+          "tweet_count": 3658
+        },
+        "username": "Epiphany_Karma",
+        "verified": false
+      }
+    ]
+  }
+}

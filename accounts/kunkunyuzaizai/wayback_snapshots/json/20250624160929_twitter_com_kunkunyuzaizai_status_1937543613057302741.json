@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1937098511163744416",
+    "created_at": "2025-06-24T16:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T17:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937543613057302741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1662474877000118272",
+          "start": 0,
+          "username": "ruiximtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937543613057302741",
+    "in_reply_to_user_id": "1662474877000118272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937098511163744416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruiximtf 可以吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_1937098497863344128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuH00hQWYAAkR3D.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1937098511163744416",
+        "created_at": "2025-06-24T16:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T17:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937543613057302741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1662474877000118272",
+              "start": 0,
+              "username": "ruiximtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937543613057302741",
+        "in_reply_to_user_id": "1662474877000118272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937098511163744416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruiximtf 可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937098497863344128"
+          ]
+        },
+        "author_id": "1662474877000118272",
+        "conversation_id": "1937098511163744416",
+        "created_at": "2025-06-23T10:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T11:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937098511163744416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dbQhLRIWae",
+              "end": 41,
+              "expanded_url": "https://x.com/ruiximtf/status/1937098511163744416/photo/1",
+              "media_key": "3_1937098497863344128",
+              "start": 18,
+              "url": "https://t.co/dbQhLRIWae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937098511163744416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7530,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 71,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "互fo评论，看见会回，有木有来的呀 https://t.co/dbQhLRIWae"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 1262,
+          "like_count": 18191,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 963
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T15:04:50.000Z",
+        "description": "一个宅在家里的线虫/09休学中/好孤独呀欢迎来聊天互fo/日语学习ing！/看番和玩二游（原神/崩铁/啤酒烧烤/光遇…）来个人和喔说说话吧太无聊咯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ahamisaka",
+                "end": 23,
+                "expanded_url": "https://t.me/ahamisaka",
+                "start": 0,
+                "url": "https://t.co/SJMiqGcex1"
+              }
+            ]
+          }
+        },
+        "id": "1662474877000118272",
+        "location": "Tokyo-to, Japan",
+        "name": "荠aha🍥",
+        "pinned_tweet_id": "1908938007543169070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882367615483731968/XaRhmnsQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 402,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/SJMiqGcex1",
+        "username": "ruiximtf",
+        "verified": false
+      }
+    ]
+  }
+}

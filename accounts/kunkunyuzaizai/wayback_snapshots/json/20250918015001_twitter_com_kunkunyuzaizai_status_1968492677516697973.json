@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968492677516697973",
+    "created_at": "2025-09-18T01:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T02:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968492677516697973"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2828yy123/stat…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/2828yy123/status/1968491976527069207",
+          "start": 27,
+          "url": "https://t.co/OT1648RQBa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968492677516697973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968491976527069207",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不见面的这些天\n\n我的心一直在想你\n我的手一直摸下面 https://t.co/OT1648RQBa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968492677516697973",
+        "created_at": "2025-09-18T01:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T02:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968492677516697973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2828yy123/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/2828yy123/status/1968491976527069207",
+              "start": 27,
+              "url": "https://t.co/OT1648RQBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968492677516697973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968491976527069207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不见面的这些天\n\n我的心一直在想你\n我的手一直摸下面 https://t.co/OT1648RQBa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761601564962426880",
+        "conversation_id": "1968491976527069207",
+        "created_at": "2025-09-18T01:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T02:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968491976527069207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968491976527069207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不见面的这些天\n\n我的心一直在想你\n我的手一直摸下面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1892,
+          "like_count": 28928,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1971
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T03:58:46.000Z",
+        "description": "自用蜂鸟VPN：https://t.co/uM0GstQXdu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 31,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=WOQXa1Vk",
+                "start": 8,
+                "url": "https://t.co/uM0GstQXdu"
+              }
+            ]
+          }
+        },
+        "id": "1761601564962426880",
+        "name": "布丁大炮",
+        "pinned_tweet_id": "1933161393060290795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931084206844915712/cPzvypqT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4341,
+          "following_count": 310,
+          "like_count": 23079,
+          "listed_count": 7,
+          "media_count": 955,
+          "tweet_count": 12065
+        },
+        "username": "2828yy123",
+        "verified": false
+      }
+    ]
+  }
+}

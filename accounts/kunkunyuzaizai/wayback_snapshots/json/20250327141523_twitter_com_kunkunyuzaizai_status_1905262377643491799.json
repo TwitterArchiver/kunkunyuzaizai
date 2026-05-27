@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905262338632253441"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1905042957344166369",
+    "created_at": "2025-03-27T14:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T15:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905262377643491799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1791004875427663872",
+          "start": 0,
+          "username": "guobao200202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0PaAh9O69h",
+          "end": 39,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1905262377643491799/photo/1",
+          "media_key": "3_1905262338632253441",
+          "start": 16,
+          "url": "https://t.co/0PaAh9O69h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905262377643491799",
+    "in_reply_to_user_id": "1791004875427663872",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905042957344166369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guobao200202 🤯 https://t.co/0PaAh9O69h"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1905262377643491799].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1905262377643491799",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1905262377643491799"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905262338632253441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnDaAKIbAAEYOdG.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791004875427663872",
+        "conversation_id": "1905042957344166369",
+        "created_at": "2025-03-26T23:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T00:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905042957344166369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905042957344166369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14197,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "不理解既然目的是想变得像女生为什么自己不努努力在外表做出改变 而是懒的不能再懒也不打扮甚至腿毛都不刮 过度神话激素滥用药物搞得精神错乱顶个猪比身体到处要死要活宣扬负面情绪 最近主页老推这种懒比 拉黑都拉不完 真别说自己是药娘了 你也不娘啊 顶多算阿诺 阿诺头还尖尖的你都不尖 你个废物🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 641,
+          "like_count": 11534,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 540
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T07:17:04.000Z",
+        "description": "混血(爸妈不是一个屯子的) iiii 锅包肉品鉴大师 不线下 防爆锅:@guo200202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "guo200202"
+              }
+            ]
+          }
+        },
+        "id": "1791004875427663872",
+        "location": "都立日野南高中",
+        "name": "锅包柚fugui",
+        "pinned_tweet_id": "1897448630791115259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870684391154028544/WOCICzsQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156596,
+          "following_count": 199,
+          "like_count": 128,
+          "listed_count": 660,
+          "media_count": 43,
+          "tweet_count": 1162
+        },
+        "username": "guobao200202",
+        "verified": false
+      }
+    ]
+  }
+}

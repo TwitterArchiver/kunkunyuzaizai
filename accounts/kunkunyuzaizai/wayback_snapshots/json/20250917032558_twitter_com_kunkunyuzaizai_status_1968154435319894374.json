@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967842474090790939",
+    "created_at": "2025-09-17T03:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T04:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968154435319894374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929598660561805312",
+          "start": 0,
+          "username": "GunNiMa_886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968154435319894374",
+    "in_reply_to_user_id": "1929598660561805312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967842474090790939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GunNiMa_886 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1555,
+        "media_key": "3_1967842450686521344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08uSGcasAAVAn0.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967842474090790939",
+        "created_at": "2025-09-17T03:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T04:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968154435319894374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929598660561805312",
+              "start": 0,
+              "username": "GunNiMa_886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968154435319894374",
+        "in_reply_to_user_id": "1929598660561805312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967842474090790939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GunNiMa_886 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967842450686521344"
+          ]
+        },
+        "author_id": "1929598660561805312",
+        "conversation_id": "1967842474090790939",
+        "created_at": "2025-09-16T06:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967842474090790939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBd2ZCI2SR",
+              "end": 29,
+              "expanded_url": "https://x.com/GunNiMa_886/status/1967842474090790939/photo/1",
+              "media_key": "3_1967842450686521344",
+              "start": 6,
+              "url": "https://t.co/NBd2ZCI2SR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967842474090790939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 31594,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的许愿贴 https://t.co/NBd2ZCI2SR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1846,
+          "like_count": 28497,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1913
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T17:59:25.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%86%9C%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%86%9C%E6%B0%91",
+                "start": 0,
+                "url": "https://t.co/b3bJJHxuxc"
+              }
+            ]
+          }
+        },
+        "id": "1929598660561805312",
+        "name": "一个老实农民",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929598843827769352/CpA13yM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 84,
+          "like_count": 717,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 622
+        },
+        "url": "https://t.co/b3bJJHxuxc",
+        "username": "GunNiMa_886",
+        "verified": false
+      }
+    ]
+  }
+}

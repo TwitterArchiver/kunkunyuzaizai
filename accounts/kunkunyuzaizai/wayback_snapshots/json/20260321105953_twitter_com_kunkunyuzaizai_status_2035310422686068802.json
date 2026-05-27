@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2035018011015618754",
+    "created_at": "2026-03-21T10:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T11:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035310422686068802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1780575543035088896",
+          "start": 0,
+          "username": "qiqibbc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035310422686068802",
+    "in_reply_to_user_id": "1780575543035088896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035018011015618754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqibbc 还有龙/🐔 用动物称呼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2035018011015618754",
+        "created_at": "2026-03-21T10:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T11:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035310422686068802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1780575543035088896",
+              "start": 0,
+              "username": "qiqibbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035310422686068802",
+        "in_reply_to_user_id": "1780575543035088896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035018011015618754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqibbc 还有龙/🐔 用动物称呼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780575543035088896",
+        "conversation_id": "2035018011015618754",
+        "created_at": "2026-03-20T15:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035018011015618754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035018011015618754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 262901,
+          "like_count": 895,
+          "quote_count": 8,
+          "reply_count": 389,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "男性的肉棒有很多种叫法：\n1. 「鸡鸡」太幼稚了我很少讲\n2.「鸡巴」中国北方用语，而且跟鸡掰很像，很容易混淆，所以我用的少\n3.「肉棒」感觉好贴切，我常用\n4.「小鸟」呃😑用的少\n\n你们呢？喜欢用哪个？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|QQ号3762377561\n|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 150,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 127,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 2660,
+          "like_count": 42022,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 2885
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T12:34:44.000Z",
+        "description": "反差女/有性瘾/报复男友/没门槛/没点关注别私信",
+        "id": "1780575543035088896",
+        "location": "距离47.9KM",
+        "name": "琪琪💋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788367771807682560/lARdE7Uz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21614,
+          "following_count": 88,
+          "like_count": 5803,
+          "listed_count": 39,
+          "media_count": 12,
+          "tweet_count": 416
+        },
+        "username": "qiqibbc",
+        "verified": false
+      }
+    ]
+  }
+}

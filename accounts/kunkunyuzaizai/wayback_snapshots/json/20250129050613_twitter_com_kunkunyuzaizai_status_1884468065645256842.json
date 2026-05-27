@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1884468065645256842",
+    "created_at": "2025-01-29T05:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T06:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884468065645256842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "bilibili.com/video/BV12ZFse…",
+          "end": 35,
+          "expanded_url": "https://www.bilibili.com/video/BV12ZFsegE2n?share_session_id=94d60a98-9e12-4f70-b3d4-30f727eb6f8a",
+          "start": 12,
+          "url": "https://t.co/DiUxK5C3C0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884468065645256842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和室友同居到底有多快乐 https://t.co/DiUxK5C3C0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1884468065645256842",
+        "created_at": "2025-01-29T05:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T06:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884468065645256842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bilibili.com/video/BV12ZFse…",
+              "end": 35,
+              "expanded_url": "https://www.bilibili.com/video/BV12ZFsegE2n?share_session_id=94d60a98-9e12-4f70-b3d4-30f727eb6f8a",
+              "start": 12,
+              "url": "https://t.co/DiUxK5C3C0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884468065645256842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和室友同居到底有多快乐 https://t.co/DiUxK5C3C0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 297,
+          "like_count": 6297,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 275
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

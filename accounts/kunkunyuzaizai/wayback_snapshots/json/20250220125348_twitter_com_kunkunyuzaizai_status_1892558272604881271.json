@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1892505561104601495",
+    "created_at": "2025-02-20T12:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T13:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892558272604881271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659496846014963716",
+          "start": 0,
+          "username": "Slime_wish_U"
+        },
+        {
+          "end": 25,
+          "id": "1258406248199802880",
+          "start": 14,
+          "username": "LE77678238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892558272604881271",
+    "in_reply_to_user_id": "1659496846014963716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892507291083034699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Slime_wish_U @LE77678238 你射的很快吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1892505561104601495",
+        "created_at": "2025-02-20T12:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T13:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892558272604881271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659496846014963716",
+              "start": 0,
+              "username": "Slime_wish_U"
+            },
+            {
+              "end": 25,
+              "id": "1258406248199802880",
+              "start": 14,
+              "username": "LE77678238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892558272604881271",
+        "in_reply_to_user_id": "1659496846014963716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892507291083034699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Slime_wish_U @LE77678238 你射的很快吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659496846014963716",
+        "conversation_id": "1892505561104601495",
+        "created_at": "2025-02-20T09:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T10:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892507291083034699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1258406248199802880",
+              "start": 0,
+              "username": "LE77678238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892507291083034699",
+        "in_reply_to_user_id": "1258406248199802880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892505561104601495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LE77678238 羡慕可以玩飞机杯那么久的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 477,
+          "like_count": 8751,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 354
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-19T09:51:34.000Z",
+        "description": "史莱姆一只，傻卵二刺螈，对象随缘，欢迎小可爱来唠嗑～\n🚪40好友（同好可免）\n可接cos陪玩～",
+        "id": "1659496846014963716",
+        "location": "广州",
+        "name": "蓝毛史莱姆",
+        "pinned_tweet_id": "1889082155697156519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850595824885182464/JsZB5iBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18245,
+          "following_count": 232,
+          "like_count": 781,
+          "listed_count": 94,
+          "media_count": 101,
+          "tweet_count": 816
+        },
+        "username": "Slime_wish_U",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-07T14:40:17.000Z",
+        "description": "伪娘cos 题材不限 陪朋友整活 请勿转发平台外 纯涩批一个（男娘魅魔）\n🚪/80解锁好友位+送涩图作品一部）不过门槛不闲聊 没礼貌的勿扰  （可爱男娘朋友欢迎）  海外投喂→https://t.co/QP09nH8722\n /看娃kiger的  →@leyibao22805",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "leyibao22805"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "afdian.com/a/chenbao520",
+                "end": 111,
+                "expanded_url": "https://afdian.com/a/chenbao520",
+                "start": 88,
+                "url": "https://t.co/QP09nH8722"
+              }
+            ]
+          }
+        },
+        "id": "1258406248199802880",
+        "location": "台灣",
+        "name": "忆往昔LE岁月 怡宝",
+        "pinned_tweet_id": "1866117870150898092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829705730959519744/aAVb9361_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68786,
+          "following_count": 283,
+          "like_count": 4265,
+          "listed_count": 433,
+          "media_count": 521,
+          "tweet_count": 2630
+        },
+        "username": "LE77678238",
+        "verified": false
+      }
+    ]
+  }
+}

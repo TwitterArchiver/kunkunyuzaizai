@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1987809862303334885",
+    "created_at": "2025-11-12T10:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T11:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988559097848066385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1817584080437014528",
+          "start": 0,
+          "username": "N552AA"
+        },
+        {
+          "end": 18,
+          "id": "1926307161480568832",
+          "start": 8,
+          "username": "banzaixyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988559097848066385",
+    "in_reply_to_user_id": "1817584080437014528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987809862303334885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AA @banzaixyg 我想进群玩可以嘛🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1987809738659426304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YebOnbcAA-ICm.jpg",
+        "width": 1031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1987809862303334885",
+        "created_at": "2025-11-12T10:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988559097848066385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1817584080437014528",
+              "start": 0,
+              "username": "N552AA"
+            },
+            {
+              "end": 18,
+              "id": "1926307161480568832",
+              "start": 8,
+              "username": "banzaixyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988559097848066385",
+        "in_reply_to_user_id": "1817584080437014528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987809862303334885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AA @banzaixyg 我想进群玩可以嘛🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987809738659426304"
+          ]
+        },
+        "author_id": "1817584080437014528",
+        "conversation_id": "1987809862303334885",
+        "created_at": "2025-11-10T09:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987809862303334885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WsfQq3EYPx",
+              "end": 101,
+              "expanded_url": "https://x.com/N552AA/status/1987809862303334885/photo/1",
+              "media_key": "3_1987809738659426304",
+              "start": 78,
+              "url": "https://t.co/WsfQq3EYPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987809862303334885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 104963,
+          "like_count": 120,
+          "quote_count": 3,
+          "reply_count": 31,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "11/20是跨性别追悼日\n旨在追悼那些因为歧视，社会暴力等而离开的跨性别朋友们\n我们决定举办一场贴贴来几年这些朋友们\n地点在上海（具体地址待定）\n来的加群 https://t.co/WsfQq3EYPx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 2261,
+          "like_count": 32259,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2392
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/ADHD/BPD/无证断续含糖/坐标上海/半家长党/抱抱最最可爱的姐姐: @yizhikapaiqaq 妹妹:@suikahsnya/主人：@ayumi_0222_ @nahida_miao\n/长在春风中，活在药效里。/上海市贴贴微信群群主（加群加微信N552AA）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "suikahsnya"
+              },
+              {
+                "end": 99,
+                "start": 87,
+                "username": "ayumi_0222_"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "nahida_miao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLj51"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍫",
+        "pinned_tweet_id": "1953496186738069992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984004171713146880/ZhbhI7xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 1004,
+          "like_count": 3991,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 1400
+        },
+        "url": "https://t.co/zkiZZtLj51",
+        "username": "N552AA",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/双性人/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@NakaharaBulbel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "NakaharaBulbel"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984801229315428352/KZoss5zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 480,
+          "like_count": 3872,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1803
+        },
+        "username": "banzaixyg",
+        "verified": false
+      }
+    ]
+  }
+}

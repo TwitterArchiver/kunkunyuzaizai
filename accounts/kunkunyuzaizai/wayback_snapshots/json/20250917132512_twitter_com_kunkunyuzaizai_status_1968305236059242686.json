@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968113516562599996",
+    "created_at": "2025-09-17T13:25:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968305236059242686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1269093325660774402",
+          "start": 0,
+          "username": "kelebabe7171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968305236059242686",
+    "in_reply_to_user_id": "1269093325660774402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968113516562599996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kelebabe7171 拍照技术这么好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968113475743334400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Akx1dXQAAgcks.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968113516562599996",
+        "created_at": "2025-09-17T13:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968305236059242686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1269093325660774402",
+              "start": 0,
+              "username": "kelebabe7171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968305236059242686",
+        "in_reply_to_user_id": "1269093325660774402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968113516562599996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kelebabe7171 拍照技术这么好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968113475743334400"
+          ]
+        },
+        "author_id": "1269093325660774402",
+        "conversation_id": "1968113516562599996",
+        "created_at": "2025-09-17T00:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T01:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968113516562599996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kzMdtRLCt",
+              "end": 35,
+              "expanded_url": "https://x.com/kelebabe7171/status/1968113516562599996/photo/1",
+              "media_key": "3_1968113475743334400",
+              "start": 12,
+              "url": "https://t.co/0kzMdtRLCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968113516562599996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11850,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天到重庆了，忘记发了 https://t.co/0kzMdtRLCt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1871,
+          "like_count": 28765,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1949
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-06T02:26:51.000Z",
+        "description": "#男喘 \n我是傻逼，业余男喘，非专业，螺旋屌丝音，什么都录，无🚪，接各种陪，看不惯我的可以枪毙我，别骂我，会看私信。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "男喘"
+              }
+            ]
+          }
+        },
+        "id": "1269093325660774402",
+        "name": "雪碧",
+        "pinned_tweet_id": "1966760409655861425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962115996569030656/ptnIopbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2257,
+          "following_count": 141,
+          "like_count": 158,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 261
+        },
+        "username": "kelebabe7171",
+        "verified": false
+      }
+    ]
+  }
+}

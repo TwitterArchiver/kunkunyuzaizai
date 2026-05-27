@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967983719404478802",
+    "created_at": "2025-09-17T12:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T13:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968290356870689212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1713000254453485568",
+          "start": 0,
+          "username": "chnrdin123009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968290356870689212",
+    "in_reply_to_user_id": "1713000254453485568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967983719404478802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnrdin123009 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1967983716548194304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-uw2ybsAAiGvx.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967983719404478802",
+        "created_at": "2025-09-17T12:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T13:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968290356870689212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1713000254453485568",
+              "start": 0,
+              "username": "chnrdin123009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968290356870689212",
+        "in_reply_to_user_id": "1713000254453485568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967983719404478802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnrdin123009 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967983716548194304"
+          ]
+        },
+        "author_id": "1713000254453485568",
+        "conversation_id": "1967983719404478802",
+        "created_at": "2025-09-16T16:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T17:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967983719404478802"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "快樂嘎嘎"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgKBwyLCXc",
+              "end": 64,
+              "expanded_url": "https://x.com/chnrdin123009/status/1967983719404478802/photo/1",
+              "media_key": "3_1967983716548194304",
+              "start": 41,
+              "url": "https://t.co/SgKBwyLCXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967983719404478802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5094,
+          "like_count": 142,
+          "quote_count": 0,
+          "reply_count": 67,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "今天！！是！！我！！生日！！！！！！！\n下面開放祝我生日快樂✨（（\n\n#快樂嘎嘎 https://t.co/SgKBwyLCXc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1870,
+          "like_count": 28749,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1947
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T01:14:37.000Z",
+        "description": "我是嘎嘎~！！\nHashtag: #快樂嘎嘎",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 17,
+                "tag": "快樂嘎嘎"
+              }
+            ]
+          }
+        },
+        "id": "1713000254453485568",
+        "location": "某人頭上",
+        "name": "𝑹𝒖.",
+        "pinned_tweet_id": "1842237958688227623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841713529386369027/X3wxU8nz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 1098,
+          "like_count": 22576,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 4701
+        },
+        "username": "chnrdin123009",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2001299028886347955",
+    "created_at": "2025-12-18T02:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T03:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001478658368909587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1295370673905258497",
+          "start": 0,
+          "username": "hll20203"
+        },
+        {
+          "end": 24,
+          "id": "1677270742705270784",
+          "start": 10,
+          "username": "GEACPS1940629"
+        },
+        {
+          "end": 39,
+          "id": "1748763011140169729",
+          "start": 25,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001478658368909587",
+    "in_reply_to_user_id": "1295370673905258497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001473655818359167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hll20203 @GEACPS1940629 @lovelyshuimao 啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2001299028886347955",
+        "created_at": "2025-12-18T02:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T03:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001478658368909587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1295370673905258497",
+              "start": 0,
+              "username": "hll20203"
+            },
+            {
+              "end": 24,
+              "id": "1677270742705270784",
+              "start": 10,
+              "username": "GEACPS1940629"
+            },
+            {
+              "end": 39,
+              "id": "1748763011140169729",
+              "start": 25,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001478658368909587",
+        "in_reply_to_user_id": "1295370673905258497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001473655818359167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hll20203 @GEACPS1940629 @lovelyshuimao 啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295370673905258497",
+        "conversation_id": "2001299028886347955",
+        "created_at": "2025-12-18T02:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T03:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001473655818359167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 30,
+              "id": "1677270742705270784",
+              "start": 16,
+              "username": "GEACPS1940629"
+            },
+            {
+              "end": 45,
+              "id": "1748763011140169729",
+              "start": 31,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001473655818359167",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001472225631940876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @GEACPS1940629 @lovelyshuimao 你们似乎忘记了大象公会跑到日本饿死的女的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 2344,
+          "like_count": 35169,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2532
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-17T14:43:46.000Z",
+        "description": "",
+        "id": "1295370673905258497",
+        "name": "hll2020",
+        "pinned_tweet_id": "1993909980156838221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666778258741026818/kueoAhS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 221,
+          "like_count": 13533,
+          "listed_count": 4,
+          "media_count": 934,
+          "tweet_count": 14875
+        },
+        "username": "hll20203",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T10:58:18.000Z",
+        "description": "@撐雨傘的湯普尼🇺🇸🇪🇺🇺🇦 的小號丨不談政治，鍵政人請遠離｜心理狀態很糟糕，想讓人安慰，Telegram的鏈接就放在這了，和我聊聊天吧🥺\n\n提問箱：https://t.co/FbqcTq1tg5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny",
+                "end": 98,
+                "expanded_url": "https://ngl.link/mr.tenpenny",
+                "start": 75,
+                "url": "https://t.co/FbqcTq1tg5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://t.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/2CsWnNhXPN"
+              }
+            ]
+          }
+        },
+        "id": "1677270742705270784",
+        "location": "最近賬號有問題，私信請通過網頁版發送，不然看不到",
+        "name": "Mr.湯普尼",
+        "pinned_tweet_id": "1954982607738847246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881742183369220096/e-AyMgBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 4367,
+          "like_count": 73989,
+          "listed_count": 2,
+          "media_count": 3037,
+          "tweet_count": 8284
+        },
+        "url": "https://t.co/2CsWnNhXPN",
+        "username": "GEACPS1940629",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998279626989449216/6L9PHOSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3023,
+          "following_count": 1239,
+          "like_count": 252,
+          "listed_count": 8,
+          "media_count": 2482,
+          "tweet_count": 11911
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

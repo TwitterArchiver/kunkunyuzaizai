@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1898391235217465607",
+    "created_at": "2025-03-09T01:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T02:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898539759913566609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479696561302999042",
+          "start": 0,
+          "username": "quitee123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898539759913566609",
+    "in_reply_to_user_id": "1479696561302999042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898391235217465607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quitee123 我是在聊天记录看到过就各种瓜那种群"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1898391235217465607",
+        "created_at": "2025-03-09T01:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T02:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898539759913566609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479696561302999042",
+              "start": 0,
+              "username": "quitee123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898539759913566609",
+        "in_reply_to_user_id": "1479696561302999042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898391235217465607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quitee123 我是在聊天记录看到过就各种瓜那种群"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479696561302999042",
+        "conversation_id": "1898391235217465607",
+        "created_at": "2025-03-08T15:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T16:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898391235217465607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quitee123/stat…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/quitee123/status/1897705330886558202",
+              "start": 35,
+              "url": "https://t.co/tHEp4P1zeG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898391235217465607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12448,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897705330886558202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天怎么这么多朋友QQ私聊我，说从别的群里看到我，我也成知名人物了呀 https://t.co/tHEp4P1zeG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 627,
+          "like_count": 10513,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 488
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 持证含糖🏳️‍⚧️/三坑少女/可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @larva7501 @dominnicchina 可爱妹妹@OVO_futa SRS记录：https://t.co/jVttn2YeBF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "larva7501"
+              },
+              {
+                "end": 77,
+                "start": 63,
+                "username": "dominnicchina"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "username": "OVO_futa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/miaomiao202503…",
+                "end": 121,
+                "expanded_url": "https://t.me/miaomiao202503010",
+                "start": 98,
+                "url": "https://t.co/jVttn2YeBF"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "🐱🍊静静🍊🐱（SRS筹备中ing）",
+        "pinned_tweet_id": "1887176415617163394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897659266326020096/YUzUza1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6100,
+          "following_count": 2180,
+          "like_count": 22565,
+          "listed_count": 11,
+          "media_count": 546,
+          "tweet_count": 10442
+        },
+        "username": "quitee123",
+        "verified": false
+      }
+    ]
+  }
+}

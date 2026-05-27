@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968203103133650944"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968203113246163429",
+    "created_at": "2025-09-17T06:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T07:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968203113246163429"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PdAerKXdP9",
+          "end": 23,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1968203113246163429/photo/1",
+          "media_key": "3_1968203103133650944",
+          "start": 0,
+          "url": "https://t.co/PdAerKXdP9"
+        },
+        {
+          "display_url": "x.com/GunNiMa_886/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/GunNiMa_886/status/1967964246945435847",
+          "start": 24,
+          "url": "https://t.co/xvuwBb0Cw0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968203113246163429",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967964246945435847",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/PdAerKXdP9 https://t.co/xvuwBb0Cw0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1968203113246163429].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1968203113246163429",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1968203113246163429"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1968203103133650944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1B2S1gaUAA9Zy8.jpg",
+        "width": 1172
+      },
+      {
+        "height": 1153,
+        "media_key": "3_1967964236895887360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-dC_baIAAJYmb.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967964236895887360"
+          ]
+        },
+        "author_id": "1929598660561805312",
+        "conversation_id": "1967964246945435847",
+        "created_at": "2025-09-16T14:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T15:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967964246945435847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xv9AlyHl2b",
+              "end": 36,
+              "expanded_url": "https://x.com/GunNiMa_886/status/1967964246945435847/photo/1",
+              "media_key": "3_1967964236895887360",
+              "start": 13,
+              "url": "https://t.co/xv9AlyHl2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967964246945435847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2019,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我果然就是一只猫猫，哼！ https://t.co/xv9AlyHl2b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1858,
+          "like_count": 28629,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1920
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T17:59:25.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%86%9C%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%86%9C%E6%B0%91",
+                "start": 0,
+                "url": "https://t.co/b3bJJHxuxc"
+              }
+            ]
+          }
+        },
+        "id": "1929598660561805312",
+        "name": "一个老实农民",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929598843827769352/CpA13yM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 84,
+          "like_count": 722,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 631
+        },
+        "url": "https://t.co/b3bJJHxuxc",
+        "username": "GunNiMa_886",
+        "verified": false
+      }
+    ]
+  }
+}

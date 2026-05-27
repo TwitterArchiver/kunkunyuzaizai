@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1975429019849138298",
+    "created_at": "2025-10-07T10:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T11:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975512389513846916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891475481238904832",
+          "start": 0,
+          "username": "ElberethXVIII"
+        },
+        {
+          "end": 24,
+          "id": "1690570637499154432",
+          "start": 15,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975512389513846916",
+    "in_reply_to_user_id": "1891475481238904832",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975511580990431432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElberethXVIII @saonanaa SOGA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1975429019849138298",
+        "created_at": "2025-10-07T10:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975512389513846916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891475481238904832",
+              "start": 0,
+              "username": "ElberethXVIII"
+            },
+            {
+              "end": 24,
+              "id": "1690570637499154432",
+              "start": 15,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975512389513846916",
+        "in_reply_to_user_id": "1891475481238904832",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975511580990431432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElberethXVIII @saonanaa SOGA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891475481238904832",
+        "conversation_id": "1975429019849138298",
+        "created_at": "2025-10-07T10:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975511580990431432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 25,
+              "id": "1690570637499154432",
+              "start": 16,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975511580990431432",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975505273000534328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @saonanaa 窩系統語言是熙薄來文，和阿拉伯文一樣，交互邏輯都是鏡像的～符合我操作習慣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 2127,
+          "like_count": 31234,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2221
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T13:11:19.000Z",
+        "description": "ᴀʀᴏ.\nᴀᴄᴇ.\nᴀɢᴇɴᴅᴇʀ.\n(っ◔◡◔)っ",
+        "id": "1891475481238904832",
+        "name": "不稱職的雌二醇",
+        "pinned_tweet_id": "1975429019849138298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975178374596460544/WEWe8PCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 319,
+          "like_count": 2262,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1864
+        },
+        "username": "ElberethXVIII",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei｜男的 & 未翻车 & 不是男娘永不女装｜好无聊但什么都不想干｜浙江穷入 & 欢迎来找我玩",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei ～",
+        "pinned_tweet_id": "1975222550444785680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974829533883965440/MJCFXSiI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6185,
+          "following_count": 424,
+          "like_count": 33192,
+          "listed_count": 16,
+          "media_count": 1980,
+          "tweet_count": 17943
+        },
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

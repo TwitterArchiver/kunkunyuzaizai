@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025391647094411264",
+        "3_2025391648453394432",
+        "3_2025391647723585537",
+        "3_2025391643848052736"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025391652622549456",
+    "created_at": "2026-02-22T02:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T03:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025391652622549456"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DEk3SbDm3t",
+          "end": 34,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2025391652622549456/photo/1",
+          "media_key": "3_2025391647094411264",
+          "start": 11,
+          "url": "https://t.co/DEk3SbDm3t"
+        },
+        {
+          "display_url": "pic.x.com/DEk3SbDm3t",
+          "end": 34,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2025391652622549456/photo/1",
+          "media_key": "3_2025391648453394432",
+          "start": 11,
+          "url": "https://t.co/DEk3SbDm3t"
+        },
+        {
+          "display_url": "pic.x.com/DEk3SbDm3t",
+          "end": 34,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2025391652622549456/photo/1",
+          "media_key": "3_2025391647723585537",
+          "start": 11,
+          "url": "https://t.co/DEk3SbDm3t"
+        },
+        {
+          "display_url": "pic.x.com/DEk3SbDm3t",
+          "end": 34,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2025391652622549456/photo/1",
+          "media_key": "3_2025391643848052736",
+          "start": 11,
+          "url": "https://t.co/DEk3SbDm3t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025391652622549456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好牛逼的特效 不卡颜 https://t.co/DEk3SbDm3t"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025391652622549456].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025391652622549456",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025391652622549456"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2025391647094411264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBui-NgbEAAdOez.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2025391648453394432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBui-SkbgAA8QUM.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2025391647723585537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBui-P2bgAEI4FC.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2025391643848052736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBui-BabkAAQdyc.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|\n|不OD|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 137,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 114,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 2614,
+          "like_count": 40030,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2752
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

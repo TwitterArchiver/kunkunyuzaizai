@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1970492379154247994",
+    "created_at": "2025-09-24T10:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T11:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970796715256266975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1304454069025603584",
+          "start": 0,
+          "username": "nanabirdyxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970796715256266975",
+    "in_reply_to_user_id": "1304454069025603584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970492379154247994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanabirdyxxx 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5266,
+        "height": 1280,
+        "media_key": "7_1970491673009606656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1970491673009606656/pu/img/FIMeamwUXN8zVJXt.jpg",
+        "public_metrics": {
+          "view_count": 5416
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970491673009606656/pu/vid/avc1/320x568/d1UZDNor_sZH8AsW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970491673009606656/pu/vid/avc1/480x852/2MZwqZU7Sju8cA1c.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970491673009606656/pu/vid/avc1/720x1280/8Txy7lB9jizgujUS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1970491673009606656/pu/pl/sBn7diwBmcTkRxQy.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1970492379154247994",
+        "created_at": "2025-09-24T10:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T11:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970796715256266975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1304454069025603584",
+              "start": 0,
+              "username": "nanabirdyxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970796715256266975",
+        "in_reply_to_user_id": "1304454069025603584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970492379154247994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanabirdyxxx 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1970491673009606656"
+          ]
+        },
+        "author_id": "1304454069025603584",
+        "conversation_id": "1970492379154247994",
+        "created_at": "2025-09-23T14:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T15:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970492379154247994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eiQ1riSjTM",
+              "end": 47,
+              "expanded_url": "https://x.com/nanabirdyxxx/status/1970492379154247994/video/1",
+              "media_key": "7_1970491673009606656",
+              "start": 24,
+              "url": "https://t.co/eiQ1riSjTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970492379154247994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 20688,
+          "like_count": 241,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样画一次妆拍好几个类似的视频然后一直发… https://t.co/eiQ1riSjTM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 2069,
+          "like_count": 30401,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2120
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-11T16:17:54.000Z",
+        "description": "小鸟的日记本｜不聊骚｜没有🚪 意思是除了互关都不加微信｜超级颜控｜玩推只是想记录生活和自己｜请和我玩好吗https://t.co/dBL6LYepPG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8D%91%E5%8…",
+                "end": 75,
+                "expanded_url": "https://ngl.link/%E5%8D%91%E5%8A%A3%E5%B0%8F%E9%B3%A5",
+                "start": 52,
+                "url": "https://t.co/dBL6LYepPG"
+              }
+            ]
+          }
+        },
+        "id": "1304454069025603584",
+        "name": "小鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943675480567361536/1s04fGjy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 388,
+          "like_count": 2733,
+          "listed_count": 6,
+          "media_count": 90,
+          "tweet_count": 1538
+        },
+        "username": "nanabirdyxxx",
+        "verified": false
+      }
+    ]
+  }
+}

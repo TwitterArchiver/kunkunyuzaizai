@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968867868327498182",
+    "created_at": "2025-09-19T09:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T10:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968968453752009149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902978487662809090",
+          "start": 0,
+          "username": "justin405332629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968968453752009149",
+    "in_reply_to_user_id": "1902978487662809090",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968959005956423738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justin405332629 👿👿👿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968867868327498182",
+        "created_at": "2025-09-19T09:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T10:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968968453752009149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902978487662809090",
+              "start": 0,
+              "username": "justin405332629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968968453752009149",
+        "in_reply_to_user_id": "1902978487662809090",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968959005956423738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justin405332629 👿👿👿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902978487662809090",
+        "conversation_id": "1968867868327498182",
+        "created_at": "2025-09-19T08:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T09:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968959005956423738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968959005956423738",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968958127795048718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 那就不知道了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 1940,
+          "like_count": 29304,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2017
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T07:00:11.000Z",
+        "description": "ENFP ｜长发男短发男时不时切换｜清水｜1i｜双子座♊｜可以叫我小玉｜链接是提问箱｜回关喜欢，因为想把这里当成朋友圈刷，会先看看内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justin405332629",
+                "end": 23,
+                "expanded_url": "https://ngl.link/justin405332629",
+                "start": 0,
+                "url": "https://t.co/AEMLOdMk4e"
+              }
+            ]
+          }
+        },
+        "id": "1902978487662809090",
+        "location": "关注全是互关（除11个）",
+        "name": "广式双马尾",
+        "pinned_tweet_id": "1941131523874509040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950632626752200704/-M7ipJKQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 862,
+          "like_count": 23457,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 8836
+        },
+        "url": "https://t.co/AEMLOdMk4e",
+        "username": "justin405332629",
+        "verified": false
+      }
+    ]
+  }
+}

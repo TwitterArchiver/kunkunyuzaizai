@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2037437688866041985",
+    "created_at": "2026-03-27T08:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037443022837969201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856186701280075776",
+          "start": 0,
+          "username": "baizhouzi520"
+        },
+        {
+          "end": 30,
+          "id": "1970857021588262912",
+          "start": 14,
+          "username": "RainEngine_2024"
+        },
+        {
+          "end": 45,
+          "id": "1966495606190616576",
+          "start": 31,
+          "username": "bambooqwq2006"
+        },
+        {
+          "end": 57,
+          "id": "1895166510743855104",
+          "start": 46,
+          "username": "MaoQi33394"
+        },
+        {
+          "end": 66,
+          "id": "1962302660541079552",
+          "start": 58,
+          "username": "yuerQwQ"
+        },
+        {
+          "end": 79,
+          "id": "1928504693585842176",
+          "start": 67,
+          "username": "siangel0911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037443022837969201",
+    "in_reply_to_user_id": "1856186701280075776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037437688866041985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhouzi520 @RainEngine_2024 @bambooqwq2006 @MaoQi33394 @yuerQwQ @siangel0911 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037437686542450688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZux_ZbQAAxZY0.jpg",
+        "width": 465
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037437686693404673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZux_9aoAEJdw9.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2037437688866041985",
+        "created_at": "2026-03-27T08:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037443022837969201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856186701280075776",
+              "start": 0,
+              "username": "baizhouzi520"
+            },
+            {
+              "end": 30,
+              "id": "1970857021588262912",
+              "start": 14,
+              "username": "RainEngine_2024"
+            },
+            {
+              "end": 45,
+              "id": "1966495606190616576",
+              "start": 31,
+              "username": "bambooqwq2006"
+            },
+            {
+              "end": 57,
+              "id": "1895166510743855104",
+              "start": 46,
+              "username": "MaoQi33394"
+            },
+            {
+              "end": 66,
+              "id": "1962302660541079552",
+              "start": 58,
+              "username": "yuerQwQ"
+            },
+            {
+              "end": 79,
+              "id": "1928504693585842176",
+              "start": 67,
+              "username": "siangel0911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037443022837969201",
+        "in_reply_to_user_id": "1856186701280075776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037437688866041985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhouzi520 @RainEngine_2024 @bambooqwq2006 @MaoQi33394 @yuerQwQ @siangel0911 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037437686542450688",
+            "3_2037437686693404673"
+          ]
+        },
+        "author_id": "1856186701280075776",
+        "conversation_id": "2037437688866041985",
+        "created_at": "2026-03-27T07:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037437688866041985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1970857021588262912",
+              "start": 26,
+              "username": "RainEngine_2024"
+            },
+            {
+              "end": 79,
+              "id": "1966495606190616576",
+              "start": 65,
+              "username": "bambooqwq2006"
+            },
+            {
+              "end": 91,
+              "id": "1895166510743855104",
+              "start": 80,
+              "username": "MaoQi33394"
+            },
+            {
+              "end": 132,
+              "id": "1962302660541079552",
+              "start": 124,
+              "username": "yuerQwQ"
+            },
+            {
+              "end": 149,
+              "id": "1779063322500874240",
+              "start": 134,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 162,
+              "id": "1928504693585842176",
+              "start": 150,
+              "username": "siangel0911"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XiZszWEx9u",
+              "end": 186,
+              "expanded_url": "https://x.com/baizhouzi520/status/2037437688866041985/photo/1",
+              "media_key": "3_2037437686542450688",
+              "start": 163,
+              "url": "https://t.co/XiZszWEx9u"
+            },
+            {
+              "display_url": "pic.x.com/XiZszWEx9u",
+              "end": 186,
+              "expanded_url": "https://x.com/baizhouzi520/status/2037437688866041985/photo/1",
+              "media_key": "3_2037437686693404673",
+              "start": 163,
+              "url": "https://t.co/XiZszWEx9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037437688866041985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖顺序和抽奖名次在下面\n一等奖（1 人）：Unk.@RainEngine_2024 \n· 二等奖（2 人）：BAMBOO、見崎猫@bambooqwq2006 @MaoQi33394\n· 三等奖（3 人）：困困鱼崽仔小云、希安angel、yuer @yuerQwQ \n@kunkunyuzaizai @siangel0911 https://t.co/XiZszWEx9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 2797,
+          "like_count": 44004,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3033
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T04:06:17.000Z",
+        "description": "小证含糖半家长党（?）|hrt2024.12.15|死精神病一个|有时候会od，自残|多意识体（白洲/黎星/诗遥/haku）|最爱的姐姐/爱人：@mishamimihemumu|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "mishamimihemumu"
+              }
+            ]
+          }
+        },
+        "id": "1856186701280075776",
+        "location": "姐姐的怀里",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊",
+        "pinned_tweet_id": "2036634550647038008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035716012918886400/w1JKUgDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 637,
+          "like_count": 11551,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 1686
+        },
+        "username": "baizhouzi520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨/顺男? 探索中?/Hrt🍥01.28.2026/无证含糖/泛性恋?/家长反对党😭/炸柜💥03.12/爱吃pr/11.13.2011出厂/INFP-T/161cm52kg41码/M Sub/初二牲/成绩倒数的废物/想要休学😭/视成分互fo/TG:https://t.co/fG6XzUT3Y3 😭乞讨中😭",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 150,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 127,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "湖北省/孝感市/汉川市",
+        "name": "Unk.🍥",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031819030181650432/_OhFSDa-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 1090,
+          "like_count": 11304,
+          "listed_count": 2,
+          "media_count": 380,
+          "tweet_count": 1643
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "RainEngine_2024",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T13:34:42.000Z",
+        "description": "fw死宅男，很会唱歌，想减肥出cos但是很懒，二次元。偶尔会发疯，言辞很自由，又想表达自己又自卑。想要灌注🥰\n微信:BambooQWQ1234\nqq:3320606705\n加我说明来历。",
+        "id": "1966495606190616576",
+        "location": "中国江苏无锡",
+        "name": "BAMBOO 😝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966496160115249152/onHRj8Hm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 170,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 85
+        },
+        "username": "bambooqwq2006",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T17:38:16.000Z",
+        "description": "@mi7sa9ki1 一些截图 · \n性别高达 ·\n产出废话 ·\n会互fo ·\n私信掉落QQ号，喜欢到处加人但是躺列）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "mi7sa9ki1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catarium.me",
+                "end": 23,
+                "expanded_url": "http://catarium.me",
+                "start": 0,
+                "url": "https://t.co/ogyMAXAKNh"
+              }
+            ]
+          }
+        },
+        "id": "1895166510743855104",
+        "location": "Avalon",
+        "name": "見崎貓🐾",
+        "pinned_tweet_id": "1898209430254334132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915369117848330240/d-3UwIVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 534,
+          "like_count": 2585,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1079
+        },
+        "url": "https://t.co/ogyMAXAKNh",
+        "username": "MaoQi33394",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "awa",
+        "id": "1962302660541079552",
+        "name": "yuer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962302809321472000/Fh488z7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T17:34:05.000Z",
+        "description": "mtf或mtx或xyn小药娘，furry福瑞控，odzczsxd...摊上各种精神或心理问题...20070911，160cm，92斤左右，常居四川，可爱黑猫猫，喜欢各种可爱的东西和黄黄的东西，精神状态不稳定极其负能◉‿◉，网络要饭+结交好友ing",
+        "id": "1928504693585842176",
+        "location": "中国大陆 四川",
+        "name": "希安angel🍥🌈🏳️‍⚧️🐱🐾",
+        "pinned_tweet_id": "2033212585395585029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024395512003350528/gu0m-ICg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 670,
+          "like_count": 2416,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 1849
+        },
+        "username": "siangel0911",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1975490919207178398",
+    "created_at": "2025-10-08T10:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T11:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975871606632460330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1765333655868801024",
+          "start": 0,
+          "username": "aaaaabbbbcccsss"
+        },
+        {
+          "end": 27,
+          "id": "1933125253569593344",
+          "start": 17,
+          "username": "guiliaicc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975871606632460330",
+    "in_reply_to_user_id": "1765333655868801024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975740413291209015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaaabbbbcccsss @guiliaicc 我独立生活可能真会要饿死除非房租+水电费不到400"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1975490919207178398",
+        "created_at": "2025-10-08T10:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975871606632460330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1765333655868801024",
+              "start": 0,
+              "username": "aaaaabbbbcccsss"
+            },
+            {
+              "end": 27,
+              "id": "1933125253569593344",
+              "start": 17,
+              "username": "guiliaicc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975871606632460330",
+        "in_reply_to_user_id": "1765333655868801024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975740413291209015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaaabbbbcccsss @guiliaicc 我独立生活可能真会要饿死除非房租+水电费不到400"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765333655868801024",
+        "conversation_id": "1975490919207178398",
+        "created_at": "2025-10-08T01:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T02:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975740413291209015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1933125253569593344",
+              "start": 0,
+              "username": "guiliaicc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975740413291209015",
+        "in_reply_to_user_id": "1933125253569593344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 604,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975729327473107165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guiliaicc 我在想如果被领导或者生活打压了，如果生活中没有钱租房子没有钱吃东西还那么无所事事的话，听不懂人话的话，我觉得那就没有必要说话了。🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 2134,
+          "like_count": 31339,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2227
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T11:08:48.000Z",
+        "description": "",
+        "id": "1765333655868801024",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "Aaa.批发商王姐",
+        "pinned_tweet_id": "1919343041078247564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895850157675028480/rs4b7MVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 44,
+          "like_count": 1355,
+          "listed_count": 2,
+          "media_count": 459,
+          "tweet_count": 3804
+        },
+        "username": "aaaaabbbbcccsss",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T11:34:01.000Z",
+        "description": "",
+        "id": "1933125253569593344",
+        "name": "圭里",
+        "pinned_tweet_id": "1975082275344887878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937555400192327686/qazEZCzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 145,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 58
+        },
+        "username": "guiliaicc",
+        "verified": false
+      }
+    ]
+  }
+}

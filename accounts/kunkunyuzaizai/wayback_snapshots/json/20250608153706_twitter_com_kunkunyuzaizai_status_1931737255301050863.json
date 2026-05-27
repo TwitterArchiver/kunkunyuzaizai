@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1931531299346674093",
+    "created_at": "2025-06-08T15:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T16:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931737255301050863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1804067397730803712",
+          "start": 0,
+          "username": "_insdina_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931737255301050863",
+    "in_reply_to_user_id": "1804067397730803712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931531299346674093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_insdina_ 啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1931531299346674093",
+        "created_at": "2025-06-08T15:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931737255301050863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1804067397730803712",
+              "start": 0,
+              "username": "_insdina_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931737255301050863",
+        "in_reply_to_user_id": "1804067397730803712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931531299346674093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_insdina_ 啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804067397730803712",
+        "conversation_id": "1931531299346674093",
+        "created_at": "2025-06-08T01:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T02:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931531299346674093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931531299346674093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3863,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想，是不是只有我一个人会在每天的早上和晚上，给每一个加了qq的推友说早安、晚安\n因为真的不知道聊什么（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 1181,
+          "like_count": 15915,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 857
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T08:23:03.000Z",
+        "description": "大学生/mtf🏳️‍⚧️/AS/依赖共生+依赖无能/infp(infj?)/无证含糖 2025 02 23/小哭包😥/同类互fo～/最最最好的姐姐@zakoyyz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 73,
+                "username": "zakoyyz"
+              }
+            ]
+          }
+        },
+        "id": "1804067397730803712",
+        "location": "武汉",
+        "name": "insdina🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841139336903081984/pM-Hc-ht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 404,
+          "like_count": 11797,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 578
+        },
+        "username": "_insdina_",
+        "verified": false
+      }
+    ]
+  }
+}

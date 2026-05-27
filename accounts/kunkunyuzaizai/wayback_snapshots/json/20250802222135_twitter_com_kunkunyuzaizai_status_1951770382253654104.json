@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1945297847399678286",
+    "created_at": "2025-08-02T22:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T23:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951770382253654104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868163970051211264",
+          "start": 0,
+          "username": "XianoYue86365"
+        },
+        {
+          "end": 25,
+          "id": "1804067397730803712",
+          "start": 15,
+          "username": "_insdina_"
+        },
+        {
+          "end": 34,
+          "id": "1903701047589343232",
+          "start": 26,
+          "username": "ceobrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951770382253654104",
+    "in_reply_to_user_id": "1868163970051211264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945297847399678286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XianoYue86365 @_insdina_ @ceobrus 华为折叠屏？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_1945297843385696256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv8WFPlWgAAn2l-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1945297847399678286",
+        "created_at": "2025-08-02T22:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T23:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951770382253654104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868163970051211264",
+              "start": 0,
+              "username": "XianoYue86365"
+            },
+            {
+              "end": 25,
+              "id": "1804067397730803712",
+              "start": 15,
+              "username": "_insdina_"
+            },
+            {
+              "end": 34,
+              "id": "1903701047589343232",
+              "start": 26,
+              "username": "ceobrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951770382253654104",
+        "in_reply_to_user_id": "1868163970051211264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945297847399678286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XianoYue86365 @_insdina_ @ceobrus 华为折叠屏？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945297843385696256"
+          ]
+        },
+        "author_id": "1868163970051211264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1945297847399678286",
+        "created_at": "2025-07-16T01:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T02:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945297847399678286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X7kGzNpwnX",
+              "end": 31,
+              "expanded_url": "https://x.com/XianoYue86365/status/1945297847399678286/photo/1",
+              "media_key": "3_1945297843385696256",
+              "start": 8,
+              "url": "https://t.co/X7kGzNpwnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945297847399678286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4936,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "迟到の主页合照 https://t.co/X7kGzNpwnX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 1295,
+          "like_count": 20243,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1160
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T05:21:46.000Z",
+        "description": "09︱170㎝ 57㎏︱🏳‍⚧无证含糖 hrt2024.12.17︱容貌焦虑症qwq︱4i︱是弱受喵uwu︱新来的多多关照喵ovo︱喜欢涩涩（同类是最棒哒︱鱼脑（笨︱弱受︱小号@Suochengtuan ︱最好的姐姐～@kill27012 ︱ 好妈妈@ruantangnn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "Suochengtuan"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "kill27012"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "ruantangnn"
+              }
+            ]
+          }
+        },
+        "id": "1868163970051211264",
+        "location": "福建",
+        "name": "羽秋Yuki🏳‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905918810701365250/reTZSqWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 460,
+          "like_count": 1055,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 149
+        },
+        "username": "XianoYue86365",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T08:23:03.000Z",
+        "description": "大学生/mtf🏳️‍⚧️/ASD/依赖共生+依赖无能/infp(infj?)/无证含糖 2025 02 23/小哭包😥/同类互fo～/有时候没看见 私信回fo哦/其他一律查成分👀/最最最好的姐姐@zakoyyz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 97,
+                "username": "zakoyyz"
+              }
+            ]
+          }
+        },
+        "id": "1804067397730803712",
+        "location": "武汉",
+        "name": "insdina🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841139336903081984/pM-Hc-ht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 505,
+          "like_count": 12763,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 678
+        },
+        "username": "_insdina_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "they🏳‍⚧丨hrt2025/1/8丨药娘丨抖m受丨内向i人丨脸不好看丨180/58kg丨同类互fo🍥丨欢迎扩列丨我好喜欢散步欢迎找我逛街压马路口牙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ceobrus",
+                "end": 23,
+                "expanded_url": "https://t.me/ceobrus",
+                "start": 0,
+                "url": "https://t.co/jjy2nziSM9"
+              }
+            ]
+          }
+        },
+        "id": "1903701047589343232",
+        "name": "小方🏳‍⚧🍥",
+        "pinned_tweet_id": "1928308948953678241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939212280874299392/CfqB9_ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 842,
+          "like_count": 4795,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 1303
+        },
+        "url": "https://t.co/jjy2nziSM9",
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

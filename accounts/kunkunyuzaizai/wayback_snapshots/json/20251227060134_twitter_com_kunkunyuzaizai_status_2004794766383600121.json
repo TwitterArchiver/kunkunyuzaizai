@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2004568053846343900",
+    "created_at": "2025-12-27T06:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T07:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004794766383600121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1905837378515947521",
+          "start": 0,
+          "username": "xu908944825990"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004794766383600121",
+    "in_reply_to_user_id": "1905837378515947521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004568053846343900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu908944825990 中国环境是这样的 听不懂人话一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2004568053846343900",
+        "created_at": "2025-12-27T06:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004794766383600121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1905837378515947521",
+              "start": 0,
+              "username": "xu908944825990"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004794766383600121",
+        "in_reply_to_user_id": "1905837378515947521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004568053846343900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu908944825990 中国环境是这样的 听不懂人话一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905837378515947521",
+        "conversation_id": "2004568053846343900",
+        "created_at": "2025-12-26T15:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T16:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004568053846343900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004568053846343900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家母时好时坏的性格让我崩溃。我刚才去上厕所，她在客厅收拾东西，让我定下机场附近的酒店，我说你把定位改到机场就可以定了，她说她不会，我说了句那就睡大街。说完我就进屋了。过了两分钟她怒气冲冲的开门进来给我一顿骂，说我会不会好好说话，不会好好说话就去死… 何意味？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 2395,
+          "like_count": 36467,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2574
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T04:20:28.000Z",
+        "description": "只想在这个无人在意的角落做自己",
+        "id": "1905837378515947521",
+        "name": "野生灌汤包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999493085513089024/yR64T6nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 84,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 74
+        },
+        "username": "xu908944825990",
+        "verified": false
+      }
+    ]
+  }
+}

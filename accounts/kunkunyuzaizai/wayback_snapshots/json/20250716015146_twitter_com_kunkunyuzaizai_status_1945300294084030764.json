@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1945061847423705539",
+    "created_at": "2025-07-16T01:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T02:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945300294084030764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803314964284985344",
+          "start": 0,
+          "username": "jinluomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945300294084030764",
+    "in_reply_to_user_id": "1803314964284985344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945076063530590606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinluomiao 接了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1945061847423705539",
+        "created_at": "2025-07-16T01:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T02:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945300294084030764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803314964284985344",
+              "start": 0,
+              "username": "jinluomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945300294084030764",
+        "in_reply_to_user_id": "1803314964284985344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945076063530590606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinluomiao 接了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803314964284985344",
+        "conversation_id": "1945061847423705539",
+        "created_at": "2025-07-15T11:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T12:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945076063530590606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945076063530590606",
+        "in_reply_to_user_id": "1803314964284985344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 725,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945061847423705539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实其实我根本就没有坚持到10秒钟。差不多刚碰到就有点敏感了。然后没到5秒钟就射了。呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1289,
+          "like_count": 19696,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1107
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T06:32:58.000Z",
+        "description": "阿瑾。。。笨蛋阿瑾\n05年-05日-05月\nINFP\n有主人啦。\n24年8月28号无证含糖\n休学中\n情绪状况良好\n调养身体中\n170cm-72kg\n互fo请私信我哦\n小号：@jinluomiao5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 86,
+                "username": "jinluomiao5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinluomiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinluomiao",
+                "start": 0,
+                "url": "https://t.co/kL6TQThccf"
+              }
+            ]
+          }
+        },
+        "id": "1803314964284985344",
+        "location": "主人需要阿瑾的每一个地方",
+        "name": "小阿瑾🍥",
+        "pinned_tweet_id": "1867250521729306631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863679245043544064/UEWeNeh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 784,
+          "like_count": 17193,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 3781
+        },
+        "url": "https://t.co/kL6TQThccf",
+        "username": "jinluomiao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1906729343117889938",
+    "created_at": "2025-04-02T09:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T10:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907359156308512839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1759934847299244032",
+          "start": 0,
+          "username": "liu20041103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907359156308512839",
+    "in_reply_to_user_id": "1779063322500874240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907358844810063896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu20041103 粤语 beyond和 Eason 还有陈柏宇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1906729343117889938",
+        "created_at": "2025-04-02T09:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T10:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907359156308512839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1759934847299244032",
+              "start": 0,
+              "username": "liu20041103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907359156308512839",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907358844810063896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu20041103 粤语 beyond和 Eason 还有陈柏宇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1906729343117889938",
+        "created_at": "2025-04-02T09:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T10:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907358844810063896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1759934847299244032",
+              "start": 0,
+              "username": "liu20041103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907358844810063896",
+        "in_reply_to_user_id": "1759934847299244032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906729343117889938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu20041103 phonk和华语还有粤语偶尔日语什么的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 664,
+          "like_count": 12258,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 601
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T13:35:48.000Z",
+        "description": "这里是耳语！也是小苹果，还有表情包大王，桀桀桀\n希望大家看到我的主页会开心٩(๑^o^๑)۶",
+        "id": "1759934847299244032",
+        "name": "耳语",
+        "pinned_tweet_id": "1877490154752934342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902360238453661696/LbQYxcEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 416,
+          "like_count": 39777,
+          "listed_count": 1,
+          "media_count": 2688,
+          "tweet_count": 5664
+        },
+        "username": "liu20041103",
+        "verified": false
+      }
+    ]
+  }
+}

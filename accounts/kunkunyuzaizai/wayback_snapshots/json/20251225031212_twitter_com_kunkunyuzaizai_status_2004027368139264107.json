@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004027361382236160"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "2003693581580771399",
+    "created_at": "2025-12-25T03:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T04:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004027368139264107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/odb53wjXou",
+          "end": 44,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2004027368139264107/photo/1",
+          "media_key": "3_2004027361382236160",
+          "start": 21,
+          "url": "https://t.co/odb53wjXou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004027368139264107",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003693581580771399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 还没更新 https://t.co/odb53wjXou"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004027368139264107].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004027368139264107",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004027368139264107"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004027361382236160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8-8RHNaAAADujR.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003693574832140288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86MsLaaMAAlz_r.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003693574832140288"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003693581580771399",
+        "created_at": "2025-12-24T05:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T06:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003693581580771399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSEuzRntRB",
+              "end": 49,
+              "expanded_url": "https://x.com/RainEngine2024/status/2003693581580771399/photo/1",
+              "media_key": "3_2003693574832140288",
+              "start": 26,
+              "url": "https://t.co/wSEuzRntRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003693581580771399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 17422,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "QQ怎么又更新了呀\n改了ui也就算了还改的那么抽象 https://t.co/wSEuzRntRB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 2367,
+          "like_count": 35982,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2560
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "小米合作伙伴/米家线下运营/互联网小透明/喜欢拍照记录生活/爱好折腾数码产品/PM前请征得同意否则Ban/回复消息可能不及时还请谅解/最棒的女孩子w @Sokei_ko_nya/ GMT+8/ZH-CN/EN-US is OK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "Sokei_ko_nya"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2001491202013827260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999397701537136644/7_l653ly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4811,
+          "following_count": 690,
+          "like_count": 39375,
+          "listed_count": 6,
+          "media_count": 843,
+          "tweet_count": 5710
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

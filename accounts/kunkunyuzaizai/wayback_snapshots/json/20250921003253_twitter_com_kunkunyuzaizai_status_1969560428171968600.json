@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1969560428171968600",
+    "created_at": "2025-09-21T00:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T01:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969560428171968600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1728097820853563393",
+          "start": 3,
+          "username": "mochapai521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969560428171968600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968716078328005110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mochapai521: 喜欢我就不要喜欢别人了好不好?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1969560428171968600",
+        "created_at": "2025-09-21T00:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T01:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969560428171968600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1728097820853563393",
+              "start": 3,
+              "username": "mochapai521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969560428171968600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968716078328005110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mochapai521: 喜欢我就不要喜欢别人了好不好?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728097820853563393",
+        "conversation_id": "1968716078328005110",
+        "created_at": "2025-09-18T16:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T17:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968716078328005110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968716078328005110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3861,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢我就不要喜欢别人了好不好?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 65,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 42,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 2010,
+          "like_count": 29764,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2065
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T17:06:44.000Z",
+        "description": "仅此一号，被骗的别找我，不线下不yp\n置顶推广自辨  ‖  接转推",
+        "id": "1728097820853563393",
+        "location": "碎碎念",
+        "name": "草莓蛋挞",
+        "pinned_tweet_id": "1941908823150821504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894256075760951296/SFMYeALV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12459,
+          "following_count": 73,
+          "like_count": 2174,
+          "listed_count": 33,
+          "media_count": 53,
+          "tweet_count": 1425
+        },
+        "username": "mochapai521",
+        "verified": false
+      }
+    ]
+  }
+}

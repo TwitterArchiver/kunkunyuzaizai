@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1907982059236372633",
+    "created_at": "2025-04-05T10:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T11:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908463059922018621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830761760334454787",
+          "start": 0,
+          "username": "ci2008_tyxjzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908463059922018621",
+    "in_reply_to_user_id": "1830761760334454787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908461343491186942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ci2008_tyxjzl 我这初中满分800我就考400"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1907982059236372633",
+        "created_at": "2025-04-05T10:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T11:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908463059922018621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830761760334454787",
+              "start": 0,
+              "username": "ci2008_tyxjzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908463059922018621",
+        "in_reply_to_user_id": "1830761760334454787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908461343491186942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci2008_tyxjzl 我这初中满分800我就考400"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830761760334454787",
+        "conversation_id": "1907982059236372633",
+        "created_at": "2025-04-05T10:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T11:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908461343491186942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908461343491186942",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908424050160046432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 没有没有😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 742,
+          "like_count": 12974,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 656
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T00:16:43.000Z",
+        "description": "我叫了你的名字，你却问我那是谁 | ISFJ | 双相的憋屈高一生😵/物化政 | hrt 24.07.20 | 场上司职右后卫RB | 蹭小香风的骑手 | 乐手 | 我一定要上华东师大！！！！| 铁打的曼城球迷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/TCqLxW3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/TCqLxW3",
+                "start": 0,
+                "url": "https://t.co/gSBTk1pqA1"
+              }
+            ]
+          }
+        },
+        "id": "1830761760334454787",
+        "location": "成都市",
+        "name": "阿瓷ci🍥🇺🇦（ver.开学）",
+        "pinned_tweet_id": "1842015187672654138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884825735418019840/s_CAtvGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 105,
+          "like_count": 493,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 294
+        },
+        "url": "https://t.co/gSBTk1pqA1",
+        "username": "ci2008_tyxjzl",
+        "verified": false
+      }
+    ]
+  }
+}

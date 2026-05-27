@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960543491811065856"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1960405481073336501",
+    "created_at": "2025-08-27T03:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T04:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960543503320277041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1660228780558802945",
+          "start": 0,
+          "username": "Livai_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E4ivJ9cxrB",
+          "end": 41,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1960543503320277041/photo/1",
+          "media_key": "3_1960543491811065856",
+          "start": 18,
+          "url": "https://t.co/E4ivJ9cxrB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960543503320277041",
+    "in_reply_to_user_id": "1660228780558802945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960405481073336501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Livai_ovo 不会素这个叭 https://t.co/E4ivJ9cxrB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960543503320277041].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960543503320277041",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960543503320277041"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960543491811065856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzU_6xwaQAAnWlg.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960405461364301825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzTCYWRa4AE2Dla.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960405461364301825"
+          ]
+        },
+        "author_id": "1660228780558802945",
+        "conversation_id": "1960405481073336501",
+        "created_at": "2025-08-26T18:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T19:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960405481073336501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l3EVdaxBVY",
+              "end": 90,
+              "expanded_url": "https://x.com/Livai_ovo/status/1960405481073336501/photo/1",
+              "media_key": "3_1960405461364301825",
+              "start": 67,
+              "url": "https://t.co/l3EVdaxBVY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960405481073336501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 542,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我c！！！！\n朋友给我发了越南屠夫的瓜，在给一个男的撸，然后给他头砍了，分shi。😭好恶心\n还有另一个是梅毒吐了，我的眼睛😇（如图 https://t.co/l3EVdaxBVY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON  凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 1556,
+          "like_count": 25325,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1660
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T10:19:30.000Z",
+        "description": "https://t.co/wacDyuF66e匿名回答./ 求骚扰😋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/livai90786",
+                "end": 23,
+                "expanded_url": "http://ngl.link/livai90786",
+                "start": 0,
+                "url": "https://t.co/wacDyuF66e"
+              }
+            ]
+          }
+        },
+        "id": "1660228780558802945",
+        "location": "广东",
+        "name": "Livai",
+        "pinned_tweet_id": "1957452948621217949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937224921568223232/ESZ6Zhxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 37,
+          "like_count": 8016,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 2402
+        },
+        "username": "Livai_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

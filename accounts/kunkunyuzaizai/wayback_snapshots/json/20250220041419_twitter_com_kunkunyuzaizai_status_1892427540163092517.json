@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892427537495838723"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1892427540163092517",
+    "created_at": "2025-02-20T04:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T05:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892427540163092517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nkvuovAGVa",
+          "end": 39,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1892427540163092517/photo/1",
+          "media_key": "3_1892427537495838723",
+          "start": 16,
+          "url": "https://t.co/nkvuovAGVa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892427540163092517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "荒野行动这个是干嘛的恶心人的吗 https://t.co/nkvuovAGVa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1892427540163092517].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1892427540163092517",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1892427540163092517"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1892427537495838723",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkNA0Z-bUAMo1jQ.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 472,
+          "like_count": 8698,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 345
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

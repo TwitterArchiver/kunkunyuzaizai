@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906521283321532417"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1906197769918042282",
+    "created_at": "2025-03-31T01:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T02:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906521294054867397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1524331133856784384",
+          "start": 0,
+          "username": "SnAraAra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xXHMN3oprh",
+          "end": 37,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1906521294054867397/photo/1",
+          "media_key": "3_1906521283321532417",
+          "start": 14,
+          "url": "https://t.co/xXHMN3oprh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906521294054867397",
+    "in_reply_to_user_id": "1524331133856784384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906197769918042282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnAraAra 这个呢 https://t.co/xXHMN3oprh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1906521294054867397].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1906521294054867397",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1906521294054867397"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1906521283321532417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnVTAYkaEAEytvs.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524331133856784384",
+        "conversation_id": "1906197769918042282",
+        "created_at": "2025-03-30T04:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T05:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906197769918042282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906197769918042282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1701,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我一个从小玩4399都开无敌版的人，你能指望我有什么抗压能力啊。请不要攻击我，我有玉米症，把我逼急了就变成爆米花崩你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 643,
+          "like_count": 11901,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 576
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T10:10:48.000Z",
+        "description": "可以称呼我小芬，希望我的帖子可以缓解你当前的焦虑和不开心。\n是树洞推主，欢迎找我聊天哦。\n如果没有回复私信就是没看到，请稍等捏",
+        "id": "1524331133856784384",
+        "location": "距你500m",
+        "name": "芬·里卡",
+        "pinned_tweet_id": "1904168069850873922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889140590203617280/z_JkAXQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6993,
+          "following_count": 468,
+          "like_count": 10412,
+          "listed_count": 10,
+          "media_count": 1245,
+          "tweet_count": 4039
+        },
+        "username": "SnAraAra",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1938610425492566238",
+    "created_at": "2025-06-28T14:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T15:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938965373988278549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892240715100594176",
+          "start": 0,
+          "username": "chuF6yuanmen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938965373988278549",
+    "in_reply_to_user_id": "1892240715100594176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938875113535160510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuF6yuanmen 蟹蟹喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1938610425492566238",
+        "created_at": "2025-06-28T14:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T15:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938965373988278549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892240715100594176",
+              "start": 0,
+              "username": "chuF6yuanmen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938965373988278549",
+        "in_reply_to_user_id": "1892240715100594176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938875113535160510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuF6yuanmen 蟹蟹喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892240715100594176",
+        "conversation_id": "1938610425492566238",
+        "created_at": "2025-06-28T08:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T09:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938875113535160510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938875113535160510",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938610425492566238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 生日快乐喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 1260,
+          "like_count": 18855,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1035
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T15:52:22.000Z",
+        "description": "04｜hrt:25 3.1🍥｜喵喵喵｜含糖木桶饭 ｜174/50｜坐标山东｜是个废物｜同类互fo｜不见证｜推一辈子雷电将军😋｜猫猫@hgsbtin_nisaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 65,
+                "username": "hgsbtin_nisaki"
+              }
+            ]
+          }
+        },
+        "id": "1892240715100594176",
+        "name": "⁺✞假期重度依赖ɞ✟₊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916893727714684928/Jly1jONk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 438,
+          "like_count": 1975,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 894
+        },
+        "username": "chuF6yuanmen",
+        "verified": false
+      }
+    ]
+  }
+}

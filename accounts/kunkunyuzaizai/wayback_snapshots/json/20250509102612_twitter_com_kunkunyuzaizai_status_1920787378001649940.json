@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1920367841036914851",
+    "created_at": "2025-05-09T10:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T11:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920787378001649940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "886560923518779396",
+          "start": 0,
+          "username": "Rippin_C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920787378001649940",
+    "in_reply_to_user_id": "886560923518779396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920367841036914851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rippin_C 02都23岁了成老登了😭人过了20来岁身体机能就下降了只不过没那么快 我16岁都是中登了 我天天都感觉累😭不知道是🦌多了还是因为心理疾病带来的躯体化 还是贫血还是精神衰弱带来的 每天都像透支身体活着一样😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1920367841036914851",
+        "created_at": "2025-05-09T10:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T11:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920787378001649940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886560923518779396",
+              "start": 0,
+              "username": "Rippin_C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920787378001649940",
+        "in_reply_to_user_id": "886560923518779396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920367841036914851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rippin_C 02都23岁了成老登了😭人过了20来岁身体机能就下降了只不过没那么快 我16岁都是中登了 我天天都感觉累😭不知道是🦌多了还是因为心理疾病带来的躯体化 还是贫血还是精神衰弱带来的 每天都像透支身体活着一样😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886560923518779396",
+        "conversation_id": "1920367841036914851",
+        "created_at": "2025-05-08T06:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T07:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920367841036914851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920367841036914851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6224,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我估计可能会有0708的路人看了我的推文点进主页，看到bio这个02愣了半天，最终决定放弃关注（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 1015,
+          "like_count": 14854,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 794
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-16T12:19:30.000Z",
+        "description": "02 | 电波系&碎碎念&白日梦；喜欢可爱单纯的和病娇崩坏的事物；非键政非涩涩日常推；希望做一个少年感&包容&温柔&可爱&冷静的人。爱好游戏&音乐，主包没有雷点只有可能踩雷。好朋友 @bin_x_13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "bin_x_13"
+              }
+            ]
+          }
+        },
+        "id": "886560923518779396",
+        "location": "拉格朗日点L3",
+        "name": "涟漪Rippin",
+        "pinned_tweet_id": "1919319671544615201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899106386937868288/CVCUnFsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 933,
+          "like_count": 22264,
+          "listed_count": 6,
+          "media_count": 554,
+          "tweet_count": 4052
+        },
+        "username": "Rippin_C",
+        "verified": false
+      }
+    ]
+  }
+}

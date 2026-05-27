@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2016017740239368201",
+    "created_at": "2026-02-05T23:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T00:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019552757653664161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1480085140848078854",
+          "start": 0,
+          "username": "Lucky_Puppy000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019552757653664161",
+    "in_reply_to_user_id": "1480085140848078854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016017740239368201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucky_Puppy000 辅助带怎么戴啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2016017740239368201",
+        "created_at": "2026-02-05T23:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T00:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019552757653664161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1480085140848078854",
+              "start": 0,
+              "username": "Lucky_Puppy000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019552757653664161",
+        "in_reply_to_user_id": "1480085140848078854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016017740239368201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucky_Puppy000 辅助带怎么戴啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480085140848078854",
+        "conversation_id": "2016017740239368201",
+        "created_at": "2026-01-27T05:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016017740239368201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016017740239368201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 890,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前两天戴锁蛋皮没调整好，加上冬天冷缩蛋，给我磨自闭了，差点就磨破了，赶紧开锁调整蛋皮，涂一点点维生素E霜滋润一下\n然后脑子一热要不把辅助带搞上吧，结果就有了我去上班最难走的一段路，外面气温低→缩蛋→痛→吸气→收腹继续缩蛋→痛，死循环😣然后缓慢挪动到科室立马解开辅助带才算解放了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627|INFP|XYN|HRT2026 2.6|无证含糖🏳️‍⚧️🍥雌二醇凝胶|早八晚六打工人|使命召唤手游＆巅峰极速手游＆网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 131,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 108,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 2515,
+          "like_count": 38383,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2663
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-09T07:53:02.000Z",
+        "description": "医学牲｜0.5随机偏向某一方（当然也有可能side）｜cb锁狂热爱好者｜爱各类紧身｜球鞋控｜自锁（别想拿走我的钥匙！）｜努力增肌即将练成\nbase广州，可私信聊天，想找对象！",
+        "id": "1480085140848078854",
+        "location": "China",
+        "name": "小泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790371054793441280/XpsC870W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 628,
+          "like_count": 2440,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 803
+        },
+        "username": "Lucky_Puppy000",
+        "verified": false
+      }
+    ]
+  }
+}

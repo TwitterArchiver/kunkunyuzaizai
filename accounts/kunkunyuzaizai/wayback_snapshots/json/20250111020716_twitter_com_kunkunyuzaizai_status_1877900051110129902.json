@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1877352599793320405",
+    "created_at": "2025-01-11T02:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T03:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877900051110129902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1589203507852152832",
+          "start": 0,
+          "username": "JianLv117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877900051110129902",
+    "in_reply_to_user_id": "1589203507852152832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877352599793320405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JianLv117 普通人一天用🈶一千就很多钱了 我一年也才花四五千我太穷了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1877352599793320405",
+        "created_at": "2025-01-11T02:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T03:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877900051110129902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589203507852152832",
+              "start": 0,
+              "username": "JianLv117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877900051110129902",
+        "in_reply_to_user_id": "1589203507852152832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877352599793320405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JianLv117 普通人一天用🈶一千就很多钱了 我一年也才花四五千我太穷了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877352595582496770",
+            "3_1877352595326644224",
+            "3_1877352595507036160",
+            "3_1877352595364446208"
+          ]
+        },
+        "author_id": "1589203507852152832",
+        "conversation_id": "1877352599793320405",
+        "created_at": "2025-01-09T13:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T14:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877352599793320405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVOX4rRNaq",
+              "end": 41,
+              "expanded_url": "https://x.com/JianLv117/status/1877352599793320405/photo/1",
+              "media_key": "3_1877352595582496770",
+              "start": 18,
+              "url": "https://t.co/hVOX4rRNaq"
+            },
+            {
+              "display_url": "pic.x.com/hVOX4rRNaq",
+              "end": 41,
+              "expanded_url": "https://x.com/JianLv117/status/1877352599793320405/photo/1",
+              "media_key": "3_1877352595326644224",
+              "start": 18,
+              "url": "https://t.co/hVOX4rRNaq"
+            },
+            {
+              "display_url": "pic.x.com/hVOX4rRNaq",
+              "end": 41,
+              "expanded_url": "https://x.com/JianLv117/status/1877352599793320405/photo/1",
+              "media_key": "3_1877352595507036160",
+              "start": 18,
+              "url": "https://t.co/hVOX4rRNaq"
+            },
+            {
+              "display_url": "pic.x.com/hVOX4rRNaq",
+              "end": 41,
+              "expanded_url": "https://x.com/JianLv117/status/1877352599793320405/photo/1",
+              "media_key": "3_1877352595364446208",
+              "start": 18,
+              "url": "https://t.co/hVOX4rRNaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877352599793320405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 468373,
+          "like_count": 815,
+          "quote_count": 17,
+          "reply_count": 376,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "请问普通人怎么才能过上这样的生活？ https://t.co/hVOX4rRNaq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 289,
+          "like_count": 5949,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 257
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T10:30:25.000Z",
+        "description": "一个奇怪的人，人物志评分创始人 INTJ\n二次元 热爱于与大家讨论政史 汴京❌\n 🇺🇸🇩🇪🇫🇷🇦🇺🇬🇧🇮🇹🇪🇸🇯🇵\n可互关(私信)\n逃生舱：@lyngxu3  \n搭档：@KawawaDiana8964\n死党: @HANABIRIKAJIANG\n伙伴：@RealColidora3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "lyngxu3"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "HANABIRIKAJIANG"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "RealColidora3"
+              }
+            ]
+          }
+        },
+        "id": "1589203507852152832",
+        "location": "新西兰（转推多为广告哈❛˓◞˂̵✧）",
+        "name": "简律",
+        "pinned_tweet_id": "1877579669647605883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873689474133274624/7nI7UtsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12103,
+          "following_count": 807,
+          "like_count": 42685,
+          "listed_count": 49,
+          "media_count": 1953,
+          "tweet_count": 5228
+        },
+        "username": "JianLv117",
+        "verified": true
+      }
+    ]
+  }
+}

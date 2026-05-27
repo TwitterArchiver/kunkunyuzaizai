@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1996435197777392054",
+    "created_at": "2025-12-04T23:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T00:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996728986920223156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1974444689677017088",
+          "start": 0,
+          "username": "m1542hfvj"
+        },
+        {
+          "end": 22,
+          "id": "1504799211799265282",
+          "start": 11,
+          "username": "LiuSuK7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996728986920223156",
+    "in_reply_to_user_id": "1974444689677017088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996570565801660512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1542hfvj @LiuSuK7777 像伪4i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 330,
+        "media_key": "3_1996570562412580864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7U-WSWakAAJJyB.jpg",
+        "width": 330
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1996435197777392054",
+        "created_at": "2025-12-04T23:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T00:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996728986920223156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1974444689677017088",
+              "start": 0,
+              "username": "m1542hfvj"
+            },
+            {
+              "end": 22,
+              "id": "1504799211799265282",
+              "start": 11,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996728986920223156",
+        "in_reply_to_user_id": "1974444689677017088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996570565801660512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1542hfvj @LiuSuK7777 像伪4i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996570562412580864"
+          ]
+        },
+        "author_id": "1974444689677017088",
+        "conversation_id": "1996435197777392054",
+        "created_at": "2025-12-04T13:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996570565801660512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxvegyD7xb",
+              "end": 58,
+              "expanded_url": "https://x.com/m1542hfvj/status/1996570565801660512/photo/1",
+              "media_key": "3_1996570562412580864",
+              "start": 35,
+              "url": "https://t.co/cxvegyD7xb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996570565801660512",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996435197777392054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 你想象一下男娘当s然后肌肉猛男是m的场景曼波 https://t.co/cxvegyD7xb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 2356,
+          "like_count": 33831,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2477
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T12:01:19.000Z",
+        "description": "私信打扰到你们了很抱歉曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波曼波",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "曼波曼波曼波曼波曼波曼波曼波曼波曼波.com",
+                "end": 23,
+                "expanded_url": "http://xn--vovaaaaaaaa602mbabbbbbbb.com",
+                "start": 0,
+                "url": "https://t.co/fhnqbnEYKt"
+              }
+            ]
+          }
+        },
+        "id": "1974444689677017088",
+        "location": "总是在各个评论区奔走曼波曼波",
+        "name": "哈基米 曼波",
+        "pinned_tweet_id": "1996405737585819937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996448592568233984/gHL51TTn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 17,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/fhnqbnEYKt",
+        "username": "m1542hfvj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏~成分是舞萌/东方/Arcaea/明日方舟/三角洲\n逃生舱@liusuk8888\n我是男孩子！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "liusuk8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "error",
+        "name": "流月流苏K",
+        "pinned_tweet_id": "1996143989125419275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994695488520835072/aNvlyX-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2905,
+          "following_count": 2749,
+          "like_count": 35425,
+          "listed_count": 13,
+          "media_count": 1544,
+          "tweet_count": 33059
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

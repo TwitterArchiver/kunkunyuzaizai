@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2005988016444301805",
+    "created_at": "2025-12-31T16:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T17:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006404504791769129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2253575484",
+          "start": 0,
+          "username": "yixiantian22"
+        },
+        {
+          "end": 25,
+          "id": "1605171476881371136",
+          "start": 14,
+          "username": "haku_dabai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006404504791769129",
+    "in_reply_to_user_id": "2253575484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006211343272271960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yixiantian22 @haku_dabai 推特哪来的实名 国产安卓又咋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2005988016444301805",
+        "created_at": "2025-12-31T16:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006404504791769129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2253575484",
+              "start": 0,
+              "username": "yixiantian22"
+            },
+            {
+              "end": 25,
+              "id": "1605171476881371136",
+              "start": 14,
+              "username": "haku_dabai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006404504791769129",
+        "in_reply_to_user_id": "2253575484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006211343272271960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixiantian22 @haku_dabai 推特哪来的实名 国产安卓又咋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2253575484",
+        "conversation_id": "2005988016444301805",
+        "created_at": "2025-12-31T03:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T04:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006211343272271960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1605171476881371136",
+              "start": 0,
+              "username": "haku_dabai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006211343272271960",
+        "in_reply_to_user_id": "1605171476881371136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3986,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005988016444301805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haku_dabai 新手翻墙推玩家的蠢已经无可救药。第一不在推上用自己的实名，用捡的证件哥别人的手机验证，别用腾讯邮箱，别用国产安卓。最好不用客户端"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 2425,
+          "like_count": 36924,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2602
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-19T14:05:19.000Z",
+        "description": "民主是独裁的帮凶\n右派是左派的温床",
+        "id": "2253575484",
+        "location": "Tokyo-to, Japan",
+        "name": "过期的长生不老药",
+        "pinned_tweet_id": "1922224873067237617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1487936287424319488/LMyUPYTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 877,
+          "like_count": 10824,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 20983
+        },
+        "username": "yixiantian22",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T12:01:24.000Z",
+        "description": "最爱@ptilopsis_xiao |里@haku_uchi | 可爱翻车brat中@dontbesadforit | 躁郁 | ENFP-T | 天才化学少女 | vup预备中 | N2备考中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "ptilopsis_xiao"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "haku_uchi"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "dontbesadforit"
+              }
+            ]
+          }
+        },
+        "id": "1605171476881371136",
+        "location": "距你3.2km",
+        "name": "大白白白大",
+        "pinned_tweet_id": "1849401311860867118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998544854268379136/TzRnZX2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2587,
+          "following_count": 1617,
+          "like_count": 21986,
+          "listed_count": 9,
+          "media_count": 1223,
+          "tweet_count": 18049
+        },
+        "username": "haku_dabai",
+        "verified": false
+      }
+    ]
+  }
+}

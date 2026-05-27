@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907776937520668672"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1907633844640969099",
+    "created_at": "2025-04-03T12:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T13:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907776954599641273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760890372585037824",
+          "start": 0,
+          "username": "puddings00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HM3f5X5uxu",
+          "end": 35,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1907776954599641273/photo/1",
+          "media_key": "3_1907776937520668672",
+          "start": 12,
+          "url": "https://t.co/HM3f5X5uxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907776954599641273",
+    "in_reply_to_user_id": "1760890372585037824",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907633844640969099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puddings00 https://t.co/HM3f5X5uxu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907776954599641273].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907776954599641273",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907776954599641273"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1907776937520668672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnnJBE-aIAAV4-r.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760890372585037824",
+        "conversation_id": "1907633844640969099",
+        "created_at": "2025-04-03T03:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T04:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907633844640969099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907633844640969099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1710,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好奇大家现在在干什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 676,
+          "like_count": 12525,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 631
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:52:48.000Z",
+        "description": "希望你可以喜欢我哦\nzh-CN&en-US/可爱的mtf一只~🏳️‍⚧️/she or her🩷/157cm＆40kg/HRT•30.8.23🍥/infp-t/喜欢贴贴🌟/不常玩游戏/🚪100/🏳️‍⚧️同类互fo喵/                   最爱的笨蛋老公:@XXSHHZ8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 136,
+                "username": "XXSHHZ8964"
+              }
+            ]
+          }
+        },
+        "id": "1760890372585037824",
+        "location": "Taiwan",
+        "name": "布丁喵呜🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1844773108760121787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760890511252955136/x0DpoxWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 481,
+          "like_count": 3946,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 2395
+        },
+        "username": "puddings00",
+        "verified": false
+      }
+    ]
+  }
+}

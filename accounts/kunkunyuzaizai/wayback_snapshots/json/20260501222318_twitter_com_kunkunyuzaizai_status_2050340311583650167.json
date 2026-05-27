@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2050014343480381581",
+    "created_at": "2026-05-01T22:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T23:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050340311583650167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1770506396515340288",
+          "start": 0,
+          "username": "yameta_www"
+        },
+        {
+          "end": 22,
+          "id": "1919296206381170688",
+          "start": 12,
+          "username": "juhao0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050340311583650167",
+    "in_reply_to_user_id": "1770506396515340288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050158467516936586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yameta_www @juhao0721 四爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2050014343480381581",
+        "created_at": "2026-05-01T22:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T23:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050340311583650167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1770506396515340288",
+              "start": 0,
+              "username": "yameta_www"
+            },
+            {
+              "end": 22,
+              "id": "1919296206381170688",
+              "start": 12,
+              "username": "juhao0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050340311583650167",
+        "in_reply_to_user_id": "1770506396515340288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050158467516936586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yameta_www @juhao0721 四爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770506396515340288",
+        "conversation_id": "2050014343480381581",
+        "created_at": "2026-05-01T10:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050158467516936586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919296206381170688",
+              "start": 0,
+              "username": "juhao0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050158467516936586",
+        "in_reply_to_user_id": "1919296206381170688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1712,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050014343480381581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juhao0721 香香软软和男媳妇怎么放到一块的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 2983,
+          "like_count": 45693,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 3176
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T17:43:21.000Z",
+        "description": "読み方は「はにゅう」「Haniu」｜来年大阪に引っ越す予定です｜今は東京に住んでいる｜日本語学校の2年生です｜大阪経済大学を目指します｜友達を探して一緒に楽しんで下さい！『海外の方も大歓迎です！』",
+        "id": "1770506396515340288",
+        "location": "Tokyo-to, Japan",
+        "name": "羽生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777566343484837888/AMSKrpM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 357,
+          "like_count": 4170,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 1322
+        },
+        "username": "yameta_www",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-05T07:42:19.000Z",
+        "description": "有舞萌DX附近的吗\n♥️@Allenium114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Allenium114"
+              }
+            ]
+          }
+        },
+        "id": "1919296206381170688",
+        "location": "重庆",
+        "name": "蛤基句",
+        "pinned_tweet_id": "1988833019495375171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965438456919957504/fGrs8E0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4244,
+          "following_count": 111,
+          "like_count": 2729,
+          "listed_count": 8,
+          "media_count": 276,
+          "tweet_count": 1252
+        },
+        "username": "juhao0721",
+        "verified": false
+      }
+    ]
+  }
+}

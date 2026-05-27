@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1939497052670713953",
+    "created_at": "2025-07-01T00:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T01:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939838665183953110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593205544973905922",
+          "start": 0,
+          "username": "xunyestxr123"
+        },
+        {
+          "end": 24,
+          "id": "964534819664289792",
+          "start": 14,
+          "username": "SujitGund"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939838665183953110",
+    "in_reply_to_user_id": "1593205544973905922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939640223316734135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xunyestxr123 @SujitGund 家庭原因占一部分吧很多大人都说男生要坚强 不能哭什么的就想当女生咯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1939497052670713953",
+        "created_at": "2025-07-01T00:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T01:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939838665183953110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593205544973905922",
+              "start": 0,
+              "username": "xunyestxr123"
+            },
+            {
+              "end": 24,
+              "id": "964534819664289792",
+              "start": 14,
+              "username": "SujitGund"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939838665183953110",
+        "in_reply_to_user_id": "1593205544973905922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939640223316734135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xunyestxr123 @SujitGund 家庭原因占一部分吧很多大人都说男生要坚强 不能哭什么的就想当女生咯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593205544973905922",
+        "conversation_id": "1939497052670713953",
+        "created_at": "2025-06-30T11:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T12:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939640223316734135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "964534819664289792",
+              "start": 0,
+              "username": "SujitGund"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939640223316734135",
+        "in_reply_to_user_id": "964534819664289792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939497052670713953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SujitGund 跨性别的心理动机到底是什么啊\n想要有异性的生理结构？喜欢性别身份背后的文化（比如衣着等）？还是在性别上投射了某种价值？\n我尊重跨性别者，但是我确实想知道ta们跨性别的动力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 1264,
+          "like_count": 19131,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1057
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T11:33:16.000Z",
+        "description": "英端善達勇康權信誠神理容｜🇯🇵日本語勉強中 / 日本留学準備中 | 🗣中文（简、繁）＋English | Sharing daily life & thoughts | 🌏 Willing to make friends worldwide | 兩岸和平、中日友好| Ins : xieyuhuai22",
+        "id": "1593205544973905922",
+        "location": "China",
+        "name": "尋葉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889515199365009408/a0QJLtQv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 77,
+          "like_count": 1174,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 187
+        },
+        "username": "xunyestxr123",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-16T16:19:56.000Z",
+        "description": "推特千万不要设置出生日期",
+        "id": "964534819664289792",
+        "location": "Tokyo-to, Japan",
+        "name": "真尋.",
+        "pinned_tweet_id": "1938787662502207527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885506654764228610/kg8iTPpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 113,
+          "like_count": 11910,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 3842
+        },
+        "username": "SujitGund",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1920675818440708206",
+    "created_at": "2025-05-09T09:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T10:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920770458711908807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "ryq59"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920770458711908807",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920675818440708206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryq59 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1920675818440708206",
+        "created_at": "2025-05-09T09:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T10:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920770458711908807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "ryq59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920770458711908807",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920675818440708206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryq59 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243945571796295681",
+        "conversation_id": "1920675818440708206",
+        "created_at": "2025-05-09T03:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T04:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920675818440708206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920675818440708206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4391,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 62,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来主页戳气球\n\n生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 1014,
+          "like_count": 14837,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 790
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "MTX 🏳️‍⚧️ / Honor of King tutor / former pubgm tutor / 由 @aoi_mti 共同管理",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 57,
+                "username": "aoi_mti"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "Tianjin, Hangzhou, Hong Kong ",
+        "name": "你是想气死铨酱么🍥（生命倒计时ing）",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920674697257381889/7MXMdhXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17368,
+          "following_count": 4932,
+          "like_count": 180997,
+          "listed_count": 71,
+          "media_count": 5270,
+          "tweet_count": 23289
+        },
+        "username": "ryq59",
+        "verified": true
+      }
+    ]
+  }
+}

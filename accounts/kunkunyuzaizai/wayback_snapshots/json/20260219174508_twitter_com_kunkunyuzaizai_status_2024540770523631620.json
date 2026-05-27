@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2024160062424653953",
+    "created_at": "2026-02-19T17:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024540770523631620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2699302994",
+          "start": 0,
+          "username": "FoxiestFoxo"
+        },
+        {
+          "end": 29,
+          "id": "438953796",
+          "start": 13,
+          "username": "whatasillyworld"
+        },
+        {
+          "end": 41,
+          "id": "1685499489493323776",
+          "start": 30,
+          "username": "GuiMengNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024540770523631620",
+    "in_reply_to_user_id": "2699302994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024287894857535836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxiestFoxo @whatasillyworld @GuiMengNya OLED的锅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2024160062424653953",
+        "created_at": "2026-02-19T17:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024540770523631620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2699302994",
+              "start": 0,
+              "username": "FoxiestFoxo"
+            },
+            {
+              "end": 29,
+              "id": "438953796",
+              "start": 13,
+              "username": "whatasillyworld"
+            },
+            {
+              "end": 41,
+              "id": "1685499489493323776",
+              "start": 30,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024540770523631620",
+        "in_reply_to_user_id": "2699302994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024287894857535836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxiestFoxo @whatasillyworld @GuiMengNya OLED的锅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2699302994",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2024160062424653953",
+        "created_at": "2026-02-19T01:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024287894857535836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "438953796",
+              "start": 0,
+              "username": "whatasillyworld"
+            },
+            {
+              "end": 28,
+              "id": "1685499489493323776",
+              "start": 17,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024287894857535836",
+        "in_reply_to_user_id": "438953796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2059,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024216860582174978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whatasillyworld @GuiMengNya 人类果然奇怪。还不如变成狐狸算了。\n\n有了WiFi和5G当然会头晕啊。\n如果没了WiFi和5G、断网了，自然不会从早到晚刷手机看抖音。那么自然就不会头痛了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|\n|不OD|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 137,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 114,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 2588,
+          "like_count": 39778,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2741
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-01T22:48:19.000Z",
+        "description": "Fox is love. Fox is life.\n#animaltwt #fox #foxoftheday",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 26,
+                "tag": "animaltwt"
+              },
+              {
+                "end": 41,
+                "start": 37,
+                "tag": "fox"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "tag": "foxoftheday"
+              }
+            ]
+          }
+        },
+        "id": "2699302994",
+        "location": "The woods",
+        "name": "Fox",
+        "pinned_tweet_id": "2024402807353418094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004635070800535552/Wb9jlH3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 1784,
+          "like_count": 871,
+          "listed_count": 3,
+          "media_count": 419,
+          "tweet_count": 2544
+        },
+        "username": "FoxiestFoxo",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-17T06:15:37.000Z",
+        "description": "",
+        "id": "438953796",
+        "location": "North Carolina, USA",
+        "name": "人类💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637874196645814272/HBZHPFvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 294,
+          "like_count": 23686,
+          "listed_count": 6,
+          "media_count": 932,
+          "tweet_count": 10576
+        },
+        "username": "whatasillyworld",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7164,
+          "following_count": 725,
+          "like_count": 10116,
+          "listed_count": 24,
+          "media_count": 1254,
+          "tweet_count": 3407
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

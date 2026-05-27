@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1894053170969752037",
+    "created_at": "2025-02-26T15:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T16:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894766127412314462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "972479002978873344",
+          "start": 0,
+          "username": "lossmutu"
+        },
+        {
+          "end": 20,
+          "id": "1436429159526330372",
+          "start": 10,
+          "username": "only15526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894766127412314462",
+    "in_reply_to_user_id": "972479002978873344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894074867022008374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lossmutu @only15526 雷利？海贼王雷利？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1894053170969752037",
+        "created_at": "2025-02-26T15:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T16:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894766127412314462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "972479002978873344",
+              "start": 0,
+              "username": "lossmutu"
+            },
+            {
+              "end": 20,
+              "id": "1436429159526330372",
+              "start": 10,
+              "username": "only15526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894766127412314462",
+        "in_reply_to_user_id": "972479002978873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894074867022008374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lossmutu @only15526 雷利？海贼王雷利？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "972479002978873344",
+        "conversation_id": "1894053170969752037",
+        "created_at": "2025-02-24T17:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T18:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894074867022008374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436429159526330372",
+              "start": 0,
+              "username": "only15526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894074867022008374",
+        "in_reply_to_user_id": "1436429159526330372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10565,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894053170969752037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@only15526 我第一次看的是雷利的 gangbang"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 589,
+          "like_count": 9879,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 433
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-10T14:27:16.000Z",
+        "description": "",
+        "id": "972479002978873344",
+        "name": "Mahou Shoujo Oreo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218221362793385985/La4tIL6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 296,
+          "like_count": 395,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 171
+        },
+        "username": "lossmutu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-10T20:39:40.000Z",
+        "description": "媚黑♠️丨反差婊人妻丨性瘾 丨曾经是女S丨分享自己的另一面♠ 小号:@QOSslut15526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "QOSslut15526"
+              }
+            ]
+          }
+        },
+        "id": "1436429159526330372",
+        "name": "♠️诗榆♠",
+        "pinned_tweet_id": "1847667497203618247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533050505257029637/eVhWptun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97968,
+          "following_count": 228,
+          "like_count": 231,
+          "listed_count": 206,
+          "media_count": 51,
+          "tweet_count": 167
+        },
+        "username": "only15526",
+        "verified": false
+      }
+    ]
+  }
+}

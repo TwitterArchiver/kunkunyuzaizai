@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892428467750539264"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1892428471458017303",
+    "created_at": "2025-02-20T04:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T05:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892428471458017303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xxbOK6nx9S",
+          "end": 35,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1892428471458017303/photo/1",
+          "media_key": "3_1892428467750539264",
+          "start": 12,
+          "url": "https://t.co/xxbOK6nx9S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892428471458017303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好喝就是贵 第一次喝🥺 https://t.co/xxbOK6nx9S"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1892428471458017303].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1892428471458017303",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1892428471458017303"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1892428467750539264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkNBqjcbkAAavQQ.jpg",
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 472,
+          "like_count": 8698,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 346
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

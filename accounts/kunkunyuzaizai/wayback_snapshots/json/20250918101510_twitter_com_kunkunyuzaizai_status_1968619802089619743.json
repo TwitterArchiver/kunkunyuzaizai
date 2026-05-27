@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968619802089619743",
+    "created_at": "2025-09-18T10:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T11:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968619802089619743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sberrybambi_/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/sberrybambi_/status/1968516053300043962",
+          "start": 12,
+          "url": "https://t.co/U7dnsqskSK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968619802089619743",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968516053300043962",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推特上能有真感情就怪了 https://t.co/U7dnsqskSK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968619802089619743",
+        "created_at": "2025-09-18T10:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T11:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968619802089619743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sberrybambi_/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/sberrybambi_/status/1968516053300043962",
+              "start": 12,
+              "url": "https://t.co/U7dnsqskSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968619802089619743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968516053300043962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特上能有真感情就怪了 https://t.co/U7dnsqskSK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357123381712195584",
+        "conversation_id": "1968516053300043962",
+        "created_at": "2025-09-18T03:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T04:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968516053300043962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968516053300043962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 15924,
+          "like_count": 271,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "推特上能有真感情就怪了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 1903,
+          "like_count": 29013,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1988
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T00:26:49.000Z",
+        "description": "🖤♡ ₊˚ 小女孩日记 ₊˚ ♡🖤",
+        "id": "1357123381712195584",
+        "name": "🦦",
+        "pinned_tweet_id": "1952750564510466155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928635307886575616/m1aTZYXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14044,
+          "following_count": 218,
+          "like_count": 29760,
+          "listed_count": 14,
+          "media_count": 65,
+          "tweet_count": 4442
+        },
+        "username": "sberrybambi_",
+        "verified": false
+      }
+    ]
+  }
+}

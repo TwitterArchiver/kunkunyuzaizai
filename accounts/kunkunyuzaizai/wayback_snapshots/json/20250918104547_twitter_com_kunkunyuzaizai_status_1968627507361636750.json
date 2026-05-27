@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968550318763110525",
+    "created_at": "2025-09-18T10:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T11:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968627507361636750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1571733427334025230",
+          "start": 0,
+          "username": "Colleen50394733"
+        },
+        {
+          "end": 26,
+          "id": "1793273469637111808",
+          "start": 17,
+          "username": "hui_0024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968627507361636750",
+    "in_reply_to_user_id": "1571733427334025230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968627206260961557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Colleen50394733 @hui_0024 不知道一年赚不赚得到一个w😭 我要是一个月🈶2000都好咯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968550318763110525",
+        "created_at": "2025-09-18T10:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T11:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968627507361636750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1571733427334025230",
+              "start": 0,
+              "username": "Colleen50394733"
+            },
+            {
+              "end": 26,
+              "id": "1793273469637111808",
+              "start": 17,
+              "username": "hui_0024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968627507361636750",
+        "in_reply_to_user_id": "1571733427334025230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968627206260961557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Colleen50394733 @hui_0024 不知道一年赚不赚得到一个w😭 我要是一个月🈶2000都好咯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571733427334025230",
+        "conversation_id": "1968550318763110525",
+        "created_at": "2025-09-18T10:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T11:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968627206260961557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 25,
+              "id": "1793273469637111808",
+              "start": 16,
+              "username": "hui_0024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968627206260961557",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968620843187200457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @hui_0024 你也会有的小云"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 1910,
+          "like_count": 29108,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1999
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T05:30:52.000Z",
+        "description": "刚来的性压抑的口无遮拦的伪人",
+        "id": "1571733427334025230",
+        "location": "秦岭站",
+        "name": "St. Peter Bear",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747288096679608320/RD7vb8G3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 99,
+          "like_count": 1292,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 285
+        },
+        "username": "Colleen50394733",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T13:31:41.000Z",
+        "description": "叫我小绘 高p 泛性恋 主人@StrawberryFree_ 随意分享日常 无门槛喜欢可以投喂（纯绿不会发生什么）推广自辨 不约不露三点 私信会看 只回感兴趣 美少女互关贴贴 碎碎念小号@xn5410298085554仅限互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "StrawberryFree_"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "xn5410298085554"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hui_0024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hui_0024",
+                "start": 0,
+                "url": "https://t.co/L8wYoFvWTP"
+              }
+            ]
+          }
+        },
+        "id": "1793273469637111808",
+        "location": "匿名箱看这里⬇️ 互关加v私信即可ovo",
+        "name": "一只小绘饼",
+        "pinned_tweet_id": "1952428623602028847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965659126874423296/ixs1MM0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 813,
+          "like_count": 7373,
+          "listed_count": 3,
+          "media_count": 89,
+          "tweet_count": 7641
+        },
+        "url": "https://t.co/L8wYoFvWTP",
+        "username": "hui_0024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920752297396641792"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1920508736784748892",
+    "created_at": "2025-05-09T08:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T09:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920752300873629703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872296054756102144",
+          "start": 0,
+          "username": "Shi_wu_nian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/06vdNwneg8",
+          "end": 36,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1920752300873629703/photo/1",
+          "media_key": "3_1920752297396641792",
+          "start": 13,
+          "url": "https://t.co/06vdNwneg8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920752300873629703",
+    "in_reply_to_user_id": "1872296054756102144",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920508736784748892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shi_wu_nian https://t.co/06vdNwneg8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1920752300873629703].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1920752300873629703",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1920752300873629703"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920752297396641792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqfiCbPXoAAVJwt.jpg",
+        "width": 922
+      },
+      {
+        "height": 503,
+        "media_key": "3_1920508725380464640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqcEgqxXQAA4KWn.jpg",
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920508725380464640"
+          ]
+        },
+        "author_id": "1872296054756102144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1920508736784748892",
+        "created_at": "2025-05-08T15:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T16:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920508736784748892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pGgS85bW0r",
+              "end": 38,
+              "expanded_url": "https://x.com/Shi_wu_nian/status/1920508736784748892/photo/1",
+              "media_key": "3_1920508725380464640",
+              "start": 15,
+              "url": "https://t.co/pGgS85bW0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920508736784748892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1630,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "亚硝酸钠可以为我缓解痛苦吗？ https://t.co/pGgS85bW0r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 1009,
+          "like_count": 14773,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 788
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T14:59:51.000Z",
+        "description": "窝系小包｜生产日期2007.6.2🐷｜是只性格温顺的小喵喵｜是个想要永远17岁滴小傻瓜｜半家长党｜徐州的无证含糖xyn，刷新地点南京、徐州｜高中休学中，炸过柜。｜糖🍥经常被爸妈没收，求好心人投喂🥹｜目前不接线下，只想要甜甜滴恋爱，绿泡泡🚪槛25（同类可免）50可看涩涩滴🥵｜互fo请私信骚扰我喵～",
+        "id": "1872296054756102144",
+        "location": "徐州",
+        "name": "十五年🍥",
+        "pinned_tweet_id": "1888250909676958043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920318227168526336/hY0_wlPd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 162,
+          "like_count": 774,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 290
+        },
+        "username": "Shi_wu_nian",
+        "verified": false
+      }
+    ]
+  }
+}

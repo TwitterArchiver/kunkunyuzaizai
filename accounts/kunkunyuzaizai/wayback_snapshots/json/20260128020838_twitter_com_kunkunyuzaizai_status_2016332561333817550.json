@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2016128359647121424",
+    "created_at": "2026-01-28T02:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T03:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016332561333817550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1662374338908270592",
+          "start": 0,
+          "username": "8az_pap"
+        },
+        {
+          "end": 18,
+          "id": "1973792014455152640",
+          "start": 9,
+          "username": "TTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016332561333817550",
+    "in_reply_to_user_id": "1662374338908270592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016165273884307701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8az_pap @TTypezhi 我打工一个月就一千块😭 上不了学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2016128359647121424",
+        "created_at": "2026-01-28T02:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T03:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016332561333817550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1662374338908270592",
+              "start": 0,
+              "username": "8az_pap"
+            },
+            {
+              "end": 18,
+              "id": "1973792014455152640",
+              "start": 9,
+              "username": "TTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016332561333817550",
+        "in_reply_to_user_id": "1662374338908270592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016165273884307701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8az_pap @TTypezhi 我打工一个月就一千块😭 上不了学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662374338908270592",
+        "conversation_id": "2016128359647121424",
+        "created_at": "2026-01-27T15:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016165273884307701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973792014455152640",
+              "start": 0,
+              "username": "TTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016165273884307701",
+        "in_reply_to_user_id": "1973792014455152640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016128359647121424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTypezhi 补药啊😭\n如果家里人不是特别反对的话读书打工都可以的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 2451,
+          "like_count": 37805,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2648
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T08:26:20.000Z",
+        "description": "出厂日期：2006.11.15\n翻车顺男\nHRT 2025.9.03-2025.10.03\n2026.1.2-\n半个家长党",
+        "id": "1662374338908270592",
+        "location": "杭州下沙",
+        "name": "8az_🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978061538394349568/KPunYccH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 40,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 123
+        },
+        "username": "8az_pap",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T16:47:54.000Z",
+        "description": "🏳️‍⚧️hrt:2025/01/09🍭/目前是某人的第三代目哦(跟以前完全不一样了呢)😵/好希望跟大家做朋友🥺/生日20090307现在16喵🥺/永怀大号@zhishi_cook",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "zhishi_cook"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/SDCzGxo8Po"
+              }
+            ]
+          }
+        },
+        "id": "1973792014455152640",
+        "name": "知式（三代目）🍥🍭🥑🍰",
+        "pinned_tweet_id": "2013112043508035682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 654,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/SDCzGxo8Po",
+        "username": "TTypezhi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1929282921484943718",
+    "created_at": "2025-06-04T15:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T16:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930280881098502344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1434508858496622597",
+          "start": 0,
+          "username": "maomao_owo0301"
+        },
+        {
+          "end": 27,
+          "id": "1656837398968279042",
+          "start": 16,
+          "username": "wanyuan456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930280881098502344",
+    "in_reply_to_user_id": "1434508858496622597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929282921484943718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomao_owo0301 @wanyuan456 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21202,
+        "height": 1280,
+        "media_key": "7_1929282890057056256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1929282890057056256/pu/img/5m0-Zzcz-TeV8WK_.jpg",
+        "public_metrics": {
+          "view_count": 458
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929282890057056256/pu/vid/avc1/320x568/lr5ZSE0YFmT4AIUq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929282890057056256/pu/vid/avc1/480x852/Ql8eZSU27Uez0Rfa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929282890057056256/pu/vid/avc1/720x1280/nUW_IOp7PRJVHwvB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1929282890057056256/pu/pl/lUy4buISDaCMBKli.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1929282921484943718",
+        "created_at": "2025-06-04T15:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T16:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930280881098502344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1434508858496622597",
+              "start": 0,
+              "username": "maomao_owo0301"
+            },
+            {
+              "end": 27,
+              "id": "1656837398968279042",
+              "start": 16,
+              "username": "wanyuan456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930280881098502344",
+        "in_reply_to_user_id": "1434508858496622597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929282921484943718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomao_owo0301 @wanyuan456 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1929282890057056256"
+          ]
+        },
+        "author_id": "1434508858496622597",
+        "conversation_id": "1929282921484943718",
+        "created_at": "2025-06-01T21:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T22:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929282921484943718"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "女初中生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxnQByoho7",
+              "end": 37,
+              "expanded_url": "https://x.com/maomao_owo0301/status/1929282921484943718/video/1",
+              "media_key": "7_1929282890057056256",
+              "start": 14,
+              "url": "https://t.co/KxnQByoho7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929282921484943718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2060,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "真的很像女生吗\n#女初中生 https://t.co/KxnQByoho7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 1114,
+          "like_count": 15196,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 836
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T13:29:30.000Z",
+        "description": "无糖男娘/isfp/没有门槛/可以互推 互关/我家虎虎很可爱/QQ3990812981要加的可以来虽然我不怎么看QQ就对了/没灌注别来私信找我了/有男友 想找我月的就别来了",
+        "id": "1434508858496622597",
+        "location": "西班牙",
+        "name": "猫猫（互推）",
+        "pinned_tweet_id": "1923324965081829686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915772330350956544/rTryg9Tc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 433,
+          "like_count": 828,
+          "listed_count": 5,
+          "media_count": 555,
+          "tweet_count": 1018
+        },
+        "username": "maomao_owo0301",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T01:43:21.000Z",
+        "description": "男娘 /天赋党？/不含糖 /  05  /  177cm /  52kg， 高贵的战舰世界潜艇玩家🤓👆🏻，高贵的游戏王红坑玩家♿️😈👿，擅长做xdm的福利集🥵🥵🥵，会发疯的上海土著🎅🏻（在家摆烂的fw），无🚪有游戏搭子可以一起，接寄拍，可攻可受，江浙沪线下dd🥰🥰🥰。",
+        "id": "1656837398968279042",
+        "location": "上海",
+        "name": "挽鸳（限流版）",
+        "pinned_tweet_id": "1847868095446290902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656837568535592961/Yo1057Ik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3408,
+          "following_count": 110,
+          "like_count": 301,
+          "listed_count": 14,
+          "media_count": 84,
+          "tweet_count": 449
+        },
+        "username": "wanyuan456",
+        "verified": true
+      }
+    ]
+  }
+}

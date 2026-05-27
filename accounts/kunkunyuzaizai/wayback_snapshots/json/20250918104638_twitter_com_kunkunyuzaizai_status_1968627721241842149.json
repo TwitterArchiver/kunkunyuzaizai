@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968250494482276475",
+    "created_at": "2025-09-18T10:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T11:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968627721241842149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886878157711794177",
+          "start": 0,
+          "username": "Hezijun5593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968627721241842149",
+    "in_reply_to_user_id": "1886878157711794177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968250494482276475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hezijun5593 一人一盆 大胃袋吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968250483908513792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ChYwpbkAAyZgK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968250494482276475",
+        "created_at": "2025-09-18T10:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T11:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968627721241842149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886878157711794177",
+              "start": 0,
+              "username": "Hezijun5593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968627721241842149",
+        "in_reply_to_user_id": "1886878157711794177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968250494482276475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hezijun5593 一人一盆 大胃袋吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968250483908513792"
+          ]
+        },
+        "author_id": "1886878157711794177",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1968250494482276475",
+        "created_at": "2025-09-17T09:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T10:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968250494482276475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNbrLoxPLG",
+              "end": 37,
+              "expanded_url": "https://x.com/Hezijun5593/status/1968250494482276475/photo/1",
+              "media_key": "3_1968250483908513792",
+              "start": 14,
+              "url": "https://t.co/CNbrLoxPLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968250494482276475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 66352,
+          "like_count": 493,
+          "quote_count": 5,
+          "reply_count": 125,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "去朋友家吃饭他是这样上饭的 https://t.co/CNbrLoxPLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 1911,
+          "like_count": 29117,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2000
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T20:43:15.000Z",
+        "description": "一个无趣的人，但有个可以让我变的有趣的哥哥\n随机发送xql合照福利  是个技术一般的绳师，梦想是把互关都绑一遍😋\nngl提问: https://t.co/808mtprXF2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/av22osprey/",
+                "end": 87,
+                "expanded_url": "https://ngl.link/av22osprey/",
+                "start": 64,
+                "url": "https://t.co/808mtprXF2"
+              }
+            ]
+          }
+        },
+        "id": "1886878157711794177",
+        "location": "CN",
+        "name": "舟乐",
+        "pinned_tweet_id": "1967074884821057872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886884784724697089/EJW6OjVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 522,
+          "like_count": 18572,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 517
+        },
+        "username": "Hezijun5593",
+        "verified": false
+      }
+    ]
+  }
+}

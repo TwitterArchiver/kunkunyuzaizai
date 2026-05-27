@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1969182982503108770",
+    "created_at": "2025-09-20T04:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T05:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969256614931656932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1480004734450692096",
+          "start": 0,
+          "username": "qingfeng2190"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969256614931656932",
+    "in_reply_to_user_id": "1480004734450692096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969182982503108770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingfeng2190 真的假的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969182969454645248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1PxekAX0AAr-XD.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969182969504935936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1PxekMXMAAkX2F.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1969182982503108770",
+        "created_at": "2025-09-20T04:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T05:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969256614931656932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1480004734450692096",
+              "start": 0,
+              "username": "qingfeng2190"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969256614931656932",
+        "in_reply_to_user_id": "1480004734450692096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969182982503108770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingfeng2190 真的假的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969182969454645248",
+            "3_1969182969504935936"
+          ]
+        },
+        "author_id": "1480004734450692096",
+        "conversation_id": "1969182982503108770",
+        "created_at": "2025-09-19T23:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T00:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969182982503108770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZQ7YAr1pN",
+              "end": 33,
+              "expanded_url": "https://x.com/qingfeng2190/status/1969182982503108770/photo/1",
+              "media_key": "3_1969182969454645248",
+              "start": 10,
+              "url": "https://t.co/3ZQ7YAr1pN"
+            },
+            {
+              "display_url": "pic.x.com/3ZQ7YAr1pN",
+              "end": 33,
+              "expanded_url": "https://x.com/qingfeng2190/status/1969182982503108770/photo/1",
+              "media_key": "3_1969182969504935936",
+              "start": 10,
+              "url": "https://t.co/3ZQ7YAr1pN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969182982503108770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 40040,
+          "like_count": 151,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给金主当了一周狗… https://t.co/3ZQ7YAr1pN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 1975,
+          "like_count": 29546,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2042
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-09T02:33:27.000Z",
+        "description": "From🇨🇳，l🇺🇸🇨🇦飞行爱好者 QQ3529726878 究极龙控，摄影/飞友，胶胶什么的最棒了语言：中文 /Engling。日常推，紧擦边无里",
+        "id": "1480004734450692096",
+        "location": "Ontario, CA",
+        "name": "清风🔜🇨🇦",
+        "pinned_tweet_id": "1664291238600908800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863780413992288256/BbWtyiwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4781,
+          "following_count": 1759,
+          "like_count": 1710,
+          "listed_count": 6,
+          "media_count": 171,
+          "tweet_count": 1585
+        },
+        "username": "qingfeng2190",
+        "verified": false
+      }
+    ]
+  }
+}

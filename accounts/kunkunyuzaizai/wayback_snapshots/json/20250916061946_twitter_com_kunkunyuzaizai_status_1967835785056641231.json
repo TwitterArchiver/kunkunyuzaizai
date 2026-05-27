@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967835785056641231",
+    "created_at": "2025-09-16T06:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T07:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967835785056641231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tphunkkkk/stat…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/Tphunkkkk/status/1965765319823376677",
+          "start": 47,
+          "url": "https://t.co/640aImu7ee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967835785056641231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965765319823376677",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老规矩，iPhone17pm1T颜色不限，可以一周无套，或者吃药，懂得私聊，2T可以加一周🥺 https://t.co/640aImu7ee"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967835785056641231",
+        "created_at": "2025-09-16T06:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967835785056641231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tphunkkkk/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/Tphunkkkk/status/1965765319823376677",
+              "start": 47,
+              "url": "https://t.co/640aImu7ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967835785056641231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965765319823376677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老规矩，iPhone17pm1T颜色不限，可以一周无套，或者吃药，懂得私聊，2T可以加一周🥺 https://t.co/640aImu7ee"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859912083737055232",
+        "conversation_id": "1965765319823376677",
+        "created_at": "2025-09-10T13:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T14:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965765319823376677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965765319823376677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 458933,
+          "like_count": 688,
+          "quote_count": 15,
+          "reply_count": 131,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "老规矩，iPhone17pm1T颜色不限，可以一周无套，或者吃药，懂得私聊，2T可以加一周🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1825,
+          "like_count": 28362,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1898
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T10:49:41.000Z",
+        "description": "喜欢我请给我打赏或过🚪52/188/520 盗图的替我挡灾 防走丢小号@Tphunkkkkk 关评推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "Tphunkkkkk"
+              }
+            ]
+          }
+        },
+        "id": "1859912083737055232",
+        "location": "广州",
+        "name": "古月",
+        "pinned_tweet_id": "1967829148140966086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923243831438475270/KgTuMMcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22736,
+          "following_count": 892,
+          "like_count": 78922,
+          "listed_count": 28,
+          "media_count": 193,
+          "tweet_count": 2251
+        },
+        "username": "Tphunkkkk",
+        "verified": false
+      }
+    ]
+  }
+}

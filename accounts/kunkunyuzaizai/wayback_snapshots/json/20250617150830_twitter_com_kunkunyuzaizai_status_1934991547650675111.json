@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1934616214091026747",
+    "created_at": "2025-06-17T15:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T16:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934991547650675111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893148438239522816",
+          "start": 0,
+          "username": "Ave_Nagasaki"
+        },
+        {
+          "end": 25,
+          "id": "1684788633797287936",
+          "start": 14,
+          "username": "Muoujiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934991547650675111",
+    "in_reply_to_user_id": "1893148438239522816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934668497101181104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ave_Nagasaki @Muoujiang_ 人妖通常是贬义词说的是不好看的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1934616214091026747",
+        "created_at": "2025-06-17T15:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T16:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934991547650675111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893148438239522816",
+              "start": 0,
+              "username": "Ave_Nagasaki"
+            },
+            {
+              "end": 25,
+              "id": "1684788633797287936",
+              "start": 14,
+              "username": "Muoujiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934991547650675111",
+        "in_reply_to_user_id": "1893148438239522816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934668497101181104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ave_Nagasaki @Muoujiang_ 人妖通常是贬义词说的是不好看的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893148438239522816",
+        "conversation_id": "1934616214091026747",
+        "created_at": "2025-06-16T17:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T18:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934668497101181104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Muoujiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934668497101181104",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934616214091026747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Muoujiang_ 哪有这么多弯弯绕绕，只有男的想穿女装的和男的想变女的两个分支，一堆涵义重叠或者错位的熵词让你们玩出花来了💧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 1248,
+          "like_count": 17139,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 919
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T03:59:03.000Z",
+        "description": "自恋小爽\nlove @lamte15072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "lamte15072"
+              }
+            ]
+          }
+        },
+        "id": "1893148438239522816",
+        "location": "大遊戯場歌舞伎町",
+        "name": "母国情緒",
+        "pinned_tweet_id": "1908365349986459798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934650648945111040/K4dmm5-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 138,
+          "like_count": 2782,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1146
+        },
+        "username": "Ave_Nagasaki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→大学之后🍥（怕被家里发现 | 跨跨帮助跨跨 | 老婆 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 116,
+                "start": 100,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "沫柠～🍋🍈🍋‍🟩🫐🍏🍇🍧🍡🧁🍭🧊🍩🧃🍬🍞🍨🧇🍟🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934613924412051543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932569658647064579/Q1muwosh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21412,
+          "following_count": 10711,
+          "like_count": 77269,
+          "listed_count": 78,
+          "media_count": 3747,
+          "tweet_count": 13738
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Muoujiang_",
+        "verified": false
+      }
+    ]
+  }
+}

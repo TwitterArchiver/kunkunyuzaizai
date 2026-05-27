@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2001276124261687558",
+    "created_at": "2025-12-18T12:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T13:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001631746702598547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780369819310981120",
+          "start": 0,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001631746702598547",
+    "in_reply_to_user_id": "1780369819310981120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001276124261687558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520illusion 我一年都没有五位数工资呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2001276106293260288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8X2A_UWMAAUUnB.jpg",
+        "width": 680
+      },
+      {
+        "height": 1763,
+        "media_key": "3_2001276097871122438",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8X2Af8WkAYrIUl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1763,
+        "media_key": "3_2001276097900482563",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8X2AgDWkAMGunG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2001276124261687558",
+        "created_at": "2025-12-18T12:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T13:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001631746702598547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001631746702598547",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001276124261687558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 我一年都没有五位数工资呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001276106293260288",
+            "3_2001276097871122438",
+            "3_2001276097900482563"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2001276124261687558",
+        "created_at": "2025-12-17T12:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T13:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001276124261687558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "mtf"
+            },
+            {
+              "end": 117,
+              "start": 110,
+              "tag": "crypto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgws3oYSel",
+              "end": 141,
+              "expanded_url": "https://x.com/520illusion/status/2001276124261687558/photo/1",
+              "media_key": "3_2001276106293260288",
+              "start": 118,
+              "url": "https://t.co/fgws3oYSel"
+            },
+            {
+              "display_url": "pic.x.com/fgws3oYSel",
+              "end": 141,
+              "expanded_url": "https://x.com/520illusion/status/2001276124261687558/photo/1",
+              "media_key": "3_2001276097871122438",
+              "start": 118,
+              "url": "https://t.co/fgws3oYSel"
+            },
+            {
+              "display_url": "pic.x.com/fgws3oYSel",
+              "end": 141,
+              "expanded_url": "https://x.com/520illusion/status/2001276124261687558/photo/1",
+              "media_key": "3_2001276097900482563",
+              "start": 118,
+              "url": "https://t.co/fgws3oYSel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001276124261687558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8550,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经两年没花过家里的钱了 \n存款都是23年赚的 此后再无收入\n我只能买最便宜的机票火车宾馆\n可即便这样 \n月开支也不能控制在1.2万以内\n我不知道还剩多少钱 我也不在乎 \n\n他们都说天堂很美 我也想去看看\n\n#mtf #crypto https://t.co/fgws3oYSel"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 2348,
+          "like_count": 35216,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2535
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "Binance OKX  bitget | All in crypto | 08年 | 币圈小小韭菜 | 杂鱼交易员 | 坐标南京 同类贴贴 | illusion | 抑郁向 | 坠落星空 | 梦幻主义 | 幻象丛生 |  蓝  | 终将成为你 | 清水 | 循此苦旅 终抵繁星 | 人民万岁 | 💙 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDGPjm"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "江苏省南京市南京禄口国际机场",
+        "name": "ill🏳️‍⚧️🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999441282867847171/xfMVe-73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 198,
+          "like_count": 3902,
+          "listed_count": 5,
+          "media_count": 267,
+          "tweet_count": 2453
+        },
+        "url": "https://t.co/ecnOMDGPjm",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

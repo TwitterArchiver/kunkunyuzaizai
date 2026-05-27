@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1988909916585668757",
+    "created_at": "2025-11-13T10:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T11:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988912234995630515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988912234995630515",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988909916585668757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinaseAyano 看到这个人了好恶心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1988909907052216320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oHBdQaQAAcCH-.jpg",
+        "width": 569
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1988909916585668757",
+        "created_at": "2025-11-13T10:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988912234995630515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988912234995630515",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988909916585668757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano 看到这个人了好恶心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988909907052216320"
+          ]
+        },
+        "author_id": "1693935285577670656",
+        "conversation_id": "1988909916585668757",
+        "created_at": "2025-11-13T10:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988909916585668757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g12dDS4GPK",
+              "end": 26,
+              "expanded_url": "https://x.com/MinaseAyano/status/1988909916585668757/photo/1",
+              "media_key": "3_1988909907052216320",
+              "start": 3,
+              "url": "https://t.co/g12dDS4GPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988909916585668757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂人 https://t.co/g12dDS4GPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 2274,
+          "like_count": 32370,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2400
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 2010.5 | 欢迎互fo! | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 里推@Yumo_1314 | 傻傻的萌萌的笨蛋宝宝💕@qwqawanya 最好的大姐姐@Kisaragi_momoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Yumo_1314"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "qwqawanya"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "Kisaragi_momoe"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "将军渡黄河浮桥",
+        "name": "绫乃Ayano🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1974339366408630432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985745698982363136/vwaNlsV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 2273,
+          "like_count": 8293,
+          "listed_count": 6,
+          "media_count": 749,
+          "tweet_count": 8347
+        },
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

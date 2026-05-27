@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967211759573557248"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967211775042166922",
+    "created_at": "2025-09-14T13:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T14:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967211775042166922"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0chrrj3Men",
+          "end": 36,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1967211775042166922/photo/1",
+          "media_key": "3_1967211759573557248",
+          "start": 13,
+          "url": "https://t.co/0chrrj3Men"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967211775042166922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想要幸福我想要长眠不醒 https://t.co/0chrrj3Men"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1967211775042166922].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1967211775042166922",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1967211775042166922"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967211759573557248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zwrC9aYAAIDSc.jpg",
+        "width": 917
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 1790,
+          "like_count": 27991,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1872
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

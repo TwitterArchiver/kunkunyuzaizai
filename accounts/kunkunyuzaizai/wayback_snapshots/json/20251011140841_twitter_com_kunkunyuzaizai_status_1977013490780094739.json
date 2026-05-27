@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1976941104907108564",
+    "created_at": "2025-10-11T14:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T15:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977013490780094739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2841102129",
+          "start": 0,
+          "username": "Contrarianism_"
+        },
+        {
+          "end": 27,
+          "id": "1619273290794819584",
+          "start": 16,
+          "username": "Asutaka233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977013490780094739",
+    "in_reply_to_user_id": "2841102129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976985852191686670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Contrarianism_ @Asutaka233 求教程"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1976985802505867264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-qHORaUAA5pic.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1976941104907108564",
+        "created_at": "2025-10-11T14:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T15:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977013490780094739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2841102129",
+              "start": 0,
+              "username": "Contrarianism_"
+            },
+            {
+              "end": 27,
+              "id": "1619273290794819584",
+              "start": 16,
+              "username": "Asutaka233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977013490780094739",
+        "in_reply_to_user_id": "2841102129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976985852191686670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Contrarianism_ @Asutaka233 求教程"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976985802505867264"
+          ]
+        },
+        "author_id": "2841102129",
+        "conversation_id": "1976941104907108564",
+        "created_at": "2025-10-11T12:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T13:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976985852191686670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1619273290794819584",
+              "start": 0,
+              "username": "Asutaka233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6BlVLf39vW",
+              "end": 76,
+              "expanded_url": "https://x.com/Contrarianism_/status/1976985852191686670/photo/1",
+              "media_key": "3_1976985802505867264",
+              "start": 53,
+              "url": "https://t.co/6BlVLf39vW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976985852191686670",
+        "in_reply_to_user_id": "1619273290794819584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976983575015850463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asutaka233 之前是网申的，不需要中行的卡都能办，从上海寄过来的，一般都能异地激活，是储蓄卡。 https://t.co/6BlVLf39vW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 2148,
+          "like_count": 31583,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2258
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-22T12:16:51.000Z",
+        "description": "",
+        "id": "2841102129",
+        "name": "Dusk",
+        "pinned_tweet_id": "1937172216493560239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912986657319763968/Ukou4xTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 328,
+          "like_count": 85,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 1350
+        },
+        "username": "Contrarianism_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T09:57:03.000Z",
+        "description": "哪怕度过漫漫长夜，太阳依旧照常升起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Asutaka233",
+                "end": 23,
+                "expanded_url": "https://t.me/Asutaka233",
+                "start": 0,
+                "url": "https://t.co/wXgTZbPDcn"
+              }
+            ]
+          }
+        },
+        "id": "1619273290794819584",
+        "name": "阿苏塔卡",
+        "pinned_tweet_id": "1946761824877334748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942973615135162369/uBwmZ7og_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5096,
+          "following_count": 948,
+          "like_count": 4367,
+          "listed_count": 7,
+          "media_count": 299,
+          "tweet_count": 1753
+        },
+        "url": "https://t.co/wXgTZbPDcn",
+        "username": "Asutaka233",
+        "verified": false
+      }
+    ]
+  }
+}

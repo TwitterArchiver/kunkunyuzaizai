@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1988425335155904548",
+    "created_at": "2025-11-12T12:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988581141566365791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1932861332300443650",
+          "start": 0,
+          "username": "momo1583853"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988581141566365791",
+    "in_reply_to_user_id": "1932861332300443650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988425335155904548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momo1583853 原来是逼真"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 341,
+        "media_key": "3_1988425327555866624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hOTN9bcAAb93q.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1988425335155904548",
+        "created_at": "2025-11-12T12:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988581141566365791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932861332300443650",
+              "start": 0,
+              "username": "momo1583853"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988581141566365791",
+        "in_reply_to_user_id": "1932861332300443650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988425335155904548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momo1583853 原来是逼真"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988425327555866624"
+          ]
+        },
+        "author_id": "1932861332300443650",
+        "conversation_id": "1988425335155904548",
+        "created_at": "2025-11-12T01:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T02:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988425335155904548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FwYTTbn1M6",
+              "end": 31,
+              "expanded_url": "https://x.com/momo1583853/status/1988425335155904548/photo/1",
+              "media_key": "3_1988425327555866624",
+              "start": 8,
+              "url": "https://t.co/FwYTTbn1M6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988425335155904548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 397,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特把我毁了。 https://t.co/FwYTTbn1M6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 2263,
+          "like_count": 32284,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2395
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T18:03:58.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sjdn90374",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sjdn90374",
+                "start": 0,
+                "url": "https://t.co/tOwuPHzSOv"
+              }
+            ]
+          }
+        },
+        "id": "1932861332300443650",
+        "name": "邮寄吧咋滴了啊",
+        "pinned_tweet_id": "1960704815492681793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952831043452432384/YhzDMe_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 269,
+          "like_count": 29937,
+          "listed_count": 0,
+          "media_count": 486,
+          "tweet_count": 9794
+        },
+        "url": "https://t.co/tOwuPHzSOv",
+        "username": "momo1583853",
+        "verified": false
+      }
+    ]
+  }
+}

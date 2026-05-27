@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025593805605601280"
+      ],
+      "media_source_tweet_id": [
+        "2025729317582610572"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "2040443754449178915",
+    "created_at": "2026-04-04T14:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T15:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040443754449178915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974276207496867842",
+          "start": 3,
+          "username": "DXMDusk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XEBEDtpB7z",
+          "end": 103,
+          "expanded_url": "https://x.com/DXMDusk/status/2025729317582610572/photo/1",
+          "media_key": "3_2025593805605601280",
+          "start": 80,
+          "url": "https://t.co/XEBEDtpB7z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040443754449178915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025729317582610572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DXMDusk: 别转推！别转推！别转推！！！ \n你要是转推的话你就会不小心变得特别可爱！！！还会喵喵叫！！ \n喵正在破解这个诅咒！！不要转推喵！！！ https://t.co/XEBEDtpB7z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2025593805605601280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxa1YpagAA7jU3.jpg",
+        "width": 350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025593805605601280"
+          ],
+          "media_source_tweet_id": [
+            "2025729317582610572"
+          ]
+        },
+        "author_id": "1779063322500874240",
+        "conversation_id": "2040443754449178915",
+        "created_at": "2026-04-04T14:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T15:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040443754449178915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974276207496867842",
+              "start": 3,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEBEDtpB7z",
+              "end": 103,
+              "expanded_url": "https://x.com/DXMDusk/status/2025729317582610572/photo/1",
+              "media_key": "3_2025593805605601280",
+              "start": 80,
+              "url": "https://t.co/XEBEDtpB7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040443754449178915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025729317582610572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DXMDusk: 别转推！别转推！别转推！！！ \n你要是转推的话你就会不小心变得特别可爱！！！还会喵喵叫！！ \n喵正在破解这个诅咒！！不要转推喵！！！ https://t.co/XEBEDtpB7z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025593805605601280"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025729317582610572",
+        "created_at": "2026-02-23T00:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T01:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025729317582610572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEBEDtpB7z",
+              "end": 90,
+              "expanded_url": "https://x.com/DXMDusk/status/2025729317582610572/photo/1",
+              "media_key": "3_2025593805605601280",
+              "start": 67,
+              "url": "https://t.co/XEBEDtpB7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025729317582610572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7592,
+          "like_count": 88,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "别转推！别转推！别转推！！！ \n你要是转推的话你就会不小心变得特别可爱！！！还会喵喵叫！！ \n喵正在破解这个诅咒！！不要转推喵！！！ https://t.co/XEBEDtpB7z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 2917,
+          "like_count": 45194,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 3125
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 1101,
+          "like_count": 2028,
+          "listed_count": 3,
+          "media_count": 323,
+          "tweet_count": 2021
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

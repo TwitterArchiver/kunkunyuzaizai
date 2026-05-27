@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946620256740335616"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1823295397877686653",
+    "created_at": "2025-07-19T17:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T18:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946620272116924798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1253165636210978817",
+          "start": 0,
+          "username": "Exusiai159"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FVBXFj5Q9z",
+          "end": 35,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1946620272116924798/photo/1",
+          "media_key": "3_1946620256740335616",
+          "start": 12,
+          "url": "https://t.co/FVBXFj5Q9z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946620272116924798",
+    "in_reply_to_user_id": "1253165636210978817",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823295397877686653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exusiai159 https://t.co/FVBXFj5Q9z"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946620272116924798].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946620272116924798",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946620272116924798"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_1946620256740335616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwPIz1OWYAAxTFy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1823295394899750912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU2lgF2a8AALtK5.jpg",
+        "width": 877
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1823295395042316288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU2lgGYaUAAmtVP.jpg",
+        "width": 877
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1823295395080073216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU2lgGhacAAYL7m.jpg",
+        "width": 877
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823295394899750912",
+            "3_1823295395042316288",
+            "3_1823295395080073216"
+          ]
+        },
+        "author_id": "1253165636210978817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1823295397877686653",
+        "created_at": "2024-08-13T09:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T10:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823295397877686653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OeImpgOhhU",
+              "end": 167,
+              "expanded_url": "https://x.com/Exusiai159/status/1823295397877686653/photo/1",
+              "media_key": "3_1823295394899750912",
+              "start": 144,
+              "url": "https://t.co/OeImpgOhhU"
+            },
+            {
+              "display_url": "pic.x.com/OeImpgOhhU",
+              "end": 167,
+              "expanded_url": "https://x.com/Exusiai159/status/1823295397877686653/photo/1",
+              "media_key": "3_1823295395042316288",
+              "start": 144,
+              "url": "https://t.co/OeImpgOhhU"
+            },
+            {
+              "display_url": "pic.x.com/OeImpgOhhU",
+              "end": 167,
+              "expanded_url": "https://x.com/Exusiai159/status/1823295397877686653/photo/1",
+              "media_key": "3_1823295395080073216",
+              "start": 144,
+              "url": "https://t.co/OeImpgOhhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823295397877686653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1093,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的是服了Google，我都好几年没挂过韩国梯子了，定位也从来没在韩国过，它一直觉得我永远都是韩国人。\n这些年我想尽方法想改成中国或者香港台湾，从来没成功过，我甚至都把我工行Visa卡绑定进去了他它觉得我在韩国。\n现在我下载个app都得绑定个韩国手机号。\n去你妈的，你才是韩国公民😅😅😅 https://t.co/OeImpgOhhU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1285,
+          "like_count": 19734,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1112
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "混吃等死大学牲，粥批，正太控，中推鹿野灸和能天使粉丝头子/头图来自剧毒的KCN老师/会转发正太黄推🔞，如有介意请不要关注/推特用来当日记本记录碎碎念/数码产品迷，Windows平板爱好者，星粉/编程一生黑/禁极端歧视仇恨言论/有大量政治内容的账号恕不回fo/避难所@Exusiai159_2/扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 132,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/exusiai1592",
+                "end": 23,
+                "expanded_url": "https://ngl.link/exusiai1592",
+                "start": 0,
+                "url": "https://t.co/ZoBj8xEVzX"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916516326706999296/Cqh4R0TB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4436,
+          "following_count": 5534,
+          "like_count": 129732,
+          "listed_count": 9,
+          "media_count": 3694,
+          "tweet_count": 36324
+        },
+        "url": "https://t.co/ZoBj8xEVzX",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967137915030696234",
+    "created_at": "2025-09-15T08:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T09:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967511442355269661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1902607901535170560",
+          "start": 0,
+          "username": "wcc5687"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967511442355269661",
+    "in_reply_to_user_id": "1902607901535170560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967137915030696234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wcc5687 我也想吃🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967137910362386432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ytgdNasAAQkAm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967137915030696234",
+        "created_at": "2025-09-15T08:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T09:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967511442355269661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1902607901535170560",
+              "start": 0,
+              "username": "wcc5687"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967511442355269661",
+        "in_reply_to_user_id": "1902607901535170560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967137915030696234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wcc5687 我也想吃🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967137910362386432"
+          ]
+        },
+        "author_id": "1902607901535170560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1967137915030696234",
+        "created_at": "2025-09-14T08:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T09:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967137915030696234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5bqCPpW6z",
+              "end": 43,
+              "expanded_url": "https://x.com/wcc5687/status/1967137915030696234/photo/1",
+              "media_key": "3_1967137910362386432",
+              "start": 20,
+              "url": "https://t.co/C5bqCPpW6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967137915030696234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 27291,
+          "like_count": 267,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好成功的一次，路过的朋友喜欢的可以吃～ https://t.co/C5bqCPpW6z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 1811,
+          "like_count": 28195,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1888
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T06:27:40.000Z",
+        "description": "一个喜欢色色的天蝎男，被动型交友，开启正确既话痨，中医修行中，纯血哥布林，infp–T。@wngzimn11526866",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "wngzimn11526866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wcc5687",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wcc5687",
+                "start": 0,
+                "url": "https://t.co/Jwy4yGR8zj"
+              }
+            ]
+          }
+        },
+        "id": "1902607901535170560",
+        "location": "阿巴阿巴阿巴",
+        "name": "碳碳",
+        "pinned_tweet_id": "1951460492071018949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934515727358377985/XS-p12sL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 1097,
+          "like_count": 40788,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 4076
+        },
+        "url": "https://t.co/Jwy4yGR8zj",
+        "username": "wcc5687",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1966497719754645587",
+    "created_at": "2025-09-12T14:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T15:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966510853122896100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1664665503733022721",
+          "start": 0,
+          "username": "Tcyuyuyu0822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966510853122896100",
+    "in_reply_to_user_id": "1664665503733022721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966497719754645587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tcyuyuyu0822 红薯？🍠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966497691544006656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0pnO0QbMAAsz9S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1966497719754645587",
+        "created_at": "2025-09-12T14:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966510853122896100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1664665503733022721",
+              "start": 0,
+              "username": "Tcyuyuyu0822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966510853122896100",
+        "in_reply_to_user_id": "1664665503733022721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966497719754645587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tcyuyuyu0822 红薯？🍠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966497691544006656"
+          ]
+        },
+        "author_id": "1664665503733022721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1966497719754645587",
+        "created_at": "2025-09-12T13:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T14:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966497719754645587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBHvfz8YaE",
+              "end": 32,
+              "expanded_url": "https://x.com/Tcyuyuyu0822/status/1966497719754645587/photo/1",
+              "media_key": "3_1966497691544006656",
+              "start": 9,
+              "url": "https://t.co/TBHvfz8YaE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966497719754645587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚饭，巨好吃的🍠 https://t.co/TBHvfz8YaE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1759,
+          "like_count": 27399,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1839
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T16:09:41.000Z",
+        "description": "Day13 / INFP / 狮子 / 东北人/ 174 /泛性恋/可以叫我鱼籽酱或者小凡/手控，声控，肱二头肌控/非常非常慢热的入/会关注感兴趣的人/提问https://t.co/DLFKmolLyk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tangcuyuzijian…",
+                "end": 101,
+                "expanded_url": "https://ngl.link/tangcuyuzijiang1",
+                "start": 78,
+                "url": "https://t.co/DLFKmolLyk"
+              }
+            ]
+          }
+        },
+        "id": "1664665503733022721",
+        "location": "💤",
+        "name": "糖醋鱼鱼鱼籽酱（减肥版）",
+        "pinned_tweet_id": "1959910122110714157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953167464701071360/qgqoO_xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 190,
+          "like_count": 4492,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1505
+        },
+        "username": "Tcyuyuyu0822",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1981391039736008707",
+    "created_at": "2025-10-24T10:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T11:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981673721212625146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1250819643356446721",
+          "start": 0,
+          "username": "flys8028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981673721212625146",
+    "in_reply_to_user_id": "1250819643356446721",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981391039736008707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flys8028 HAPPY BIRTHDAY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 168,
+        "media_key": "3_1981391036363489280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39QplOWwAA3G_B.jpg",
+        "width": 299
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1981391039736008707",
+        "created_at": "2025-10-24T10:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981673721212625146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1250819643356446721",
+              "start": 0,
+              "username": "flys8028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981673721212625146",
+        "in_reply_to_user_id": "1250819643356446721",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981391039736008707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flys8028 HAPPY BIRTHDAY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981391036363489280"
+          ]
+        },
+        "author_id": "1250819643356446721",
+        "conversation_id": "1981391039736008707",
+        "created_at": "2025-10-23T16:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T17:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981391039736008707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0XCjZi0iwt",
+              "end": 34,
+              "expanded_url": "https://x.com/flys8028/status/1981391039736008707/photo/1",
+              "media_key": "3_1981391036363489280",
+              "start": 11,
+              "url": "https://t.co/0XCjZi0iwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981391039736008707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10736,
+          "like_count": 411,
+          "quote_count": 0,
+          "reply_count": 111,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我的回合\n總算到了~ https://t.co/0XCjZi0iwt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 2187,
+          "like_count": 31822,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2299
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-16T16:13:44.000Z",
+        "description": "菜鳥部落客兼個人勢台灣vtuber【八美肉】\n喜歡到處旅遊及尋訪美食，圖奇佛系開台中\n繪師爸爸:九櫻、哇嘎 @wagaillustrator\n建模媽媽:哀呀 \n部落格:https://t.co/Nn6cuwtGGu\nYT頻道:https://t.co/WATrKQols9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 54,
+                "username": "wagaillustrator"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fatnya.com",
+                "end": 107,
+                "expanded_url": "https://fatnya.com/",
+                "start": 84,
+                "url": "https://t.co/Nn6cuwtGGu"
+              },
+              {
+                "display_url": "youtube.com/@cwindvtuber",
+                "end": 136,
+                "expanded_url": "https://youtube.com/@cwindvtuber",
+                "start": 113,
+                "url": "https://t.co/WATrKQols9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/flys88028",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/flys88028",
+                "start": 0,
+                "url": "https://t.co/T9f7NV2wj4"
+              }
+            ]
+          }
+        },
+        "id": "1250819643356446721",
+        "location": "Taiwan",
+        "name": "熙風❄美食系貓Vtuber❄",
+        "pinned_tweet_id": "1503600076983209984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628218207973814272/Cde2-fWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3438,
+          "following_count": 664,
+          "like_count": 116199,
+          "listed_count": 19,
+          "media_count": 2099,
+          "tweet_count": 45409
+        },
+        "url": "https://t.co/T9f7NV2wj4",
+        "username": "flys8028",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1921381981926965392",
+    "created_at": "2025-06-05T17:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T18:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930674177113215435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1249743643994284033",
+          "start": 0,
+          "username": "scpxxxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930674177113215435",
+    "in_reply_to_user_id": "1249743643994284033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930658660877013072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scpxxxxxxx 啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1921381981926965392",
+        "created_at": "2025-06-05T17:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T18:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930674177113215435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1249743643994284033",
+              "start": 0,
+              "username": "scpxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930674177113215435",
+        "in_reply_to_user_id": "1249743643994284033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930658660877013072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scpxxxxxxx 啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1249743643994284033",
+        "conversation_id": "1921381981926965392",
+        "created_at": "2025-06-05T16:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T17:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930658660877013072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930658660877013072",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930654299534901501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 那时候哪管这么多，死了也就死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 1141,
+          "like_count": 15471,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 852
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T16:58:06.000Z",
+        "description": "Use your illusion.｜枯雲觀KUYUNGUAN｜枯雲造物社KUYUNZAOWUSHE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com",
+                "end": 23,
+                "expanded_url": "http://bilibili.com",
+                "start": 0,
+                "url": "https://t.co/bRazYvqXI6"
+              }
+            ]
+          }
+        },
+        "id": "1249743643994284033",
+        "location": "America",
+        "name": "幻 鶴",
+        "pinned_tweet_id": "1885236528382873921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652317621193408512/UTFKVGyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 1982,
+          "like_count": 32679,
+          "listed_count": 20,
+          "media_count": 6156,
+          "tweet_count": 17742
+        },
+        "url": "https://t.co/bRazYvqXI6",
+        "username": "scpxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

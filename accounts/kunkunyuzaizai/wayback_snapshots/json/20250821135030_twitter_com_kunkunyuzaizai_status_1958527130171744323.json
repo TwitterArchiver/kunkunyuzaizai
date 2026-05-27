@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958527119169875968"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1957811901486047724",
+    "created_at": "2025-08-21T13:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T14:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958527130171744323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1775688932203626497",
+          "start": 0,
+          "username": "Cici060611"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r7ZuBOa0tJ",
+          "end": 53,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1958527130171744323/photo/1",
+          "media_key": "3_1958527119169875968",
+          "start": 30,
+          "url": "https://t.co/r7ZuBOa0tJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958527130171744323",
+    "in_reply_to_user_id": "1775688932203626497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958392035368697911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cici060611 我体重43-46KG 身高168😭 https://t.co/r7ZuBOa0tJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1958527130171744323].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1958527130171744323",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1958527130171744323"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2877,
+        "media_key": "3_1958527119169875968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy4WCcUW8AA8gtg.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775688932203626497",
+        "conversation_id": "1957811901486047724",
+        "created_at": "2025-08-21T04:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T05:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958392035368697911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958392035368697911",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958303198500003841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 哈哈哈哈哈哈不好意思宝宝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 1433,
+          "like_count": 23973,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1553
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T00:57:03.000Z",
+        "description": "我基本上是忧郁的性格 请好好相处 也许会稀罕地看到我可爱的一面。话唠。漏关小窗call我。一个infj。",
+        "id": "1775688932203626497",
+        "name": "ra1ny_",
+        "pinned_tweet_id": "1955918494387855512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956334275294601216/IBm6wUlY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 163,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 477
+        },
+        "username": "Cici060611",
+        "verified": false
+      }
+    ]
+  }
+}

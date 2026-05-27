@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967178321525154041",
+    "created_at": "2025-09-15T07:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T08:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967491278767337965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560671619218960384",
+          "start": 0,
+          "username": "silsrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967491278767337965",
+    "in_reply_to_user_id": "1560671619218960384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967178321525154041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silsrc 转接器万能连接 鼠标显示屏键盘u盘储存卡硬盘等等"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967178315908911104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zSQXmaEAAXt0M.jpg",
+        "width": 877
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967178321525154041",
+        "created_at": "2025-09-15T07:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T08:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967491278767337965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560671619218960384",
+              "start": 0,
+              "username": "silsrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967491278767337965",
+        "in_reply_to_user_id": "1560671619218960384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967178321525154041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silsrc 转接器万能连接 鼠标显示屏键盘u盘储存卡硬盘等等"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967178315908911104"
+          ]
+        },
+        "author_id": "1560671619218960384",
+        "conversation_id": "1967178321525154041",
+        "created_at": "2025-09-14T10:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T11:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967178321525154041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ov7gdfxYys",
+              "end": 38,
+              "expanded_url": "https://x.com/silsrc/status/1967178321525154041/photo/1",
+              "media_key": "3_1967178315908911104",
+              "start": 15,
+              "url": "https://t.co/ov7gdfxYys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967178321525154041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 28887,
+          "like_count": 202,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "安卓手机是可以连网线上网的🤔 https://t.co/ov7gdfxYys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 1804,
+          "like_count": 28149,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1885
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T16:55:06.000Z",
+        "description": "开源爱好，万能工程师（存疑），现代魔法老中登，Linux Kernel Developer，假装是计算机科学家，黑深残。",
+        "id": "1560671619218960384",
+        "location": "Beijing",
+        "name": "scr.c",
+        "pinned_tweet_id": "1619387209844682753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728125838284189698/IGci3p0y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8176,
+          "following_count": 490,
+          "like_count": 22897,
+          "listed_count": 42,
+          "media_count": 197,
+          "tweet_count": 3115
+        },
+        "username": "silsrc",
+        "verified": false
+      }
+    ]
+  }
+}

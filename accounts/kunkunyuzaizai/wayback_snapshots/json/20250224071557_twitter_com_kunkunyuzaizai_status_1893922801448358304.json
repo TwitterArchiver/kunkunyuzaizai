@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1892428471458017303",
+    "created_at": "2025-02-24T07:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T08:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893922801448358304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1849315255379460096",
+          "start": 0,
+          "username": "ZhouCher2983"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893922801448358304",
+    "in_reply_to_user_id": "1849315255379460096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893921786770669792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhouCher2983 主要是这猫伸个舌头🤔👉👈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1892428471458017303",
+        "created_at": "2025-02-24T07:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T08:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893922801448358304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1849315255379460096",
+              "start": 0,
+              "username": "ZhouCher2983"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893922801448358304",
+        "in_reply_to_user_id": "1849315255379460096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893921786770669792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhouCher2983 主要是这猫伸个舌头🤔👉👈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849315255379460096",
+        "conversation_id": "1892428471458017303",
+        "created_at": "2025-02-24T07:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T08:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893921786770669792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893921786770669792",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893921506645688330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 不是啊哥们表情包还能有意思😨😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 547,
+          "like_count": 9512,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 396
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T05:01:55.000Z",
+        "description": "视奸所有人🤓",
+        "id": "1849315255379460096",
+        "location": "新西兰",
+        "name": "你可以捏我脸",
+        "pinned_tweet_id": "1880430517797208355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893122853249097728/o1MWb45K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 8,
+          "like_count": 2148,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 974
+        },
+        "username": "ZhouCher2983",
+        "verified": false
+      }
+    ]
+  }
+}

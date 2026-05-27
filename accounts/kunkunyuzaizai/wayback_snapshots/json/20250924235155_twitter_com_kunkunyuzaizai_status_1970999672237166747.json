@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1970662336567685457",
+    "created_at": "2025-09-24T23:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T00:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970999672237166747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727748567555837953",
+          "start": 0,
+          "username": "hvyfjj70529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970999672237166747",
+    "in_reply_to_user_id": "1727748567555837953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970662336567685457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hvyfjj70529 我死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970662319056465920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ky8CubsAAMo0v.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1970662336567685457",
+        "created_at": "2025-09-24T23:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T00:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970999672237166747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727748567555837953",
+              "start": 0,
+              "username": "hvyfjj70529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970999672237166747",
+        "in_reply_to_user_id": "1727748567555837953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970662336567685457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hvyfjj70529 我死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970662319056465920"
+          ]
+        },
+        "author_id": "1727748567555837953",
+        "conversation_id": "1970662336567685457",
+        "created_at": "2025-09-24T01:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T02:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970662336567685457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ekNndVslYe",
+              "end": 31,
+              "expanded_url": "https://x.com/hvyfjj70529/status/1970662336567685457/photo/1",
+              "media_key": "3_1970662319056465920",
+              "start": 8,
+              "url": "https://t.co/ekNndVslYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970662336567685457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17165,
+          "like_count": 135,
+          "quote_count": 3,
+          "reply_count": 71,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我接到了哼哼。 https://t.co/ekNndVslYe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 2073,
+          "like_count": 30406,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2127
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T17:59:03.000Z",
+        "description": "我是直男 我是一个话很多的人 我是一个有手有脚组成的碎碎念 我是一个好人 我是一个男人 我是一个人 我是超人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chaoren2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chaoren2",
+                "start": 0,
+                "url": "https://t.co/1SvsPkyBTY"
+              }
+            ]
+          }
+        },
+        "id": "1727748567555837953",
+        "location": "🛁",
+        "name": "迈迈",
+        "pinned_tweet_id": "1918965840579641703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916383035324518400/8olq74GV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6473,
+          "following_count": 503,
+          "like_count": 100904,
+          "listed_count": 10,
+          "media_count": 1628,
+          "tweet_count": 30051
+        },
+        "url": "https://t.co/1SvsPkyBTY",
+        "username": "hvyfjj70529",
+        "verified": false
+      }
+    ]
+  }
+}

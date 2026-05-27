@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1982629947341672783",
+    "created_at": "2025-10-28T04:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T05:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983031785899602198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1731865096345780224",
+          "start": 0,
+          "username": "Ustinian_XiXi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983031785899602198",
+    "in_reply_to_user_id": "1731865096345780224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982629947341672783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ustinian_XiXi 王者不是比射击游戏难嘛我玩不懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1982629947341672783",
+        "created_at": "2025-10-28T04:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T05:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983031785899602198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1731865096345780224",
+              "start": 0,
+              "username": "Ustinian_XiXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983031785899602198",
+        "in_reply_to_user_id": "1731865096345780224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982629947341672783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ustinian_XiXi 王者不是比射击游戏难嘛我玩不懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731865096345780224",
+        "conversation_id": "1982629947341672783",
+        "created_at": "2025-10-27T02:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982629947341672783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982629947341672783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 38418,
+          "like_count": 253,
+          "quote_count": 0,
+          "reply_count": 76,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "找对象！(｢･ω･)｢\n本人是xyn，不抽烟不喝酒不割手精神比较稳定，pass会伪音脾气好粘人不占便宜，infp，很孤单没朋友每天很无聊，王者第五二游都可以玩（射击游戏不会噢，看不见人）\n是无性恋不在乎性别，偏柏拉图，消息秒回（前提是我抓着爪机），不处对象的话交个朋友也可以哇\n人在石家庄家住厦门"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 2195,
+          "like_count": 31778,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2308
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T02:36:44.000Z",
+        "description": "是超级圆圆的嘟嘟鱼！(｢･ω･)｢\n持证含糖，hrt  2023.12.7",
+        "id": "1731865096345780224",
+        "name": "✎ℳ₯㎕希曦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734585005718839296/RvMQy4gy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 401,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 138
+        },
+        "username": "Ustinian_XiXi",
+        "verified": false
+      }
+    ]
+  }
+}

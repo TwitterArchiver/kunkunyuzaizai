@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1955823736533475410",
+    "created_at": "2025-08-14T04:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T05:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955841859248644589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918683847014948864",
+          "start": 0,
+          "username": "wenjiuchen80589"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955841859248644589",
+    "in_reply_to_user_id": "1918683847014948864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955823736533475410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wenjiuchen80589 接了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1923,
+        "media_key": "3_1955823695697502212",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyR7SfFXYAQJXsb.jpg",
+        "width": 931
+      },
+      {
+        "height": 2388,
+        "media_key": "3_1955823727871991810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyR7UW8XIAIl0ti.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2388,
+        "media_key": "3_1955823730183016450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyR7UfjWkAIz9fZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1955823736533475410",
+        "created_at": "2025-08-14T04:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T05:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955841859248644589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918683847014948864",
+              "start": 0,
+              "username": "wenjiuchen80589"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955841859248644589",
+        "in_reply_to_user_id": "1918683847014948864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955823736533475410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wenjiuchen80589 接了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955823695697502212",
+            "3_1955823727871991810",
+            "3_1955823730183016450"
+          ]
+        },
+        "author_id": "1918683847014948864",
+        "conversation_id": "1955823736533475410",
+        "created_at": "2025-08-14T02:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T03:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955823736533475410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JNcO60BPF2",
+              "end": 81,
+              "expanded_url": "https://x.com/wenjiuchen80589/status/1955823736533475410/photo/1",
+              "media_key": "3_1955823695697502212",
+              "start": 58,
+              "url": "https://t.co/JNcO60BPF2"
+            },
+            {
+              "display_url": "pic.x.com/JNcO60BPF2",
+              "end": 81,
+              "expanded_url": "https://x.com/wenjiuchen80589/status/1955823736533475410/photo/1",
+              "media_key": "3_1955823727871991810",
+              "start": 58,
+              "url": "https://t.co/JNcO60BPF2"
+            },
+            {
+              "display_url": "pic.x.com/JNcO60BPF2",
+              "end": 81,
+              "expanded_url": "https://x.com/wenjiuchen80589/status/1955823736533475410/photo/1",
+              "media_key": "3_1955823730183016450",
+              "start": 58,
+              "url": "https://t.co/JNcO60BPF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955823736533475410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 774,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找到金主啦，金主不让玖辰酱接线下和援交，所以之前的下海贴就删啦，两个版本的价格表，也废了……就当作纪念晒在这里吧？ https://t.co/JNcO60BPF2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 1336,
+          "like_count": 21813,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1340
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T15:07:41.000Z",
+        "description": "2010.6.8一只15岁跨女，肉畜药娘一只，『金主：@……金主不让玖辰酱@他』169cm，59kg，M属性，INFP人格，目标是变成真正的女孩子。\n音乐爱好者，文科爱好者，历史爱好者，不鉴政。\n🚪30（扩列QQ好友位，陪聊，涩涩，私信过门，男娘门槛半价，同类『mtf』免🚪）",
+        "id": "1918683847014948864",
+        "location": "眉山东坡（当前）/成都双流/成都武侯（开学后）",
+        "name": "玖辰酱🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1955823736533475410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954210536071008256/ve_1mWaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2620,
+          "following_count": 92,
+          "like_count": 610,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 120
+        },
+        "username": "wenjiuchen80589",
+        "verified": false
+      }
+    ]
+  }
+}

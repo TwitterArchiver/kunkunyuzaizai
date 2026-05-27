@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1907103202996371746",
+    "created_at": "2025-04-02T07:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T08:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907331853515952235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1074703402028785664",
+          "start": 0,
+          "username": "shishenaa"
+        },
+        {
+          "end": 23,
+          "id": "1742111768649052160",
+          "start": 11,
+          "username": "nairichanwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907331853515952235",
+    "in_reply_to_user_id": "1074703402028785664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907128818151878758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shishenaa @nairichanwa 攻速快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1907103202996371746",
+        "created_at": "2025-04-02T07:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T08:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907331853515952235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1074703402028785664",
+              "start": 0,
+              "username": "shishenaa"
+            },
+            {
+              "end": 23,
+              "id": "1742111768649052160",
+              "start": 11,
+              "username": "nairichanwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907331853515952235",
+        "in_reply_to_user_id": "1074703402028785664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907128818151878758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shishenaa @nairichanwa 攻速快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1074703402028785664",
+        "conversation_id": "1907103202996371746",
+        "created_at": "2025-04-01T17:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T18:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907128818151878758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1742111768649052160",
+              "start": 0,
+              "username": "nairichanwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907128818151878758",
+        "in_reply_to_user_id": "1742111768649052160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907103202996371746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nairichanwa 又快又持久？这对吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 657,
+          "like_count": 12162,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 591
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-17T16:30:32.000Z",
+        "description": "1",
+        "id": "1074703402028785664",
+        "location": "北京",
+        "name": "食神",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 39,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 82
+        },
+        "username": "shishenaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T09:13:44.000Z",
+        "description": "🚫仅此一个号 | 🏳️‍⚧️Highly qualified #xyn | 🍥含糖3年已断供 | ‼️163cm/54kg/天赋党⁉️ | 💜地雷系、萝莉系、可爱脸 | ⚠️接线下 #圆角 #爸爸活 | 🚪#门槛 298 | ✈️全国可飞 | 🔞未成年勿扰 | 📷寻找摄影师 | 🍑出售 #原味",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "xyn"
+              },
+              {
+                "end": 94,
+                "start": 91,
+                "tag": "圆角"
+              },
+              {
+                "end": 99,
+                "start": 95,
+                "tag": "爸爸活"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "门槛"
+              },
+              {
+                "end": 147,
+                "start": 144,
+                "tag": "原味"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/nairichanwa",
+                "end": 23,
+                "expanded_url": "https://bit.ly/nairichanwa",
+                "start": 0,
+                "url": "https://t.co/wIFBohOCdo"
+              }
+            ]
+          }
+        },
+        "id": "1742111768649052160",
+        "location": "Base上海、过门槛或其他业务请点击此链接👉",
+        "name": "小花酱🏳️‍⚧️はなちゃんは〜",
+        "pinned_tweet_id": "1852464438152208692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742530929263104000/IALD6jyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14811,
+          "following_count": 251,
+          "like_count": 1393,
+          "listed_count": 28,
+          "media_count": 329,
+          "tweet_count": 1615
+        },
+        "url": "https://t.co/wIFBohOCdo",
+        "username": "nairichanwa",
+        "verified": true
+      }
+    ]
+  }
+}

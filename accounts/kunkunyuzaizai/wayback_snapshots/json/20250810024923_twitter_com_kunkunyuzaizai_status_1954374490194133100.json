@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1954023740939153560",
+    "created_at": "2025-08-10T02:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T03:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954374490194133100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "977090038256295936",
+          "start": 0,
+          "username": "DontBeStupidOne"
+        },
+        {
+          "end": 28,
+          "id": "1684788633797287936",
+          "start": 17,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954374490194133100",
+    "in_reply_to_user_id": "977090038256295936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954085409597927613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DontBeStupidOne @Moningmeng Apple确实很伟大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1954023740939153560",
+        "created_at": "2025-08-10T02:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T03:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954374490194133100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "977090038256295936",
+              "start": 0,
+              "username": "DontBeStupidOne"
+            },
+            {
+              "end": 28,
+              "id": "1684788633797287936",
+              "start": 17,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954374490194133100",
+        "in_reply_to_user_id": "977090038256295936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954085409597927613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DontBeStupidOne @Moningmeng Apple确实很伟大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "977090038256295936",
+        "conversation_id": "1954023740939153560",
+        "created_at": "2025-08-09T07:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T08:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954085409597927613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954085409597927613",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3385,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954023740939153560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 改叫X本来就很傻逼啊\n“X”本身有太多含义\n你一个社交平台能有多牛逼\n能重新定义一个字母？\n牛逼如“APPLE”也才重新定义一个单词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 1307,
+          "like_count": 20663,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1188
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-23T07:49:53.000Z",
+        "description": "Language and Geography Fan \nEnglish;Deutsch;Español;français ;日本語 \n有感而发，对号入座，自备茶水。\n无事此静坐，有福方读书。",
+        "id": "977090038256295936",
+        "location": "Japan",
+        "name": "沙岸树",
+        "pinned_tweet_id": "1469873993885036545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825124614193946624/XG44inuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 1480,
+          "like_count": 927,
+          "listed_count": 8,
+          "media_count": 555,
+          "tweet_count": 3993
+        },
+        "username": "DontBeStupidOne",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953648748330201088/g7X92lyF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21979,
+          "following_count": 10906,
+          "like_count": 82546,
+          "listed_count": 78,
+          "media_count": 4020,
+          "tweet_count": 14935
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

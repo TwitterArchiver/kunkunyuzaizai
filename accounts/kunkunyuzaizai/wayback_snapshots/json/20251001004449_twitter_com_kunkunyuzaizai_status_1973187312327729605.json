@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1973186231526891522",
+    "created_at": "2025-10-01T00:44:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T01:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973187312327729605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1339017385647325187",
+          "start": 0,
+          "username": "JiangAspirin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973187312327729605",
+    "in_reply_to_user_id": "1339017385647325187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973186631827071181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiangAspirin 啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1973186231526891522",
+        "created_at": "2025-10-01T00:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T01:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973187312327729605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1339017385647325187",
+              "start": 0,
+              "username": "JiangAspirin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973187312327729605",
+        "in_reply_to_user_id": "1339017385647325187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973186631827071181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiangAspirin 啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339017385647325187",
+        "conversation_id": "1973186231526891522",
+        "created_at": "2025-10-01T00:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T01:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973186631827071181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973186631827071181",
+        "in_reply_to_user_id": "1339017385647325187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973186231526891522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 学废了_(:з」∠)_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 2103,
+          "like_count": 30949,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2185
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-16T01:20:10.000Z",
+        "description": "🍥药娘 | hrt2025.01.01 | 家有妹魔大王@她不让我挂 | 超级无敌爱红烧肉 | 不喜键政 | 颜值非常抱歉，身材初具人形 | ❤️爱你们❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiangrspl",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiangrspl",
+                "start": 0,
+                "url": "https://t.co/3exIuCTvKQ"
+              }
+            ]
+          }
+        },
+        "id": "1339017385647325187",
+        "location": "东部星区",
+        "name": "姜啊姜啊姜🧀",
+        "pinned_tweet_id": "1947127145018573136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970355021855498240/3RYR7Wbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 193,
+          "like_count": 2865,
+          "listed_count": 7,
+          "media_count": 562,
+          "tweet_count": 2340
+        },
+        "url": "https://t.co/3exIuCTvKQ",
+        "username": "JiangAspirin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967595622003012059",
+    "created_at": "2025-09-17T05:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T06:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968182471813673097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968182471813673097",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967595622003012059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moningmeng 原生谷歌手机咋办"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_1967595536200224768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05NtyTb0AA6h37.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1187,
+        "media_key": "3_1967595536707649536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05Nt0MagAAoOIu.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967595622003012059",
+        "created_at": "2025-09-17T05:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968182471813673097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968182471813673097",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967595622003012059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 原生谷歌手机咋办"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967595536200224768",
+            "3_1967595536707649536"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1967595622003012059",
+        "created_at": "2025-09-15T14:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T15:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967595622003012059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ig5xY8h7e",
+              "end": 47,
+              "expanded_url": "https://x.com/Moningmeng/status/1967595622003012059/photo/1",
+              "media_key": "3_1967595536200224768",
+              "start": 24,
+              "url": "https://t.co/7ig5xY8h7e"
+            },
+            {
+              "display_url": "pic.x.com/7ig5xY8h7e",
+              "end": 47,
+              "expanded_url": "https://x.com/Moningmeng/status/1967595622003012059/photo/1",
+              "media_key": "3_1967595536707649536",
+              "start": 24,
+              "url": "https://t.co/7ig5xY8h7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967595622003012059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 18983,
+          "like_count": 243,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "发现孩子手机里有这些境外不良软件，请立即删除！ https://t.co/7ig5xY8h7e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1856,
+          "like_count": 28624,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1918
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Sakura_mo_yu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 75,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 52,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22954,
+          "following_count": 10944,
+          "like_count": 84448,
+          "listed_count": 82,
+          "media_count": 4201,
+          "tweet_count": 15345
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

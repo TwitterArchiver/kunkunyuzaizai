@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1998536631234785475",
+    "created_at": "2025-12-10T10:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T11:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998698512586883251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1922702397887131649",
+          "start": 0,
+          "username": "tutu65537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998698512586883251",
+    "in_reply_to_user_id": "1922702397887131649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998574118602457363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tutu65537 一加可以刷国际服COLOROS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1998536631234785475",
+        "created_at": "2025-12-10T10:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998698512586883251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1922702397887131649",
+              "start": 0,
+              "username": "tutu65537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998698512586883251",
+        "in_reply_to_user_id": "1922702397887131649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998574118602457363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tutu65537 一加可以刷国际服COLOROS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922702397887131649",
+        "conversation_id": "1998536631234785475",
+        "created_at": "2025-12-10T02:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T03:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998574118602457363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998574118602457363",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998536631234785475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 16e续航也强。买一加的问题是你得用中国版系统"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 2363,
+          "like_count": 34238,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2495
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T17:16:09.000Z",
+        "description": "但留下的感觉是不会忘记的",
+        "id": "1922702397887131649",
+        "name": "迷路的马桶刷",
+        "pinned_tweet_id": "1992531788628168766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997319140449861632/twnqEgbf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 320,
+          "like_count": 5446,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 4991
+        },
+        "username": "tutu65537",
+        "verified": false
+      }
+    ]
+  }
+}

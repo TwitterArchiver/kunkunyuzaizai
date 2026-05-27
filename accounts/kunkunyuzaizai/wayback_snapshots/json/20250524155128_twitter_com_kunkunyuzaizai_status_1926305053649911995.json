@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1922521071732838649",
+    "created_at": "2025-05-24T15:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T16:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926305053649911995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1317336186118049792",
+          "start": 0,
+          "username": "C581511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926305053649911995",
+    "in_reply_to_user_id": "1317336186118049792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922521071732838649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C581511 真羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1922520968343285762",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq4qon9XcAIZf7s.jpg",
+        "width": 1421
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1922521071732838649",
+        "created_at": "2025-05-24T15:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T16:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926305053649911995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1317336186118049792",
+              "start": 0,
+              "username": "C581511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926305053649911995",
+        "in_reply_to_user_id": "1317336186118049792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922521071732838649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C581511 真羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922520968343285762"
+          ]
+        },
+        "author_id": "1317336186118049792",
+        "conversation_id": "1922521071732838649",
+        "created_at": "2025-05-14T05:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T06:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922521071732838649"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "伪娘"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "伪娘の日常"
+            },
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zKd6dm0WvC",
+              "end": 55,
+              "expanded_url": "https://x.com/C581511/status/1922521071732838649/photo/1",
+              "media_key": "3_1922520968343285762",
+              "start": 32,
+              "url": "https://t.co/zKd6dm0WvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922521071732838649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 312,
+          "impression_count": 282217,
+          "like_count": 2131,
+          "quote_count": 2,
+          "reply_count": 53,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "第一人称视角👀\n\n#伪娘 #伪娘の日常 #可爱的男孩子 #男娘 https://t.co/zKd6dm0WvC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 1088,
+          "like_count": 15132,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 828
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-17T05:26:40.000Z",
+        "description": "🤳这里是人家的朋友圈ϵ( 'Θ' )϶｜🚪口令或WX打赏50➕V/Q有福利｜防丢唯一小号@youzikeai345◉‿◉只回口令或打赏（原味、视频11）置顶推广自辨！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "youzikeai345"
+              }
+            ]
+          }
+        },
+        "id": "1317336186118049792",
+        "location": "距离你1.2km",
+        "name": "柚柚啦",
+        "pinned_tweet_id": "1926169236130456004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884053518476271622/nTc2wUyO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22822,
+          "following_count": 450,
+          "like_count": 492,
+          "listed_count": 88,
+          "media_count": 24,
+          "tweet_count": 1313
+        },
+        "username": "C581511",
+        "verified": false
+      }
+    ]
+  }
+}

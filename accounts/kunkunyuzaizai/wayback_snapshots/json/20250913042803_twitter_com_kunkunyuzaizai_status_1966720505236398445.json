@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1966568626422682098",
+    "created_at": "2025-09-13T04:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T05:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966720505236398445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1786648164893962240",
+          "start": 0,
+          "username": "ShuiWo10578"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966720505236398445",
+    "in_reply_to_user_id": "1786648164893962240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966568626422682098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuiWo10578 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 890,
+        "media_key": "3_1966568620756258816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0qnvcKbUAA2tmT.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1966568626422682098",
+        "created_at": "2025-09-13T04:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T05:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966720505236398445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786648164893962240",
+              "start": 0,
+              "username": "ShuiWo10578"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966720505236398445",
+        "in_reply_to_user_id": "1786648164893962240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966568626422682098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuiWo10578 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966568620756258816"
+          ]
+        },
+        "author_id": "1786648164893962240",
+        "conversation_id": "1966568626422682098",
+        "created_at": "2025-09-12T18:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T19:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966568626422682098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LBDuZJm6Pe",
+              "end": 36,
+              "expanded_url": "https://x.com/ShuiWo10578/status/1966568626422682098/photo/1",
+              "media_key": "3_1966568620756258816",
+              "start": 13,
+              "url": "https://t.co/LBDuZJm6Pe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966568626422682098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15023,
+          "like_count": 124,
+          "quote_count": 5,
+          "reply_count": 63,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我…好像…不小心接到了… https://t.co/LBDuZJm6Pe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 1767,
+          "like_count": 27529,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1842
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T06:45:14.000Z",
+        "description": "推广自辩 // 巨大的i人 // 声控脑爱听男喘 //匿名提问箱：https://t.co/igOvTsNayJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuiwo10578",
+                "end": 56,
+                "expanded_url": "https://ngl.link/shuiwo10578",
+                "start": 33,
+                "url": "https://t.co/igOvTsNayJ"
+              }
+            ]
+          }
+        },
+        "id": "1786648164893962240",
+        "location": "🚪188/288/520/888/1314",
+        "name": "我睡醒了还困",
+        "pinned_tweet_id": "1964748468582519031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942080084942491648/F1IplVNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23784,
+          "following_count": 464,
+          "like_count": 23767,
+          "listed_count": 84,
+          "media_count": 440,
+          "tweet_count": 752
+        },
+        "username": "ShuiWo10578",
+        "verified": false
+      }
+    ]
+  }
+}

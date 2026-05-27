@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1931230154723823628",
+    "created_at": "2025-06-08T15:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T16:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931736703028572380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815089103639330816",
+          "start": 0,
+          "username": "qi_bobo57698"
+        },
+        {
+          "end": 27,
+          "id": "1762131287618564096",
+          "start": 14,
+          "username": "evelynn81614"
+        },
+        {
+          "end": 40,
+          "id": "1688397365336850432",
+          "start": 28,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931736703028572380",
+    "in_reply_to_user_id": "1815089103639330816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931545021158994059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_bobo57698 @evelynn81614 @hongpigu980 怎么会有铁腥味又不是血"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1931230154723823628",
+        "created_at": "2025-06-08T15:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931736703028572380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815089103639330816",
+              "start": 0,
+              "username": "qi_bobo57698"
+            },
+            {
+              "end": 27,
+              "id": "1762131287618564096",
+              "start": 14,
+              "username": "evelynn81614"
+            },
+            {
+              "end": 40,
+              "id": "1688397365336850432",
+              "start": 28,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931736703028572380",
+        "in_reply_to_user_id": "1815089103639330816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931545021158994059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_bobo57698 @evelynn81614 @hongpigu980 怎么会有铁腥味又不是血"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815089103639330816",
+        "conversation_id": "1931230154723823628",
+        "created_at": "2025-06-08T02:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T03:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931545021158994059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762131287618564096",
+              "start": 0,
+              "username": "evelynn81614"
+            },
+            {
+              "end": 26,
+              "id": "1688397365336850432",
+              "start": 14,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931545021158994059",
+        "in_reply_to_user_id": "1762131287618564096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 766,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931361925910397428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@evelynn81614 @hongpigu980 铁腥味，味道微苦，有的会发甜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 1179,
+          "like_count": 15903,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 856
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T18:19:09.000Z",
+        "description": "",
+        "id": "1815089103639330816",
+        "name": "bobo qi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846011742910140417/t4vX9ttW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 166,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 151
+        },
+        "username": "qi_bobo57698",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T15:04:06.000Z",
+        "description": "",
+        "id": "1762131287618564096",
+        "name": "Evelynn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893209451907158016/vJ_vXHtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 44,
+          "like_count": 1141,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "username": "evelynn81614",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31459,
+          "following_count": 32,
+          "like_count": 18,
+          "listed_count": 29,
+          "media_count": 295,
+          "tweet_count": 399
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

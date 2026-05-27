@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1881252639067013405",
+    "created_at": "2025-03-03T08:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T09:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896485647910940997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "562680597",
+          "start": 0,
+          "username": "leijun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896485647910940997",
+    "in_reply_to_user_id": "562680597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881252639067013405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leijun 雷军用的什么VPN啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1881252369968795648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhuNECzaEAApX_T.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1881252639067013405",
+        "created_at": "2025-03-03T08:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T09:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896485647910940997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "562680597",
+              "start": 0,
+              "username": "leijun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896485647910940997",
+        "in_reply_to_user_id": "562680597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881252639067013405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leijun 雷军用的什么VPN啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881252369968795648"
+          ]
+        },
+        "author_id": "562680597",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "1881252639067013405",
+        "created_at": "2025-01-20T08:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T09:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881252639067013405"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 71,
+              "normalized_text": "Xiaomi",
+              "probability": 0.7541,
+              "start": 66,
+              "type": "Organization"
+            },
+            {
+              "end": 170,
+              "normalized_text": "Xiaomi",
+              "probability": 0.8601,
+              "start": 165,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gr5XlX2MC2",
+              "end": 196,
+              "expanded_url": "https://x.com/leijun/status/1881252639067013405/photo/1",
+              "media_key": "3_1881252369968795648",
+              "start": 173,
+              "url": "https://t.co/Gr5XlX2MC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881252639067013405",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 1809782,
+          "like_count": 2226,
+          "quote_count": 3,
+          "reply_count": 125,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "2024 was a year of growth and milestones for me as the founder of Xiaomi. 2025 brings even more possibilities.\n\nFollow me for insights, stories, and what's next for Xiaomi. https://t.co/Gr5XlX2MC2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 612,
+          "like_count": 10141,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 454
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-25T04:50:20.000Z",
+        "description": "Founder and CEO of @Xiaomi \nPassion is the reason and the answer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "Xiaomi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com/global/",
+                "end": 23,
+                "expanded_url": "https://www.mi.com/global/",
+                "start": 0,
+                "url": "https://t.co/U7O7Jwdubv"
+              }
+            ]
+          }
+        },
+        "id": "562680597",
+        "name": "Lei Jun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814912966288199680/rc6ajkLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446725,
+          "following_count": 83,
+          "like_count": 2507,
+          "listed_count": 714,
+          "media_count": 1567,
+          "tweet_count": 3177
+        },
+        "url": "https://t.co/U7O7Jwdubv",
+        "username": "leijun",
+        "verified": true
+      }
+    ]
+  }
+}

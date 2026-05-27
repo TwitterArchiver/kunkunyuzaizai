@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2057359473380065535",
+    "created_at": "2026-05-23T02:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058011921950064884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1532663208393117696",
+          "start": 0,
+          "username": "Ziverk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058011921950064884",
+    "in_reply_to_user_id": "1532663208393117696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057359473380065535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ziverk2 伪音羡慕😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 141533,
+        "height": 984,
+        "media_key": "7_2057359144584364032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057359144584364032/pu/img/2SrGf73TOPlf0iJ5.jpg",
+        "public_metrics": {
+          "view_count": 433
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057359144584364032/pu/vid/avc1/320x436/X9MwMf4Epmn8SFmD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057359144584364032/pu/vid/avc1/480x656/_4hA8mrwUV5gN6dn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057359144584364032/pu/vid/avc1/720x984/Rynl4qGEhTCrux72.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057359144584364032/pu/pl/Ufe3aQaQWNNdSmEz.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 107266,
+        "height": 1280,
+        "media_key": "7_2057359344740745216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057359344740745216/pu/img/OOz8K6ONTYBr9BxP.jpg",
+        "public_metrics": {
+          "view_count": 46
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057359344740745216/pu/vid/avc1/320x710/GNvK3inbUxVp9QN7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057359344740745216/pu/vid/avc1/480x1066/Jm08YXVzj4Bb_ycR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057359344740745216/pu/vid/avc1/576x1280/514Vjh-30HeWb4QJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057359344740745216/pu/pl/4ck3TleGCr-2_1SY.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2057359473380065535",
+        "created_at": "2026-05-23T02:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058011921950064884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1532663208393117696",
+              "start": 0,
+              "username": "Ziverk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058011921950064884",
+        "in_reply_to_user_id": "1532663208393117696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057359473380065535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ziverk2 伪音羡慕😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2057359144584364032",
+            "7_2057359344740745216"
+          ]
+        },
+        "author_id": "1532663208393117696",
+        "conversation_id": "2057359473380065535",
+        "created_at": "2026-05-21T07:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057359473380065535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/se798kThO0",
+              "end": 63,
+              "expanded_url": "https://x.com/Ziverk2/status/2057359473380065535/video/1",
+              "media_key": "7_2057359144584364032",
+              "start": 40,
+              "url": "https://t.co/se798kThO0"
+            },
+            {
+              "display_url": "pic.x.com/se798kThO0",
+              "end": 63,
+              "expanded_url": "https://x.com/Ziverk2/status/2057359473380065535/video/1",
+              "media_key": "7_2057359344740745216",
+              "start": 40,
+              "url": "https://t.co/se798kThO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057359473380065535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1261,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一个是拉拉妹妹\n第二个是男配\n让一个小女生配这样的音太难为Eina了喵🥲🥲🥲 https://t.co/se798kThO0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 2994,
+          "like_count": 46099,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 3200
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T09:59:29.000Z",
+        "description": "喵喵喵喵喵🐱\n|2008-即将（？）\n|MTF(X)🍥 🏳️‍⚧️ SINCE 2024.11\n|原创音乐人\n|负面碎碎念☹️\n|小群 1020709329 只过熟人喵\n|烤批\n|内有涩涩内容🫣😈\n|负面逃生仓⚠血图 @TakeNitrite 😿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "TakeNitrite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eina-2nd.github.io",
+                "end": 23,
+                "expanded_url": "https://eina-2nd.github.io/",
+                "start": 0,
+                "url": "https://t.co/CY9WeMigBd"
+              }
+            ]
+          }
+        },
+        "id": "1532663208393117696",
+        "name": "Einaちゃん🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2050222327573717186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909919331443695616/ZASQNok0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3660,
+          "following_count": 5829,
+          "like_count": 182337,
+          "listed_count": 13,
+          "media_count": 307,
+          "tweet_count": 16470
+        },
+        "url": "https://t.co/CY9WeMigBd",
+        "username": "Ziverk2",
+        "verified": true
+      }
+    ]
+  }
+}

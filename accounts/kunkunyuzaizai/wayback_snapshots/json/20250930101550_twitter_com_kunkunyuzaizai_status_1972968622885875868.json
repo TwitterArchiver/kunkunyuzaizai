@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1972636431484096892",
+    "created_at": "2025-09-30T10:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T11:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972968622885875868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1862781214693707776",
+          "start": 0,
+          "username": "nzothkqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972968622885875868",
+    "in_reply_to_user_id": "1862781214693707776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972636431484096892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nzothkqk 我善良的都软弱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972636420771876865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2A2X4sbEAE7nno.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1972636431484096892",
+        "created_at": "2025-09-30T10:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T11:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972968622885875868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1862781214693707776",
+              "start": 0,
+              "username": "nzothkqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972968622885875868",
+        "in_reply_to_user_id": "1862781214693707776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972636431484096892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nzothkqk 我善良的都软弱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972636420771876865"
+          ]
+        },
+        "author_id": "1862781214693707776",
+        "conversation_id": "1972636431484096892",
+        "created_at": "2025-09-29T12:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T13:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972636431484096892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iHFIKsM3eG",
+              "end": 56,
+              "expanded_url": "https://x.com/nzothkqk/status/1972636431484096892/photo/1",
+              "media_key": "3_1972636420771876865",
+              "start": 33,
+              "url": "https://t.co/iHFIKsM3eG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972636431484096892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4228,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "觉得自己厌男的都去看这个视频！我有时候觉得女人真的还是太善良了！ https://t.co/iHFIKsM3eG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 2103,
+          "like_count": 30939,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2183
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T08:50:50.000Z",
+        "description": "幸福就像玻璃一样脆弱易碎",
+        "id": "1862781214693707776",
+        "name": "痛定思痛",
+        "pinned_tweet_id": "1965437108723876339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961966321752793088/VvQoascl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4400,
+          "following_count": 100,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 377
+        },
+        "username": "nzothkqk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968331526866968933",
+    "created_at": "2025-09-18T10:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T11:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968620466215453159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913825717785448449",
+          "start": 0,
+          "username": "qiqi_king66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968620466215453159",
+    "in_reply_to_user_id": "1913825717785448449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968331526866968933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqi_king66 该充电了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968331515294797824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DrFaFaUAA7zUp.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968331526866968933",
+        "created_at": "2025-09-18T10:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T11:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968620466215453159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913825717785448449",
+              "start": 0,
+              "username": "qiqi_king66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968620466215453159",
+        "in_reply_to_user_id": "1913825717785448449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968331526866968933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqi_king66 该充电了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968331515294797824"
+          ]
+        },
+        "author_id": "1913825717785448449",
+        "conversation_id": "1968331526866968933",
+        "created_at": "2025-09-17T15:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T16:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968331526866968933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I8ZAXw4OVJ",
+              "end": 28,
+              "expanded_url": "https://x.com/qiqi_king66/status/1968331526866968933/photo/1",
+              "media_key": "3_1968331515294797824",
+              "start": 5,
+              "url": "https://t.co/I8ZAXw4OVJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968331526866968933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 29622,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我错了吧 https://t.co/I8ZAXw4OVJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 1905,
+          "like_count": 29047,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1994
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T05:23:15.000Z",
+        "description": "ISFP🎨｜小狗会乖乖点头",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E8%8B%A11",
+                "start": 0,
+                "url": "https://t.co/IL63GGxEAV"
+              }
+            ]
+          }
+        },
+        "id": "1913825717785448449",
+        "location": "距离你520m",
+        "name": "S1eepy_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957745417480704000/ZrEzFlBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 184,
+          "like_count": 2301,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/IL63GGxEAV",
+        "username": "qiqi_king66",
+        "verified": false
+      }
+    ]
+  }
+}

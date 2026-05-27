@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968010891187855861",
+    "created_at": "2025-09-17T06:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T07:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968194141051031649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761601564962426880",
+          "start": 0,
+          "username": "2828yy123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968194141051031649",
+    "in_reply_to_user_id": "1761601564962426880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968010891187855861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2828yy123 看着好美味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968010875270508544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_Hds6asAAWtRA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968010875299827717",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_HdtBaEAUw4DW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968010875270479872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_Hds6aQAACUG4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968010891187855861",
+        "created_at": "2025-09-17T06:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T07:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968194141051031649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761601564962426880",
+              "start": 0,
+              "username": "2828yy123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968194141051031649",
+        "in_reply_to_user_id": "1761601564962426880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968010891187855861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2828yy123 看着好美味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968010875270508544",
+            "3_1968010875299827717",
+            "3_1968010875270479872"
+          ]
+        },
+        "author_id": "1761601564962426880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1968010891187855861",
+        "created_at": "2025-09-16T17:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T18:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968010891187855861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9tS4DtBXnO",
+              "end": 65,
+              "expanded_url": "https://x.com/2828yy123/status/1968010891187855861/photo/1",
+              "media_key": "3_1968010875270508544",
+              "start": 42,
+              "url": "https://t.co/9tS4DtBXnO"
+            },
+            {
+              "display_url": "pic.x.com/9tS4DtBXnO",
+              "end": 65,
+              "expanded_url": "https://x.com/2828yy123/status/1968010891187855861/photo/1",
+              "media_key": "3_1968010875299827717",
+              "start": 42,
+              "url": "https://t.co/9tS4DtBXnO"
+            },
+            {
+              "display_url": "pic.x.com/9tS4DtBXnO",
+              "end": 65,
+              "expanded_url": "https://x.com/2828yy123/status/1968010891187855861/photo/1",
+              "media_key": "3_1968010875270479872",
+              "start": 42,
+              "url": "https://t.co/9tS4DtBXnO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968010891187855861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3364,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯嗯能把饭菜吃光光的男朋友真的很性感。\n\n一种安全感？从小被教育要光盘行动的影响。 https://t.co/9tS4DtBXnO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1855,
+          "like_count": 28626,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1919
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T03:58:46.000Z",
+        "description": "自用蜂鸟VPN：https://t.co/uM0GstQXdu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 31,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=WOQXa1Vk",
+                "start": 8,
+                "url": "https://t.co/uM0GstQXdu"
+              }
+            ]
+          }
+        },
+        "id": "1761601564962426880",
+        "name": "布丁大炮",
+        "pinned_tweet_id": "1933161393060290795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931084206844915712/cPzvypqT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 303,
+          "like_count": 22782,
+          "listed_count": 7,
+          "media_count": 945,
+          "tweet_count": 11953
+        },
+        "username": "2828yy123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989308645444816896"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1989165259664552216",
+    "created_at": "2025-11-14T12:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T13:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989308649546883300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oo6GL0gBOt",
+          "end": 36,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1989308649546883300/photo/1",
+          "media_key": "3_1989308645444816896",
+          "start": 13,
+          "url": "https://t.co/Oo6GL0gBOt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989308649546883300",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989165259664552216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 https://t.co/Oo6GL0gBOt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989308649546883300].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989308649546883300",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989308649546883300"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_1989308645444816896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5txrFhaEAApuML.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1989165252051890179",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rvQfgacAMXXhr.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989165252051890179"
+          ]
+        },
+        "author_id": "1362960365055668225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1989165259664552216",
+        "created_at": "2025-11-14T02:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T03:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989165259664552216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WpHLSbaorl",
+              "end": 34,
+              "expanded_url": "https://x.com/POI74103174/status/1989165259664552216/photo/1",
+              "media_key": "3_1989165252051890179",
+              "start": 11,
+              "url": "https://t.co/WpHLSbaorl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989165259664552216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 163948,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "罗森的あんまん好吃😋 https://t.co/WpHLSbaorl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 2282,
+          "like_count": 32599,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2415
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "叫Poi就好啦。永远最喜欢的哥哥@kinpeimoment615；藝術系留学生／小市民；甘いものと冬と北海道が好き。(经常打错字，互动得多的话可能会回fo哦。🍡@Poi74103175",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "kinpeimoment615"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "Poi74103175"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "name": "鸛鳥踟躕",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939208765053575168/rkOBGkcd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3055,
+          "following_count": 336,
+          "like_count": 64877,
+          "listed_count": 10,
+          "media_count": 2572,
+          "tweet_count": 22807
+        },
+        "username": "POI74103174",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1986103514402357592",
+    "created_at": "2025-11-06T06:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T07:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986326117566062742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1531892246882430981",
+          "start": 0,
+          "username": "fufuno__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986326117566062742",
+    "in_reply_to_user_id": "1531892246882430981",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986315544883306652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fufuno__ 🙃😊😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1986103514402357592",
+        "created_at": "2025-11-06T06:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T07:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986326117566062742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1531892246882430981",
+              "start": 0,
+              "username": "fufuno__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986326117566062742",
+        "in_reply_to_user_id": "1531892246882430981",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986315544883306652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufuno__ 🙃😊😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531892246882430981",
+        "conversation_id": "1986103514402357592",
+        "created_at": "2025-11-06T06:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T07:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986315544883306652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986315544883306652",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986300114584141876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 謝謝小云！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 2214,
+          "like_count": 31849,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2343
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T06:55:58.000Z",
+        "description": "ฅ^•×•^ฅ  不擅長溝通的fufu | 想嘗試更多不同的事物 |中文|EN|MY| 馬來西亞個人勢vtuber | 不定時開台 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@fufuno_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@fufuno_",
+                "start": 0,
+                "url": "https://t.co/l7H355taKd"
+              }
+            ]
+          }
+        },
+        "id": "1531892246882430981",
+        "name": "Fufuno 諾兒🔖",
+        "pinned_tweet_id": "1906644889842180393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953731344892407811/5ltaxjVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 241,
+          "like_count": 4035,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 1150
+        },
+        "url": "https://t.co/l7H355taKd",
+        "username": "fufuno__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1882667674276401155",
+    "created_at": "2025-04-04T07:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T08:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908058628906692982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1484802996982665216",
+          "start": 0,
+          "username": "AL1S_2434"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908058628906692982",
+    "in_reply_to_user_id": "1484802996982665216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882667674276401155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AL1S_2434 让我舔一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1882667668672593920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiCURRVXwAAEZlz.jpg",
+        "width": 1519
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1882667674276401155",
+        "created_at": "2025-04-04T07:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T08:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908058628906692982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1484802996982665216",
+              "start": 0,
+              "username": "AL1S_2434"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908058628906692982",
+        "in_reply_to_user_id": "1484802996982665216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882667674276401155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AL1S_2434 让我舔一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882667668672593920"
+          ]
+        },
+        "author_id": "1484802996982665216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1882667674276401155",
+        "created_at": "2025-01-24T05:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T06:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882667674276401155"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "男娘"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "伪娘"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "男の娘"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "cosplay"
+            },
+            {
+              "end": 66,
+              "start": 54,
+              "tag": "BlueArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iVcbNPKvn6",
+              "end": 90,
+              "expanded_url": "https://x.com/AL1S_2434/status/1882667674276401155/photo/1",
+              "media_key": "3_1882667668672593920",
+              "start": 67,
+              "url": "https://t.co/iVcbNPKvn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882667674276401155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 582,
+          "impression_count": 206126,
+          "like_count": 2943,
+          "quote_count": 1,
+          "reply_count": 65,
+          "retweet_count": 232
+        },
+        "reply_settings": "everyone",
+        "text": "据说圣三一的学生每个人都会有一尊优雅的大炮哦～\n#男娘 #伪娘 #男の娘 #可爱的男孩子 #cosplay #BlueArchive https://t.co/iVcbNPKvn6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 693,
+          "like_count": 12629,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 640
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-22T08:20:19.000Z",
+        "description": "♂的，182cm 65kg ，女装萌新，极度社恐不太会说话，超级懒狗拖更大王，ba痴，口嗨弟，重度萝莉控，涩涩只是爱好，图片仅供参考不包实物（划掉），不卖图包（问也没有）,不线下（划掉），会视奸每一个人。穷死了，🚪暂无，同好可互fo互推扩列",
+        "id": "1484802996982665216",
+        "location": "GAME DEVELOPMENT DEPARTMENT",
+        "name": "Alice rainbow",
+        "pinned_tweet_id": "1882667674276401155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874472726624129024/LHz-sDdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11997,
+          "following_count": 8452,
+          "like_count": 4152,
+          "listed_count": 45,
+          "media_count": 65,
+          "tweet_count": 4414
+        },
+        "username": "AL1S_2434",
+        "verified": false
+      }
+    ]
+  }
+}

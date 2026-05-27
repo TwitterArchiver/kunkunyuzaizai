@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1923315830009287009",
+    "created_at": "2025-05-17T08:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T09:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923664484213850544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672120275205525504",
+          "start": 0,
+          "username": "Like_Rosemi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923664484213850544",
+    "in_reply_to_user_id": "1672120275205525504",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923315830009287009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Like_Rosemi 111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1923315830009287009",
+        "created_at": "2025-05-17T08:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T09:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923664484213850544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672120275205525504",
+              "start": 0,
+              "username": "Like_Rosemi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923664484213850544",
+        "in_reply_to_user_id": "1672120275205525504",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923315830009287009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Like_Rosemi 111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672120275205525504",
+        "conversation_id": "1923315830009287009",
+        "created_at": "2025-05-16T09:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T10:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923315830009287009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923315830009287009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5377,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "现在关注的都回 和我互fo吧不论成分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 1045,
+          "like_count": 14999,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 814
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T05:52:09.000Z",
+        "description": "🚪52纯绿｜半绿150｜接伤口定制｜互fo不论成分｜od紫餐精神病｜可以叫我鱼鱼｜infp💤",
+        "id": "1672120275205525504",
+        "location": "Central, SC",
+        "name": "鱼鱼",
+        "pinned_tweet_id": "1923401943226990933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921580753227317248/PtlXMbOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 154,
+          "like_count": 1300,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 79
+        },
+        "username": "Like_Rosemi",
+        "verified": false
+      }
+    ]
+  }
+}

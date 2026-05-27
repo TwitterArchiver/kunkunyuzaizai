@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1983389496147357967",
+    "created_at": "2025-10-29T23:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T00:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983683868147523927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1193167151596634112",
+          "start": 0,
+          "username": "KiminTW_Offical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983683868147523927",
+    "in_reply_to_user_id": "1193167151596634112",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983389496147357967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiminTW_Offical 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983389481651822592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ZqOaEaYAAk8pn.jpg",
+        "width": 1616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1983389496147357967",
+        "created_at": "2025-10-29T23:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T00:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983683868147523927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1193167151596634112",
+              "start": 0,
+              "username": "KiminTW_Offical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983683868147523927",
+        "in_reply_to_user_id": "1193167151596634112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983389496147357967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiminTW_Offical 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983389481651822592"
+          ]
+        },
+        "author_id": "1193167151596634112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1983389496147357967",
+        "created_at": "2025-10-29T04:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T05:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983389496147357967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9l7ynXCkj",
+              "end": 43,
+              "expanded_url": "https://x.com/KiminTW_Offical/status/1983389496147357967/photo/1",
+              "media_key": "3_1983389481651822592",
+              "start": 20,
+              "url": "https://t.co/N9l7ynXCkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983389496147357967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12540,
+          "like_count": 481,
+          "quote_count": 3,
+          "reply_count": 81,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "路過的推友可以自取一個蛋塔吃吃（比劃） https://t.co/N9l7ynXCkj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 2203,
+          "like_count": 31815,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2319
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-09T14:03:22.000Z",
+        "description": "男|台中人|時政基本評論|生活推為主|建制習派|威權份子|暫退役男|綠白與低素質人士勿擾\n\n好哥們@Amemiya_Hasumi 廚子@GlunekiKCA 小黍@_Shu_official 小綠@lamte15072 老保之友 @caswerlebel05好朋友@Tinkles_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "Amemiya_Hasumi"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "GlunekiKCA"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "_Shu_official"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "lamte15072"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "caswerlebel05"
+              },
+              {
+                "end": 141,
+                "start": 132,
+                "username": "Tinkles_"
+              }
+            ]
+          }
+        },
+        "id": "1193167151596634112",
+        "location": "東亞防禦倡議協議組織（E.A.D.I）",
+        "name": "拉斯普金不是阿金🇨🇳🇹🇼",
+        "pinned_tweet_id": "1959219877324947468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962842229212688384/0NQ-Faya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20556,
+          "following_count": 2959,
+          "like_count": 313977,
+          "listed_count": 36,
+          "media_count": 5909,
+          "tweet_count": 59998
+        },
+        "username": "KiminTW_Offical",
+        "verified": false
+      }
+    ]
+  }
+}

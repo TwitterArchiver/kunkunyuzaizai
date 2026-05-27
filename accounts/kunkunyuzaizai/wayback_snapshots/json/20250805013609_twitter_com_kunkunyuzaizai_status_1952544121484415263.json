@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1952204807495983246",
+    "created_at": "2025-08-05T01:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T02:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952544121484415263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884676403100258304",
+          "start": 0,
+          "username": "ming_wu15014"
+        },
+        {
+          "end": 29,
+          "id": "1691385929968062464",
+          "start": 14,
+          "username": "zhou1919456789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952544121484415263",
+    "in_reply_to_user_id": "1884676403100258304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952217708281655715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming_wu15014 @zhou1919456789 老王不是关了吗之前用过用不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1952204807495983246",
+        "created_at": "2025-08-05T01:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T02:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952544121484415263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884676403100258304",
+              "start": 0,
+              "username": "ming_wu15014"
+            },
+            {
+              "end": 29,
+              "id": "1691385929968062464",
+              "start": 14,
+              "username": "zhou1919456789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952544121484415263",
+        "in_reply_to_user_id": "1884676403100258304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952217708281655715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming_wu15014 @zhou1919456789 老王不是关了吗之前用过用不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884676403100258304",
+        "conversation_id": "1952204807495983246",
+        "created_at": "2025-08-04T03:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T04:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952217708281655715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691385929968062464",
+              "start": 0,
+              "username": "zhou1919456789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952217708281655715",
+        "in_reply_to_user_id": "1691385929968062464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2233,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952204807495983246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhou1919456789 把梯子卸了換成老王，老王占的內存很小而且使用也很方便😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 1304,
+          "like_count": 20472,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1179
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T18:54:33.000Z",
+        "description": "三民主義者+自由民主义者+民主社會主義者+民主中華民族主義者，反紅共反綠共反獨裁护民主，井外勢力，罵我台獨/綠蛙/青鳥/粉紅/支黑全家默認體驗三年大吃飽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huanghuagang.org",
+                "end": 23,
+                "expanded_url": "https://huanghuagang.org",
+                "start": 0,
+                "url": "https://t.co/eMavVPrSCf"
+              }
+            ]
+          }
+        },
+        "id": "1884676403100258304",
+        "location": "🇹🇼中國",
+        "name": "悟嗚詩(198964與疫情白紙革命版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941813236753686528/2uc3LM7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 281,
+          "like_count": 2293,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/eMavVPrSCf",
+        "username": "ming_wu15014",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:47:02.000Z",
+        "description": ".",
+        "id": "1691385929968062464",
+        "location": "Shanghai ",
+        "name": "明日美",
+        "pinned_tweet_id": "1945008058809376956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923343824744747008/2zTVcKUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 999,
+          "like_count": 2921,
+          "listed_count": 1,
+          "media_count": 515,
+          "tweet_count": 1086
+        },
+        "username": "zhou1919456789",
+        "verified": false
+      }
+    ]
+  }
+}

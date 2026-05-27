@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1938075444730798208",
+    "created_at": "2025-06-27T10:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T11:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938552791603228888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938552791603228888",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938075444730798208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 死亡率*10"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 744,
+        "media_key": "3_1938075434459017216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuVtVtrXMAABZmu.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1938075444730798208",
+        "created_at": "2025-06-27T10:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T11:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938552791603228888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938552791603228888",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938075444730798208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 死亡率*10"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938075434459017216"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1938075444730798208",
+        "created_at": "2025-06-26T03:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T04:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938075444730798208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZtnO2dYnl",
+              "end": 30,
+              "expanded_url": "https://x.com/jianlvup/status/1938075444730798208/photo/1",
+              "media_key": "3_1938075434459017216",
+              "start": 7,
+              "url": "https://t.co/sZtnO2dYnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938075444730798208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 159383,
+          "like_count": 695,
+          "quote_count": 5,
+          "reply_count": 175,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "你会要什么？ https://t.co/sZtnO2dYnl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1259,
+          "like_count": 18574,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 998
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "jianlvya"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1938078734495715410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3996,
+          "following_count": 988,
+          "like_count": 17316,
+          "listed_count": 10,
+          "media_count": 740,
+          "tweet_count": 1790
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

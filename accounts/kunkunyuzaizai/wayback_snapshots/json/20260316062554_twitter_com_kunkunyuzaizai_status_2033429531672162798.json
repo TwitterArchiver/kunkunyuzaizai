@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1988995361831264572",
+    "created_at": "2026-03-16T06:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033429531672162798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1854773584407019520",
+          "start": 0,
+          "username": "KyoukoSueharaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033429531672162798",
+    "in_reply_to_user_id": "1854773584407019520",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988995361831264572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KyoukoSueharaN 555"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1988995361831264572",
+        "created_at": "2026-03-16T06:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033429531672162798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1854773584407019520",
+              "start": 0,
+              "username": "KyoukoSueharaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033429531672162798",
+        "in_reply_to_user_id": "1854773584407019520",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988995361831264572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KyoukoSueharaN 555"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854773584407019520",
+        "conversation_id": "1988995361831264572",
+        "created_at": "2025-11-13T15:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T16:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988995361831264572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988995361831264572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2281,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每个人都有其独特的价值，值得被肯定与关注。谁都有缺点，只要不造成太多的负面影响，可以尽量包容，可以被光芒掩盖。愿世界多一份善意与爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|QQ号3762377561\n|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 150,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 127,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 2637,
+          "like_count": 41468,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 2853
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T06:31:23.000Z",
+        "description": "",
+        "id": "1854773584407019520",
+        "location": "Beijing",
+        "name": "Kyouko Suehara",
+        "pinned_tweet_id": "1988995361831264572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008004746855264256/GkM4fCgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 83,
+          "like_count": 80528,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 2098
+        },
+        "username": "KyoukoSueharaN",
+        "verified": false
+      }
+    ]
+  }
+}

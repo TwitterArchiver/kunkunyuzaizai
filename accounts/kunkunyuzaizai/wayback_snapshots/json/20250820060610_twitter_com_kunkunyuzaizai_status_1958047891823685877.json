@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958047882843668480"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1957702269312356787",
+    "created_at": "2025-08-20T06:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T07:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958047891823685877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "horizon_tem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G5oPQwCxUq",
+          "end": 36,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1958047891823685877/photo/1",
+          "media_key": "3_1958047882843668480",
+          "start": 13,
+          "url": "https://t.co/G5oPQwCxUq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958047891823685877",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957702269312356787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@horizon_tem https://t.co/G5oPQwCxUq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1958047891823685877].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1958047891823685877",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1958047891823685877"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958047882843668480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyxiLN4aQAAiNOK.jpg",
+        "width": 917
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1957702261620297728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gysn1afbUAAI4YW.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957702261620297728"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1957702269312356787",
+        "created_at": "2025-08-19T07:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T08:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957702269312356787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rTgfbzgz0I",
+              "end": 39,
+              "expanded_url": "https://x.com/horizon_tem/status/1957702269312356787/photo/1",
+              "media_key": "3_1957702261620297728",
+              "start": 16,
+              "url": "https://t.co/rTgfbzgz0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957702269312356787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8297,
+          "like_count": 89,
+          "quote_count": 1,
+          "reply_count": 113,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让我们看看你输入想要会出现什么 https://t.co/rTgfbzgz0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 1398,
+          "like_count": 23306,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1478
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。同班同学 @KunaAkem1 逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "KunaAkem1"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1957707136173240812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946779629358043136/5W74ck-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5255,
+          "following_count": 2336,
+          "like_count": 42413,
+          "listed_count": 10,
+          "media_count": 839,
+          "tweet_count": 12161
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

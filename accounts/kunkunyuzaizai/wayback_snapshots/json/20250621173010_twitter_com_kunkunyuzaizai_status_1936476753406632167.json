@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936476742782201856"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1936381006753534418",
+    "created_at": "2025-06-21T17:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T18:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936476753406632167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760890372585037824",
+          "start": 0,
+          "username": "puddings00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O45MYwbP2q",
+          "end": 40,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1936476753406632167/photo/1",
+          "media_key": "3_1936476742782201856",
+          "start": 17,
+          "url": "https://t.co/O45MYwbP2q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936476753406632167",
+    "in_reply_to_user_id": "1760890372585037824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936381006753534418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puddings00 我啥都问 https://t.co/O45MYwbP2q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936476753406632167].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936476753406632167",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936476753406632167"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936476742782201856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-_VnFWsAANbER.jpg",
+        "width": 917
+      },
+      {
+        "height": 2670,
+        "media_key": "3_1936380993172021248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt9oQP_WIAAZXYu.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936380993172021248"
+          ]
+        },
+        "author_id": "1760890372585037824",
+        "conversation_id": "1936381006753534418",
+        "created_at": "2025-06-21T11:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T12:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936381006753534418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bi32oFlEcG",
+              "end": 53,
+              "expanded_url": "https://x.com/puddings00/status/1936381006753534418/photo/1",
+              "media_key": "3_1936380993172021248",
+              "start": 30,
+              "url": "https://t.co/Bi32oFlEcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936381006753534418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 719,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要把我所有的情感寄托在你身上了\n谢谢你在\n弥补我缺失的爱 https://t.co/Bi32oFlEcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1250,
+          "like_count": 17464,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 937
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:52:48.000Z",
+        "description": "希望你可以喜欢我哦🍬/zh-CN&en-US/Lesbian/可爱的mtf一只~🏳️‍⚧️/she or her🩷/158cm＆40kg/HRT•8.30.23🍥/infp-t/喜欢贴贴🌟/不玩游戏/🚪128/🏳️‍⚧️同类互fo喵/最爱的笨蛋老公:@XXSHHZ8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "XXSHHZ8964"
+              }
+            ]
+          }
+        },
+        "id": "1760890372585037824",
+        "location": "Hong Kong",
+        "name": "布丁喵呜🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1912727183027564721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760890511252955136/x0DpoxWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2512,
+          "following_count": 612,
+          "like_count": 7320,
+          "listed_count": 3,
+          "media_count": 532,
+          "tweet_count": 4339
+        },
+        "username": "puddings00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968493260789399656",
+    "created_at": "2025-09-19T08:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T09:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968958197374275738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1661393888790319105",
+          "start": 0,
+          "username": "RruiruiO_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968958197374275738",
+    "in_reply_to_user_id": "1661393888790319105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968493260789399656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RruiruiO_o 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968493260789399656",
+        "created_at": "2025-09-19T08:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T09:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968958197374275738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1661393888790319105",
+              "start": 0,
+              "username": "RruiruiO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968958197374275738",
+        "in_reply_to_user_id": "1661393888790319105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968493260789399656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RruiruiO_o 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661393888790319105",
+        "conversation_id": "1968493260789399656",
+        "created_at": "2025-09-18T01:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T02:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968493260789399656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968493260789399656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 108505,
+          "like_count": 1381,
+          "quote_count": 16,
+          "reply_count": 96,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "我做过最激烈的床上运动就是安装宿舍床帘。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 1934,
+          "like_count": 29267,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2012
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T15:29:29.000Z",
+        "description": "esfp /9本/研0 / 财经 /记录我的日常和碎碎念 / 特别喜欢和小女孩玩 \n 来推纯是因为喜欢分享日常和大家互动玩，性压抑傻逼男滚远点❗️❗️不认识男的不要找我闲聊❗️❗️\n\n匿名：https://t.co/NbpPBGszXy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruirui75953",
+                "end": 118,
+                "expanded_url": "https://ngl.link/ruirui75953",
+                "start": 95,
+                "url": "https://t.co/NbpPBGszXy"
+              }
+            ]
+          }
+        },
+        "id": "1661393888790319105",
+        "location": "🧚🏻‍♀️",
+        "name": "瑞瑞（童脸狼🐺）",
+        "pinned_tweet_id": "1962043224778027496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941900895702417408/du0lDV-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 76,
+          "like_count": 1527,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 2083
+        },
+        "username": "RruiruiO_o",
+        "verified": false
+      }
+    ]
+  }
+}

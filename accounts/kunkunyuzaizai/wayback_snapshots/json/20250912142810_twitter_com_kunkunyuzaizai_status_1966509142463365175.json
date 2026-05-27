@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1966440815850311923",
+    "created_at": "2025-09-12T14:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T15:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966509142463365175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913825717785448449",
+          "start": 0,
+          "username": "qiqi_king66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966509142463365175",
+    "in_reply_to_user_id": "1913825717785448449",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966503443033690268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqi_king66 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1966440815850311923",
+        "created_at": "2025-09-12T14:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966509142463365175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913825717785448449",
+              "start": 0,
+              "username": "qiqi_king66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966509142463365175",
+        "in_reply_to_user_id": "1913825717785448449",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966503443033690268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqi_king66 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913825717785448449",
+        "conversation_id": "1966440815850311923",
+        "created_at": "2025-09-12T14:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966503443033690268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966503443033690268",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966495647315677621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1758,
+          "like_count": 27386,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1838
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T05:23:15.000Z",
+        "description": "你的眼泪又要从我这里骗走几分愧疚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E8%8B%A11",
+                "start": 0,
+                "url": "https://t.co/IL63GGycqt"
+              }
+            ]
+          }
+        },
+        "id": "1913825717785448449",
+        "location": "距离你520m",
+        "name": "S1eepy_",
+        "pinned_tweet_id": "1963869468964036799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957745417480704000/ZrEzFlBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 126,
+          "like_count": 1591,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/IL63GGycqt",
+        "username": "qiqi_king66",
+        "verified": false
+      }
+    ]
+  }
+}

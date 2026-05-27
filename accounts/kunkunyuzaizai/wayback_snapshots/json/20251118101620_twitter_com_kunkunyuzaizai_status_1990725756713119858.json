@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990725748148350976"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990627421708824825",
+    "created_at": "2025-11-18T10:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990725756713119858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "YesterdayOrange"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/reD17WLesH",
+          "end": 40,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1990725756713119858/photo/1",
+          "media_key": "3_1990725748148350976",
+          "start": 17,
+          "url": "https://t.co/reD17WLesH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990725756713119858",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990627421708824825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayOrange https://t.co/reD17WLesH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1990725756713119858].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1990725756713119858",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1990725756713119858"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990725748148350976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6B6hUebMAAyedD.jpg",
+        "width": 917
+      },
+      {
+        "height": 930,
+        "media_key": "3_1990627413076946947",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6AhFdybMAMfsau.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990627413076946947"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1990627421708824825",
+        "created_at": "2025-11-18T03:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T04:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990627421708824825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6vgyoDZup",
+              "end": 36,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1990627421708824825/photo/1",
+              "media_key": "3_1990627413076946947",
+              "start": 13,
+              "url": "https://t.co/q6vgyoDZup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990627421708824825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 15880,
+          "like_count": 192,
+          "quote_count": 7,
+          "reply_count": 115,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "输入“真想”会出现什么？ https://t.co/q6vgyoDZup"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 2308,
+          "like_count": 33011,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2432
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1990672020603089068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8304,
+          "following_count": 3255,
+          "like_count": 65132,
+          "listed_count": 14,
+          "media_count": 1356,
+          "tweet_count": 14920
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

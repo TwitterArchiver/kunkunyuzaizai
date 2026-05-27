@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2036621330888708502",
+    "created_at": "2026-03-25T03:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T04:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036648401622929862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1959679805139652608",
+          "start": 0,
+          "username": "qingchengshan37"
+        },
+        {
+          "end": 32,
+          "id": "1810873766119100416",
+          "start": 17,
+          "username": "RainBuild_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036648401622929862",
+    "in_reply_to_user_id": "1959679805139652608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036629836983308726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingchengshan37 @RainBuild_2024 奈飞网呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2036621330888708502",
+        "created_at": "2026-03-25T03:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036648401622929862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959679805139652608",
+              "start": 0,
+              "username": "qingchengshan37"
+            },
+            {
+              "end": 32,
+              "id": "1810873766119100416",
+              "start": 17,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036648401622929862",
+        "in_reply_to_user_id": "1959679805139652608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036629836983308726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingchengshan37 @RainBuild_2024 奈飞网呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959679805139652608",
+        "conversation_id": "2036621330888708502",
+        "created_at": "2026-03-25T02:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T03:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036629836983308726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036629836983308726",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 951,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036621330888708502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainBuild_2024 Netflx是什么🤔如果你想说Netflix，它没法在你的类原生手机上用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 2757,
+          "like_count": 43524,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 2998
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T18:11:12.000Z",
+        "description": "咪",
+        "id": "1959679805139652608",
+        "name": "青橙",
+        "pinned_tweet_id": "1976673332016927058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964806996009660416/rg8llJZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 81,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 327
+        },
+        "username": "qingchengshan37",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/Android ROM开发/产品项目运营/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/PM前请征得同意否则Ban/GMT+8/上一个账号@RainEngine2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "RainEngine2024"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴日向",
+        "pinned_tweet_id": "2035645425408200810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9056,
+          "following_count": 858,
+          "like_count": 63938,
+          "listed_count": 17,
+          "media_count": 1350,
+          "tweet_count": 9487
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      }
+    ]
+  }
+}

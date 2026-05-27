@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1907686696289964124",
+    "created_at": "2025-04-04T02:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T03:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907985870206153099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696410116097257472",
+          "start": 0,
+          "username": "RST_AloneStar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907985870206153099",
+    "in_reply_to_user_id": "1696410116097257472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907805644733952278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RST_AloneStar 当时头晕😵‍💫很难受写不了字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1907686696289964124",
+        "created_at": "2025-04-04T02:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T03:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907985870206153099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696410116097257472",
+              "start": 0,
+              "username": "RST_AloneStar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907985870206153099",
+        "in_reply_to_user_id": "1696410116097257472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907805644733952278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RST_AloneStar 当时头晕😵‍💫很难受写不了字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696410116097257472",
+        "conversation_id": "1907686696289964124",
+        "created_at": "2025-04-03T14:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T15:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907805644733952278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907805644733952278",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907775904748646562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 罕见（x）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 678,
+          "like_count": 12534,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 633
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T06:31:14.000Z",
+        "description": "CN/EN OK! JP下手 MUG Player |\nBiliBili：_AloneStar_ |\nSister：@Yujiudu |\nCouple Partner：@trifoliateor",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "Yujiudu"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "trifoliateor"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/KeFhX2Z",
+                "end": 23,
+                "expanded_url": "https://b23.tv/KeFhX2Z",
+                "start": 0,
+                "url": "https://t.co/0ibihKmT3t"
+              }
+            ]
+          }
+        },
+        "id": "1696410116097257472",
+        "location": "Mars",
+        "name": "_AloneStar_🍥@QueenStudio",
+        "pinned_tweet_id": "1893544236189901220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852924042577342464/wA7u-hqd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 858,
+          "like_count": 636,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1125
+        },
+        "url": "https://t.co/0ibihKmT3t",
+        "username": "RST_AloneStar",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968233641743647015",
+    "created_at": "2025-09-18T10:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T11:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968619437306581034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646503754924175360",
+          "start": 0,
+          "username": "mangguorulaobao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968619437306581034",
+    "in_reply_to_user_id": "1646503754924175360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968233641743647015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mangguorulaobao 刚下班"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1968233635934588928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CSEFDbUAAPekx.jpg",
+        "width": 960
+      },
+      {
+        "height": 960,
+        "media_key": "3_1968233639105396736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CSEQ3aAAAS08s.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968233641743647015",
+        "created_at": "2025-09-18T10:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T11:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968619437306581034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646503754924175360",
+              "start": 0,
+              "username": "mangguorulaobao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968619437306581034",
+        "in_reply_to_user_id": "1646503754924175360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968233641743647015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mangguorulaobao 刚下班"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968233635934588928",
+            "3_1968233639105396736"
+          ]
+        },
+        "author_id": "1646503754924175360",
+        "conversation_id": "1968233641743647015",
+        "created_at": "2025-09-17T08:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T09:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968233641743647015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VEjkQmjz1z",
+              "end": 34,
+              "expanded_url": "https://x.com/mangguorulaobao/status/1968233641743647015/photo/1",
+              "media_key": "3_1968233635934588928",
+              "start": 11,
+              "url": "https://t.co/VEjkQmjz1z"
+            },
+            {
+              "display_url": "pic.x.com/VEjkQmjz1z",
+              "end": 34,
+              "expanded_url": "https://x.com/mangguorulaobao/status/1968233641743647015/photo/1",
+              "media_key": "3_1968233639105396736",
+              "start": 11,
+              "url": "https://t.co/VEjkQmjz1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968233641743647015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 30556,
+          "like_count": 305,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在干什么！报备一下！ https://t.co/VEjkQmjz1z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 1902,
+          "like_count": 29000,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1985
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T13:21:11.000Z",
+        "description": "你好，我是欧包。没收到吗？我是欧包。/\n安全出口在→@lang_youk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "lang_youk"
+              }
+            ]
+          }
+        },
+        "id": "1646503754924175360",
+        "name": "芒果乳酪包",
+        "pinned_tweet_id": "1968233641743647015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870491175632941056/ivIso4yv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4720,
+          "following_count": 293,
+          "like_count": 256833,
+          "listed_count": 40,
+          "media_count": 1791,
+          "tweet_count": 21037
+        },
+        "username": "mangguorulaobao",
+        "verified": false
+      }
+    ]
+  }
+}

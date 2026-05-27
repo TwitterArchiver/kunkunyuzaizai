@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894364341383659520"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1894364349520908526",
+    "created_at": "2025-02-25T12:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T13:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894364349520908526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0W66dsEDrc",
+          "end": 36,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1894364349520908526/photo/1",
+          "media_key": "3_1894364341383659520",
+          "start": 13,
+          "url": "https://t.co/0W66dsEDrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894364349520908526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "球评价 (我感觉很普通🥺 https://t.co/0W66dsEDrc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1894364349520908526].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1894364349520908526",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1894364349520908526"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_1894364341383659520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkoiVOtXAAAVNR9.jpg",
+        "width": 649
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 553,
+          "like_count": 9563,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 401
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

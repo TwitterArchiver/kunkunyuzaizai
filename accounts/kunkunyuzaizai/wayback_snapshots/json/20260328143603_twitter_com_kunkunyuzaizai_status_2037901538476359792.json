@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2037264003219820670",
+    "created_at": "2026-03-28T14:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T15:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037901538476359792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2007036056068399104",
+          "start": 0,
+          "username": "huhu1585758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037901538476359792",
+    "in_reply_to_user_id": "2007036056068399104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037264003219820670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huhu1585758 啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037264000820666368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEXQ0JqbYAAJDzS.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2037264003219820670",
+        "created_at": "2026-03-28T14:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037901538476359792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2007036056068399104",
+              "start": 0,
+              "username": "huhu1585758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037901538476359792",
+        "in_reply_to_user_id": "2007036056068399104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037264003219820670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huhu1585758 啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037264000820666368"
+          ]
+        },
+        "author_id": "2007036056068399104",
+        "conversation_id": "2037264003219820670",
+        "created_at": "2026-03-26T20:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T21:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037264003219820670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWa4rOJ3J3",
+              "end": 41,
+              "expanded_url": "https://x.com/huhu1585758/status/2037264003219820670/photo/1",
+              "media_key": "3_2037264000820666368",
+              "start": 18,
+              "url": "https://t.co/bWa4rOJ3J3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037264003219820670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "醒来看到这个样子，已经哭晕在厕所了 https://t.co/bWa4rOJ3J3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 2826,
+          "like_count": 44398,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3061
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T10:28:19.000Z",
+        "description": "需要买凝胶，请加这个qq3997247387, qq群100497229因为加的人太多了，显示有风险，了解详情之后再加无，可出原味，可树洞陪聊，不是个啥好人",
+        "id": "2007036056068399104",
+        "name": "怀愚痴卖五倍雌二醇凝胶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007356537191428096/O6vmXPKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 39,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 49
+        },
+        "username": "huhu1585758",
+        "verified": false
+      }
+    ]
+  }
+}

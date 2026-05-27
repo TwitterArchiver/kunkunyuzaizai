@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1954575647172710459",
+    "created_at": "2025-08-11T04:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T05:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954766072852480349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1794054517073539078",
+          "start": 0,
+          "username": "Yudyzxq_77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954766072852480349",
+    "in_reply_to_user_id": "1794054517073539078",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954575647172710459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yudyzxq_77 和平精英"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1954575647172710459",
+        "created_at": "2025-08-11T04:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T05:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954766072852480349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794054517073539078",
+              "start": 0,
+              "username": "Yudyzxq_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954766072852480349",
+        "in_reply_to_user_id": "1794054517073539078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954575647172710459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yudyzxq_77 和平精英"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794054517073539078",
+        "conversation_id": "1954575647172710459",
+        "created_at": "2025-08-10T16:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T17:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954575647172710459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954575647172710459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2733,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们有没有什么平板游戏好玩的。买部平板回来现在像块砖毫无用处。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 1326,
+          "like_count": 20994,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1234
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T17:15:10.000Z",
+        "description": "只是一个无趣的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=pfqfRY9j",
+                "start": 0,
+                "url": "https://t.co/ieCNrIvdlD"
+              }
+            ]
+          }
+        },
+        "id": "1794054517073539078",
+        "location": "自用蜂鸟vpn🪜👉🏻",
+        "name": "zlluu^o^",
+        "pinned_tweet_id": "1941795917352366110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945891024733368322/u8Jd0Azs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 282,
+          "like_count": 4761,
+          "listed_count": 4,
+          "media_count": 299,
+          "tweet_count": 6567
+        },
+        "url": "https://t.co/ieCNrIvdlD",
+        "username": "Yudyzxq_77",
+        "verified": false
+      }
+    ]
+  }
+}

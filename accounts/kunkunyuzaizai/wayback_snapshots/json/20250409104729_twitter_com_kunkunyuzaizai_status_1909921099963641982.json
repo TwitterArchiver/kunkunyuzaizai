@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1909858412567085530",
+    "created_at": "2025-04-09T10:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T11:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909921099963641982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909921099963641982",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909858412567085530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1909858412567085530",
+        "created_at": "2025-04-09T10:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T11:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909921099963641982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909921099963641982",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909858412567085530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828008363273388032",
+        "conversation_id": "1909858412567085530",
+        "created_at": "2025-04-09T06:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T07:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909858412567085530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909858412567085530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 711,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们怎么关系那么好，她也有给你天天点赞嘛？也有每条推都和你互动嘛？凭什么不和我玩和她玩，嫉妒了嫉妒了嫉妒了👁👁👁👊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 818,
+          "like_count": 13599,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 696
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生❤️你喜欢僵尸嘛？❤️我只是单纯的坏，坏到骨子里那种哦🥰 门槛80加快私信回复速度，私信爆了致歉🥰不接推广，致歉🥰 纯享推 @jiangshi1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "jiangshi1121"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1908349305456578909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898218381196902401/IowLmhBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16247,
+          "following_count": 885,
+          "like_count": 14857,
+          "listed_count": 45,
+          "media_count": 497,
+          "tweet_count": 7055
+        },
+        "username": "akui1121",
+        "verified": false
+      }
+    ]
+  }
+}

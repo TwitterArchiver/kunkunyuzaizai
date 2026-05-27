@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1896018822785818703",
+    "created_at": "2025-03-03T03:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T04:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896404207395328006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1729357510837170176",
+          "start": 0,
+          "username": "lyb1007"
+        },
+        {
+          "end": 22,
+          "id": "1865831426303897600",
+          "start": 9,
+          "username": "Zero_158gjzr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896404207395328006",
+    "in_reply_to_user_id": "1729357510837170176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896107209085632982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyb1007 @Zero_158gjzr 因为没见过所以幻想很好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1896018822785818703",
+        "created_at": "2025-03-03T03:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T04:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896404207395328006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1729357510837170176",
+              "start": 0,
+              "username": "lyb1007"
+            },
+            {
+              "end": 22,
+              "id": "1865831426303897600",
+              "start": 9,
+              "username": "Zero_158gjzr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896404207395328006",
+        "in_reply_to_user_id": "1729357510837170176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896107209085632982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyb1007 @Zero_158gjzr 因为没见过所以幻想很好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729357510837170176",
+        "conversation_id": "1896018822785818703",
+        "created_at": "2025-03-02T07:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T08:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896107209085632982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865831426303897600",
+              "start": 0,
+              "username": "Zero_158gjzr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896107209085632982",
+        "in_reply_to_user_id": "1865831426303897600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 785,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896018822785818703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zero_158gjzr 令我遗憾的是，我凡面基过后，有很大几率和对方的关系迅速变淡，许多几近断联\n大概是彼此都发现了对方不如此前心中所思寐一般理想，，，大部分时候或许还是不见为好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 610,
+          "like_count": 10119,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 452
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T04:32:26.000Z",
+        "description": "🏳️‍🌈／💕@krzcs404／無言フォロー失礼します",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "krzcs404"
+              }
+            ]
+          }
+        },
+        "id": "1729357510837170176",
+        "name": "企亟",
+        "pinned_tweet_id": "1878392863261884645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836643117854003200/WiwtALBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 115,
+          "like_count": 932,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 591
+        },
+        "username": "lyb1007",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T18:51:06.000Z",
+        "description": "这里是零酱哦！一只INFP小猫！喵呜～\n/哪怕，奇迹渺茫，我也，尽力而为吧\n/希望大家好好的\n/无证hrt2025.1.10\n/里推（负能警告）@158Zero57844\n/104路开往糖业研究所～\n/我在创作以我为女主的galgame（现实版）～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "158Zero57844"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zero_158gjzr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zero_158gjzr",
+                "start": 0,
+                "url": "https://t.co/ZxXMCZ2ANC"
+              }
+            ]
+          }
+        },
+        "id": "1865831426303897600",
+        "location": "梦之乡",
+        "name": "Zero_158",
+        "pinned_tweet_id": "1875783026279641517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895352936487636992/HyGnw-G1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 561,
+          "like_count": 3891,
+          "listed_count": 5,
+          "media_count": 172,
+          "tweet_count": 2346
+        },
+        "url": "https://t.co/ZxXMCZ2ANC",
+        "username": "Zero_158gjzr",
+        "verified": false
+      }
+    ]
+  }
+}

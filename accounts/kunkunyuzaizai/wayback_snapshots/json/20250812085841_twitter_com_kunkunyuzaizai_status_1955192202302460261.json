@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1955124022863343845",
+    "created_at": "2025-08-12T08:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T09:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955192202302460261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767201221671313408",
+          "start": 0,
+          "username": "mikanjuice_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955192202302460261",
+    "in_reply_to_user_id": "1767201221671313408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955124022863343845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikanjuice_ovo 帮我zw🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1955124022863343845",
+        "created_at": "2025-08-12T08:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T09:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955192202302460261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1767201221671313408",
+              "start": 0,
+              "username": "mikanjuice_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955192202302460261",
+        "in_reply_to_user_id": "1767201221671313408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955124022863343845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanjuice_ovo 帮我zw🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767201221671313408",
+        "conversation_id": "1955124022863343845",
+        "created_at": "2025-08-12T04:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955124022863343845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955124022863343845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 597,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天中午会干的事情是 洗澡然后裸着钻进被窝里紫微"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 1331,
+          "like_count": 21323,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1284
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T14:50:04.000Z",
+        "description": "⚠️/叫我橘子/男娘/卑尔维斯糕手/百合厨/洗澡和裸睡爱好者/🚪/变成抖S了 tk 捆绑 k9/\n最近有点想练绳子和玩tk请可爱小南娘和我私信…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikanovo",
+                "start": 0,
+                "url": "https://t.co/pLLYQPbVGk"
+              }
+            ]
+          }
+        },
+        "id": "1767201221671313408",
+        "location": "南京（？）周边",
+        "name": "橘子罐头🍊多汁大橘瓣版",
+        "pinned_tweet_id": "1954511210659168436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935993383425597440/FnNSWZhG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20889,
+          "following_count": 1501,
+          "like_count": 24189,
+          "listed_count": 89,
+          "media_count": 181,
+          "tweet_count": 6173
+        },
+        "url": "https://t.co/pLLYQPbVGk",
+        "username": "mikanjuice_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2029698002861089179",
+    "created_at": "2026-03-06T02:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T03:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029750224579874990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1519249563512881153",
+          "start": 0,
+          "username": "woshilaidajian2"
+        },
+        {
+          "end": 33,
+          "id": "1701484460250890240",
+          "start": 17,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029750224579874990",
+    "in_reply_to_user_id": "1519249563512881153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029744086488600723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshilaidajian2 @SonogamiRinneTS 200多真的很贵了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2029698002861089179",
+        "created_at": "2026-03-06T02:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T03:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029750224579874990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1519249563512881153",
+              "start": 0,
+              "username": "woshilaidajian2"
+            },
+            {
+              "end": 33,
+              "id": "1701484460250890240",
+              "start": 17,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029750224579874990",
+        "in_reply_to_user_id": "1519249563512881153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029744086488600723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshilaidajian2 @SonogamiRinneTS 200多真的很贵了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519249563512881153",
+        "conversation_id": "2029698002861089179",
+        "created_at": "2026-03-06T02:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T03:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029744086488600723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029744086488600723",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029698002861089179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 这个药是多少钱呢？是雌二醇吗？因为我刚刚看过一个截图。医院卖的并不贵。医保还报销，是一些孩子在医院里开不出来，所以要找药商买吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|\n|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 137,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 114,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 2656,
+          "like_count": 40751,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2790
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-27T09:38:26.000Z",
+        "description": "现实主义平衡人\n真亦是假，假亦是真。偶尔发癫，请别介意",
+        "id": "1519249563512881153",
+        "name": "我是来打酱油哒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519251656977780737/aeOiPUdj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 54,
+          "like_count": 100,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 2668
+        },
+        "username": "woshilaidajian2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/中文，English /hrt: 2025.1.15/rle: 2025.2.10/ADHD，ASD，BPD/究极天残党/同类互关/王者，崩铁，碧蓝航线",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3814,
+          "following_count": 2881,
+          "like_count": 1096,
+          "listed_count": 13,
+          "media_count": 197,
+          "tweet_count": 1366
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

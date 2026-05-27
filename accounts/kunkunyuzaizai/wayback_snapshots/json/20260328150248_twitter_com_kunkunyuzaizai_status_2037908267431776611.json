@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2037891448134324328",
+    "created_at": "2026-03-28T15:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T16:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037908267431776611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599987342630002694",
+          "start": 0,
+          "username": "lny27974684"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037908267431776611",
+    "in_reply_to_user_id": "1599987342630002694",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037891448134324328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lny27974684 想要喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2037891439200493568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEgLd3xa4AA_TLQ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2037891448134324328",
+        "created_at": "2026-03-28T15:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037908267431776611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599987342630002694",
+              "start": 0,
+              "username": "lny27974684"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037908267431776611",
+        "in_reply_to_user_id": "1599987342630002694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037891448134324328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lny27974684 想要喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037891439200493568"
+          ]
+        },
+        "author_id": "1599987342630002694",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037891448134324328",
+        "created_at": "2026-03-28T13:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037891448134324328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HA7GlOcjqR",
+              "end": 58,
+              "expanded_url": "https://x.com/lny27974684/status/2037891448134324328/photo/1",
+              "media_key": "3_2037891439200493568",
+              "start": 35,
+              "url": "https://t.co/HA7GlOcjqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037891448134324328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不od了 还有29板75pr 2盒愈美片 1盒巴氯芬 直接抽奖全送了 https://t.co/HA7GlOcjqR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 2847,
+          "like_count": 44562,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3069
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T04:41:49.000Z",
+        "description": "06/友跨/计算机大二/找我聊天/无政治立场/互fo(^▽^)o",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wansui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wansui",
+                "start": 0,
+                "url": "https://t.co/jnMVzihyBo"
+              }
+            ]
+          }
+        },
+        "id": "1599987342630002694",
+        "name": "万穗",
+        "pinned_tweet_id": "2023374304268923334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016575350965510144/2XNPGmpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 149,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/jnMVzihyBo",
+        "username": "lny27974684",
+        "verified": true
+      }
+    ]
+  }
+}

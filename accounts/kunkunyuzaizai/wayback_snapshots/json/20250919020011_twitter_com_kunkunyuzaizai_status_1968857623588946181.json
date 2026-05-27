@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968237972186362242",
+    "created_at": "2025-09-19T02:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T03:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968857623588946181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1956295307886788608",
+          "start": 0,
+          "username": "Huiiiiiii2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968857623588946181",
+    "in_reply_to_user_id": "1956295307886788608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968857416964899189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huiiiiiii2025 不喜欢上学 天天被80"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968237972186362242",
+        "created_at": "2025-09-19T02:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T03:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968857623588946181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1956295307886788608",
+              "start": 0,
+              "username": "Huiiiiiii2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968857623588946181",
+        "in_reply_to_user_id": "1956295307886788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968857416964899189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huiiiiiii2025 不喜欢上学 天天被80"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956295307886788608",
+        "conversation_id": "1968237972186362242",
+        "created_at": "2025-09-19T01:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T02:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968857416964899189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968857416964899189",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968856979767500986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 我也，不过现在上课不能睡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1918,
+          "like_count": 29145,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2003
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T10:02:13.000Z",
+        "description": "孩子们我回来了 开的新号 可能都是废文，抱歉｜香港人｜是女生｜Mai眾｜acg爱好者｜欢迎一起玩🥰🥰🥰｜@0mooninside0 👈😋素笨蛋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "0mooninside0"
+              }
+            ]
+          }
+        },
+        "id": "1956295307886788608",
+        "name": "灰",
+        "pinned_tweet_id": "1968273819220742435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968353688117735424/iZ0nzr0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 261,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 300
+        },
+        "username": "Huiiiiiii2025",
+        "verified": false
+      }
+    ]
+  }
+}

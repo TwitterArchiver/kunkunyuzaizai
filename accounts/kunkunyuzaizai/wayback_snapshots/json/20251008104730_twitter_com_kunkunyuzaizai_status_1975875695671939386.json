@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1975507458308383175",
+    "created_at": "2025-10-08T10:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T11:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975875695671939386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1939352450714202112",
+          "start": 0,
+          "username": "inwhtk_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975875695671939386",
+    "in_reply_to_user_id": "1939352450714202112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975507458308383175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inwhtk_ 我更菜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1975507458308383175",
+        "created_at": "2025-10-08T10:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975875695671939386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1939352450714202112",
+              "start": 0,
+              "username": "inwhtk_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975875695671939386",
+        "in_reply_to_user_id": "1939352450714202112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975507458308383175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inwhtk_ 我更菜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939352450714202112",
+        "conversation_id": "1975507458308383175",
+        "created_at": "2025-10-07T10:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975507458308383175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975507458308383175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 858,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟我打瓦的几个好处：\n1.我很菜可以给你垫底  \n2.你打人的时候我跟在你后面会让你享受众星捧月的感觉  \n3.我对枪水平低和我玩会让路人以为你在照顾智障显得你非常有爱心  \n4.我真的求求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 2137,
+          "like_count": 31364,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2230
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T15:57:22.000Z",
+        "description": "不陪聊 除非给我打钱 发鸡死全家",
+        "id": "1939352450714202112",
+        "location": "有🚪",
+        "name": "好宅宅",
+        "pinned_tweet_id": "1969102534900953152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974117460325642251/oL8tDqON_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4399,
+          "following_count": 210,
+          "like_count": 5666,
+          "listed_count": 6,
+          "media_count": 35,
+          "tweet_count": 3859
+        },
+        "username": "inwhtk_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1970503281618379013",
+    "created_at": "2025-09-25T01:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T02:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971020322150416676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1547083956847198208",
+          "start": 0,
+          "username": "BuryAnita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971020322150416676",
+    "in_reply_to_user_id": "1547083956847198208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970503281618379013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BuryAnita 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 211,
+        "media_key": "3_1970503279231787008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1iiStNaYAA0pGC.jpg",
+        "width": 324
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1970503281618379013",
+        "created_at": "2025-09-25T01:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T02:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971020322150416676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1547083956847198208",
+              "start": 0,
+              "username": "BuryAnita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971020322150416676",
+        "in_reply_to_user_id": "1547083956847198208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970503281618379013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BuryAnita 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970503279231787008"
+          ]
+        },
+        "author_id": "1547083956847198208",
+        "conversation_id": "1970503281618379013",
+        "created_at": "2025-09-23T14:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T15:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970503281618379013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UOcEaVeRpS",
+              "end": 26,
+              "expanded_url": "https://x.com/BuryAnita/status/1970503281618379013/photo/1",
+              "media_key": "3_1970503279231787008",
+              "start": 3,
+              "url": "https://t.co/UOcEaVeRpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970503281618379013",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 96504,
+          "like_count": 429,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "。？ https://t.co/UOcEaVeRpS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 2077,
+          "like_count": 30436,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2130
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T05:02:31.000Z",
+        "description": "水鬼｜已婚｜🥄🍚纯享版@shuigui007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "shuigui007"
+              }
+            ]
+          }
+        },
+        "id": "1547083956847198208",
+        "name": "拿破鬼大帝👻",
+        "pinned_tweet_id": "1880556368354218236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941004305365905408/Gpu_wjTV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13582,
+          "following_count": 176,
+          "like_count": 19892,
+          "listed_count": 16,
+          "media_count": 430,
+          "tweet_count": 3036
+        },
+        "username": "BuryAnita",
+        "verified": false
+      }
+    ]
+  }
+}

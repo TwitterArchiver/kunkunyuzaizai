@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1930283656918249583",
+    "created_at": "2025-06-30T13:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T14:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939677702002495656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1664948430920359936",
+          "start": 0,
+          "username": "Snowcomics9452"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939677702002495656",
+    "in_reply_to_user_id": "1664948430920359936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 14,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930283656918249583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snowcomics9452 电脑一直闪屏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1930283656918249583",
+        "created_at": "2025-06-30T13:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T14:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939677702002495656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1664948430920359936",
+              "start": 0,
+              "username": "Snowcomics9452"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939677702002495656",
+        "in_reply_to_user_id": "1664948430920359936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930283656918249583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snowcomics9452 电脑一直闪屏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664948430920359936",
+        "conversation_id": "1930283656918249583",
+        "created_at": "2025-06-04T15:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T16:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930283656918249583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 118,
+              "id": "1664948430920359936",
+              "start": 103,
+              "username": "Snowcomics9452"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Rootless (ADB) Android performance optimizer for every condition, from pure performance to power-saving - SchneeSchmitt/ADB-Android-Optimizer",
+              "display_url": "github.com/SchneeSchmitt/…",
+              "end": 149,
+              "expanded_url": "https://github.com/SchneeSchmitt/ADB-Android-Optimizer",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1929947575429541890/ExGDHp0o?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1929947575429541890/ExGDHp0o?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 126,
+              "status": 200,
+              "title": "GitHub - SchneeSchmitt/ADB-Android-Optimizer: Rootless (ADB) Android performance optimizer for every condition, from pure performance to power-saving",
+              "unwound_url": "https://github.com/SchneeSchmitt/ADB-Android-Optimizer",
+              "url": "https://t.co/XGzkgT05s1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930283656918249583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4411,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "[不付費推廣]\n安卓手機卡頓？想要額外性能？想要蘋果手機的流暢度？網絡出現卡頓？但是手機root不了，怎麼辦？\nADB安卓性能增強器能夠為您解決煩惱，只需一台電腦和連接線，性能直接起飛。\n如有疑問，請聯繫 @Snowcomics9452\n載點在此 ⏬\nhttps://t.co/XGzkgT05s1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 1263,
+          "like_count": 19084,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1052
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️斷續含糖MtX🍥/\n這裡是雪花新聞中心，追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\n另類雪花: @RusndageSNF English: @Snowcomics 小貓窩: @SchneeSchmit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Snowcomics"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "SchneeSchmit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zyn-publiic.vercel.app",
+                "end": 23,
+                "expanded_url": "https://zyn-publiic.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/j7lBh9ksyI"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1930283656918249583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939666470113280000/TkkDO3rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 3077,
+          "like_count": 33543,
+          "listed_count": 2,
+          "media_count": 847,
+          "tweet_count": 6631
+        },
+        "url": "https://t.co/j7lBh9ksyI",
+        "username": "Snowcomics9452",
+        "verified": false
+      }
+    ]
+  }
+}

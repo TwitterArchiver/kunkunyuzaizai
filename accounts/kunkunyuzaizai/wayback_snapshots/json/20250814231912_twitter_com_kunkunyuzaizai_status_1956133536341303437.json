@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1955890069199577522",
+    "created_at": "2025-08-14T23:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T00:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956133536341303437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1664948430920359936",
+          "start": 0,
+          "username": "Snowcomics9452"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956133536341303437",
+    "in_reply_to_user_id": "1664948430920359936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955890069199577522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snowcomics9452 一加也🈚啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 897,
+        "media_key": "3_1955890066427142144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyS3pxUa4AAWgVq.jpg",
+        "width": 1280
+      },
+      {
+        "height": 902,
+        "media_key": "3_1955890066364227585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyS3pxFa4AEAqvA.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1955890069199577522",
+        "created_at": "2025-08-14T23:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T00:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956133536341303437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1664948430920359936",
+              "start": 0,
+              "username": "Snowcomics9452"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956133536341303437",
+        "in_reply_to_user_id": "1664948430920359936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955890069199577522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snowcomics9452 一加也🈚啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955890066427142144",
+            "3_1955890066364227585"
+          ]
+        },
+        "author_id": "1664948430920359936",
+        "conversation_id": "1955890069199577522",
+        "created_at": "2025-08-14T07:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T08:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955890069199577522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/beEWbNGavZ",
+              "end": 166,
+              "expanded_url": "https://x.com/Snowcomics9452/status/1955890069199577522/photo/1",
+              "media_key": "3_1955890066427142144",
+              "start": 143,
+              "url": "https://t.co/beEWbNGavZ"
+            },
+            {
+              "display_url": "pic.x.com/beEWbNGavZ",
+              "end": 166,
+              "expanded_url": "https://x.com/Snowcomics9452/status/1955890069199577522/photo/1",
+              "media_key": "3_1955890066364227585",
+              "start": 143,
+              "url": "https://t.co/beEWbNGavZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955890069199577522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5091,
+          "like_count": 91,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "一加 ColorOS 16 将调整 Bootloader 解锁方式\n\n一加手机近日对 Bootloader 解锁规则进行了调整。过去的直接解锁方式已被替换为“深度测试”申请机制。用户需先安装并使用官方提供的 APK 提交申请，等待审核完成并获批后才能进行解锁。解锁可能会影响保修权益。 https://t.co/beEWbNGavZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 1345,
+          "like_count": 22083,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1364
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️斷續含糖MtX/F🍥/\n這裡是雪花新聞中心，追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\n另類雪花: @RusndageSNF English: @Snowcomics 小貓窩: @SchneeSchmit 可線下面基",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "Snowcomics"
+              },
+              {
+                "end": 150,
+                "start": 137,
+                "username": "SchneeSchmit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transky.mtf.wiki",
+                "end": 23,
+                "expanded_url": "https://transky.mtf.wiki/",
+                "start": 0,
+                "url": "https://t.co/z3o74Bauki"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1930283656918249583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939666470113280000/TkkDO3rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 3334,
+          "like_count": 36969,
+          "listed_count": 2,
+          "media_count": 920,
+          "tweet_count": 7484
+        },
+        "url": "https://t.co/z3o74Bauki",
+        "username": "Snowcomics9452",
+        "verified": false
+      }
+    ]
+  }
+}

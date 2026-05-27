@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968306839810101671",
+    "created_at": "2025-09-17T13:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968306839810101671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linnyii8964/st…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/linnyii8964/status/1967780225124798699",
+          "start": 76,
+          "url": "https://t.co/8A8ranIemq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968306839810101671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967780225124798699",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说我傻逼的 你的逼很聪明吗？\n说我穷逼的 你的逼很有钱吗？\n说我傻屌的 你的屌很聪明吗？\n说我小众逼的 你的逼很大众吗？\n说我丑逼的 你的逼很好看吗？ https://t.co/8A8ranIemq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968306839810101671",
+        "created_at": "2025-09-17T13:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968306839810101671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linnyii8964/st…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/linnyii8964/status/1967780225124798699",
+              "start": 76,
+              "url": "https://t.co/8A8ranIemq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968306839810101671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967780225124798699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说我傻逼的 你的逼很聪明吗？\n说我穷逼的 你的逼很有钱吗？\n说我傻屌的 你的屌很聪明吗？\n说我小众逼的 你的逼很大众吗？\n说我丑逼的 你的逼很好看吗？ https://t.co/8A8ranIemq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883727989671944192",
+        "conversation_id": "1967780225124798699",
+        "created_at": "2025-09-16T02:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T03:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967780225124798699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967780225124798699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 95463,
+          "like_count": 1713,
+          "quote_count": 11,
+          "reply_count": 61,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "说我傻逼的 你的逼很聪明吗？\n说我穷逼的 你的逼很有钱吗？\n说我傻屌的 你的屌很聪明吗？\n说我小众逼的 你的逼很大众吗？\n说我丑逼的 你的逼很好看吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1877,
+          "like_count": 28808,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1954
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T04:05:33.000Z",
+        "description": "关我屁事，关你屁事？我喜欢:@jiangqidawang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "jiangqidawang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=ngr2J6c5",
+                "start": 0,
+                "url": "https://t.co/y74iEgGmI5"
+              }
+            ]
+          }
+        },
+        "id": "1883727989671944192",
+        "location": "蜂鸟vpn",
+        "name": "只是爱乱说话",
+        "pinned_tweet_id": "1967955079157387771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883728141543436288/FoLOuEY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8722,
+          "following_count": 1010,
+          "like_count": 16464,
+          "listed_count": 14,
+          "media_count": 1123,
+          "tweet_count": 11699
+        },
+        "url": "https://t.co/y74iEgGmI5",
+        "username": "linnyii8964",
+        "verified": false
+      }
+    ]
+  }
+}

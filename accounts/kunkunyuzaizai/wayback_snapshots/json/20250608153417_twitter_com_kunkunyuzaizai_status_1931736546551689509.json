@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1931736546551689509",
+    "created_at": "2025-06-08T15:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T16:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931736546551689509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maokai676/stat…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/maokai676/status/1931243037612540334",
+          "start": 23,
+          "url": "https://t.co/4hDo5dRkAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931736546551689509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931243037612540334",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "旧b不要 就来转转 转转回收二手b 上门收货 https://t.co/4hDo5dRkAT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1931736546551689509",
+        "created_at": "2025-06-08T15:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931736546551689509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maokai676/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/maokai676/status/1931243037612540334",
+              "start": 23,
+              "url": "https://t.co/4hDo5dRkAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931736546551689509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931243037612540334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "旧b不要 就来转转 转转回收二手b 上门收货 https://t.co/4hDo5dRkAT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494729267581960194",
+        "conversation_id": "1931230154723823628",
+        "created_at": "2025-06-07T06:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T07:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931243037612540334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931243037612540334",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3477,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931230154723823628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 旧b不要 就来转转 转转回收二手b 上门收货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 1179,
+          "like_count": 15902,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 855
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T17:43:31.000Z",
+        "description": "等到放晴那天谁想聊天就先发口令红包 🧧 我没时间闲聊 谢谢 （除了有趣的哥们和愿意点我打王者陪玩的哥们或者姐妹）完毕！！！",
+        "id": "1494729267581960194",
+        "location": "无脑",
+        "name": "七里香",
+        "pinned_tweet_id": "1837076229205414373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583149207950872577/K8hKD5cZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 12,
+          "like_count": 68,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1358
+        },
+        "username": "maokai676",
+        "verified": false
+      }
+    ]
+  }
+}

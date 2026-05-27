@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967775756932743374",
+    "created_at": "2025-09-16T06:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T07:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967836202041741578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945399401045975040",
+          "start": 0,
+          "username": "kikyo074"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967836202041741578",
+    "in_reply_to_user_id": "1945399401045975040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967777141908705283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kikyo074 我跑不下来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967775756932743374",
+        "created_at": "2025-09-16T06:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967836202041741578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945399401045975040",
+              "start": 0,
+              "username": "kikyo074"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967836202041741578",
+        "in_reply_to_user_id": "1945399401045975040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967777141908705283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikyo074 我跑不下来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945399401045975040",
+        "conversation_id": "1967775756932743374",
+        "created_at": "2025-09-16T02:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T03:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967777141908705283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967777141908705283",
+        "in_reply_to_user_id": "1945399401045975040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967775756932743374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚走到教学楼门口接到通知说回宿舍 那我问你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1826,
+          "like_count": 28376,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1901
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T08:25:46.000Z",
+        "description": "07｜欢迎大家和我交朋友呀^ω^｜互fo直关｜电子老公💕@Xy000812 @1122334455hj💕｜谁能跟我打无畏契约｜看我不爽拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "Xy000812"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "1122334455hj"
+              }
+            ]
+          }
+        },
+        "id": "1945399401045975040",
+        "location": "我是kk oᴗOಣ",
+        "name": "kikyo（day24",
+        "pinned_tweet_id": "1957693301189959718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950494172210769920/m8C5e7PV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 193,
+          "like_count": 2486,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 3024
+        },
+        "username": "kikyo074",
+        "verified": false
+      }
+    ]
+  }
+}

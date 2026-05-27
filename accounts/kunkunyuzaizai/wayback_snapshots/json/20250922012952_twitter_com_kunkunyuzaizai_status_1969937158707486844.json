@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1969650490150387922",
+    "created_at": "2025-09-22T01:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T02:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969937158707486844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942298895993954328",
+          "start": 0,
+          "username": "shellyisme24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969937158707486844",
+    "in_reply_to_user_id": "1942298895993954328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969650490150387922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shellyisme24 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969650475872976896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WarBIWgAAzfhI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1969650490150387922",
+        "created_at": "2025-09-22T01:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T02:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969937158707486844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942298895993954328",
+              "start": 0,
+              "username": "shellyisme24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969937158707486844",
+        "in_reply_to_user_id": "1942298895993954328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969650490150387922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shellyisme24 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969650475872976896"
+          ]
+        },
+        "author_id": "1942298895993954328",
+        "conversation_id": "1969650490150387922",
+        "created_at": "2025-09-21T06:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T07:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969650490150387922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r4FSW5Pepg",
+              "end": 37,
+              "expanded_url": "https://x.com/shellyisme24/status/1969650490150387922/photo/1",
+              "media_key": "3_1969650475872976896",
+              "start": 14,
+              "url": "https://t.co/r4FSW5Pepg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969650490150387922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 17071,
+          "like_count": 312,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "那些打不死我的一直在打我。 https://t.co/r4FSW5Pepg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 2037,
+          "like_count": 30046,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2086
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T19:05:28.000Z",
+        "description": "Le/广东/0.8/Enfj  男的滚蛋",
+        "id": "1942298895993954328",
+        "name": "iam小豚鼠精",
+        "pinned_tweet_id": "1952282352245465326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944308377632247808/wOL07VSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 543,
+          "like_count": 2492,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 602
+        },
+        "username": "shellyisme24",
+        "verified": false
+      }
+    ]
+  }
+}

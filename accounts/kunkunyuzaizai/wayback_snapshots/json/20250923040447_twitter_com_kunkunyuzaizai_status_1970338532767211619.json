@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1970068720866537861",
+    "created_at": "2025-09-23T04:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T05:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970338532767211619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1675820903253549060",
+          "start": 0,
+          "username": "BBgua520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970338532767211619",
+    "in_reply_to_user_id": "1675820903253549060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970068720866537861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BBgua520 小呱生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_1970068717729157120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1cXD5dbEAAqQUS.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1970068718010187776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1cXD6gbQAAozem.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1970068720866537861",
+        "created_at": "2025-09-23T04:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T05:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970338532767211619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1675820903253549060",
+              "start": 0,
+              "username": "BBgua520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970338532767211619",
+        "in_reply_to_user_id": "1675820903253549060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970068720866537861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BBgua520 小呱生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970068717729157120",
+            "3_1970068718010187776"
+          ]
+        },
+        "author_id": "1675820903253549060",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1970068720866537861",
+        "created_at": "2025-09-22T10:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T11:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970068720866537861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7zjNk5MxkR",
+              "end": 31,
+              "expanded_url": "https://x.com/BBgua520/status/1970068720866537861/photo/1",
+              "media_key": "3_1970068717729157120",
+              "start": 8,
+              "url": "https://t.co/7zjNk5MxkR"
+            },
+            {
+              "display_url": "pic.x.com/7zjNk5MxkR",
+              "end": 31,
+              "expanded_url": "https://x.com/BBgua520/status/1970068720866537861/photo/1",
+              "media_key": "3_1970068718010187776",
+              "start": 8,
+              "url": "https://t.co/7zjNk5MxkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970068720866537861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10438,
+          "like_count": 158,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "祝自己生日快乐 https://t.co/7zjNk5MxkR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 2064,
+          "like_count": 30326,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2106
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T10:57:19.000Z",
+        "description": "🚪18.8加q/40有福利（觉得我可爱可以投喂）非常感谢！INFP，喜欢有礼貌的人，口令或者v赞赏码（置顶）🍥\n可爱宝宝可以互关互推",
+        "id": "1675820903253549060",
+        "location": "Ukyo-ku, Kyoto",
+        "name": "小呱bb",
+        "pinned_tweet_id": "1876213464877977920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771864967131942912/uhxPquHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7633,
+          "following_count": 547,
+          "like_count": 6124,
+          "listed_count": 13,
+          "media_count": 254,
+          "tweet_count": 3244
+        },
+        "username": "BBgua520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949056957668823040"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1948953580448473220",
+    "created_at": "2025-07-26T10:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T11:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949056961305333969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1892197607109476352",
+          "start": 0,
+          "username": "lianshufa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KPtk4fHfdt",
+          "end": 45,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1949056961305333969/photo/1",
+          "media_key": "3_1949056957668823040",
+          "start": 22,
+          "url": "https://t.co/KPtk4fHfdt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949056961305333969",
+    "in_reply_to_user_id": "1892197607109476352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948953580448473220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianshufa 今天拍的🌚🙉😇😭😭😭 https://t.co/KPtk4fHfdt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1949056961305333969].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1949056961305333969",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1949056961305333969"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_1949056957668823040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwxw-fjakAAhobk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892197607109476352",
+        "conversation_id": "1948953580448473220",
+        "created_at": "2025-07-26T03:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T04:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948953580448473220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948953580448473220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5827,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好不容易留了六个月的头发，一下子被我姥爷给剪了😭😭😭，又成短发男了😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 1289,
+          "like_count": 19954,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1139
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T13:01:39.000Z",
+        "description": "09年的北京MtF🏳️‍⚧️｜小证含糖🍥｜HRT since 2025.06.19｜想要变成可爱的女孩子｜玩电吉他🎸｜¼个家长党+家暴党｜推特:@lianshufa｜QQ:2486603997｜无门槛，直接加｜现在精神很不正常",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "lianshufa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 23,
+                "expanded_url": "http://lsfself.top",
+                "start": 0,
+                "url": "https://t.co/zZum0DqESa"
+              }
+            ]
+          }
+        },
+        "id": "1892197607109476352",
+        "location": "中国 香港",
+        "name": "lsf🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937132483960623104/Zh5E9uen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 1568,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 222
+        },
+        "url": "https://t.co/zZum0DqESa",
+        "username": "lianshufa",
+        "verified": false
+      }
+    ]
+  }
+}

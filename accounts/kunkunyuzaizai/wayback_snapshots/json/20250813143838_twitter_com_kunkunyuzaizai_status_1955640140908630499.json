@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "1955300858893307973",
+    "created_at": "2025-08-13T14:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T15:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955640140908630499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1616696567549034496",
+          "start": 0,
+          "username": "LovelyChino2013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955640140908630499",
+    "in_reply_to_user_id": "1616696567549034496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955300858893307973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovelyChino2013 接受不了一爱怎么办就是男生🍵女生我是男生\n我只能接受女生或男生插我不能接受自己插别人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1955300858893307973",
+        "created_at": "2025-08-13T14:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955640140908630499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1616696567549034496",
+              "start": 0,
+              "username": "LovelyChino2013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955640140908630499",
+        "in_reply_to_user_id": "1616696567549034496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955300858893307973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovelyChino2013 接受不了一爱怎么办就是男生🍵女生我是男生\n我只能接受女生或男生插我不能接受自己插别人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616696567549034496",
+        "conversation_id": "1955300858893307973",
+        "created_at": "2025-08-12T16:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955300858893307973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955300858893307973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 13153,
+          "like_count": 186,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉如果出柜是不太可能了。今天我妈妈买了条裙子，然后半开玩笑似的说她太胖了穿着不好看，但是我身材好穿着一定很好看。我说那我就穿试试？她突然沉默一阵后语重心长的对我说，不行，男孩不能穿女孩子的衣服，妈妈生你不容易，你可千万别变成女孩子啊。然后又说我是家里的独苗和希望，传宗香火不能断"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 1335,
+          "like_count": 21658,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1325
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T07:18:09.000Z",
+        "description": "重度社恐\\主业历史学 \\ Trotskyism \\托派，革命马主义\\mtx🏳️‍⚧️\\喜欢Lolita（最爱的jsk是仲夏熊兔）\\不骂人（尽量）\\好朋友grok和GPT\\DDLC\\芳文社\\芙兰秀秀\\猫和老鼠❤️\\里世界郊游\\喜多\\晓美焰\\香风智乃\\蓬莱山辉夜\\约翰齐米西斯\\罗伯斯庇尔\\l'Incorruptible",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "http://marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/UnTrdQVDUJ"
+              }
+            ]
+          }
+        },
+        "id": "1616696567549034496",
+        "location": "Earth",
+        "name": "KafuShusui🏳️‍⚧️",
+        "pinned_tweet_id": "1890741460934217971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955632890127261696/yKNj6Pfc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 620,
+          "like_count": 17099,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1205
+        },
+        "url": "https://t.co/UnTrdQVDUJ",
+        "username": "LovelyChino2013",
+        "verified": false
+      }
+    ]
+  }
+}

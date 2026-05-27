@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1991361731969577414",
+    "created_at": "2025-11-20T23:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T00:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991655005150163279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1924416978976124928",
+          "start": 0,
+          "username": "Yxx1368062Yxx"
+        },
+        {
+          "end": 28,
+          "id": "1803069002370912256",
+          "start": 15,
+          "username": "qinqin191939"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991655005150163279",
+    "in_reply_to_user_id": "1924416978976124928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991442532396593594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yxx1368062Yxx @qinqin191939 多线是啥？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1991361731969577414",
+        "created_at": "2025-11-20T23:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T00:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991655005150163279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1924416978976124928",
+              "start": 0,
+              "username": "Yxx1368062Yxx"
+            },
+            {
+              "end": 28,
+              "id": "1803069002370912256",
+              "start": 15,
+              "username": "qinqin191939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991655005150163279",
+        "in_reply_to_user_id": "1924416978976124928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991442532396593594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yxx1368062Yxx @qinqin191939 多线是啥？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924416978976124928",
+        "conversation_id": "1991361731969577414",
+        "created_at": "2025-11-20T09:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T10:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991442532396593594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1803069002370912256",
+              "start": 0,
+              "username": "qinqin191939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991442532396593594",
+        "in_reply_to_user_id": "1803069002370912256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3144,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991361731969577414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin191939 骗你的 其实现实4i男也是多线🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 2330,
+          "like_count": 33315,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2441
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T10:49:06.000Z",
+        "description": "。",
+        "id": "1924416978976124928",
+        "name": "yxx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982847639424020480/xzdYFYGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 75,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "Yxx1368062Yxx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T14:15:59.000Z",
+        "description": "",
+        "id": "1803069002370912256",
+        "name": "无声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939580588748402688/ChOHLe81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 124,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "qinqin191939",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1929175605725331908",
+    "created_at": "2025-06-05T15:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T16:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930649913890935228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1638926743871557633",
+          "start": 0,
+          "username": "meiheiwansui2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930649913890935228",
+    "in_reply_to_user_id": "1638926743871557633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929175605725331908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiheiwansui2 接了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1035,
+        "media_key": "3_1929175596258697216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXO-8xaIAAYG2P.jpg",
+        "width": 1218
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1929175605725331908",
+        "created_at": "2025-06-05T15:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T16:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930649913890935228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1638926743871557633",
+              "start": 0,
+              "username": "meiheiwansui2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930649913890935228",
+        "in_reply_to_user_id": "1638926743871557633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929175605725331908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiheiwansui2 接了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929175596258697216"
+          ]
+        },
+        "author_id": "1638926743871557633",
+        "conversation_id": "1929175605725331908",
+        "created_at": "2025-06-01T13:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T14:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929175605725331908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eipCJ6TA0X",
+              "end": 76,
+              "expanded_url": "https://x.com/meiheiwansui2/status/1929175605725331908/photo/1",
+              "media_key": "3_1929175596258697216",
+              "start": 53,
+              "url": "https://t.co/eipCJ6TA0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929175605725331908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 997,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就你还鉴鸡🐔呢？傻逼！你得有鸡吧才能鉴鸡啊！别人的是鸡吧，你的是小阴蒂，同样是男人你只会给男性拉分！呸！ https://t.co/eipCJ6TA0X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 1133,
+          "like_count": 15341,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 847
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T15:32:48.000Z",
+        "description": "小号@meiheiwansui3  /  鉴鸡/羞辱/收狗🐶/可语音条/   优先曝光戴锁小鸡吧  /教蝈男自毁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "meiheiwansui3"
+              }
+            ]
+          }
+        },
+        "id": "1638926743871557633",
+        "name": "媚黑小女孩",
+        "pinned_tweet_id": "1916869326088663525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855164327629832192/MhVWwRGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2965,
+          "following_count": 1,
+          "like_count": 178,
+          "listed_count": 12,
+          "media_count": 1194,
+          "tweet_count": 1236
+        },
+        "username": "meiheiwansui2",
+        "verified": false
+      }
+    ]
+  }
+}

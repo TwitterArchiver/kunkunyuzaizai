@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1842422795843813805",
+    "created_at": "2024-10-08T01:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T02:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843467148615733302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1546538515994882048",
+          "start": 0,
+          "username": "canxixidewukou2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843467148615733302",
+    "in_reply_to_user_id": "1546538515994882048",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842422795843813805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canxixidewukou2 这是什么玩具"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1842422795843813805",
+        "created_at": "2024-10-08T01:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T02:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843467148615733302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1546538515994882048",
+              "start": 0,
+              "username": "canxixidewukou2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843467148615733302",
+        "in_reply_to_user_id": "1546538515994882048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842422795843813805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canxixidewukou2 这是什么玩具"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1842422691103723520"
+          ]
+        },
+        "author_id": "1546538515994882048",
+        "conversation_id": "1842422795843813805",
+        "created_at": "2024-10-05T04:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T05:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842422795843813805"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "伪娘"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "男娘"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "女装大佬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTUGBkHQ1f",
+              "end": 67,
+              "expanded_url": "https://x.com/canxixidewukou2/status/1842422795843813805/video/1",
+              "media_key": "7_1842422691103723520",
+              "start": 44,
+              "url": "https://t.co/MTUGBkHQ1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842422795843813805",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 27885,
+          "like_count": 522,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "🐮🐮你怎么了，怎么什么都没做就吐出来了😭😭\n#伪娘 #男娘 #可爱的男孩子 #女装大佬 https://t.co/MTUGBkHQ1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 246,
+          "like_count": 5014,
+          "listed_count": 0,
+          "tweet_count": 227
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T16:56:24.000Z",
+        "description": "男孩子（无🍬)高级美颜战士，现实很丑……172/138（现在128）  别骂了已经在减了😭😭 喜欢的话点点关注吧，私信看到了会回的（只回关注的哦）❤️要互关的宝宝记得私信我哦",
+        "id": "1546538515994882048",
+        "location": "陕西",
+        "name": "惨兮兮的五口子",
+        "pinned_tweet_id": "1822512845134979336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627875960719818752/9dHlo0Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5992,
+          "following_count": 401,
+          "like_count": 2644,
+          "listed_count": 41,
+          "tweet_count": 1459
+        },
+        "username": "canxixidewukou2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1955098071479578742",
+    "created_at": "2025-08-13T12:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T13:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955609898290757798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1924364001267576832",
+          "start": 0,
+          "username": "Meow_Bellaaa"
+        },
+        {
+          "end": 22,
+          "id": "1774817207576350720",
+          "start": 14,
+          "username": "Nox_TTi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955609898290757798",
+    "in_reply_to_user_id": "1924364001267576832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955163924828967413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meow_Bellaaa @Nox_TTi 精液是不是烫的炉管的时候射出来感觉不到温度吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1955098071479578742",
+        "created_at": "2025-08-13T12:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T13:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955609898290757798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924364001267576832",
+              "start": 0,
+              "username": "Meow_Bellaaa"
+            },
+            {
+              "end": 22,
+              "id": "1774817207576350720",
+              "start": 14,
+              "username": "Nox_TTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955609898290757798",
+        "in_reply_to_user_id": "1924364001267576832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955163924828967413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meow_Bellaaa @Nox_TTi 精液是不是烫的炉管的时候射出来感觉不到温度吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924364001267576832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1955098071479578742",
+        "created_at": "2025-08-12T07:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T08:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955163924828967413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1774817207576350720",
+              "start": 0,
+              "username": "Nox_TTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955163924828967413",
+        "in_reply_to_user_id": "1774817207576350720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 24694,
+          "like_count": 435,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955098071479578742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nox_TTi 我感觉问这个问题和“问🐍进去有感觉吗”没区别。事实就是0个感觉。除了能满足一些男人诡异的xp（可能是看男性向or漫画看来的）以外0个用处。还有问精液是不是烫的这种…真的感觉某些小说和漫画真的害人。看到有人反驳你说尿液是无菌的…保胎针的受益者真多…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 1334,
+          "like_count": 21477,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1306
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T07:18:42.000Z",
+        "description": "ENFJ日记本📓｜活人感🧩掉落｜随你怎么说 也请随我怎么说🤫｜世界就是个巨大的心想事成 只想追求内心的平静｜惹我会触发愤怒咪请三思｜可以叫我小咪 谢谢你关注我🫶🏻｜备考中…如果某天话很多就是学疯了…",
+        "id": "1924364001267576832",
+        "location": "咪之幸福乌托邦",
+        "name": "小咪殿下萬歲萬歲萬萬歲（备考碎碎念版）",
+        "pinned_tweet_id": "1925852097314001194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924364129889931264/1blchVdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 117,
+          "like_count": 8149,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 2768
+        },
+        "username": "Meow_Bellaaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T15:13:06.000Z",
+        "description": "叫我天天/Nox｜直女 switch｜喜欢我就打钱｜锁评推广自辨｜晚安",
+        "id": "1774817207576350720",
+        "name": "Nox",
+        "pinned_tweet_id": "1955545407918137842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920689183557120000/w9nPJui6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2975,
+          "following_count": 75,
+          "like_count": 1893,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 1597
+        },
+        "username": "Nox_TTi",
+        "verified": false
+      }
+    ]
+  }
+}

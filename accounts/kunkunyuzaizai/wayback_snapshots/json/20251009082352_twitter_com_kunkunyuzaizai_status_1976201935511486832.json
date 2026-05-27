@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1975632803820937567",
+    "created_at": "2025-10-09T08:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T09:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976201935511486832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1846705278521430017",
+          "start": 0,
+          "username": "yumira_love"
+        },
+        {
+          "end": 21,
+          "id": "1888832422441361408",
+          "start": 13,
+          "username": "DZbtc66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976201935511486832",
+    "in_reply_to_user_id": "1846705278521430017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976179662884831338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumira_love @DZbtc66 ber 不是的意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1975632803820937567",
+        "created_at": "2025-10-09T08:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T09:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976201935511486832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1846705278521430017",
+              "start": 0,
+              "username": "yumira_love"
+            },
+            {
+              "end": 21,
+              "id": "1888832422441361408",
+              "start": 13,
+              "username": "DZbtc66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976201935511486832",
+        "in_reply_to_user_id": "1846705278521430017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976179662884831338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumira_love @DZbtc66 ber 不是的意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846705278521430017",
+        "conversation_id": "1975632803820937567",
+        "created_at": "2025-10-09T06:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T07:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976179662884831338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 24,
+              "id": "1888832422441361408",
+              "start": 16,
+              "username": "DZbtc66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976179662884831338",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976167634568905028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @DZbtc66 看不懂哦宝宝🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 2140,
+          "like_count": 31447,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2242
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T00:10:34.000Z",
+        "description": "les",
+        "id": "1846705278521430017",
+        "location": "距离你1km内",
+        "name": "Yumira de fontaine",
+        "pinned_tweet_id": "1939663292131332485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963083971438501888/OnYkL5U0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 209,
+          "like_count": 3374,
+          "listed_count": 5,
+          "media_count": 130,
+          "tweet_count": 1533
+        },
+        "username": "yumira_love",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T06:08:45.000Z",
+        "description": "全职Web3 专业投研 | 自营工作室   |专注一级meme，是个韭菜，记录亏损操作，相信自己是最大的alpha！先锋队社区创始人，社区付费门槛 ，入口看置顶推文/\nTG裙打狗：https://t.co/DZhO18RDSM\n#Bitcoin #Web3",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 114,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "Web3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+5igUuAe-LUxjN…",
+                "end": 113,
+                "expanded_url": "https://t.me/+5igUuAe-LUxjNjRl",
+                "start": 90,
+                "url": "https://t.co/DZhO18RDSM"
+              }
+            ]
+          }
+        },
+        "id": "1888832422441361408",
+        "name": "队长",
+        "pinned_tweet_id": "1965477172459831620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963431925470867456/7SqNq-B9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11215,
+          "following_count": 1397,
+          "like_count": 9528,
+          "listed_count": 76,
+          "media_count": 1397,
+          "tweet_count": 8125
+        },
+        "username": "DZbtc66",
+        "verified": true
+      }
+    ]
+  }
+}

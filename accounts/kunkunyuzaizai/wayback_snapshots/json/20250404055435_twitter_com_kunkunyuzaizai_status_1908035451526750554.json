@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908035447370166278"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1908035451526750554",
+    "created_at": "2025-04-04T05:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T06:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908035451526750554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/96v8FJRmG6",
+          "end": 26,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1908035451526750554/photo/1",
+          "media_key": "3_1908035447370166278",
+          "start": 3,
+          "url": "https://t.co/96v8FJRmG6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908035451526750554",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好玩 https://t.co/96v8FJRmG6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908035451526750554].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908035451526750554",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908035451526750554"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908035447370166278",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnq0IVNaMAYtgop.jpg",
+        "width": 922
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 679,
+          "like_count": 12556,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 634
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1803535915551228375",
+    "created_at": "2024-09-24T09:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T10:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838513191871008853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780923981195014144",
+          "start": 0,
+          "username": "fu_dao9473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838513191871008853",
+    "in_reply_to_user_id": "1780923981195014144",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837798784874479897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fu_dao9473 啊(✪▽✪)咧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1803535915551228375",
+        "created_at": "2024-09-24T09:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T10:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838513191871008853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780923981195014144",
+              "start": 0,
+              "username": "fu_dao9473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838513191871008853",
+        "in_reply_to_user_id": "1780923981195014144",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837798784874479897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fu_dao9473 啊(✪▽✪)咧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780923981195014144",
+        "conversation_id": "1803535915551228375",
+        "created_at": "2024-09-22T10:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T11:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837798784874479897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837798784874479897",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803535915551228375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 好大的唧唧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 240,
+          "like_count": 4783,
+          "listed_count": 0,
+          "tweet_count": 220
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T11:40:28.000Z",
+        "description": "坚定拥护共产主义，死亡不属于工人阶级／革命尚未成功，同志还需努力（这是理想）\n／日常喜欢看小说写小说／酷爱研究美食／撸猫猫🐱／打游戏🎮／日常减肥中～",
+        "id": "1780923981195014144",
+        "location": "中国🇨🇳豫州",
+        "name": "龍猫喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828485230166188033/coRoI3ak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 367,
+          "like_count": 537,
+          "listed_count": 0,
+          "tweet_count": 157
+        },
+        "username": "fu_dao9473",
+        "verified": false
+      }
+    ]
+  }
+}

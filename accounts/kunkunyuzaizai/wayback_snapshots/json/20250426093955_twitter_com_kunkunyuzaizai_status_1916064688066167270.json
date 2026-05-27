@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1915434625863958578",
+    "created_at": "2025-04-26T09:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T10:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916064688066167270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688440025732558849",
+          "start": 0,
+          "username": "zhuyn470533"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916064688066167270",
+    "in_reply_to_user_id": "1688440025732558849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915434625863958578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhuyn470533 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1915434622768603138",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpT9pBibYAI8s_7.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1915434625863958578",
+        "created_at": "2025-04-26T09:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916064688066167270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688440025732558849",
+              "start": 0,
+              "username": "zhuyn470533"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916064688066167270",
+        "in_reply_to_user_id": "1688440025732558849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915434625863958578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuyn470533 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915434622768603138"
+          ]
+        },
+        "author_id": "1688440025732558849",
+        "conversation_id": "1915434625863958578",
+        "created_at": "2025-04-24T15:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T16:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915434625863958578"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "男娘"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "杂鱼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7duFFMIFJa",
+              "end": 38,
+              "expanded_url": "https://x.com/zhuyn470533/status/1915434625863958578/photo/1",
+              "media_key": "3_1915434622768603138",
+              "start": 15,
+              "url": "https://t.co/7duFFMIFJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915434625863958578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咋就长不大呢？#男娘 #杂鱼 https://t.co/7duFFMIFJa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 909,
+          "like_count": 14427,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 739
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T06:41:15.000Z",
+        "description": "肥宅，懒虫，不键政，上推就是为了搞瑟瑟来的，随心情发点图，喜欢聊天，有关注就更好啦。",
+        "id": "1688440025732558849",
+        "name": "淡色前尘（ぜんちり）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733480782612910080/o4JUt1pN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 32,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 24
+        },
+        "username": "zhuyn470533",
+        "verified": false
+      }
+    ]
+  }
+}

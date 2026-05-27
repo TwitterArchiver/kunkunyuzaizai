@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2003012544148218359",
+    "created_at": "2025-12-23T06:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T07:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003348387241050114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1970981813448560640",
+          "start": 0,
+          "username": "NewHpttxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003348387241050114",
+    "in_reply_to_user_id": "1970981813448560640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003012544148218359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NewHpttxg 快来个人喜欢我(BUSHI)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_2003012533125521408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8whSVWaIAATzjb.jpg",
+        "width": 1260
+      },
+      {
+        "height": 942,
+        "media_key": "3_2003012533792448512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8whSX1aoAApCXL.jpg",
+        "width": 1092
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2003012544148218359",
+        "created_at": "2025-12-23T06:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T07:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003348387241050114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1970981813448560640",
+              "start": 0,
+              "username": "NewHpttxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003348387241050114",
+        "in_reply_to_user_id": "1970981813448560640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003012544148218359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewHpttxg 快来个人喜欢我(BUSHI)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003012533125521408",
+            "3_2003012533792448512"
+          ]
+        },
+        "author_id": "1970981813448560640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003012544148218359",
+        "created_at": "2025-12-22T07:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T08:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003012544148218359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/va55V3ACR2",
+              "end": 38,
+              "expanded_url": "https://x.com/NewHpttxg/status/2003012544148218359/photo/1",
+              "media_key": "3_2003012533125521408",
+              "start": 15,
+              "url": "https://t.co/va55V3ACR2"
+            },
+            {
+              "display_url": "pic.x.com/va55V3ACR2",
+              "end": 38,
+              "expanded_url": "https://x.com/NewHpttxg/status/2003012544148218359/photo/1",
+              "media_key": "3_2003012533792448512",
+              "start": 15,
+              "url": "https://t.co/va55V3ACR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003012544148218359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9722,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下辈子我也要当直男圈男同钱。 https://t.co/va55V3ACR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 2334,
+          "like_count": 35714,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2552
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T22:41:08.000Z",
+        "description": "卷毛修勾 @hpttxg 在推特大封号运动中被打倒了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "hpttxg"
+              }
+            ]
+          }
+        },
+        "id": "1970981813448560640",
+        "name": "été",
+        "pinned_tweet_id": "1999067245352517676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999100849931362304/mQ_mxdyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 178,
+          "like_count": 2478,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 1105
+        },
+        "username": "NewHpttxg",
+        "verified": false
+      }
+    ]
+  }
+}

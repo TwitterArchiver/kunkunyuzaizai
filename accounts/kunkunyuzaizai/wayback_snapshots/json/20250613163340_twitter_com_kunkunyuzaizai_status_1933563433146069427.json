@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1933482270792560712",
+    "created_at": "2025-06-13T16:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T17:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933563433146069427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1912437977806172161",
+          "start": 0,
+          "username": "adxwl0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933563433146069427",
+    "in_reply_to_user_id": "1912437977806172161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933482270792560712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adxwl0 我也想戴平板锁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1492,
+        "media_key": "3_1933482262433329152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtUb36fbcAAhd5w.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1933482262429065216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtUb36eaYAAh1jd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1933482270792560712",
+        "created_at": "2025-06-13T16:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T17:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933563433146069427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1912437977806172161",
+              "start": 0,
+              "username": "adxwl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933563433146069427",
+        "in_reply_to_user_id": "1912437977806172161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933482270792560712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adxwl0 我也想戴平板锁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933482262433329152",
+            "3_1933482262429065216"
+          ]
+        },
+        "author_id": "1912437977806172161",
+        "conversation_id": "1933482270792560712",
+        "created_at": "2025-06-13T11:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T12:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933482270792560712"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "男娘"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "伪娘"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "男の娘"
+            },
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "TS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFcqBcqqZb",
+              "end": 56,
+              "expanded_url": "https://x.com/adxwl0/status/1933482270792560712/photo/1",
+              "media_key": "3_1933482262433329152",
+              "start": 33,
+              "url": "https://t.co/CFcqBcqqZb"
+            },
+            {
+              "display_url": "pic.x.com/CFcqBcqqZb",
+              "end": 56,
+              "expanded_url": "https://x.com/adxwl0/status/1933482270792560712/photo/1",
+              "media_key": "3_1933482262429065216",
+              "start": 33,
+              "url": "https://t.co/CFcqBcqqZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933482270792560712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 13176,
+          "like_count": 197,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "妥妥的刑具啊😭\n#男娘 #伪娘 #男の娘 #可爱的男孩子 #TS https://t.co/CFcqBcqqZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 1239,
+          "like_count": 16812,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 899
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T09:28:52.000Z",
+        "description": "🚪128接空降线下/QQ群1034593157",
+        "id": "1912437977806172161",
+        "location": "山东",
+        "name": "悲剧尽头的颤音",
+        "pinned_tweet_id": "1924456226483806322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912442064517599232/N9g7M995_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6426,
+          "following_count": 152,
+          "like_count": 3,
+          "listed_count": 21,
+          "media_count": 12,
+          "tweet_count": 68
+        },
+        "username": "adxwl0",
+        "verified": false
+      }
+    ]
+  }
+}

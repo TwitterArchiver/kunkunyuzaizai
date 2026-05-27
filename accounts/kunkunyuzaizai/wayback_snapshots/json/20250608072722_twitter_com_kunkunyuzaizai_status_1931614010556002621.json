@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1931381463469212065",
+    "created_at": "2025-06-08T07:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T08:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931614010556002621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817924858782904320",
+          "start": 0,
+          "username": "Shylie0620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931614010556002621",
+    "in_reply_to_user_id": "1817924858782904320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931381463469212065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shylie0620 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1897,
+        "media_key": "3_1931381450261311488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs2lMjSasAAgMbF.jpg",
+        "width": 1143
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1931381463469212065",
+        "created_at": "2025-06-08T07:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T08:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931614010556002621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817924858782904320",
+              "start": 0,
+              "username": "Shylie0620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931614010556002621",
+        "in_reply_to_user_id": "1817924858782904320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931381463469212065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shylie0620 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931381450261311488"
+          ]
+        },
+        "author_id": "1817924858782904320",
+        "conversation_id": "1931381463469212065",
+        "created_at": "2025-06-07T16:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931381463469212065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8nPxYjZsd",
+              "end": 38,
+              "expanded_url": "https://x.com/Shylie0620/status/1931381463469212065/photo/1",
+              "media_key": "3_1931381450261311488",
+              "start": 15,
+              "url": "https://t.co/b8nPxYjZsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931381463469212065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20925,
+          "like_count": 221,
+          "quote_count": 0,
+          "reply_count": 130,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家来祝这个小薯片生日快乐呀 https://t.co/b8nPxYjZsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 1175,
+          "like_count": 15728,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 861
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T14:07:42.000Z",
+        "description": "祝愿大家都能睡个好觉.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shylie.1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shylie.1",
+                "start": 0,
+                "url": "https://t.co/5Oh6NkB1QV"
+              }
+            ]
+          }
+        },
+        "id": "1817924858782904320",
+        "location": "广告和推广请自辨！ 纯绿🚪188/520/1314",
+        "name": "薯片大王",
+        "pinned_tweet_id": "1931584652319535137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836417093371297792/mRIF1B7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 24,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 282
+        },
+        "url": "https://t.co/5Oh6NkB1QV",
+        "username": "Shylie0620",
+        "verified": false
+      }
+    ]
+  }
+}

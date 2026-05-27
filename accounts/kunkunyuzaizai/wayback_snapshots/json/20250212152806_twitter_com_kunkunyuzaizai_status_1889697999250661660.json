@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1887074437293543506",
+    "created_at": "2025-02-12T15:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T16:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889697999250661660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1885000912697163776",
+          "start": 0,
+          "username": "ningyuanruci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889697999250661660",
+    "in_reply_to_user_id": "1885000912697163776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887074437293543506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ningyuanruci 我也是玩的菜🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1887074437293543506",
+        "created_at": "2025-02-12T15:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T16:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889697999250661660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1885000912697163776",
+              "start": 0,
+              "username": "ningyuanruci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889697999250661660",
+        "in_reply_to_user_id": "1885000912697163776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887074437293543506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ningyuanruci 我也是玩的菜🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885000912697163776",
+        "conversation_id": "1887074437293543506",
+        "created_at": "2025-02-05T09:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T10:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887074437293543506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887074437293543506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不适合玩游戏，什么游戏都不会玩，PVP类型的游戏真的只能被别人吊着打，PVE游戏也只能玩养成类的，遇到强一点的BOOS就打不过，模拟经营和策略游戏更是一塌糊涂，倒闭，崩溃，被灭国更是家常便饭，真的有我这样的人吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 388,
+          "like_count": 7929,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 318
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T16:23:45.000Z",
+        "description": "明明冰冷的触感却能为你带来些许温暖，你震惊的看着这一切……\n叫我暖凉就好，很高兴认识你，请多指教。\nhrt🍥  |  带我入推的sensei:@y271727uy  |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "y271727uy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ningyuanruci1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ningyuanruci1",
+                "start": 0,
+                "url": "https://t.co/g1AyEE3PUd"
+              }
+            ]
+          }
+        },
+        "id": "1885000912697163776",
+        "name": "冰夜暖凉🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888007686543036416/rLv5qA-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 106,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "url": "https://t.co/g1AyEE3PUd",
+        "username": "ningyuanruci",
+        "verified": false
+      }
+    ]
+  }
+}

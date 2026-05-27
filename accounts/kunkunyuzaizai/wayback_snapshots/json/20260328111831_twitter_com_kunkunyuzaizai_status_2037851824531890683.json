@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2037372023639581098",
+    "created_at": "2026-03-28T11:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037851824531890683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2004915646606573571",
+          "start": 0,
+          "username": "MariYaTnTg_02"
+        },
+        {
+          "end": 26,
+          "id": "2165736150",
+          "start": 15,
+          "username": "tiancai312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037851824531890683",
+    "in_reply_to_user_id": "2004915646606573571",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037534831647826127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MariYaTnTg_02 @tiancai312 有很多男娘呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2037372023639581098",
+        "created_at": "2026-03-28T11:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037851824531890683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2004915646606573571",
+              "start": 0,
+              "username": "MariYaTnTg_02"
+            },
+            {
+              "end": 26,
+              "id": "2165736150",
+              "start": 15,
+              "username": "tiancai312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037851824531890683",
+        "in_reply_to_user_id": "2004915646606573571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037534831647826127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MariYaTnTg_02 @tiancai312 有很多男娘呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004915646606573571",
+        "conversation_id": "2037372023639581098",
+        "created_at": "2026-03-27T14:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037534831647826127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2165736150",
+              "start": 0,
+              "username": "tiancai312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037534831647826127",
+        "in_reply_to_user_id": "2165736150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31180,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037372023639581098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiancai312 怎么没男生露出🤭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 2819,
+          "like_count": 44339,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3060
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T14:02:14.000Z",
+        "description": "📷 日常碎碎念 · 生活中的小瞬間ᝰ✍︎꙳",
+        "id": "2004915646606573571",
+        "name": "金角兔王",
+        "pinned_tweet_id": "2013986415256687086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011098974053416966/P45Ba__A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5991,
+          "following_count": 32,
+          "like_count": 372,
+          "listed_count": 15,
+          "media_count": 131,
+          "tweet_count": 349
+        },
+        "username": "MariYaTnTg_02",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-31T00:49:14.000Z",
+        "description": "交友投稿/每日大赛/话题投稿/树洞吐槽/情感话题/碎碎念分享/付费转帖/加微信随缘给门槛 唯一小号@tiancai215，x群https://t.co/VIx7Bih5aS\ntg群https://t.co/4xFR7IOq5M",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "tiancai215"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 86,
+                "expanded_url": "https://x.com/i/chat/group_join/g2037486923959439656/2ZpOQgWcrZ",
+                "start": 63,
+                "url": "https://t.co/VIx7Bih5aS"
+              },
+              {
+                "display_url": "t.me/tiancai31",
+                "end": 113,
+                "expanded_url": "https://t.me/tiancai31",
+                "start": 90,
+                "url": "https://t.co/4xFR7IOq5M"
+              }
+            ]
+          }
+        },
+        "id": "2165736150",
+        "location": "相逢已是上上签",
+        "name": "社恐的元大鹰",
+        "pinned_tweet_id": "2034657469860073697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013164874285658112/12AHYrdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51552,
+          "following_count": 77,
+          "like_count": 17841,
+          "listed_count": 55,
+          "media_count": 454,
+          "tweet_count": 1663
+        },
+        "username": "tiancai312",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1894386342727196880",
+    "created_at": "2025-02-26T02:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T03:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894580048633761877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1740718976915972096",
+          "start": 0,
+          "username": "kekedoggy"
+        },
+        {
+          "end": 22,
+          "id": "1823662512379977728",
+          "start": 11,
+          "username": "xiaoqibest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894580048633761877",
+    "in_reply_to_user_id": "1740718976915972096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894546373531636207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kekedoggy @xiaoqibest 不硬为什么不能🐍？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1894386342727196880",
+        "created_at": "2025-02-26T02:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T03:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894580048633761877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1740718976915972096",
+              "start": 0,
+              "username": "kekedoggy"
+            },
+            {
+              "end": 22,
+              "id": "1823662512379977728",
+              "start": 11,
+              "username": "xiaoqibest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894580048633761877",
+        "in_reply_to_user_id": "1740718976915972096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894546373531636207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kekedoggy @xiaoqibest 不硬为什么不能🐍？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740718976915972096",
+        "conversation_id": "1894386342727196880",
+        "created_at": "2025-02-26T00:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T01:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894546373531636207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823662512379977728",
+              "start": 0,
+              "username": "xiaoqibest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894546373531636207",
+        "in_reply_to_user_id": "1823662512379977728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894386342727196880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqibest 硬不起来怎么射"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 571,
+          "like_count": 9766,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 413
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T12:58:57.000Z",
+        "description": "",
+        "id": "1740718976915972096",
+        "name": "柯柯m",
+        "pinned_tweet_id": "1742889128650510829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892933901204783104/BmtukpBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 194,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 65
+        },
+        "username": "kekedoggy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T10:06:48.000Z",
+        "description": "女S，来推只为找M，先关注或者点赞再私信，不然看不到私信申请提示",
+        "id": "1823662512379977728",
+        "location": "置顶推广，真假自辨",
+        "name": "小柒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823662697512312832/YoBdlb-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3283,
+          "following_count": 6,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 62
+        },
+        "username": "xiaoqibest",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1975490176555294724",
+    "created_at": "2025-10-08T10:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T11:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975872082090381805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1765333655868801024",
+          "start": 0,
+          "username": "aaaaabbbbcccsss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975872082090381805",
+    "in_reply_to_user_id": "1765333655868801024",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975490176555294724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaaabbbbcccsss 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1975490176555294724",
+        "created_at": "2025-10-08T10:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975872082090381805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1765333655868801024",
+              "start": 0,
+              "username": "aaaaabbbbcccsss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975872082090381805",
+        "in_reply_to_user_id": "1765333655868801024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975490176555294724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaaabbbbcccsss 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765333655868801024",
+        "conversation_id": "1975490176555294724",
+        "created_at": "2025-10-07T09:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T10:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975490176555294724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WAITINGFORNM5/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/WAITINGFORNM5/status/1975231376132841574",
+              "start": 15,
+              "url": "https://t.co/WqStqsaZs7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975490176555294724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 448,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975231376132841574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底有没有这种本子😋我要看😋 https://t.co/WqStqsaZs7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 2136,
+          "like_count": 31350,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2228
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T11:08:48.000Z",
+        "description": "",
+        "id": "1765333655868801024",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "Aaa.批发商王姐",
+        "pinned_tweet_id": "1919343041078247564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895850157675028480/rs4b7MVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 44,
+          "like_count": 1355,
+          "listed_count": 2,
+          "media_count": 459,
+          "tweet_count": 3804
+        },
+        "username": "aaaaabbbbcccsss",
+        "verified": false
+      }
+    ]
+  }
+}

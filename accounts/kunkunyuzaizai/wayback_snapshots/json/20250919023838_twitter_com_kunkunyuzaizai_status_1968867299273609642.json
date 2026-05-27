@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968614712846729528",
+    "created_at": "2025-09-19T02:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T03:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968867299273609642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1661260055914876928",
+          "start": 0,
+          "username": "Kiss_light233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968867299273609642",
+    "in_reply_to_user_id": "1661260055914876928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968614712846729528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiss_light233 🤗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "3_1968614710640787456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Hspi9aQAAx65y.png",
+        "width": 185
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968614712846729528",
+        "created_at": "2025-09-19T02:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T03:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968867299273609642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1661260055914876928",
+              "start": 0,
+              "username": "Kiss_light233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968867299273609642",
+        "in_reply_to_user_id": "1661260055914876928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968614712846729528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiss_light233 🤗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968614710640787456"
+          ]
+        },
+        "author_id": "1661260055914876928",
+        "conversation_id": "1968614712846729528",
+        "created_at": "2025-09-18T09:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T10:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968614712846729528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTJ9EkmMkS",
+              "end": 92,
+              "expanded_url": "https://x.com/Kiss_light233/status/1968614712846729528/photo/1",
+              "media_key": "3_1968614710640787456",
+              "start": 69,
+              "url": "https://t.co/QTJ9EkmMkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968614712846729528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1539,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵~~~唔嘿嘿...哥哥姐姐下午好呀~\n路过的哥哥姐姐都能免费领一个阳阳的抱抱！૮₍˃̶ꇴ˂̶₎ა\n对了！抱抱之后等一会要好好吃晚餐哦~ https://t.co/QTJ9EkmMkS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1918,
+          "like_count": 29151,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2004
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T06:37:30.000Z",
+        "description": "人间路过的阳阳,喜欢世界上可可爱爱的东西 \n-\n会对所有人都保持善意つ♡⊂\n-\n虽然..咱不太擅长聊天...但是想和大家做朋友wq \n-\n拜托了！！请和我聊天！！≥﹏≤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KissLight",
+                "end": 23,
+                "expanded_url": "http://t.me/KissLight",
+                "start": 0,
+                "url": "https://t.co/YQ1vFfAL7l"
+              }
+            ]
+          }
+        },
+        "id": "1661260055914876928",
+        "location": "阳阳的猫窝~",
+        "name": "Light🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1967172985229635691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967171273513123841/s6mAU-JD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 348,
+          "like_count": 4732,
+          "listed_count": 3,
+          "media_count": 329,
+          "tweet_count": 3998
+        },
+        "url": "https://t.co/YQ1vFfAL7l",
+        "username": "Kiss_light233",
+        "verified": false
+      }
+    ]
+  }
+}

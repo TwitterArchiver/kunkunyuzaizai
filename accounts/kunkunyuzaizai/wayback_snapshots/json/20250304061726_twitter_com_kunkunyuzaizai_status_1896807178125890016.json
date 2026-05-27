@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1895872176966025452",
+    "created_at": "2025-03-04T06:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T07:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896807178125890016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "934998840293212160",
+          "start": 0,
+          "username": "rui940418"
+        },
+        {
+          "end": 27,
+          "id": "1705551243970805760",
+          "start": 11,
+          "username": "ximngxun2032971"
+        },
+        {
+          "end": 40,
+          "id": "1821431905071570944",
+          "start": 28,
+          "username": "tuitenvwang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896807178125890016",
+    "in_reply_to_user_id": "934998840293212160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896806842476753344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rui940418 @ximngxun2032971 @tuitenvwang 同性恋怎么会找异性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1895872176966025452",
+        "created_at": "2025-03-04T06:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T07:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896807178125890016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "934998840293212160",
+              "start": 0,
+              "username": "rui940418"
+            },
+            {
+              "end": 27,
+              "id": "1705551243970805760",
+              "start": 11,
+              "username": "ximngxun2032971"
+            },
+            {
+              "end": 40,
+              "id": "1821431905071570944",
+              "start": 28,
+              "username": "tuitenvwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896807178125890016",
+        "in_reply_to_user_id": "934998840293212160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896806842476753344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rui940418 @ximngxun2032971 @tuitenvwang 同性恋怎么会找异性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "934998840293212160",
+        "conversation_id": "1895872176966025452",
+        "created_at": "2025-03-04T06:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T07:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896806842476753344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705551243970805760",
+              "start": 0,
+              "username": "ximngxun2032971"
+            },
+            {
+              "end": 32,
+              "id": "1779063322500874240",
+              "start": 17,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 45,
+              "id": "1821431905071570944",
+              "start": 33,
+              "username": "tuitenvwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896806842476753344",
+        "in_reply_to_user_id": "1705551243970805760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896417854691680698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ximngxun2032971 @kunkunyuzaizai @tuitenvwang 啊真的，现在好多男同在找异性👏👏👏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 616,
+          "like_count": 10245,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 467
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-27T04:14:29.000Z",
+        "description": "让你进来就出不去",
+        "id": "934998840293212160",
+        "location": "北京",
+        "name": "rui94",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724046310506926080/w01N71MW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 44,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "rui940418",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T11:54:53.000Z",
+        "description": "足球袜，捆绑，放置，白袜，木乃伊，堵嘴，调教，龟头责，边控，电击",
+        "id": "1705551243970805760",
+        "name": "小谢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821208014961184769/H6nBwfiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 577,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "username": "ximngxun2032971",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T06:23:12.000Z",
+        "description": "想起我了就捡起地上的小卡片打给我//没门槛，找我买小玩具的可以加我微信💕",
+        "id": "1821431905071570944",
+        "location": "香港",
+        "name": "坟场宝宝",
+        "pinned_tweet_id": "1885391885889573340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821432537660772352/3ctFRoG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5316,
+          "following_count": 188,
+          "like_count": 1479,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 1043
+        },
+        "username": "tuitenvwang",
+        "verified": false
+      }
+    ]
+  }
+}

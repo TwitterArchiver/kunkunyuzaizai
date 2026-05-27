@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1938380438659334232",
+    "created_at": "2025-06-27T08:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T09:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938522131647938704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1807678557826797568",
+          "start": 0,
+          "username": "TeRiri141421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938522131647938704",
+    "in_reply_to_user_id": "1807678557826797568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938490903272034391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeRiri141421 蟹蟹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1938380438659334232",
+        "created_at": "2025-06-27T08:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T09:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938522131647938704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1807678557826797568",
+              "start": 0,
+              "username": "TeRiri141421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938522131647938704",
+        "in_reply_to_user_id": "1807678557826797568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938490903272034391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeRiri141421 蟹蟹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807678557826797568",
+        "conversation_id": "1938380438659334232",
+        "created_at": "2025-06-27T06:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T07:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938490903272034391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938490903272034391",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938380438659334232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 1259,
+          "like_count": 18506,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 984
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T07:32:15.000Z",
+        "description": "阿巴阿巴…… 痴呆ㅇㅁㅇing…… 喵）现在是~蜕变😋 （ 愿望是：无",
+        "id": "1807678557826797568",
+        "location": "Izena-son, Okinawa",
+        "name": "呼咻~（",
+        "pinned_tweet_id": "1821930143771979992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874115211260813314/8cSsZofv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 2301,
+          "like_count": 71550,
+          "listed_count": 4,
+          "media_count": 1112,
+          "tweet_count": 9463
+        },
+        "username": "TeRiri141421",
+        "verified": false
+      }
+    ]
+  }
+}

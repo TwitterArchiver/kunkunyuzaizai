@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1929115153926160857",
+    "created_at": "2025-06-10T15:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T16:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932458467304059319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1114763588818718720",
+          "start": 0,
+          "username": "iihcii1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932458467304059319",
+    "in_reply_to_user_id": "1114763588818718720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929115153926160857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iihcii1 接了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44800,
+        "height": 960,
+        "media_key": "7_1929115093310337025",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1929115093310337025/pu/img/Zg0gOcC_4SAAIGFJ.jpg",
+        "public_metrics": {
+          "view_count": 3161
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929115093310337025/pu/vid/avc1/320x426/Uawipv6Pm35jDf9w.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929115093310337025/pu/vid/avc1/480x640/3sfJr-h9xjg40ObA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929115093310337025/pu/vid/avc1/720x960/h0QYvWP7vkLoolkJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1929115093310337025/pu/pl/HIIywAYU7xS84X8_.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1929115153926160857",
+        "created_at": "2025-06-10T15:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T16:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932458467304059319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1114763588818718720",
+              "start": 0,
+              "username": "iihcii1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932458467304059319",
+        "in_reply_to_user_id": "1114763588818718720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929115153926160857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iihcii1 接了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1929115093310337025"
+          ]
+        },
+        "author_id": "1114763588818718720",
+        "conversation_id": "1929115153926160857",
+        "created_at": "2025-06-01T09:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T10:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929115153926160857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bEatpVkjk",
+              "end": 35,
+              "expanded_url": "https://x.com/iihcii1/status/1929115153926160857/video/1",
+              "media_key": "7_1929115093310337025",
+              "start": 12,
+              "url": "https://t.co/7bEatpVkjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929115153926160857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 10162,
+          "like_count": 179,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "小男娘特技～锁内高潮🥹 https://t.co/7bEatpVkjk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 1226,
+          "like_count": 16514,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 880
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-07T05:35:25.000Z",
+        "description": "男娘 170/50",
+        "id": "1114763588818718720",
+        "name": "cheng子酱",
+        "pinned_tweet_id": "1929115153926160857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1114763904121356288/Bo61sEm9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4635,
+          "following_count": 304,
+          "like_count": 434,
+          "listed_count": 21,
+          "media_count": 22,
+          "tweet_count": 283
+        },
+        "username": "iihcii1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1969655858268422557",
+    "created_at": "2025-09-22T04:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T05:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969977637817950209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1898675806966341632",
+          "start": 0,
+          "username": "Lillcuainil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969977637817950209",
+    "in_reply_to_user_id": "1898675806966341632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969655858268422557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lillcuainil 我可以吗🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1969655858268422557",
+        "created_at": "2025-09-22T04:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T05:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969977637817950209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1898675806966341632",
+              "start": 0,
+              "username": "Lillcuainil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969977637817950209",
+        "in_reply_to_user_id": "1898675806966341632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969655858268422557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lillcuainil 我可以吗🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898675806966341632",
+        "conversation_id": "1969655858268422557",
+        "created_at": "2025-09-21T06:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T07:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969655858268422557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969655858268422557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6530,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私信别再问能不能加微信了行不 又不熟加我微信干啥啊😂不想回私信别一直给我发发发 烦得很。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 2041,
+          "like_count": 30118,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2090
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T10:03:06.000Z",
+        "description": "我是小礼呀！碎碎念日常、不约不约🤗，别骚扰我了吧！互关可以加wx找我玩！我很可爱请给我发腹肌照好吗？好的！😈 我爱发啥发啥别他妈来贴脸。看我不爽你就看着我爽🥰我希望我讨厌的人可以死掉🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lill19761",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lill19761",
+                "start": 0,
+                "url": "https://t.co/AiQNlOcvfJ"
+              }
+            ]
+          }
+        },
+        "id": "1898675806966341632",
+        "location": "想向我提问请戳👉🏻",
+        "name": "lii",
+        "pinned_tweet_id": "1965675161996370177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968522041667239937/d4lmsw3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4270,
+          "following_count": 258,
+          "like_count": 171,
+          "listed_count": 3,
+          "media_count": 1242,
+          "tweet_count": 20710
+        },
+        "url": "https://t.co/AiQNlOcvfJ",
+        "username": "Lillcuainil",
+        "verified": false
+      }
+    ]
+  }
+}

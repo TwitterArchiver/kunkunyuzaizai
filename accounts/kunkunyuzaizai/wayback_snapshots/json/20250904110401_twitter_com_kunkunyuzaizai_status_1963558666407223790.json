@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1963217660117991681",
+    "created_at": "2025-09-04T11:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T12:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963558666407223790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1821521036967600128",
+          "start": 0,
+          "username": "Y86668Rr"
+        },
+        {
+          "end": 20,
+          "id": "1892970687792402432",
+          "start": 10,
+          "username": "linzi4566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963558666407223790",
+    "in_reply_to_user_id": "1821521036967600128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963308442275270810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y86668Rr @linzi4566 跟我一样我是14岁168的 现在17还是168"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1963217660117991681",
+        "created_at": "2025-09-04T11:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T12:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963558666407223790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1821521036967600128",
+              "start": 0,
+              "username": "Y86668Rr"
+            },
+            {
+              "end": 20,
+              "id": "1892970687792402432",
+              "start": 10,
+              "username": "linzi4566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963558666407223790",
+        "in_reply_to_user_id": "1821521036967600128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963308442275270810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y86668Rr @linzi4566 跟我一样我是14岁168的 现在17还是168"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821521036967600128",
+        "conversation_id": "1963217660117991681",
+        "created_at": "2025-09-03T18:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T19:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963308442275270810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1892970687792402432",
+              "start": 0,
+              "username": "linzi4566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963308442275270810",
+        "in_reply_to_user_id": "1892970687792402432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4823,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963306192928981437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linzi4566 我初中就168了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON  凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 1677,
+          "like_count": 26562,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1801
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T12:17:23.000Z",
+        "description": "纯图无吐槽➡️（唯一小号）：@Y86668Rr_ ｜喜欢我可以给我打钱 推广自辨｜骂人言论仅代表个人 看不惯我就去死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Y86668Rr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y86668rr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y86668rr",
+                "start": 0,
+                "url": "https://t.co/kj9UaLmg3a"
+              }
+            ]
+          }
+        },
+        "id": "1821521036967600128",
+        "location": "纯绿🚪128",
+        "name": "悲伤大吗喽",
+        "pinned_tweet_id": "1963508914336797095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961492705214959617/4HIbTeHM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10925,
+          "following_count": 193,
+          "like_count": 7494,
+          "listed_count": 16,
+          "media_count": 173,
+          "tweet_count": 3279
+        },
+        "url": "https://t.co/kj9UaLmg3a",
+        "username": "Y86668Rr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T16:12:46.000Z",
+        "description": "171 44kg 嘴贱脾气不好 不是黄推不是卖的也不是女同 不yp！此号纯发牢骚，看心情更新照片。",
+        "id": "1892970687792402432",
+        "name": "超级无敌小葡萄",
+        "pinned_tweet_id": "1932040756266737865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952997350584270852/4XDE46tY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 35,
+          "like_count": 11,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 145
+        },
+        "username": "linzi4566",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1970498252077441399",
+    "created_at": "2025-09-24T10:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T11:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970801109020336626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1534519518948564992",
+          "start": 0,
+          "username": "anchundan58"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970801109020336626",
+    "in_reply_to_user_id": "1534519518948564992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970498252077441399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anchundan58 哇塞塞很棒呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 525,
+        "media_key": "3_1970498236520767489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1idtLpaoAEn512.jpg",
+        "width": 571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1970498252077441399",
+        "created_at": "2025-09-24T10:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T11:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970801109020336626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1534519518948564992",
+              "start": 0,
+              "username": "anchundan58"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970801109020336626",
+        "in_reply_to_user_id": "1534519518948564992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970498252077441399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anchundan58 哇塞塞很棒呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970498236520767489"
+          ]
+        },
+        "author_id": "1534519518948564992",
+        "conversation_id": "1970498252077441399",
+        "created_at": "2025-09-23T14:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T15:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970498252077441399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MtDT5mayLK",
+              "end": 45,
+              "expanded_url": "https://x.com/anchundan58/status/1970498252077441399/photo/1",
+              "media_key": "3_1970498236520767489",
+              "start": 22,
+              "url": "https://t.co/MtDT5mayLK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970498252077441399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21254,
+          "like_count": 236,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我拿到奖学金了！！！\n人生第一次拿奖学金！ https://t.co/MtDT5mayLK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 2071,
+          "like_count": 30407,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2123
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T12:55:50.000Z",
+        "description": "随便发发 不接广｜有老公 ｜ 匿名➡️ https://t.co/d50EqDdnuW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anchundan58",
+                "end": 43,
+                "expanded_url": "https://ngl.link/anchundan58",
+                "start": 20,
+                "url": "https://t.co/d50EqDdnuW"
+              }
+            ]
+          }
+        },
+        "id": "1534519518948564992",
+        "name": "KY",
+        "pinned_tweet_id": "1921850673773048201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912361264409464832/mbEMtWlR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 156,
+          "like_count": 679,
+          "listed_count": 5,
+          "media_count": 189,
+          "tweet_count": 570
+        },
+        "username": "anchundan58",
+        "verified": false
+      }
+    ]
+  }
+}

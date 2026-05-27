@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968998248590282839",
+    "created_at": "2025-09-19T12:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T13:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969015172267126877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1784300698533785600",
+          "start": 0,
+          "username": "mmisalwayssad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969015172267126877",
+    "in_reply_to_user_id": "1784300698533785600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968998248590282839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmisalwayssad 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5866,
+        "height": 718,
+        "media_key": "13_1968998138221649920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968998138221649920/img/cziQe6y0A58HIhN8.jpg",
+        "public_metrics": {
+          "view_count": 60
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968998138221649920/vid/avc1/366x270/sgNraZQeaM3oBaEw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968998138221649920/vid/avc1/488x360/Bv-78TTf-nf9kSiL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968998138221649920/vid/avc1/974x718/QHnvKs8y7_5K0f3l.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968998138221649920/pl/t8dv3dP5pRxcQ_EL.m3u8"
+          }
+        ],
+        "width": 974
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968998248590282839",
+        "created_at": "2025-09-19T12:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969015172267126877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1784300698533785600",
+              "start": 0,
+              "username": "mmisalwayssad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969015172267126877",
+        "in_reply_to_user_id": "1784300698533785600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968998248590282839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmisalwayssad 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968998138221649920"
+          ]
+        },
+        "author_id": "1784300698533785600",
+        "conversation_id": "1968998248590282839",
+        "created_at": "2025-09-19T11:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T12:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968998248590282839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7drOKC77lm",
+              "end": 28,
+              "expanded_url": "https://x.com/mmisalwayssad/status/1968998248590282839/video/1",
+              "media_key": "13_1968998138221649920",
+              "start": 5,
+              "url": "https://t.co/7drOKC77lm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968998248590282839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我萌不？ https://t.co/7drOKC77lm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1942,
+          "like_count": 29343,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2025
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T19:17:06.000Z",
+        "description": "女儿@opitia255274",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "opitia255274"
+              }
+            ]
+          }
+        },
+        "id": "1784300698533785600",
+        "name": "mm",
+        "pinned_tweet_id": "1968998248590282839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963610487129526273/3nw_XgH3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5980,
+          "following_count": 361,
+          "like_count": 11317,
+          "listed_count": 11,
+          "media_count": 477,
+          "tweet_count": 9997
+        },
+        "username": "mmisalwayssad",
+        "verified": false
+      }
+    ]
+  }
+}

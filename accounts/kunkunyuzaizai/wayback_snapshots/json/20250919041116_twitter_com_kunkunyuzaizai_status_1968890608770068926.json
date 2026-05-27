@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968568514962223513",
+    "created_at": "2025-09-19T04:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T05:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968890608770068926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1525742352006287361",
+          "start": 0,
+          "username": "Michael_Liu93"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968890608770068926",
+    "in_reply_to_user_id": "1525742352006287361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968568514962223513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Michael_Liu93 想要🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1670,
+        "media_key": "3_1968568505860763648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1HCoEvaMAAYdLW.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968568514962223513",
+        "created_at": "2025-09-19T04:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T05:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968890608770068926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1525742352006287361",
+              "start": 0,
+              "username": "Michael_Liu93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968890608770068926",
+        "in_reply_to_user_id": "1525742352006287361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968568514962223513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michael_Liu93 想要🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968568505860763648"
+          ]
+        },
+        "author_id": "1525742352006287361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1968568514962223513",
+        "created_at": "2025-09-18T06:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T07:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968568514962223513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zAzHsziajd",
+              "end": 145,
+              "expanded_url": "https://x.com/Michael_Liu93/status/1968568514962223513/photo/1",
+              "media_key": "3_1968568505860763648",
+              "start": 122,
+              "url": "https://t.co/zAzHsziajd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968568514962223513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 250582,
+          "like_count": 2071,
+          "quote_count": 42,
+          "reply_count": 1782,
+          "retweet_count": 1338
+        },
+        "reply_settings": "everyone",
+        "text": "前两天boundless给的空投换成iphone给大家抽，给群友抽了三个了，再给推上的粉丝抽俩个吧。给小伙伴发福利，群友监督绝不内幕公平抽，但只抽眼熟见过评论或点赞过的粉丝，撸毛的就别来了，想要户橙风iphone 17 pro的来一键三连吧😌 https://t.co/zAzHsziajd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1925,
+          "like_count": 29184,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2009
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T07:38:27.000Z",
+        "description": "Ex-VC & Banker Turned Degen, See You In The Trenches.\n最专业的链上交易工具: https://t.co/p8XmpE9bZY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmgn.ai/?ref=9Z7Wz20p",
+                "end": 89,
+                "expanded_url": "https://gmgn.ai/?ref=9Z7Wz20p",
+                "start": 66,
+                "url": "https://t.co/p8XmpE9bZY"
+              }
+            ]
+          }
+        },
+        "id": "1525742352006287361",
+        "name": "憨厚的麦总",
+        "pinned_tweet_id": "1855614356240949643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864081351693279232/4F-wT4gu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69977,
+          "following_count": 2304,
+          "like_count": 18974,
+          "listed_count": 1865,
+          "media_count": 562,
+          "tweet_count": 10094
+        },
+        "username": "Michael_Liu93",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1909089635055423571",
+    "created_at": "2025-04-09T02:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T03:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909798701553664386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1585607555790741505",
+          "start": 0,
+          "username": "HHAhapap"
+        },
+        {
+          "end": 21,
+          "id": "1574797374786277376",
+          "start": 10,
+          "username": "xxXXxoo00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909798701553664386",
+    "in_reply_to_user_id": "1585607555790741505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909616474714783790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HHAhapap @xxXXxoo00o 女生更爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1909089635055423571",
+        "created_at": "2025-04-09T02:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T03:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909798701553664386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1585607555790741505",
+              "start": 0,
+              "username": "HHAhapap"
+            },
+            {
+              "end": 21,
+              "id": "1574797374786277376",
+              "start": 10,
+              "username": "xxXXxoo00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909798701553664386",
+        "in_reply_to_user_id": "1585607555790741505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909616474714783790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HHAhapap @xxXXxoo00o 女生更爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585607555790741505",
+        "conversation_id": "1909089635055423571",
+        "created_at": "2025-04-08T14:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T15:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909616474714783790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1574797374786277376",
+              "start": 0,
+              "username": "xxXXxoo00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909616474714783790",
+        "in_reply_to_user_id": "1574797374786277376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3079,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909089635055423571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxXXxoo00o 下辈子我也要长一根。。男的怎么这么爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 815,
+          "like_count": 13493,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 694
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-27T12:21:29.000Z",
+        "description": "",
+        "id": "1585607555790741505",
+        "name": "FuxkinglifeY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669594888764264449/z8Or3k-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 81,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 259
+        },
+        "username": "HHAhapap",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T16:25:33.000Z",
+        "description": "変態——取向女 （未成年🈲️gay🈲️） 互相尊重 只有这一个号 不要被骗",
+        "id": "1574797374786277376",
+        "name": "Devil of Desire",
+        "pinned_tweet_id": "1758379418010140806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575568220894871553/tQrg3m9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27713,
+          "following_count": 3,
+          "like_count": 180,
+          "listed_count": 39,
+          "media_count": 206,
+          "tweet_count": 464
+        },
+        "username": "xxXXxoo00o",
+        "verified": false
+      }
+    ]
+  }
+}

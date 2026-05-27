@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2038962707274379518",
+    "created_at": "2026-04-01T07:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T08:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039241040864178548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1636637151919218689",
+          "start": 0,
+          "username": "GetSomeNoodles"
+        },
+        {
+          "end": 28,
+          "id": "1929416262989557760",
+          "start": 16,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039241040864178548",
+    "in_reply_to_user_id": "1636637151919218689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039192511827382448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GetSomeNoodles @maoxian1527 有些跨不会翻墙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2038962707274379518",
+        "created_at": "2026-04-01T07:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039241040864178548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1636637151919218689",
+              "start": 0,
+              "username": "GetSomeNoodles"
+            },
+            {
+              "end": 28,
+              "id": "1929416262989557760",
+              "start": 16,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039241040864178548",
+        "in_reply_to_user_id": "1636637151919218689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039192511827382448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GetSomeNoodles @maoxian1527 有些跨不会翻墙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636637151919218689",
+        "conversation_id": "2038962707274379518",
+        "created_at": "2026-04-01T04:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039192511827382448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929416262989557760",
+              "start": 0,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039192511827382448",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038962707274379518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxian1527 我不理解为什么非要用qq群，是telegram不好用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 2893,
+          "like_count": 44990,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 3102
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T07:54:46.000Z",
+        "description": "We are condemned to be free. 人は幸せだ",
+        "id": "1636637151919218689",
+        "location": "洼地",
+        "name": "整点面条",
+        "pinned_tweet_id": "2037500062289506618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039188936476778496/gxEwUi0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 419,
+          "like_count": 1590,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 692
+        },
+        "username": "GetSomeNoodles",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍🍥2010.11.17🍥🤍 | kitty live system | 碎碎念 | 🏳️‍⚧️友好 | 简体 | 嘴毒 极讨厌私信 | 看成分互fo | 负能 | 防走丢小号@maoxiansql | 绘画@mao_xian1527 | 对象@meph4786 | 诡秘@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "maoxiansql"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "mao_xian1527"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "meph4786"
+              },
+              {
+                "end": 150,
+                "start": 136,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "中華民國🇹🇼",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2038950198240817321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036882885748326400/iaqvRiNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 267,
+          "like_count": 3647,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 1800
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": false
+      }
+    ]
+  }
+}

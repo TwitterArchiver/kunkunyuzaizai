@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1957044597366083665",
+    "created_at": "2025-08-17T15:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T16:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957098975594758246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1838370893187395584",
+          "start": 0,
+          "username": "Cherry_BombY458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957098975594758246",
+    "in_reply_to_user_id": "1838370893187395584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957044597366083665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cherry_BombY458 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1957044597366083665",
+        "created_at": "2025-08-17T15:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T16:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957098975594758246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1838370893187395584",
+              "start": 0,
+              "username": "Cherry_BombY458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957098975594758246",
+        "in_reply_to_user_id": "1838370893187395584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957044597366083665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cherry_BombY458 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838370893187395584",
+        "conversation_id": "1957044597366083665",
+        "created_at": "2025-08-17T11:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T12:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957044597366083665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957044597366083665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 643,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要一个全是抱抱，而且大家会相互发抱抱的评论区🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 1381,
+          "like_count": 22882,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1447
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "🍥🏳️‍⚧️｜Mt(X→F)｜我最爱最爱世界上超级无敌好的未婚妻 另一半 老婆 宝宝 这辈子的唯一 要爱一辈子的人 @yanmin1105🥰｜宝宝@2i8oSpJhcU70504🥰｜没事就爱犯点小病｜坐标 天津｜🚪20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "2i8oSpJhcU70504"
+              }
+            ]
+          }
+        },
+        "id": "1838370893187395584",
+        "location": "下水道左转包间302",
+        "name": "-4°🍥",
+        "pinned_tweet_id": "1945704591250923812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906181612397834241/zIAd3pOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 970,
+          "like_count": 2264,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 908
+        },
+        "username": "Cherry_BombY458",
+        "verified": false
+      }
+    ]
+  }
+}

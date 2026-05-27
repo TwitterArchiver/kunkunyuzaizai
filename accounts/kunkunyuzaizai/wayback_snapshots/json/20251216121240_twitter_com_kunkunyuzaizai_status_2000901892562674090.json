@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2000552313472332024",
+    "created_at": "2025-12-16T12:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T13:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000901892562674090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1460219308764663816",
+          "start": 0,
+          "username": "KxhsiwiqldO0"
+        },
+        {
+          "end": 21,
+          "id": "2304104049",
+          "start": 14,
+          "username": "Oho17H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000901892562674090",
+    "in_reply_to_user_id": "1460219308764663816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000856139312066967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KxhsiwiqldO0 @Oho17H 笑死了我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2000552313472332024",
+        "created_at": "2025-12-16T12:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T13:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000901892562674090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1460219308764663816",
+              "start": 0,
+              "username": "KxhsiwiqldO0"
+            },
+            {
+              "end": 21,
+              "id": "2304104049",
+              "start": 14,
+              "username": "Oho17H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000901892562674090",
+        "in_reply_to_user_id": "1460219308764663816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000856139312066967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KxhsiwiqldO0 @Oho17H 笑死了我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1460219308764663816",
+        "conversation_id": "2000552313472332024",
+        "created_at": "2025-12-16T09:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T10:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000856139312066967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2304104049",
+              "start": 0,
+              "username": "Oho17H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000856139312066967",
+        "in_reply_to_user_id": "2304104049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000552313472332024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oho17H 我上次还看了一个肚子一坨然后灰内裤小吊把内裤顶起来的☝️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 2345,
+          "like_count": 34784,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2519
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-15T12:13:31.000Z",
+        "description": "我没礼貌不爱回私信/爱拉黑人",
+        "id": "1460219308764663816",
+        "name": "Kxhsiwiqld",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867962913568567296/h-9ctdVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2512,
+          "following_count": 634,
+          "like_count": 5100,
+          "listed_count": 6,
+          "media_count": 9,
+          "tweet_count": 1338
+        },
+        "username": "KxhsiwiqldO0",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-25T19:11:03.000Z",
+        "description": "一切随缘  。防炸小号@tuziji32901",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "tuziji32901"
+              }
+            ]
+          }
+        },
+        "id": "2304104049",
+        "name": "兔子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947703992823517184/OsHH6gOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3557,
+          "following_count": 226,
+          "like_count": 294,
+          "listed_count": 39,
+          "media_count": 153,
+          "tweet_count": 324
+        },
+        "username": "Oho17H",
+        "verified": false
+      }
+    ]
+  }
+}

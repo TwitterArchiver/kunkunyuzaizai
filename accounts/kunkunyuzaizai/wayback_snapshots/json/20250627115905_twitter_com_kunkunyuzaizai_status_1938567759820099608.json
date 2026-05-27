@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1938380438659334232",
+    "created_at": "2025-06-27T11:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T12:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938567759820099608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841847755691745280",
+          "start": 0,
+          "username": "jimi_yang22770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938567759820099608",
+    "in_reply_to_user_id": "1841847755691745280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938567047132430762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jimi_yang22770 蟹蟹妳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1938380438659334232",
+        "created_at": "2025-06-27T11:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938567759820099608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841847755691745280",
+              "start": 0,
+              "username": "jimi_yang22770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938567759820099608",
+        "in_reply_to_user_id": "1841847755691745280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938567047132430762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jimi_yang22770 蟹蟹妳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841847755691745280",
+        "conversation_id": "1938380438659334232",
+        "created_at": "2025-06-27T11:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938567047132430762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938567047132430762",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938380438659334232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 生！日！快！乐！（超大声"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1259,
+          "like_count": 18573,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1001
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T14:28:28.000Z",
+        "description": "友跨顺男（总有刁民想害朕翻车）\n  ENTJ  \n小鹿🦌@LightlyXiaoLu99    牢哥@AnYeEternal   一個抽象逼@Xinyi_ADHD\n\n怎么你们都那么变态，我跟不上节奏啊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "LightlyXiaoLu99"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "AnYeEternal"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Xinyi_ADHD"
+              }
+            ]
+          }
+        },
+        "id": "1841847755691745280",
+        "location": "距您0.02公里",
+        "name": "YYY",
+        "pinned_tweet_id": "1915238382072131802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906626847124983808/Ao9FzEG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 1401,
+          "like_count": 61505,
+          "listed_count": 8,
+          "media_count": 468,
+          "tweet_count": 11065
+        },
+        "username": "jimi_yang22770",
+        "verified": false
+      }
+    ]
+  }
+}

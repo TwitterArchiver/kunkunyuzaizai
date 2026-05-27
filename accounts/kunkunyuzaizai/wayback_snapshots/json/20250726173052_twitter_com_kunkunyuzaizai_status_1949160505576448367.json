@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1948367605871313276",
+    "created_at": "2025-07-26T17:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T18:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949160505576448367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1156567258765889537",
+          "start": 0,
+          "username": "OW0CaD4LzN40nWe"
+        },
+        {
+          "end": 25,
+          "id": "1780837272126132224",
+          "start": 17,
+          "username": "qn52157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949160505576448367",
+    "in_reply_to_user_id": "1156567258765889537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948419978350510285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OW0CaD4LzN40nWe @qn52157 像我这样懒的人真可能饿死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1948367605871313276",
+        "created_at": "2025-07-26T17:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T18:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949160505576448367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1156567258765889537",
+              "start": 0,
+              "username": "OW0CaD4LzN40nWe"
+            },
+            {
+              "end": 25,
+              "id": "1780837272126132224",
+              "start": 17,
+              "username": "qn52157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949160505576448367",
+        "in_reply_to_user_id": "1156567258765889537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948419978350510285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OW0CaD4LzN40nWe @qn52157 像我这样懒的人真可能饿死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1156567258765889537",
+        "conversation_id": "1948367605871313276",
+        "created_at": "2025-07-24T16:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T17:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948419978350510285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1780837272126132224",
+              "start": 0,
+              "username": "qn52157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948419978350510285",
+        "in_reply_to_user_id": "1780837272126132224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948367605871313276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qn52157 不过讲道理有手有脚 想饿死真的蛮难的。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 1298,
+          "like_count": 19991,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1141
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-31T14:08:17.000Z",
+        "description": "疏影横斜水清浅，暗香浮动月黄昏",
+        "id": "1156567258765889537",
+        "name": "疏影",
+        "pinned_tweet_id": "1892953244458271042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912806248334106624/1tPOiVdi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 164,
+          "like_count": 185,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 1477
+        },
+        "username": "OW0CaD4LzN40nWe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T05:54:33.000Z",
+        "description": "常驻苏州，🚪68，原味闲置可出，全国可飞，愿世上再也没有戒网瘾学校",
+        "id": "1780837272126132224",
+        "name": "泉奈🍥",
+        "pinned_tweet_id": "1913516973742604618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948256271737790464/qeJMKZ57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5337,
+          "following_count": 522,
+          "like_count": 1449,
+          "listed_count": 17,
+          "media_count": 134,
+          "tweet_count": 353
+        },
+        "username": "qn52157",
+        "verified": false
+      }
+    ]
+  }
+}

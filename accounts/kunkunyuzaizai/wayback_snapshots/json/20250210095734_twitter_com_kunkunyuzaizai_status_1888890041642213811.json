@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1888475507966292017",
+    "created_at": "2025-02-10T09:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T10:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888890041642213811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3411721420",
+          "start": 0,
+          "username": "migsgrfx"
+        },
+        {
+          "end": 19,
+          "id": "1625008949388017665",
+          "start": 10,
+          "username": "jyd52018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888890041642213811",
+    "in_reply_to_user_id": "3411721420",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888505172755976347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@migsgrfx @jyd52018 兄弟兄弟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1888475507966292017",
+        "created_at": "2025-02-10T09:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T10:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888890041642213811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3411721420",
+              "start": 0,
+              "username": "migsgrfx"
+            },
+            {
+              "end": 19,
+              "id": "1625008949388017665",
+              "start": 10,
+              "username": "jyd52018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888890041642213811",
+        "in_reply_to_user_id": "3411721420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888505172755976347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@migsgrfx @jyd52018 兄弟兄弟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888505157996191744",
+            "3_1888505157996167168",
+            "3_1888505158759514112",
+            "3_1888505158767939584"
+          ]
+        },
+        "author_id": "3411721420",
+        "conversation_id": "1888475507966292017",
+        "created_at": "2025-02-09T08:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T09:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888505172755976347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1625008949388017665",
+              "start": 0,
+              "username": "jyd52018"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xG58KOvZqr",
+              "end": 47,
+              "expanded_url": "https://x.com/migsgrfx/status/1888505172755976347/photo/1",
+              "media_key": "3_1888505157996191744",
+              "start": 24,
+              "url": "https://t.co/xG58KOvZqr"
+            },
+            {
+              "display_url": "pic.x.com/xG58KOvZqr",
+              "end": 47,
+              "expanded_url": "https://x.com/migsgrfx/status/1888505172755976347/photo/1",
+              "media_key": "3_1888505157996167168",
+              "start": 24,
+              "url": "https://t.co/xG58KOvZqr"
+            },
+            {
+              "display_url": "pic.x.com/xG58KOvZqr",
+              "end": 47,
+              "expanded_url": "https://x.com/migsgrfx/status/1888505172755976347/photo/1",
+              "media_key": "3_1888505158759514112",
+              "start": 24,
+              "url": "https://t.co/xG58KOvZqr"
+            },
+            {
+              "display_url": "pic.x.com/xG58KOvZqr",
+              "end": 47,
+              "expanded_url": "https://x.com/migsgrfx/status/1888505172755976347/photo/1",
+              "media_key": "3_1888505158767939584",
+              "start": 24,
+              "url": "https://t.co/xG58KOvZqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888505172755976347",
+        "in_reply_to_user_id": "1625008949388017665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2555,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888475507966292017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jyd52018 已经锁好了，谁能让我射出来 https://t.co/xG58KOvZqr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 378,
+          "like_count": 7760,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 309
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-10T02:04:11.000Z",
+        "description": "04｜170 56kg|长期在南京和上海的一只小母狗｜微量含糖|攻守兼备|加vx有门槛88元🚪找靠谱直男｜唯一的快乐就是吃喝玩乐还有睡觉Q2116456949,门槛不过勿加，谢谢",
+        "id": "3411721420",
+        "location": "上海",
+        "name": "南京Ts喜乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794987401607282688/U-d2sKlf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 298,
+          "like_count": 245,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 116
+        },
+        "username": "migsgrfx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T05:48:38.000Z",
+        "description": "ℕ𝕊𝔽𝕎 18+ 请遵守X规则❣️关注不迷路 体验不一样的精彩🌹我们玩的就是真实💛没有其他联系方式 X私信为准👑",
+        "id": "1625008949388017665",
+        "location": "置顶非本人 推广内容 谨慎辨别",
+        "name": "每日展示赛（第三性）",
+        "pinned_tweet_id": "1888844160037474632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671766351042715648/SlAXTXUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118970,
+          "following_count": 444,
+          "like_count": 1815,
+          "listed_count": 526,
+          "media_count": 151,
+          "tweet_count": 298
+        },
+        "username": "jyd52018",
+        "verified": true
+      }
+    ]
+  }
+}

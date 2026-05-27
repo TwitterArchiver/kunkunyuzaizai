@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1933196618540765441",
+    "created_at": "2025-06-13T01:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T02:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933333112857264357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1426015810472972298",
+          "start": 0,
+          "username": "CyronANNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933333112857264357",
+    "in_reply_to_user_id": "1426015810472972298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933196618540765441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyronANNO root主要可以优化性能 去广告 破解VIP等等一般用的 lsposed和root权限管理器"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1449,
+        "media_key": "3_1933196615319494657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtQYFEEbIAEA5LJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1449,
+        "media_key": "3_1933196615386578944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtQYFEUawAAaYHn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1449,
+        "media_key": "3_1933196614228971520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtQYFAAbEAAfh4I.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1449,
+        "media_key": "3_1933196614568640512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtQYFBRaAAAY8XB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1933196618540765441",
+        "created_at": "2025-06-13T01:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T02:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933333112857264357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1426015810472972298",
+              "start": 0,
+              "username": "CyronANNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933333112857264357",
+        "in_reply_to_user_id": "1426015810472972298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933196618540765441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyronANNO root主要可以优化性能 去广告 破解VIP等等一般用的 lsposed和root权限管理器"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933196615319494657",
+            "3_1933196615386578944",
+            "3_1933196614228971520",
+            "3_1933196614568640512"
+          ]
+        },
+        "author_id": "1426015810472972298",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933196618540765441",
+        "created_at": "2025-06-12T16:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T17:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933196618540765441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/572IeXWjBu",
+              "end": 59,
+              "expanded_url": "https://x.com/CyronANNO/status/1933196618540765441/photo/1",
+              "media_key": "3_1933196615319494657",
+              "start": 36,
+              "url": "https://t.co/572IeXWjBu"
+            },
+            {
+              "display_url": "pic.x.com/572IeXWjBu",
+              "end": 59,
+              "expanded_url": "https://x.com/CyronANNO/status/1933196618540765441/photo/1",
+              "media_key": "3_1933196615386578944",
+              "start": 36,
+              "url": "https://t.co/572IeXWjBu"
+            },
+            {
+              "display_url": "pic.x.com/572IeXWjBu",
+              "end": 59,
+              "expanded_url": "https://x.com/CyronANNO/status/1933196618540765441/photo/1",
+              "media_key": "3_1933196614228971520",
+              "start": 36,
+              "url": "https://t.co/572IeXWjBu"
+            },
+            {
+              "display_url": "pic.x.com/572IeXWjBu",
+              "end": 59,
+              "expanded_url": "https://x.com/CyronANNO/status/1933196618540765441/photo/1",
+              "media_key": "3_1933196614568640512",
+              "start": 36,
+              "url": "https://t.co/572IeXWjBu"
+            },
+            {
+              "display_url": "x.com/kunkunyuzaizai…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/kunkunyuzaizai/status/1933187030021976420",
+              "start": 60,
+              "url": "https://t.co/TXRvwV4bsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933196618540765441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 214,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933187030021976420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "平板没什么root价值\n我觉得这个系统已经很接近原生了\n甚至可能更好看 https://t.co/572IeXWjBu https://t.co/TXRvwV4bsr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 1233,
+          "like_count": 16718,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 891
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "ᴍᴀʏ ɪ ᴇɴᴊᴏʏ ᴍʏ ʟɪғᴇ ᴀɴᴅ ᴘʀᴀᴄᴛɪᴄᴇ ᴍʏ ᴀʀᴛ,ʀᴇsᴘᴇᴄᴛᴇᴅ ʙʏ ᴀʟʟ ᴍᴀɴ ᴀɴᴅ ɪɴ ᴀʟʟ ᴛɪᴍᴇs | 雑多 | 撮影 | アークナイツ/音ゲー/maimaiDX | アズールレーン | サブ垢▶ @cyron_anno | Politics絶対🚫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 127,
+                "username": "cyron_anno"
+              }
+            ]
+          }
+        },
+        "id": "1426015810472972298",
+        "location": "オタクの部屋",
+        "name": "឵ ︎ANNO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917936051521486848/jR8pXXzY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 789,
+          "like_count": 132566,
+          "listed_count": 3,
+          "media_count": 3322,
+          "tweet_count": 14642
+        },
+        "username": "CyronANNO",
+        "verified": false
+      }
+    ]
+  }
+}

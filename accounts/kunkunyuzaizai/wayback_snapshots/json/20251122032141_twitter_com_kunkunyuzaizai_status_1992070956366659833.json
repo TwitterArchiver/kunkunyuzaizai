@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1992027143619133479",
+    "created_at": "2025-11-22T03:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T04:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992070956366659833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1368276610344837123",
+          "start": 0,
+          "username": "SagaKanroo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992070956366659833",
+    "in_reply_to_user_id": "1368276610344837123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992027143619133479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SagaKanroo 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1992027138858340352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6UaIOqW0AAUfgH.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1992027143619133479",
+        "created_at": "2025-11-22T03:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992070956366659833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1368276610344837123",
+              "start": 0,
+              "username": "SagaKanroo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992070956366659833",
+        "in_reply_to_user_id": "1368276610344837123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992027143619133479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SagaKanroo 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992027138858340352"
+          ]
+        },
+        "author_id": "1368276610344837123",
+        "conversation_id": "1992027143619133479",
+        "created_at": "2025-11-22T00:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T01:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992027143619133479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDIfWLcgHY",
+              "end": 32,
+              "expanded_url": "https://x.com/SagaKanroo/status/1992027143619133479/photo/1",
+              "media_key": "3_1992027138858340352",
+              "start": 9,
+              "url": "https://t.co/eDIfWLcgHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992027143619133479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1649,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "請祝我生日快樂！ https://t.co/eDIfWLcgHY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 2337,
+          "like_count": 33436,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2447
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-06T19:05:55.000Z",
+        "description": "「剛接觸人界的魅魔混血 目標是征服全人類的心❤」| 個人勢vtuber | 粵語、中文、ENG⭕日本語🆗️ | 居英中🇬🇧 | 🎨繪師媽媽：@ ShowG_ts | 📧聯絡電郵：sagakanro1122@gmail.com | Fanart tag #天降甘露 | R18 Fanart tag #久旱逢甘雨",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "天降甘露"
+              },
+              {
+                "end": 155,
+                "start": 149,
+                "tag": "久旱逢甘雨"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/sagakanroo",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/sagakanroo",
+                "start": 0,
+                "url": "https://t.co/BMGjOpjzut"
+              }
+            ]
+          }
+        },
+        "id": "1368276610344837123",
+        "name": "嵯峨甘露🎀｜twitch活動中",
+        "pinned_tweet_id": "1990798220294041665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905350720829698048/qVTrw8pt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 999,
+          "like_count": 10144,
+          "listed_count": 4,
+          "media_count": 527,
+          "tweet_count": 3797
+        },
+        "url": "https://t.co/BMGjOpjzut",
+        "username": "SagaKanroo",
+        "verified": false
+      }
+    ]
+  }
+}

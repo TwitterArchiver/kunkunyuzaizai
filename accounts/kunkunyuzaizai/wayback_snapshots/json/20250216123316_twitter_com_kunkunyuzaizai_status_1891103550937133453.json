@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1890926149607272952",
+    "created_at": "2025-02-16T12:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T13:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891103550937133453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875528033823813635",
+          "start": 0,
+          "username": "ylcfrom2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891103550937133453",
+    "in_reply_to_user_id": "1875528033823813635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890926149607272952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ylcfrom2333 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1890926149607272952",
+        "created_at": "2025-02-16T12:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T13:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891103550937133453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875528033823813635",
+              "start": 0,
+              "username": "ylcfrom2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891103550937133453",
+        "in_reply_to_user_id": "1875528033823813635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890926149607272952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ylcfrom2333 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890926141965574144",
+            "3_1890926146675752960"
+          ]
+        },
+        "author_id": "1875528033823813635",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1890926149607272952",
+        "created_at": "2025-02-16T00:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T01:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890926149607272952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvINwdz6jq",
+              "end": 77,
+              "expanded_url": "https://x.com/ylcfrom2333/status/1890926149607272952/photo/1",
+              "media_key": "3_1890926141965574144",
+              "start": 54,
+              "url": "https://t.co/dvINwdz6jq"
+            },
+            {
+              "display_url": "pic.x.com/dvINwdz6jq",
+              "end": 77,
+              "expanded_url": "https://x.com/ylcfrom2333/status/1890926149607272952/photo/1",
+              "media_key": "3_1890926146675752960",
+              "start": 54,
+              "url": "https://t.co/dvINwdz6jq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890926149607272952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6446,
+          "like_count": 250,
+          "quote_count": 1,
+          "reply_count": 90,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "对了，忘了告诉大家\n今！天！我！生！日！\nowwwwww居然十九岁了呢。希望自己今年能开开心心，健康幸福。 https://t.co/dvINwdz6jq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 433,
+          "like_count": 8447,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 337
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T13:02:11.000Z",
+        "description": "音游人，半吊子曲师，b站up主叶留宸の音乐形态，地球物理学学生。\n计划参加明年的g2r。\n很少键政。\n希望能在推特上学下东西，交下朋友，并和大家玩得开心。",
+        "id": "1875528033823813635",
+        "name": "無梦p",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878446998866788352/FgIikbCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 82,
+          "like_count": 368,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 296
+        },
+        "username": "ylcfrom2333",
+        "verified": false
+      }
+    ]
+  }
+}

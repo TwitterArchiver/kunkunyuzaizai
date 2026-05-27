@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1173614294082048001",
+          "name": "OPPO Indonesia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      }
+    ],
+    "conversation_id": "1969614702264401930",
+    "created_at": "2025-09-22T04:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T05:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969976945787199938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1860241233878351872",
+          "start": 0,
+          "username": "TiSaTo1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969976945787199938",
+    "in_reply_to_user_id": "1860241233878351872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969617624209506365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TiSaTo1234 @RainEngine2024 我这OPPO不知道为什么tg ins x等外国软件不挂后台就没有消息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "1969614702264401930",
+        "created_at": "2025-09-22T04:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T05:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969976945787199938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1860241233878351872",
+              "start": 0,
+              "username": "TiSaTo1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969976945787199938",
+        "in_reply_to_user_id": "1860241233878351872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969617624209506365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TiSaTo1234 @RainEngine2024 我这OPPO不知道为什么tg ins x等外国软件不挂后台就没有消息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860241233878351872",
+        "conversation_id": "1969614702264401930",
+        "created_at": "2025-09-21T04:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T05:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969617624209506365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969617624209506365",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969614702264401930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 我的顺序：tel&gt;x&gt;QQ（微信不可能在生活用）\ntel和X优先是因为我全天挂梯子的，而且折腾好了fcm推送很少漏消息（还是不够绝对稳定😥），所以我在x认识的人都是加的tel好友😺。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 2040,
+          "like_count": 30088,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2089
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T08:37:37.000Z",
+        "description": "こんにちは！うちは日本語勉強中だ。２次元とパソコンゲームとテレビゲーム好き。🥰特にペルソナ５とresident evil4（2023）大好きだあ。🤓👆ぜひ私とお話しに来てください！🥰",
+        "id": "1860241233878351872",
+        "location": "Illinois, USA",
+        "name": "陽光魅魔千束",
+        "pinned_tweet_id": "1969433841527111871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860241283215949827/JVDrM_V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 67,
+          "like_count": 4255,
+          "listed_count": 0,
+          "media_count": 384,
+          "tweet_count": 1387
+        },
+        "username": "TiSaTo1234",
+        "verified": false
+      }
+    ]
+  }
+}

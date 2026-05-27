@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1947441260677239047",
+    "created_at": "2025-07-22T03:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T04:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947495321153769862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596473224711151618",
+          "start": 0,
+          "username": "a823149315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947495321153769862",
+    "in_reply_to_user_id": "1596473224711151618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 34,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947441260677239047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a823149315 找个诡秘呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1947441260677239047",
+        "created_at": "2025-07-22T03:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947495321153769862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596473224711151618",
+              "start": 0,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947495321153769862",
+        "in_reply_to_user_id": "1596473224711151618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947441260677239047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a823149315 找个诡秘呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596473224711151618",
+        "conversation_id": "1947441260677239047",
+        "created_at": "2025-07-21T23:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T00:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947441260677239047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947441260677239047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 17275,
+          "like_count": 156,
+          "quote_count": 3,
+          "reply_count": 40,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我也挺劳保的\n从思想上，作为前咨询师，我能平等看待顺跨，多样性和典型性这些\n但是我就是渴求和顺女的社交，我就是以女性身份想回到我的校园时代\n丧失了和同事做朋友的机会我真的很难受\n我想被顺女认可，想融入……\n我连小红书都开始用了，为什么我找不到顺女的朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 1286,
+          "like_count": 19867,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1125
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/术后三度返厂mtf/12年经验的百合推理作者/小说置顶可看/持证助理社工师/社工本科毕业/4年机构社工经验/前机构司法社工项目主管",
+        "id": "1596473224711151618",
+        "name": "王安黛（跨性别危机干预主题小说《社会垃圾收容所历险记》pixiv已完本欢迎点击置顶阅读）",
+        "pinned_tweet_id": "1901570044670132564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900070459242094592/LQCckHRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36328,
+          "following_count": 164,
+          "like_count": 2638,
+          "listed_count": 100,
+          "media_count": 1711,
+          "tweet_count": 9680
+        },
+        "username": "a823149315",
+        "verified": false
+      }
+    ]
+  }
+}

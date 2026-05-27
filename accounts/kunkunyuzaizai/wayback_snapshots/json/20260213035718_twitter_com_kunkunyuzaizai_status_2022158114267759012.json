@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1911734878976299154",
+    "created_at": "2026-02-13T03:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022158114267759012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "820124419674677249",
+          "start": 0,
+          "username": "Im_Sdog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022158114267759012",
+    "in_reply_to_user_id": "820124419674677249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022139225614004410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im_Sdog 一加温控高主要是极限性能一般也跑不到 省电模式都比8G3性能强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1911734878976299154",
+        "created_at": "2026-02-13T03:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022158114267759012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "820124419674677249",
+              "start": 0,
+              "username": "Im_Sdog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022158114267759012",
+        "in_reply_to_user_id": "820124419674677249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022139225614004410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Sdog 一加温控高主要是极限性能一般也跑不到 省电模式都比8G3性能强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "820124419674677249",
+        "conversation_id": "1911734878976299154",
+        "created_at": "2026-02-13T02:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022139225614004410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022139225614004410",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022086767395172666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 日常差距肯定不大，重度游戏场景主要看温控狠不狠，要是温控严格降频早就差点\n\n理论上 13T 机身小散热不占优势，温控会严格点，但红米这种普遍都说降频点低，我觉得大差不差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627|INFP|XYN|HRT2026 2.4|无证含糖🏳️‍⚧️🍥雌二醇凝胶|\n|不OD|不抽烟|不喝酒|抑郁|焦虑|早八晚六打工人|使命召唤手游＆巅峰极速手游＆网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 151,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 128,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 2568,
+          "like_count": 39086,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2707
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-14T04:24:33.000Z",
+        "description": "https://t.co/OWcnOxROk5 |\n文不识评测，武不能拆机 |\n山景城上单：Pixel，NM（指 Google）什么时候肆啊？ |\n腰间盘突出 | 酒精成瘾 | 肾结石 |\n@ChelseaFC 车路士的男孩 |\n#アズールレーン |\n#メタルマックス |\nfo 满 7500，无法及时回关🥲 |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 115,
+                "tag": "アズールレーン"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "tag": "メタルマックス"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "ChelseaFC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/sdog",
+                "end": 23,
+                "expanded_url": "http://lit.link/sdog",
+                "start": 0,
+                "url": "https://t.co/OWcnOxROk5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sdog9527/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/sdog9527/",
+                "start": 0,
+                "url": "https://t.co/kMNkAoHQ9Y"
+              }
+            ]
+          }
+        },
+        "id": "820124419674677249",
+        "location": "People's Republic of China",
+        "name": "𝕊𝕕𝕠𝕘",
+        "pinned_tweet_id": "1953104018437242925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876546693145210880/KWlA4Q6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 7500,
+          "like_count": 253606,
+          "listed_count": 11,
+          "media_count": 8929,
+          "tweet_count": 34594
+        },
+        "url": "https://t.co/kMNkAoHQ9Y",
+        "username": "Im_Sdog",
+        "verified": false
+      }
+    ]
+  }
+}

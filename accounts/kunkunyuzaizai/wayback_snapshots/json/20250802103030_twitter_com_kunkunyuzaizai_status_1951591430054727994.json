@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1950964237783965750",
+    "created_at": "2025-08-02T10:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T11:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951591430054727994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1606701895719956482",
+          "start": 0,
+          "username": "LepuzArcticus"
+        },
+        {
+          "end": 25,
+          "id": "1639816523190763521",
+          "start": 15,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951591430054727994",
+    "in_reply_to_user_id": "1606701895719956482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951468025858895970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LepuzArcticus @ggdxfulan xyn不是男娘吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1950964237783965750",
+        "created_at": "2025-08-02T10:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T11:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951591430054727994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1606701895719956482",
+              "start": 0,
+              "username": "LepuzArcticus"
+            },
+            {
+              "end": 25,
+              "id": "1639816523190763521",
+              "start": 15,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951591430054727994",
+        "in_reply_to_user_id": "1606701895719956482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951468025858895970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LepuzArcticus @ggdxfulan xyn不是男娘吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606701895719956482",
+        "conversation_id": "1950964237783965750",
+        "created_at": "2025-08-02T02:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T03:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951468025858895970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951468025858895970",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950964237783965750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan xyn学妹说我身上也有香味，我听完都惊呆了，我怎么不知道（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 1296,
+          "like_count": 20212,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1157
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T17:22:52.000Z",
+        "description": "00持证MtF🏳️‍⚧️北极兔🐰\nINTP-A 8w9 852（表观E，非常A）\n轻度强迫/敏感/疑病/癔症/中度抑郁？（仅量表结果，非疾病诊断）\n疑似ADHD-I\n表观情绪极稳定。\nHRT：2025/2/24\n持证：2025/5/3\nRLE：受限于专业。\n不定期产出奇怪言论。\n她将星夜兼程地继续前进，至死不渝。",
+        "id": "1606701895719956482",
+        "location": "Sichuan, China mainland.",
+        "name": "Lepuz Arcticus🍥",
+        "pinned_tweet_id": "1937381979315708071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921786320588066816/7F5Xica3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 162,
+          "like_count": 2329,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 674
+        },
+        "username": "LepuzArcticus",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "纯1、药娘攻、抖s、MtX、男同喜欢操男娘pyz，喜欢欺负人",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849322272968704/hQan_chB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8666,
+          "following_count": 437,
+          "like_count": 24405,
+          "listed_count": 20,
+          "media_count": 2759,
+          "tweet_count": 9209
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

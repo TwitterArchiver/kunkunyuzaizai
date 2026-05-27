@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954909278852308992"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1954782608929489190",
+    "created_at": "2025-08-11T14:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T15:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954909282732015660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808883154083852288",
+          "start": 0,
+          "username": "lipuxizi7071638"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y8yjRjaGCy",
+          "end": 40,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1954909282732015660/photo/1",
+          "media_key": "3_1954909278852308992",
+          "start": 17,
+          "url": "https://t.co/y8yjRjaGCy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954909282732015660",
+    "in_reply_to_user_id": "1808883154083852288",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954782608929489190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lipuxizi7071638 https://t.co/y8yjRjaGCy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954909282732015660].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954909282732015660",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954909282732015660"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_1954909278852308992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyE7oa4bYAAaX-r.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808883154083852288",
+        "conversation_id": "1954782608929489190",
+        "created_at": "2025-08-11T05:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T06:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954782608929489190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954782608929489190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还关注着你们吗，我的互fo🥺\n我这里显示正在关注是0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1332,
+          "like_count": 21154,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1256
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T15:18:59.000Z",
+        "description": "03xyn|梦想成为美少女|欢迎互fo互推|JK重度爱好者|可文爱|可举牌",
+        "id": "1808883154083852288",
+        "location": "有对象",
+        "name": "小鱼块",
+        "pinned_tweet_id": "1950418404202205290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926231816261754880/oq072hZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2815,
+          "following_count": 495,
+          "like_count": 7885,
+          "listed_count": 5,
+          "media_count": 56,
+          "tweet_count": 2550
+        },
+        "username": "lipuxizi7071638",
+        "verified": false
+      }
+    ]
+  }
+}

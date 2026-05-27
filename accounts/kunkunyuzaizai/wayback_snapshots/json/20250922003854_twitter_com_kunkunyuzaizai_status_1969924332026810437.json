@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1969924332026810437",
+    "created_at": "2025-09-22T00:38:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T01:38:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969924332026810437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1823786250643628033",
+          "start": 3,
+          "username": "xiaocaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969924332026810437",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 131
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969778319840387232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaocaovo: 好久没抽奖了 涨了3kfo抽一个吧\n1.🧧188\n2.原味袜子x2\n3.所有未公开音频x2\n4. kp免单x2\n5.免门x2\n6.包夜陪玩x1\n依旧三连获取抽奖资格 爱你们！\n谢谢你们喜欢我づ♡ど"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1969924332026810437",
+        "created_at": "2025-09-22T00:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T01:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969924332026810437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1823786250643628033",
+              "start": 3,
+              "username": "xiaocaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969924332026810437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969778319840387232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaocaovo: 好久没抽奖了 涨了3kfo抽一个吧\n1.🧧188\n2.原味袜子x2\n3.所有未公开音频x2\n4. kp免单x2\n5.免门x2\n6.包夜陪玩x1\n依旧三连获取抽奖资格 爱你们！\n谢谢你们喜欢我づ♡ど"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823786250643628033",
+        "conversation_id": "1969778319840387232",
+        "created_at": "2025-09-21T14:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T15:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969778319840387232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969778319840387232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 15373,
+          "like_count": 192,
+          "quote_count": 1,
+          "reply_count": 161,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "好久没抽奖了 涨了3kfo抽一个吧\n1.🧧188\n2.原味袜子x2\n3.所有未公开音频x2\n4. kp免单x2\n5.免门x2\n6.包夜陪玩x1\n依旧三连获取抽奖资格 爱你们！\n谢谢你们喜欢我づ♡ど"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 2035,
+          "like_count": 29994,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2079
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T18:18:40.000Z",
+        "description": "业余女喘｜陪🥣私｜+🐧 3911847890点单｜只贩卖声音不线下｜私信只回赋能/门槛口令｜私信发吊拉黑（强调！）｜匿名箱📮https://t.co/avLWF3Pdy4｜这是我的第二人格@ovocao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 94,
+                "username": "ovocao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xbcjejhj",
+                "end": 85,
+                "expanded_url": "http://ngl.link/xbcjejhj",
+                "start": 62,
+                "url": "https://t.co/avLWF3Pdy4"
+              }
+            ]
+          }
+        },
+        "id": "1823786250643628033",
+        "name": "青苹果",
+        "pinned_tweet_id": "1963997246808281414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966152310427627520/cxRUfNEc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13435,
+          "following_count": 5,
+          "like_count": 844,
+          "listed_count": 64,
+          "media_count": 54,
+          "tweet_count": 141
+        },
+        "username": "xiaocaovo",
+        "verified": false
+      }
+    ]
+  }
+}

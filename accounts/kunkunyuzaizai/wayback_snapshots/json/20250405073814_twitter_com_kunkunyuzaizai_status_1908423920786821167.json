@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1908423920786821167",
+    "created_at": "2025-04-05T07:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T08:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908423920786821167"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1908423920786821167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小好奇，从小到大都没去过澡堂，小时候去过一次，跟着我妈去的女澡堂，我家有热水器，通常都是在家洗澡，都没见过第二个男人的jj，所以我就想看看你们的jj可以吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1908423920786821167",
+        "created_at": "2025-04-05T07:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T08:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908423920786821167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908423920786821167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小好奇，从小到大都没去过澡堂，小时候去过一次，跟着我妈去的女澡堂，我家有热水器，通常都是在家洗澡，都没见过第二个男人的jj，所以我就想看看你们的jj可以吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 741,
+          "like_count": 12959,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 652
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

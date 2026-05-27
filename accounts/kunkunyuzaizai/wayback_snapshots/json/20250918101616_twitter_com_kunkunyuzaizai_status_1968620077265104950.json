@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968594897809682825",
+    "created_at": "2025-09-18T10:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T11:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968620077265104950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862557266890956800",
+          "start": 0,
+          "username": "lzb_haishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968620077265104950",
+    "in_reply_to_user_id": "1862557266890956800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968594897809682825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzb_haishui 好帅😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_1968594846983274496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1HalVEaQAA1weX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968594897809682825",
+        "created_at": "2025-09-18T10:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T11:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968620077265104950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862557266890956800",
+              "start": 0,
+              "username": "lzb_haishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968620077265104950",
+        "in_reply_to_user_id": "1862557266890956800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968594897809682825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzb_haishui 好帅😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968594846983274496"
+          ]
+        },
+        "author_id": "1862557266890956800",
+        "conversation_id": "1968594897809682825",
+        "created_at": "2025-09-18T08:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T09:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968594897809682825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1fyWREanY5",
+              "end": 30,
+              "expanded_url": "https://x.com/lzb_haishui/status/1968594897809682825/photo/1",
+              "media_key": "3_1968594846983274496",
+              "start": 7,
+              "url": "https://t.co/1fyWREanY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968594897809682825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3060,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "答辩我就这样 https://t.co/1fyWREanY5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 1904,
+          "like_count": 29029,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1991
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "看不惯老子就屏蔽我别在背后叽叽喳喳了吵死了我真没时间跟你们闹了，又不屏蔽我又在这里抱怨刷到我怎么怎么样你他妈纯属自己给自己找不痛快该死知道吗",
+        "id": "1862557266890956800",
+        "name": "一直游到海水变蓝",
+        "pinned_tweet_id": "1967603363815846320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956750131401023488/nY2PObOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9669,
+          "following_count": 584,
+          "like_count": 31378,
+          "listed_count": 13,
+          "media_count": 143,
+          "tweet_count": 4683
+        },
+        "username": "lzb_haishui",
+        "verified": false
+      }
+    ]
+  }
+}

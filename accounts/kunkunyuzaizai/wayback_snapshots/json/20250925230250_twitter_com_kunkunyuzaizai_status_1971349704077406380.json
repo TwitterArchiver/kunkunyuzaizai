@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1971187082619130229",
+    "created_at": "2025-09-25T23:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T00:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971349704077406380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634973686712217608",
+          "start": 0,
+          "username": "xiaojin0423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971349704077406380",
+    "in_reply_to_user_id": "1634973686712217608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971187082619130229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojin0423 八千这么多 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1971187082619130229",
+        "created_at": "2025-09-25T23:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T00:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971349704077406380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634973686712217608",
+              "start": 0,
+              "username": "xiaojin0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971349704077406380",
+        "in_reply_to_user_id": "1634973686712217608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971187082619130229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojin0423 八千这么多 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634973686712217608",
+        "conversation_id": "1971187082619130229",
+        "created_at": "2025-09-25T12:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T13:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971187082619130229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971187082619130229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 134764,
+          "like_count": 920,
+          "quote_count": 3,
+          "reply_count": 222,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我！收到！offer了！实习期八千包吃住😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 2093,
+          "like_count": 30659,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2150
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T17:44:54.000Z",
+        "description": "一破做饭的｜brat｜178｜enfj｜推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E5%A0%87",
+                "start": 0,
+                "url": "https://t.co/LGXHatml72"
+              }
+            ]
+          }
+        },
+        "id": "1634973686712217608",
+        "location": "👇",
+        "name": "无敌小堇",
+        "pinned_tweet_id": "1968321562450538585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634974378491363331/lid-yJqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4057,
+          "following_count": 318,
+          "like_count": 588,
+          "listed_count": 14,
+          "media_count": 443,
+          "tweet_count": 1921
+        },
+        "url": "https://t.co/LGXHatml72",
+        "username": "xiaojin0423",
+        "verified": false
+      }
+    ]
+  }
+}

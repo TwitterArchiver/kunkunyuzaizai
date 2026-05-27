@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931748267320111104"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1931748283203866891",
+    "created_at": "2025-06-08T16:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T17:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931748283203866891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cIkOUmQvw9",
+          "end": 23,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1931748283203866891/photo/1",
+          "media_key": "3_1931748267320111104",
+          "start": 0,
+          "url": "https://t.co/cIkOUmQvw9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931748283203866891",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/cIkOUmQvw9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931748283203866891].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931748283203866891",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931748283203866891"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931748267320111104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs7y0HUXcAA62pN.jpg",
+        "width": 922
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 1189,
+          "like_count": 16033,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 864
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

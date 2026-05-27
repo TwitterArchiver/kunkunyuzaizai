@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1975632803820937567",
+    "created_at": "2025-10-08T10:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T11:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975868023602127166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1888832422441361408",
+          "start": 0,
+          "username": "DZbtc66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975868023602127166",
+    "in_reply_to_user_id": "1888832422441361408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975632803820937567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DZbtc66 我也想体验苹果人生 苹果太贵了差不多要我一年工资"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_1975632260218167301",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2rbEsUbIAUgsDD.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1975632803820937567",
+        "created_at": "2025-10-08T10:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975868023602127166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1888832422441361408",
+              "start": 0,
+              "username": "DZbtc66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975868023602127166",
+        "in_reply_to_user_id": "1888832422441361408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975632803820937567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DZbtc66 我也想体验苹果人生 苹果太贵了差不多要我一年工资"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975632260218167301"
+          ]
+        },
+        "author_id": "1888832422441361408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1975632803820937567",
+        "created_at": "2025-10-07T18:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T19:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975632803820937567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IHAvaIKeNF",
+              "end": 80,
+              "expanded_url": "https://x.com/DZbtc66/status/1975632803820937567/photo/1",
+              "media_key": "3_1975632260218167301",
+              "start": 57,
+              "url": "https://t.co/IHAvaIKeNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975632803820937567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 141467,
+          "like_count": 1421,
+          "quote_count": 34,
+          "reply_count": 1517,
+          "retweet_count": 1076
+        },
+        "reply_settings": "everyone",
+        "text": "最近BSC杀疯了  忙的推都没好好更新\n一键三连抽台iphone 17 pro max 512G\n72小时后开奖 https://t.co/IHAvaIKeNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 2130,
+          "like_count": 31259,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2225
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T06:08:45.000Z",
+        "description": "全职Web3 专业投研 | 自营工作室   |专注一级meme，是个韭菜，记录亏损操作，相信自己是最大的alpha！先锋队社区创始人，社区付费门槛 ，入口看置顶推文/\nTG裙打狗：https://t.co/DZhO18RDSM\n#Bitcoin #Web3",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 114,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "Web3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+5igUuAe-LUxjN…",
+                "end": 113,
+                "expanded_url": "https://t.me/+5igUuAe-LUxjNjRl",
+                "start": 90,
+                "url": "https://t.co/DZhO18RDSM"
+              }
+            ]
+          }
+        },
+        "id": "1888832422441361408",
+        "name": "队长",
+        "pinned_tweet_id": "1965477172459831620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963431925470867456/7SqNq-B9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10446,
+          "following_count": 1396,
+          "like_count": 9479,
+          "listed_count": 74,
+          "media_count": 1386,
+          "tweet_count": 8080
+        },
+        "username": "DZbtc66",
+        "verified": true
+      }
+    ]
+  }
+}

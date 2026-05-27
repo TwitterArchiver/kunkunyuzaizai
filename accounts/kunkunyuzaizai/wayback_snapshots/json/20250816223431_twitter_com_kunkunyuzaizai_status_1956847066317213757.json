@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1955968546930090123",
+    "created_at": "2025-08-16T22:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T23:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956847066317213757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761582978147471360",
+          "start": 0,
+          "username": "dicktasterpooh"
+        },
+        {
+          "end": 26,
+          "id": "1597257668313260033",
+          "start": 16,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956847066317213757",
+    "in_reply_to_user_id": "1761582978147471360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956747735278731426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dicktasterpooh @Minokakay 不好吃和我觉得怪味都不吃比如苦瓜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1955968546930090123",
+        "created_at": "2025-08-16T22:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T23:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956847066317213757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761582978147471360",
+              "start": 0,
+              "username": "dicktasterpooh"
+            },
+            {
+              "end": 26,
+              "id": "1597257668313260033",
+              "start": 16,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956847066317213757",
+        "in_reply_to_user_id": "1761582978147471360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956747735278731426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dicktasterpooh @Minokakay 不好吃和我觉得怪味都不吃比如苦瓜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761582978147471360",
+        "conversation_id": "1955968546930090123",
+        "created_at": "2025-08-16T15:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956747735278731426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 26,
+              "id": "1597257668313260033",
+              "start": 16,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956747735278731426",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956135610173022486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @Minokakay 我以前不吃的东西很多，后来慢慢的就能接受了。只有胡萝卜和猪大肠死活不接受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1366,
+          "like_count": 22509,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1414
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T02:44:58.000Z",
+        "description": "",
+        "id": "1761582978147471360",
+        "name": "嬉皮笑脸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895325977196314626/g7QZZE0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 72,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1739
+        },
+        "username": "dicktasterpooh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8929,
+          "following_count": 923,
+          "like_count": 44457,
+          "listed_count": 33,
+          "media_count": 1377,
+          "tweet_count": 20360
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

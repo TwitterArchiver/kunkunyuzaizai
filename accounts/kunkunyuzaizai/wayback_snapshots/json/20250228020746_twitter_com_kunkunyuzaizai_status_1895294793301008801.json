@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1894980233616384408",
+    "created_at": "2025-02-28T02:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T03:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895294793301008801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786117599845310466",
+          "start": 0,
+          "username": "qinglingSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895294793301008801",
+    "in_reply_to_user_id": "1786117599845310466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894980233616384408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qinglingSama 小穴是哪里"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1784,
+        "media_key": "3_1894980195553099776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkxScqRXwAA4_iN.jpg",
+        "width": 850
+      },
+      {
+        "height": 871,
+        "media_key": "3_1894980218462330880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkxSd_nW4AAQ8xY.jpg",
+        "width": 476
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1894980233616384408",
+        "created_at": "2025-02-28T02:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T03:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895294793301008801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786117599845310466",
+              "start": 0,
+              "username": "qinglingSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895294793301008801",
+        "in_reply_to_user_id": "1786117599845310466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894980233616384408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinglingSama 小穴是哪里"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894980195553099776",
+            "3_1894980218462330880"
+          ]
+        },
+        "author_id": "1786117599845310466",
+        "conversation_id": "1894980233616384408",
+        "created_at": "2025-02-27T05:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T06:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894980233616384408"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "男娘"
+            },
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "男の娘ᅠ"
+            },
+            {
+              "end": 143,
+              "start": 135,
+              "tag": "男娘coser"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "伪娘"
+            },
+            {
+              "end": 155,
+              "start": 148,
+              "tag": "可爱の男孩子"
+            },
+            {
+              "end": 163,
+              "start": 156,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 169,
+              "start": 164,
+              "tag": "男娘cd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WruUP0AO3E",
+              "end": 193,
+              "expanded_url": "https://x.com/qinglingSama/status/1894980233616384408/photo/1",
+              "media_key": "3_1894980195553099776",
+              "start": 170,
+              "url": "https://t.co/WruUP0AO3E"
+            },
+            {
+              "display_url": "pic.x.com/WruUP0AO3E",
+              "end": 193,
+              "expanded_url": "https://x.com/qinglingSama/status/1894980233616384408/photo/1",
+              "media_key": "3_1894980218462330880",
+              "start": 170,
+              "url": "https://t.co/WruUP0AO3E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894980233616384408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "请问先生们需要援交吗～?\n除了援交以外，有什么事情，留言就好了。\n价格表：\n基础费100¥\n小穴150¥\n中出150¥\n后庭150¥（射入另加100¥)\n足交60¥\n口交80¥（吞精另加50¥)\n肯德基疯狂星期四代吃50¥\n目前只接最后一条（伸手）\n#男娘 #男の娘ᅠ #男娘coser #伪娘 #可爱の男孩子 #可爱的男孩子 #男娘cd https://t.co/WruUP0AO3E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 605,
+          "like_count": 10029,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 445
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T19:36:49.000Z",
+        "description": "一只小南梁，+v🚪50（有涩涩福利加陪聊哦），接寄拍原味定制，不线下，欢迎同好互推谢谢关注喵",
+        "id": "1786117599845310466",
+        "location": "广东",
+        "name": "清聆",
+        "pinned_tweet_id": "1892533600517607704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882973155381157888/eDcp90si_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 434,
+          "like_count": 252,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 144
+        },
+        "username": "qinglingSama",
+        "verified": false
+      }
+    ]
+  }
+}

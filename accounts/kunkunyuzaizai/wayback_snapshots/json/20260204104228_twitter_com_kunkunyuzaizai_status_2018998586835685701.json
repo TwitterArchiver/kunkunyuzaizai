@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2018633827464470631",
+    "created_at": "2026-02-04T10:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T11:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018998586835685701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1965385209807077380",
+          "start": 0,
+          "username": "SarlopIV"
+        },
+        {
+          "end": 16,
+          "id": "1507396901594820608",
+          "start": 10,
+          "username": "hgds0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018998586835685701",
+    "in_reply_to_user_id": "1965385209807077380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018906615731376173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SarlopIV @hgds0 一眼假有人买吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2018633827464470631",
+        "created_at": "2026-02-04T10:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018998586835685701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1965385209807077380",
+              "start": 0,
+              "username": "SarlopIV"
+            },
+            {
+              "end": 16,
+              "id": "1507396901594820608",
+              "start": 10,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018998586835685701",
+        "in_reply_to_user_id": "1965385209807077380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018906615731376173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SarlopIV @hgds0 一眼假有人买吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965385209807077380",
+        "conversation_id": "2018633827464470631",
+        "created_at": "2026-02-04T04:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018906615731376173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018906615731376173",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 479,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018633827464470631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds0 Telegram上面卖的假币估计就是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 2488,
+          "like_count": 38070,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2658
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T12:02:16.000Z",
+        "description": "",
+        "id": "1965385209807077380",
+        "name": "ZQH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965385264542744576/VUOWJuU-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 36,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 119
+        },
+        "username": "SarlopIV",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删/推广自辩",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2018295902021341195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97900,
+          "following_count": 2581,
+          "like_count": 43914,
+          "listed_count": 140,
+          "media_count": 3645,
+          "tweet_count": 8005
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

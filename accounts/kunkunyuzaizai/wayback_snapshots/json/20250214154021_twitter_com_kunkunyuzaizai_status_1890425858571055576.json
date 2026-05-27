@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1890366965258047771",
+    "created_at": "2025-02-14T15:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T16:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890425858571055576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1756569184371449856",
+          "start": 0,
+          "username": "ss19ff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890425858571055576",
+    "in_reply_to_user_id": "1756569184371449856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890366965258047771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ss19ff 兄弟😋对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1890366965258047771",
+        "created_at": "2025-02-14T15:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T16:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890425858571055576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1756569184371449856",
+              "start": 0,
+              "username": "ss19ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890425858571055576",
+        "in_reply_to_user_id": "1756569184371449856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890366965258047771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ss19ff 兄弟😋对不起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1890359522549792768"
+          ]
+        },
+        "author_id": "1756569184371449856",
+        "conversation_id": "1890366965258047771",
+        "created_at": "2025-02-14T11:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T12:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890366965258047771"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "伪娘"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z7RulYH7SU",
+              "end": 67,
+              "expanded_url": "https://x.com/ss19ff/status/1890366965258047771/video/1",
+              "media_key": "7_1890359522549792768",
+              "start": 44,
+              "url": "https://t.co/Z7RulYH7SU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890366965258047771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 621,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘 #男の娘\n原来今天是情人节啊，我听见隔壁一直喊爸爸，我还以为是父亲节呢 https://t.co/Z7RulYH7SU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 415,
+          "like_count": 8314,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 333
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T06:42:03.000Z",
+        "description": "178/112无糖小男娘\n未成年 还在读书\n周一~周五不在线\n门槛38r喵\n可爱小男娘可以直接加我w",
+        "id": "1756569184371449856",
+        "name": "ss19ff",
+        "pinned_tweet_id": "1880854965729828906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860322113900675074/lvbkw8lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4174,
+          "following_count": 82,
+          "like_count": 459,
+          "listed_count": 19,
+          "media_count": 79,
+          "tweet_count": 232
+        },
+        "username": "ss19ff",
+        "verified": false
+      }
+    ]
+  }
+}

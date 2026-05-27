@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1957312973799666033",
+    "created_at": "2025-08-18T10:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T11:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957393166920974373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "ceobrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957393166920974373",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957312973799666033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceobrus 不尴尬嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957312937212973057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GynFvwDbEAErQ7P.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1957312957404393472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GynFw7RbsAAYI9q.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1957312957953773568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GynFw9UakAAOoUS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1535,
+        "media_key": "3_1957312959518253056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GynFxDJaoAAKcIo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1957312973799666033",
+        "created_at": "2025-08-18T10:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T11:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957393166920974373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "ceobrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957393166920974373",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957312973799666033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceobrus 不尴尬嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957312937212973057",
+            "3_1957312957404393472",
+            "3_1957312957953773568",
+            "3_1957312959518253056"
+          ]
+        },
+        "author_id": "1903701047589343232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1957312973799666033",
+        "created_at": "2025-08-18T05:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T06:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957312973799666033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qjIVEmKTCX",
+              "end": 117,
+              "expanded_url": "https://x.com/ceobrus/status/1957312973799666033/photo/1",
+              "media_key": "3_1957312937212973057",
+              "start": 94,
+              "url": "https://t.co/qjIVEmKTCX"
+            },
+            {
+              "display_url": "pic.x.com/qjIVEmKTCX",
+              "end": 117,
+              "expanded_url": "https://x.com/ceobrus/status/1957312973799666033/photo/1",
+              "media_key": "3_1957312957404393472",
+              "start": 94,
+              "url": "https://t.co/qjIVEmKTCX"
+            },
+            {
+              "display_url": "pic.x.com/qjIVEmKTCX",
+              "end": 117,
+              "expanded_url": "https://x.com/ceobrus/status/1957312973799666033/photo/1",
+              "media_key": "3_1957312957953773568",
+              "start": 94,
+              "url": "https://t.co/qjIVEmKTCX"
+            },
+            {
+              "display_url": "pic.x.com/qjIVEmKTCX",
+              "end": 117,
+              "expanded_url": "https://x.com/ceobrus/status/1957312973799666033/photo/1",
+              "media_key": "3_1957312959518253056",
+              "start": 94,
+              "url": "https://t.co/qjIVEmKTCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957312973799666033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1251,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中午去麦麦岛吃午餐叻，遇到了三个xyn！吃了海陆空霸气吃堡四人餐☝🏻吃🍔汉堡的时候被芥末偷袭👿避雷芥末，但是麦香鱼汉堡还是蛮好吃的，话说真的有人喜欢芥末吗？还是说我有鼻炎更难受一点😤？！ https://t.co/qjIVEmKTCX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 1383,
+          "like_count": 23009,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1452
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "027丨大龄天残党丨含糖丨长发男丨180/115丨无性恋丨单身丨they丨互fo丨欢迎扩列🍥丨超喜欢散步欢迎来找我逛街压马路口牙！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ceobrus",
+                "end": 23,
+                "expanded_url": "https://t.me/ceobrus",
+                "start": 0,
+                "url": "https://t.co/jjy2nzikWB"
+              }
+            ]
+          }
+        },
+        "id": "1903701047589343232",
+        "location": "wuhan",
+        "name": "小方🍅🍳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939212280874299392/CfqB9_ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2307,
+          "following_count": 1496,
+          "like_count": 6178,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 1662
+        },
+        "url": "https://t.co/jjy2nzikWB",
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

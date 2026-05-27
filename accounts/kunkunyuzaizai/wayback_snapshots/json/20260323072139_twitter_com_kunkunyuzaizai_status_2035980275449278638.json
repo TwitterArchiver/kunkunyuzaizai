@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2035748651713323242",
+    "created_at": "2026-03-23T07:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T08:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035980275449278638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1549029511865307136",
+          "start": 0,
+          "username": "chishengyu628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035980275449278638",
+    "in_reply_to_user_id": "1549029511865307136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035748651713323242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chishengyu628 生日快乐🎂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2035748651713323242",
+        "created_at": "2026-03-23T07:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035980275449278638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1549029511865307136",
+              "start": 0,
+              "username": "chishengyu628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035980275449278638",
+        "in_reply_to_user_id": "1549029511865307136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035748651713323242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chishengyu628 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549029511865307136",
+        "conversation_id": "2035748651713323242",
+        "created_at": "2026-03-22T16:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035748651713323242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035748651713323242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5506,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 59,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 2726,
+          "like_count": 43134,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 2971
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T13:53:35.000Z",
+        "description": "直通车：最好的橙姨 @orangetodayeat /中推圈最全能的黄推 @meinianba123 /好mona！ @asahisuki0 /唐氏牢猫 @Paranoia23334",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "orangetodayeat"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "username": "meinianba123"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "asahisuki0"
+              },
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Paranoia23334"
+              }
+            ]
+          }
+        },
+        "id": "1549029511865307136",
+        "location": "我在东北没有家（？",
+        "name": "洛水三千",
+        "pinned_tweet_id": "1977725187769373073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788234928586735616/_jnPGFHv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 585,
+          "like_count": 115339,
+          "listed_count": 2,
+          "media_count": 1280,
+          "tweet_count": 18474
+        },
+        "username": "chishengyu628",
+        "verified": false
+      }
+    ]
+  }
+}

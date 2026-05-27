@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1946418210280272356",
+    "created_at": "2025-07-19T17:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T18:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946619414289527119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841801152381558784",
+          "start": 0,
+          "username": "Amemiya_Hasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946619414289527119",
+    "in_reply_to_user_id": "1841801152381558784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946418210280272356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amemiya_Hasumi 我初中都没毕业呢因为被8⃣️0⃣️不敢上学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1946418210280272356",
+        "created_at": "2025-07-19T17:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T18:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946619414289527119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841801152381558784",
+              "start": 0,
+              "username": "Amemiya_Hasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946619414289527119",
+        "in_reply_to_user_id": "1841801152381558784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946418210280272356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amemiya_Hasumi 我初中都没毕业呢因为被8⃣️0⃣️不敢上学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841801152381558784",
+        "conversation_id": "1946418210280272356",
+        "created_at": "2025-07-19T03:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T04:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946418210280272356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946418210280272356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6729,
+          "like_count": 131,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "总之至今为止读下来的学历没有任何意义，985和qs都没有用的\n在就业市场面前，我这种人已经没有存续的必要了\n只是要对不起家人的期待和付出了\n我从来都不是什么优秀的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1285,
+          "like_count": 19711,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1111
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "Coser & 摄影，直男，偶尔是男娘。\n第二人格@Hasumi_Amemiya。\n团长@Ryo_Suzumiya 前卫@vanofthess 小加@Plus_NGC1333 小绿@lamte15072 老金@KiminTW_Offical\n往期照片请见亮点，禁敏感政治 No serious Politics。\n↓更多",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "Hasumi_Amemiya"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "Ryo_Suzumiya"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "vanofthess"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "Plus_NGC1333"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "lamte15072"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "KiminTW_Offical"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "location": "永恆之地 翁法羅斯",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1871596096461713573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918165588679245825/T3Da3VAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4464,
+          "following_count": 2472,
+          "like_count": 39455,
+          "listed_count": 9,
+          "media_count": 1259,
+          "tweet_count": 9077
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": true
+      }
+    ]
+  }
+}

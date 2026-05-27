@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967601536948928692",
+    "created_at": "2025-09-16T06:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T07:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967836799700816214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935984511948668936",
+          "start": 0,
+          "username": "lucky97090198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967836799700816214",
+    "in_reply_to_user_id": "1935984511948668936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967601536948928692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lucky97090198 怎么不传云端或者硬盘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1682,
+        "media_key": "3_1967601472998121472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05THWmWoAApif7.jpg",
+        "width": 1121
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967601536948928692",
+        "created_at": "2025-09-16T06:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967836799700816214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935984511948668936",
+              "start": 0,
+              "username": "lucky97090198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967836799700816214",
+        "in_reply_to_user_id": "1935984511948668936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967601536948928692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucky97090198 怎么不传云端或者硬盘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967601472998121472"
+          ]
+        },
+        "author_id": "1935984511948668936",
+        "conversation_id": "1967601536948928692",
+        "created_at": "2025-09-15T14:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T15:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967601536948928692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uW3yI9t2Ps",
+              "end": 54,
+              "expanded_url": "https://x.com/lucky97090198/status/1967601536948928692/photo/1",
+              "media_key": "3_1967601472998121472",
+              "start": 31,
+              "url": "https://t.co/uW3yI9t2Ps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967601536948928692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4398,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "换手机传丢了很多照片，所以如图大学生时期的照片是九九成稀罕物 https://t.co/uW3yI9t2Ps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1827,
+          "like_count": 28389,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1902
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T08:54:22.000Z",
+        "description": "너무이뻐",
+        "id": "1935984511948668936",
+        "location": "青岛",
+        "name": "桃",
+        "pinned_tweet_id": "1966521879876771913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963531405947715585/Q_xT75m6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 247,
+          "like_count": 5933,
+          "listed_count": 9,
+          "media_count": 120,
+          "tweet_count": 2361
+        },
+        "username": "lucky97090198",
+        "verified": false
+      }
+    ]
+  }
+}

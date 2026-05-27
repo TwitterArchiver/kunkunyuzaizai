@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2036542158988255538",
+    "created_at": "2026-03-25T11:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T12:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036771876773736543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031959480448294912",
+          "start": 0,
+          "username": "morisase"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036771876773736543",
+    "in_reply_to_user_id": "2031959480448294912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036542158988255538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@morisase TK用什么加速器呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2036542158988255538",
+        "created_at": "2026-03-25T11:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036771876773736543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031959480448294912",
+              "start": 0,
+              "username": "morisase"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036771876773736543",
+        "in_reply_to_user_id": "2031959480448294912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036542158988255538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@morisase TK用什么加速器呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031959480448294912",
+        "conversation_id": "2036542158988255538",
+        "created_at": "2026-03-24T20:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T21:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036542158988255538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036542158988255538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 210,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱是笨蛋，tiktok上刷到让咱难过的视频就要收藏反复看，让自己难受哭出来才算爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 2770,
+          "like_count": 43643,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3011
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T05:04:52.000Z",
+        "description": "INFP-T｜168/80｜enby transfem🏳️‍⚧️｜EDAY🍥20-12-2025｜Ⓐ ZONE｜好妹妹@Alanb2bhxah",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "Alanb2bhxah"
+              }
+            ]
+          }
+        },
+        "id": "2031959480448294912",
+        "location": "森紗",
+        "name": "morisa 二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032008726505537539/htm2DLm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 312,
+          "like_count": 1510,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 385
+        },
+        "username": "morisase",
+        "verified": false
+      }
+    ]
+  }
+}

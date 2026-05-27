@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019402590120017920"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "2019402593844502536",
+    "created_at": "2026-02-05T13:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T14:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019402593844502536"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/too1FFqYLn",
+          "end": 23,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2019402593844502536/photo/1",
+          "media_key": "3_2019402590120017920",
+          "start": 0,
+          "url": "https://t.co/too1FFqYLn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019402593844502536",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/too1FFqYLn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2019402593844502536].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2019402593844502536",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2019402593844502536"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2019402590120017920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZb9NqbgAAsFuY.jpg",
+        "width": 1024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627|INFP|XYN|HRT2026 2.6|无证含糖🏳️‍⚧️🍥雌二醇凝胶|早八晚六打工人|使命召唤手游＆巅峰极速手游＆网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 131,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 108,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 2509,
+          "like_count": 38296,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2664
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

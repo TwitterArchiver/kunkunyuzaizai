@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1969015000670044242",
+    "created_at": "2025-09-19T12:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T13:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969015000670044242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1706860686893252608",
+          "start": 3,
+          "username": "Epiphany_Karma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969015000670044242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968997071077146824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Epiphany_Karma: 睡醒了 怎么500fo了，这么喜欢听我牛叫嘛。\n评论这条，从fo里抽一个52红包两个28红包拿去喝奶茶哈，截至今晚12点。😽😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1969015000670044242",
+        "created_at": "2025-09-19T12:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969015000670044242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1706860686893252608",
+              "start": 3,
+              "username": "Epiphany_Karma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969015000670044242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968997071077146824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Epiphany_Karma: 睡醒了 怎么500fo了，这么喜欢听我牛叫嘛。\n评论这条，从fo里抽一个52红包两个28红包拿去喝奶茶哈，截至今晚12点。😽😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706860686893252608",
+        "conversation_id": "1968997071077146824",
+        "created_at": "2025-09-19T11:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T12:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968997071077146824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968997071077146824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1311,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "睡醒了 怎么500fo了，这么喜欢听我牛叫嘛。\n评论这条，从fo里抽一个52红包两个28红包拿去喝奶茶哈，截至今晚12点。😽😽😽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1942,
+          "like_count": 29336,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2023
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T02:38:00.000Z",
+        "description": "没有你，我对生活没有任何想象。\n宠物、书摘博主，INFJ-A，ED男\nngl：https://t.co/xYED5lgi2r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ele60878",
+                "end": 62,
+                "expanded_url": "https://ngl.link/ele60878",
+                "start": 39,
+                "url": "https://t.co/xYED5lgi2r"
+              }
+            ]
+          }
+        },
+        "id": "1706860686893252608",
+        "location": "Pluto",
+        "name": "Epiphany",
+        "pinned_tweet_id": "1962918975417033076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955672827497209856/Tkt9fUgF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 292,
+          "like_count": 14720,
+          "listed_count": 3,
+          "media_count": 373,
+          "tweet_count": 3654
+        },
+        "username": "Epiphany_Karma",
+        "verified": false
+      }
+    ]
+  }
+}

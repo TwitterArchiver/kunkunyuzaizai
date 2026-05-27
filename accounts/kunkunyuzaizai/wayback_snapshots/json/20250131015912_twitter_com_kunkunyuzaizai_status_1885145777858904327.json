@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885145774394400768",
+        "3_1885145775304564738"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1885145777858904327",
+    "created_at": "2025-01-31T01:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T02:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885145777858904327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LJdKOrSJoC",
+          "end": 23,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1885145777858904327/photo/1",
+          "media_key": "3_1885145774394400768",
+          "start": 0,
+          "url": "https://t.co/LJdKOrSJoC"
+        },
+        {
+          "display_url": "pic.x.com/LJdKOrSJoC",
+          "end": 23,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1885145777858904327/photo/1",
+          "media_key": "3_1885145775304564738",
+          "start": 0,
+          "url": "https://t.co/LJdKOrSJoC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885145777858904327",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/LJdKOrSJoC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1885145777858904327].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1885145777858904327",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1885145777858904327"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1885145774394400768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiliGAibYAA761L.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1885145775304564738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiliGD7bYAIDiUI.jpg",
+        "width": 922
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 303,
+          "like_count": 6800,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 290
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

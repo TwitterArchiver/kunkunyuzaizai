@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1954483160282218881",
+    "created_at": "2025-08-12T00:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T01:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955071134371807724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712477803252432897",
+          "start": 0,
+          "username": "jingyu813363"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955071134371807724",
+    "in_reply_to_user_id": "1712477803252432897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954483160282218881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyu813363 我几年也赚不了这么多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954483150677303296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-4EfubYAABsqC.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1954483160282218881",
+        "created_at": "2025-08-12T00:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T01:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955071134371807724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712477803252432897",
+              "start": 0,
+              "username": "jingyu813363"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955071134371807724",
+        "in_reply_to_user_id": "1712477803252432897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954483160282218881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyu813363 我几年也赚不了这么多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954483150677303296"
+          ]
+        },
+        "author_id": "1712477803252432897",
+        "conversation_id": "1954483160282218881",
+        "created_at": "2025-08-10T10:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T11:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954483160282218881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z0PRplkZry",
+              "end": 35,
+              "expanded_url": "https://x.com/jingyu813363/status/1954483160282218881/photo/1",
+              "media_key": "3_1954483150677303296",
+              "start": 12,
+              "url": "https://t.co/Z0PRplkZry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954483160282218881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 79317,
+          "like_count": 329,
+          "quote_count": 9,
+          "reply_count": 181,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这种日子我不能一直过吗 https://t.co/Z0PRplkZry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 1329,
+          "like_count": 21211,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1261
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T14:38:55.000Z",
+        "description": "瓦+",
+        "id": "1712477803252432897",
+        "name": "iyue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954748927049404416/PfM2FzAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 342,
+          "like_count": 921,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 282
+        },
+        "username": "jingyu813363",
+        "verified": false
+      }
+    ]
+  }
+}

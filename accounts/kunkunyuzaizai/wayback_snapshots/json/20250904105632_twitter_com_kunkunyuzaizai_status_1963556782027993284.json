@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1963543607484584243",
+    "created_at": "2025-09-04T10:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T11:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963556782027993284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1909792177703768064",
+          "start": 0,
+          "username": "ruyan_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963556782027993284",
+    "in_reply_to_user_id": "1909792177703768064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963553041287667730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruyan_7 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1963543607484584243",
+        "created_at": "2025-09-04T10:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T11:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963556782027993284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1909792177703768064",
+              "start": 0,
+              "username": "ruyan_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963556782027993284",
+        "in_reply_to_user_id": "1909792177703768064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963553041287667730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruyan_7 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909792177703768064",
+        "conversation_id": "1963543607484584243",
+        "created_at": "2025-09-04T10:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T11:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963553041287667730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963553041287667730",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963543607484584243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 茄皇方便面确实好吃😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON  凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 1675,
+          "like_count": 26532,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1797
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T02:15:33.000Z",
+        "description": "我通过了你的好友申请 现在我们可以开始冷场了^𖥦^｜全世界最好的闺蜜@Mn1to05_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Mn1to05_"
+              }
+            ]
+          }
+        },
+        "id": "1909792177703768064",
+        "location": "不约不看不闲聊",
+        "name": "无人拒绝一具学生尸体",
+        "pinned_tweet_id": "1962592889591980240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959924340486508544/XjUjHZGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 120,
+          "like_count": 484,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 494
+        },
+        "username": "ruyan_7",
+        "verified": false
+      }
+    ]
+  }
+}

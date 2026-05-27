@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1907075705235738847",
+    "created_at": "2025-04-02T07:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T08:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907334916058251653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1874297169592934401",
+          "start": 0,
+          "username": "EdenSongSG"
+        },
+        {
+          "end": 21,
+          "id": "1690570637499154432",
+          "start": 12,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907334916058251653",
+    "in_reply_to_user_id": "1874297169592934401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907099939425140987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EdenSongSG @saonanaa 我要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1907075705235738847",
+        "created_at": "2025-04-02T07:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T08:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907334916058251653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1874297169592934401",
+              "start": 0,
+              "username": "EdenSongSG"
+            },
+            {
+              "end": 21,
+              "id": "1690570637499154432",
+              "start": 12,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907334916058251653",
+        "in_reply_to_user_id": "1874297169592934401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907099939425140987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EdenSongSG @saonanaa 我要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874297169592934401",
+        "conversation_id": "1907075705235738847",
+        "created_at": "2025-04-01T15:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T16:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907099939425140987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907099939425140987",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907075705235738847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa 我也抽三个人，每个人送5毛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 663,
+          "like_count": 12233,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 597
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T03:31:01.000Z",
+        "description": "I am currently studying in Singapore for undergraduate CS degree program \n传送舱:https://t.co/UubP0BmEvH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Eden20220224?t…",
+                "end": 101,
+                "expanded_url": "https://x.com/Eden20220224?t=SWVN6HhBr18z5CktXl1-1Q&s=09",
+                "start": 78,
+                "url": "https://t.co/UubP0BmEvH"
+              }
+            ]
+          }
+        },
+        "id": "1874297169592934401",
+        "name": "Eden_Song",
+        "pinned_tweet_id": "1905672274612715554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905668142837497864/_bnJBMSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 229,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 180
+        },
+        "username": "EdenSongSG",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Infinite Circle:个人账号，个人发推。",
+        "id": "1690570637499154432",
+        "location": "🌏 Chine",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896199576690040832/gvpmueaX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2636,
+          "following_count": 306,
+          "like_count": 18538,
+          "listed_count": 14,
+          "media_count": 1072,
+          "tweet_count": 10007
+        },
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

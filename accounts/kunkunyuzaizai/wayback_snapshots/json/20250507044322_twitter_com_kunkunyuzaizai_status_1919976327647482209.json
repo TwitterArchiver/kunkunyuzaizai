@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1919325463370953162",
+    "created_at": "2025-05-07T04:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T05:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919976327647482209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1876631664484564992",
+          "start": 0,
+          "username": "Ooooooldstond"
+        },
+        {
+          "end": 28,
+          "id": "1867639848569372672",
+          "start": 15,
+          "username": "overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919976327647482209",
+    "in_reply_to_user_id": "1876631664484564992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919963318267105536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ooooooldstond @overdose_day 毒品本质就是精神药物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1919325463370953162",
+        "created_at": "2025-05-07T04:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T05:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919976327647482209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1876631664484564992",
+              "start": 0,
+              "username": "Ooooooldstond"
+            },
+            {
+              "end": 28,
+              "id": "1867639848569372672",
+              "start": 15,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919976327647482209",
+        "in_reply_to_user_id": "1876631664484564992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919963318267105536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ooooooldstond @overdose_day 毒品本质就是精神药物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876631664484564992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1919325463370953162",
+        "created_at": "2025-05-07T03:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T04:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919963318267105536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 29,
+              "id": "1867639848569372672",
+              "start": 16,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919963318267105536",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919951119234826293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @overdose_day 灵与肉，是分割的，也是一体的。适量用药先救灵魂内心，别当饭吃啊，内心舒坦了，内分泌就正常了，内分泌正常了，身体就健康了，身体健康了，心情就好了，良性闭环。过度用药，毒品，身体亏空，内分泌紊乱，内心崩溃，产生依赖，继续吸毒，继续亏空，恶性闭环。抛开剂量谈毒性那就是耍流氓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 992,
+          "like_count": 14717,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 779
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T14:07:45.000Z",
+        "description": "",
+        "id": "1876631664484564992",
+        "name": "Stond",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876631817589243904/jFpYyOgA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 48,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 256
+        },
+        "username": "Ooooooldstond",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "化学极乐百科🧪 未来可能会倒闭，但绝不会变味\n\n官网:https://t.co/bwfCFLxN8g\ngalgame下载:https://t.co/iRTTcRxOR2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 50,
+                "expanded_url": "https://overdose.day",
+                "start": 27,
+                "url": "https://t.co/bwfCFLxN8g"
+              },
+              {
+                "display_url": "lsd.kim",
+                "end": 84,
+                "expanded_url": "https://lsd.kim/",
+                "start": 61,
+                "url": "https://t.co/iRTTcRxOR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1911617640910688727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 900,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

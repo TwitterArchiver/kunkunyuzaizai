@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1884386917527216451",
+    "created_at": "2025-01-29T07:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T08:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884498136334536794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1439935917821628416",
+          "start": 0,
+          "username": "XiaJio29"
+        },
+        {
+          "end": 20,
+          "id": "885315484102541312",
+          "start": 10,
+          "username": "SinKy_Yan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884498136334536794",
+    "in_reply_to_user_id": "1439935917821628416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884390633139535953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaJio29 @SinKy_Yan 因为是女的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1884386917527216451",
+        "created_at": "2025-01-29T07:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T08:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884498136334536794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1439935917821628416",
+              "start": 0,
+              "username": "XiaJio29"
+            },
+            {
+              "end": 20,
+              "id": "885315484102541312",
+              "start": 10,
+              "username": "SinKy_Yan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884498136334536794",
+        "in_reply_to_user_id": "1439935917821628416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884390633139535953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaJio29 @SinKy_Yan 因为是女的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439935917821628416",
+        "conversation_id": "1884386917527216451",
+        "created_at": "2025-01-28T23:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T00:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884390633139535953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "885315484102541312",
+              "start": 0,
+              "username": "SinKy_Yan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884390633139535953",
+        "in_reply_to_user_id": "885315484102541312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1354,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884386917527216451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SinKy_Yan ₍ᐢ •⌄• ᐢ₎没看见牛牛，不打了("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 298,
+          "like_count": 6336,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 277
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T12:54:29.000Z",
+        "description": "喜欢关注小鸡吧男娘₍ᐢ •⌄• ᐢ₎",
+        "id": "1439935917821628416",
+        "name": "飞跃长城🏳️‍⚧️弥咲🎀",
+        "pinned_tweet_id": "1448456326552584194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795470324370411520/uoV1aHoP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 610,
+          "like_count": 34467,
+          "listed_count": 6,
+          "media_count": 277,
+          "tweet_count": 1857
+        },
+        "username": "XiaJio29",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-13T01:50:34.000Z",
+        "description": "不知名天空树搞笑女 // 铁血女同恋爱中@yingxia_miaoji // 腿控 // 图集https://t.co/KLETMSjzdB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "yingxia_miaoji"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sinky.huotan.com",
+                "end": 70,
+                "expanded_url": "https://sinky.huotan.com",
+                "start": 47,
+                "url": "https://t.co/KLETMSjzdB"
+              }
+            ]
+          }
+        },
+        "id": "885315484102541312",
+        "name": "Sinky✨",
+        "pinned_tweet_id": "1501221670685536266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859603238506594309/djrQifeN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47334,
+          "following_count": 730,
+          "like_count": 15360,
+          "listed_count": 122,
+          "media_count": 2169,
+          "tweet_count": 5771
+        },
+        "username": "SinKy_Yan",
+        "verified": false
+      }
+    ]
+  }
+}

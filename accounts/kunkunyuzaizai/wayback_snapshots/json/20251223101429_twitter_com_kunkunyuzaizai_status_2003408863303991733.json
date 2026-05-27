@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1996942547835670753",
+    "created_at": "2025-12-23T10:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T11:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003408863303991733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1579651217235378181",
+          "start": 0,
+          "username": "maomaomao520"
+        },
+        {
+          "end": 26,
+          "id": "1852021832096059394",
+          "start": 14,
+          "username": "lai_bu23732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003408863303991733",
+    "in_reply_to_user_id": "1579651217235378181",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996971171963900171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomaomao520 @lai_bu23732 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1996942547835670753",
+        "created_at": "2025-12-23T10:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T11:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003408863303991733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1579651217235378181",
+              "start": 0,
+              "username": "maomaomao520"
+            },
+            {
+              "end": 26,
+              "id": "1852021832096059394",
+              "start": 14,
+              "username": "lai_bu23732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003408863303991733",
+        "in_reply_to_user_id": "1579651217235378181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996971171963900171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomaomao520 @lai_bu23732 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579651217235378181",
+        "conversation_id": "1996942547835670753",
+        "created_at": "2025-12-05T15:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T16:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996971171963900171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852021832096059394",
+              "start": 0,
+              "username": "lai_bu23732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996971171963900171",
+        "in_reply_to_user_id": "1852021832096059394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996969183863849050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lai_bu23732 😭俺有胡辣汤，俺一直在喝河南人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 2341,
+          "like_count": 35753,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2553
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-11T01:53:18.000Z",
+        "description": "我是年糕（四爱版）小宝：@doizung 。谢谢大家的关注！🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "doizung"
+              }
+            ]
+          }
+        },
+        "id": "1579651217235378181",
+        "location": "距您3km",
+        "name": "超级无敌喵喵拳",
+        "pinned_tweet_id": "1996942547835670753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996936988608626688/K1UAfMlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 60,
+          "like_count": 1633,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1842
+        },
+        "username": "maomaomao520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T16:16:40.000Z",
+        "description": "提问箱 https://t.co/jVnjUoKaMj | 就一普通人什么都看 | 别人的生活多姿多彩，我的是一摊死水",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/lai_bu23732",
+                "end": 27,
+                "expanded_url": "https://miyu.link/lai_bu23732",
+                "start": 4,
+                "url": "https://t.co/jVnjUoKaMj"
+              }
+            ]
+          }
+        },
+        "id": "1852021832096059394",
+        "location": "5cm/s",
+        "name": "来不及摀手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875577871110144000/iTOo3juL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 26,
+          "like_count": 1412,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 339
+        },
+        "username": "lai_bu23732",
+        "verified": false
+      }
+    ]
+  }
+}

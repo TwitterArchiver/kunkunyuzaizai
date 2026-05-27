@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1960863215057035493",
+    "created_at": "2025-08-28T22:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T23:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961201859378430274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1596722175007895552",
+          "start": 0,
+          "username": "Seooookb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961201859378430274",
+    "in_reply_to_user_id": "1596722175007895552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960863215057035493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seooookb 我tm找人弄你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14117,
+        "height": 1280,
+        "media_key": "13_1960863137256894464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960863137256894464/img/MEIAphQQBsSfMAsK.jpg",
+        "public_metrics": {
+          "view_count": 297
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960863137256894464/vid/avc1/320x568/WGqPn0eD3ntzBpM8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960863137256894464/vid/avc1/480x852/SHduf2Xo6eFJDZ1s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960863137256894464/vid/avc1/720x1280/ttTCy_dKuaXC-R8z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960863137256894464/pl/jcJgOTTDKc6mCokk.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1960863215057035493",
+        "created_at": "2025-08-28T22:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T23:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961201859378430274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1596722175007895552",
+              "start": 0,
+              "username": "Seooookb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961201859378430274",
+        "in_reply_to_user_id": "1596722175007895552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960863215057035493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seooookb 我tm找人弄你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960863137256894464"
+          ]
+        },
+        "author_id": "1596722175007895552",
+        "conversation_id": "1960863215057035493",
+        "created_at": "2025-08-28T00:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T01:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960863215057035493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QOCwnCTOSK",
+              "end": 23,
+              "expanded_url": "https://x.com/Seooookb/status/1960863215057035493/video/1",
+              "media_key": "13_1960863137256894464",
+              "start": 0,
+              "url": "https://t.co/QOCwnCTOSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960863215057035493",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 765,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QOCwnCTOSK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON  凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 1600,
+          "like_count": 25834,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1713
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T04:26:58.000Z",
+        "description": "爱那个08仓鼠男｜谁骂我我就哭｜我的提问箱请来找我玩https://t.co/qaQ7T4S0nw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oxo_nookcat",
+                "end": 49,
+                "expanded_url": "https://ngl.link/oxo_nookcat",
+                "start": 26,
+                "url": "https://t.co/qaQ7T4S0nw"
+              }
+            ]
+          }
+        },
+        "id": "1596722175007895552",
+        "location": "♡˙°ʚᕱ⑅ᕱɞ°˙♡",
+        "name": "Seo",
+        "pinned_tweet_id": "1957696494644887829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959970522206466048/7LdD9zzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 178,
+          "like_count": 2658,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 4155
+        },
+        "username": "Seooookb",
+        "verified": false
+      }
+    ]
+  }
+}

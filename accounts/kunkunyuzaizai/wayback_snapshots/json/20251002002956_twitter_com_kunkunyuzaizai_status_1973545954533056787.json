@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1818102454610960617",
+    "created_at": "2025-10-02T00:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T01:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973545954533056787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1392668620384178179",
+          "start": 0,
+          "username": "snakeNHX"
+        },
+        {
+          "end": 18,
+          "id": "368245720",
+          "start": 10,
+          "username": "taresky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973545954533056787",
+    "in_reply_to_user_id": "1392668620384178179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818107303595475262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snakeNHX @taresky 国行被限制死了因为gpt不在我们这不可以用 香港也没得ChatGPT用台湾澳门不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1818102454610960617",
+        "created_at": "2025-10-02T00:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T01:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973545954533056787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1392668620384178179",
+              "start": 0,
+              "username": "snakeNHX"
+            },
+            {
+              "end": 18,
+              "id": "368245720",
+              "start": 10,
+              "username": "taresky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973545954533056787",
+        "in_reply_to_user_id": "1392668620384178179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818107303595475262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snakeNHX @taresky 国行被限制死了因为gpt不在我们这不可以用 香港也没得ChatGPT用台湾澳门不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1392668620384178179",
+        "conversation_id": "1818102454610960617",
+        "created_at": "2024-07-30T02:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T03:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818107303595475262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818107303595475262",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23567,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818102454610960617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taresky 国行，就老老实实的吧，换地区换语言，都没用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 2109,
+          "like_count": 30955,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2187
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-13T02:30:57.000Z",
+        "description": "百千法门，同归方寸， 河沙妙法，总在心源。 紫微斗数，六爻占卜，八字算命，玄学壁纸：https://t.co/n1KE9LyTwf 玄学群：https://t.co/B5vIXKiNXe 微信公众号：灵光国学  QQ：3901038684 咨询可加",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xuanwallpaper",
+                "end": 65,
+                "expanded_url": "http://t.me/xuanwallpaper",
+                "start": 42,
+                "url": "https://t.co/n1KE9LyTwf"
+              },
+              {
+                "display_url": "t.me/bazixuanxue",
+                "end": 93,
+                "expanded_url": "http://t.me/bazixuanxue",
+                "start": 70,
+                "url": "https://t.co/B5vIXKiNXe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@snake_w",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@snake_w",
+                "start": 0,
+                "url": "https://t.co/vzDPRKEkqN"
+              }
+            ]
+          }
+        },
+        "id": "1392668620384178179",
+        "location": "下面免费学习YouTube频道",
+        "name": "紫斗天禄-命理师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1487920651922919425/B42LlQqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45083,
+          "following_count": 1045,
+          "like_count": 14815,
+          "listed_count": 137,
+          "media_count": 5087,
+          "tweet_count": 16779
+        },
+        "url": "https://t.co/vzDPRKEkqN",
+        "username": "snakeNHX",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-05T09:55:55.000Z",
+        "description": "📊 Crypto 套利 | 🌊 定居日本 | 💸 善于花钱\n\n📨 我想捡点钱 https://t.co/6wJHAMv9zF\n\n🔗 AffHub 优惠返佣 https://t.co/gRn1X0sfU4\n\n🤖 域名出售 https://t.co/OGndi1dRKb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "s.taresky.me/telegram",
+                "end": 62,
+                "expanded_url": "https://s.taresky.me/telegram",
+                "start": 39,
+                "url": "https://t.co/6wJHAMv9zF"
+              },
+              {
+                "display_url": "s.taresky.me/aff",
+                "end": 101,
+                "expanded_url": "https://s.taresky.me/aff",
+                "start": 78,
+                "url": "https://t.co/gRn1X0sfU4"
+              },
+              {
+                "display_url": "sol.bot",
+                "end": 133,
+                "expanded_url": "http://sol.bot",
+                "start": 110,
+                "url": "https://t.co/OGndi1dRKb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taresky.com",
+                "end": 23,
+                "expanded_url": "https://taresky.com",
+                "start": 0,
+                "url": "https://t.co/V6pzEt8zrU"
+              }
+            ]
+          }
+        },
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "pinned_tweet_id": "1700606366606565686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52719,
+          "following_count": 304,
+          "like_count": 26660,
+          "listed_count": 773,
+          "media_count": 2637,
+          "tweet_count": 30131
+        },
+        "url": "https://t.co/V6pzEt8zrU",
+        "username": "taresky",
+        "verified": true
+      }
+    ]
+  }
+}

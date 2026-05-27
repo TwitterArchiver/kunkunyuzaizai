@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2008419755229933993",
+    "created_at": "2026-01-06T10:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T11:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008488946091913450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1891819853314654209",
+          "start": 0,
+          "username": "Sdgyqwh"
+        },
+        {
+          "end": 19,
+          "id": "2005654182267957248",
+          "start": 9,
+          "username": "yummy1551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008488946091913450",
+    "in_reply_to_user_id": "1891819853314654209",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008446760281108931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sdgyqwh @yummy1551 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2008419755229933993",
+        "created_at": "2026-01-06T10:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T11:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008488946091913450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1891819853314654209",
+              "start": 0,
+              "username": "Sdgyqwh"
+            },
+            {
+              "end": 19,
+              "id": "2005654182267957248",
+              "start": 9,
+              "username": "yummy1551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008488946091913450",
+        "in_reply_to_user_id": "1891819853314654209",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008446760281108931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sdgyqwh @yummy1551 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891819853314654209",
+        "conversation_id": "2008419755229933993",
+        "created_at": "2026-01-06T07:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T08:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008446760281108931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2005654182267957248",
+              "start": 0,
+              "username": "yummy1551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008446760281108931",
+        "in_reply_to_user_id": "2005654182267957248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008419755229933993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yummy1551 为什么我家小狗也问我能不能叫我妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 2431,
+          "like_count": 37117,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2623
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T12:00:05.000Z",
+        "description": "蠢狗在哪儿",
+        "id": "1891819853314654209",
+        "name": "S打狗有去无回",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998830658559381506/NVe8VWfZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 343
+        },
+        "username": "Sdgyqwh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T14:56:45.000Z",
+        "description": "糯米纸",
+        "id": "2005654182267957248",
+        "name": "鸭咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005656512186986496/VirTnltV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 78,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 63
+        },
+        "username": "yummy1551",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888036332729167872"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1813776417043411118",
+    "created_at": "2025-02-08T01:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T02:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888036387666149777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1188072062679576577",
+          "start": 0,
+          "username": "Mizuno_VoV"
+        },
+        {
+          "end": 25,
+          "id": "1737496734559809536",
+          "start": 12,
+          "username": "dashabi69420"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iYjsNpYJ2k",
+          "end": 49,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1888036387666149777/photo/1",
+          "media_key": "3_1888036332729167872",
+          "start": 26,
+          "url": "https://t.co/iYjsNpYJ2k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888036387666149777",
+    "in_reply_to_user_id": "1188072062679576577",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813865836844822561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mizuno_VoV @dashabi69420 https://t.co/iYjsNpYJ2k"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1888036387666149777].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1888036387666149777",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1888036387666149777"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1888036332729167872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjOnCpdacAA9aCW.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1188072062679576577",
+        "conversation_id": "1813776417043411118",
+        "created_at": "2024-07-18T09:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T10:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813865836844822561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1737496734559809536",
+              "start": 0,
+              "username": "dashabi69420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813865836844822561",
+        "in_reply_to_user_id": "1737496734559809536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1974,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813776417043411118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dashabi69420 不像我，压根戴不上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 317,
+          "like_count": 7249,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 296
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-26T12:37:46.000Z",
+        "description": "🫖紫砂壶代言人/非糖非糖非糖，🍥是 @KaguraMea_VoV  /备用  @MizunoVov/🚀推荐自用VPN：https://t.co/SDQph0X95t /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "KaguraMea_VoV"
+              },
+              {
+                "end": 49,
+                "start": 39,
+                "username": "MizunoVov"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 82,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=cbM8rgeT",
+                "start": 59,
+                "url": "https://t.co/SDQph0X95t"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+uaj_7J8P2JU5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+uaj_7J8P2JU5NTI1",
+                "start": 0,
+                "url": "https://t.co/flMTI9hW8H"
+              }
+            ]
+          }
+        },
+        "id": "1188072062679576577",
+        "location": "TG 群",
+        "name": "水纯爱子🍥🫖",
+        "pinned_tweet_id": "1796598626443198474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833148140612198400/yV682DMn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106481,
+          "following_count": 327,
+          "like_count": 11152,
+          "listed_count": 579,
+          "media_count": 420,
+          "tweet_count": 6619
+        },
+        "url": "https://t.co/flMTI9hW8H",
+        "username": "Mizuno_VoV",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T15:35:00.000Z",
+        "description": "您好你好/请多爱我一点｜170cm/53kg｜69🚪请带口令私信｜ENG OK｜📍上海-悉尼",
+        "id": "1737496734559809536",
+        "name": "世界第二大傻叉",
+        "pinned_tweet_id": "1886757442119503872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785538250112933889/TK1xA5hm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81684,
+          "following_count": 1155,
+          "like_count": 8039,
+          "listed_count": 441,
+          "media_count": 263,
+          "tweet_count": 7521
+        },
+        "username": "dashabi69420",
+        "verified": true
+      }
+    ]
+  }
+}

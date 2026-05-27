@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1916513873689034770",
+    "created_at": "2025-04-28T04:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T05:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916708544885272745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708700717",
+          "start": 0,
+          "username": "GuajavaDuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916708544885272745",
+    "in_reply_to_user_id": "708700717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916513873689034770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuajavaDuo 我想学怎样可以射的特别快"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1616,
+        "media_key": "3_1916513859625684992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpjTM4IaEAAlNjk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1916513873689034770",
+        "created_at": "2025-04-28T04:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T05:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916708544885272745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708700717",
+              "start": 0,
+              "username": "GuajavaDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916708544885272745",
+        "in_reply_to_user_id": "708700717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916513873689034770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuajavaDuo 我想学怎样可以射的特别快"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916513859625684992"
+          ]
+        },
+        "author_id": "708700717",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1916513873689034770",
+        "created_at": "2025-04-27T15:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T16:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916513873689034770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFopocEnM7",
+              "end": 71,
+              "expanded_url": "https://x.com/GuajavaDuo/status/1916513873689034770/photo/1",
+              "media_key": "3_1916513859625684992",
+              "start": 48,
+              "url": "https://t.co/zFopocEnM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916513873689034770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5699,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "何小登已开始兼职游泳教练，想学习延时射精的朋友以联系本人进行学习，最后祝大家身体健康，再见👋🏻 https://t.co/zFopocEnM7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 914,
+          "like_count": 14484,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 745
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-21T09:28:17.000Z",
+        "description": "手持花束的莽人。他喜欢上了一个越南的莽人姑娘。由于两国信号不同，无法通电话，所以他们见面的唯一方式就是跨越国境。看到老林中盛放的花朵，他折了几支，然后我拍张照\n我准备给她看，她喜欢花",
+        "id": "708700717",
+        "location": "長安東路三十三巷",
+        "name": "盒盒又猫猫",
+        "pinned_tweet_id": "1911840359501664432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905571223456940034/TmepkzXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5736,
+          "following_count": 1426,
+          "like_count": 7311,
+          "listed_count": 51,
+          "media_count": 21713,
+          "tweet_count": 342949
+        },
+        "username": "GuajavaDuo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2031754098635354269",
+    "created_at": "2026-03-12T01:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T02:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031911212620136827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823835476366692352",
+          "start": 0,
+          "username": "naonao_927050"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031911212620136827",
+    "in_reply_to_user_id": "1823835476366692352",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031789117336416489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naonao_927050 ?"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2031789117336416489].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2031789117336416489",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2031789117336416489"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2031754098635354269",
+        "created_at": "2026-03-12T01:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T02:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031911212620136827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823835476366692352",
+              "start": 0,
+              "username": "naonao_927050"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031911212620136827",
+        "in_reply_to_user_id": "1823835476366692352",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031789117336416489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naonao_927050 ?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|QQ号3762377561\n|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 150,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 127,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 2644,
+          "like_count": 41116,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 2828
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T21:34:24.000Z",
+        "description": "憤世嫉俗",
+        "id": "1823835476366692352",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "丢了城的城主",
+        "pinned_tweet_id": "2029680770110083126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015904964959211520/VqppOzSi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 831,
+          "like_count": 72757,
+          "listed_count": 3,
+          "media_count": 1121,
+          "tweet_count": 16259
+        },
+        "username": "naonao_927050",
+        "verified": false
+      }
+    ]
+  }
+}

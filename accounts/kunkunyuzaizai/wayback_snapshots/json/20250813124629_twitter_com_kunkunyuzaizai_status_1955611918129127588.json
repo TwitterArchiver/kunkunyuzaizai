@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1954947933444661364",
+    "created_at": "2025-08-13T12:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T13:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955611918129127588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1773714073676652544",
+          "start": 0,
+          "username": "bbaohekafei"
+        },
+        {
+          "end": 21,
+          "id": "1513753182182133762",
+          "start": 13,
+          "username": "wysgdmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955611918129127588",
+    "in_reply_to_user_id": "1773714073676652544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955084162689270215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbaohekafei @wysgdmn 什么打工可以三千😭我现在感觉我一个月1200都没有 还没办理入职 银行卡都没办 户口在广东 人在老家湖北"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1954947933444661364",
+        "created_at": "2025-08-13T12:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T13:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955611918129127588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1773714073676652544",
+              "start": 0,
+              "username": "bbaohekafei"
+            },
+            {
+              "end": 21,
+              "id": "1513753182182133762",
+              "start": 13,
+              "username": "wysgdmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955611918129127588",
+        "in_reply_to_user_id": "1773714073676652544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955084162689270215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbaohekafei @wysgdmn 什么打工可以三千😭我现在感觉我一个月1200都没有 还没办理入职 银行卡都没办 户口在广东 人在老家湖北"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773714073676652544",
+        "conversation_id": "1954947933444661364",
+        "created_at": "2025-08-12T01:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T02:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955084162689270215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1513753182182133762",
+              "start": 0,
+              "username": "wysgdmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955084162689270215",
+        "in_reply_to_user_id": "1513753182182133762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3136,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954947933444661364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wysgdmn 首先三千块卖两三次一定亏本，其次没有渠道大概率不安全，最后打工一个月也能挣三千，最重要的是三千拿不出来还要啃姐姐，这种人读不读书都没有用，建议去死，没钱不能自己挣啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 1334,
+          "like_count": 21542,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1310
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T14:09:39.000Z",
+        "description": "喵 大女同，在苯里泡澡，北京/上海/格拉斯哥/m/p/t/dom/sub/a9/互联网高管/主理人/严厉/管教/温柔/身高211厘米/智商119/操盘手/艺术家/黄金全脸/门槛负五十（您提出来过门槛立刻赔我五十块钱精神损失费，而且也见不到我",
+        "id": "1773714073676652544",
+        "location": "打开本人主页看三十分钟即可智商比肩爱因斯坦",
+        "name": "八方来财财源滚滚富贵喵还很有文化精通三门外语上知天文下知地理天天研究各种厉害学科",
+        "pinned_tweet_id": "1945649724608188434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935969293751230464/CQ317dAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 630,
+          "like_count": 7041,
+          "listed_count": 4,
+          "media_count": 964,
+          "tweet_count": 16710
+        },
+        "username": "bbaohekafei",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T05:42:34.000Z",
+        "description": "不接骗人推广！从未做过中介！！\n天然奶，没做过更不推荐任何粉嫩手术！\n装b大号: @9_jfm【🚪1314  加v和tg精品私密频道。全国可✈️过门问价，门槛不退请谨慎考虑】‖\n🍑店铺：doi用品🔍:   丸趣WannaPlay  ‖倒膜：黑科技工程机（进店搜丸崽）‖不玩其他软件，不卖视频图包，不要被骗！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 41,
+                "username": "9_jfm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wannaplay.taobao.com",
+                "end": 23,
+                "expanded_url": "https://wannaplay.taobao.com/",
+                "start": 0,
+                "url": "https://t.co/ItFzepNc5M"
+              }
+            ]
+          }
+        },
+        "id": "1513753182182133762",
+        "location": "淘宝店：丸趣WannaPlay",
+        "name": "GB2312",
+        "pinned_tweet_id": "1948398650779963518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916534128687906816/4vD55ziP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496232,
+          "following_count": 1,
+          "like_count": 841,
+          "listed_count": 711,
+          "media_count": 1196,
+          "tweet_count": 4299
+        },
+        "url": "https://t.co/ItFzepNc5M",
+        "username": "wysgdmn",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

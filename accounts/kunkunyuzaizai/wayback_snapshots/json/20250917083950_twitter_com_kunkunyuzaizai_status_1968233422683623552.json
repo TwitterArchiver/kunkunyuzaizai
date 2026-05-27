@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968108522215968768"
+      ],
+      "media_source_tweet_id": [
+        "1968108530730406400"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968233422683623552",
+    "created_at": "2025-09-17T08:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T09:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968233422683623552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1722890300757291008",
+          "start": 3,
+          "username": "baisechenyi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VdbaS3Pakg",
+          "end": 101,
+          "expanded_url": "https://x.com/baisechenyi/status/1968108530730406400/photo/1",
+          "media_key": "3_1968108522215968768",
+          "start": 78,
+          "url": "https://t.co/VdbaS3Pakg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968233422683623552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968108530730406400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baisechenyi: 8kfo了哦 来抽奖吧😈\n抽一个疯狂星期四\n三杯星巴克\n五杯霸王茶姬\n十杯萌萌水\n在下面评论就好啦 22号我生日开奖！😈 https://t.co/VdbaS3Pakg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 693,
+        "media_key": "3_1968108522215968768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1AgRgIaEAAAmKF.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968108522215968768"
+          ],
+          "media_source_tweet_id": [
+            "1968108530730406400"
+          ]
+        },
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968233422683623552",
+        "created_at": "2025-09-17T08:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T09:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968233422683623552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722890300757291008",
+              "start": 3,
+              "username": "baisechenyi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VdbaS3Pakg",
+              "end": 101,
+              "expanded_url": "https://x.com/baisechenyi/status/1968108530730406400/photo/1",
+              "media_key": "3_1968108522215968768",
+              "start": 78,
+              "url": "https://t.co/VdbaS3Pakg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968233422683623552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968108530730406400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baisechenyi: 8kfo了哦 来抽奖吧😈\n抽一个疯狂星期四\n三杯星巴克\n五杯霸王茶姬\n十杯萌萌水\n在下面评论就好啦 22号我生日开奖！😈 https://t.co/VdbaS3Pakg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968108522215968768"
+          ]
+        },
+        "author_id": "1722890300757291008",
+        "conversation_id": "1968108530730406400",
+        "created_at": "2025-09-17T00:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T01:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968108530730406400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VdbaS3Pakg",
+              "end": 84,
+              "expanded_url": "https://x.com/baisechenyi/status/1968108530730406400/photo/1",
+              "media_key": "3_1968108522215968768",
+              "start": 61,
+              "url": "https://t.co/VdbaS3Pakg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968108530730406400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7698,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 113,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "8kfo了哦 来抽奖吧😈\n抽一个疯狂星期四\n三杯星巴克\n五杯霸王茶姬\n十杯萌萌水\n在下面评论就好啦 22号我生日开奖！😈 https://t.co/VdbaS3Pakg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 1859,
+          "like_count": 28639,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1923
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:14:01.000Z",
+        "description": "清水清水清水 | 06 | 179 | esfp |喜欢发碎碎念和自拍照 | 无🚪只加互关 | 私信只回礼貌的还有大奶照和口令👅",
+        "id": "1722890300757291008",
+        "location": "锁评推广自辩",
+        "name": "Nn",
+        "pinned_tweet_id": "1968108530730406400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963578017453936640/R-aGGJS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8067,
+          "following_count": 456,
+          "like_count": 18776,
+          "listed_count": 13,
+          "media_count": 135,
+          "tweet_count": 5046
+        },
+        "username": "baisechenyi",
+        "verified": false
+      }
+    ]
+  }
+}

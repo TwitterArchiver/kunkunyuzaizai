@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1961129769921306902",
+    "created_at": "2025-08-28T23:57:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T00:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961216601610756537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1948974359798005760",
+          "start": 0,
+          "username": "duduarmy319575"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961216601610756537",
+    "in_reply_to_user_id": "1948974359798005760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961129769921306902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duduarmy319575 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1961129767182503938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzdVIftbkAIG7F7.jpg",
+        "width": 1554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1961129769921306902",
+        "created_at": "2025-08-28T23:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T00:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961216601610756537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1948974359798005760",
+              "start": 0,
+              "username": "duduarmy319575"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961216601610756537",
+        "in_reply_to_user_id": "1948974359798005760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961129769921306902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duduarmy319575 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961129767182503938"
+          ]
+        },
+        "author_id": "1948974359798005760",
+        "conversation_id": "1961129769921306902",
+        "created_at": "2025-08-28T18:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T19:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961129769921306902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q37Pk8bXbK",
+              "end": 26,
+              "expanded_url": "https://x.com/duduarmy319575/status/1961129769921306902/photo/1",
+              "media_key": "3_1961129767182503938",
+              "start": 3,
+              "url": "https://t.co/Q37Pk8bXbK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961129769921306902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 577,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈 https://t.co/Q37Pk8bXbK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON  凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 1605,
+          "like_count": 25893,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1717
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T05:11:21.000Z",
+        "description": "上网唠叨的 不加任何\n其实我就在你身边你给我小心点。我是外星人我永远不会漏出真面目的。\n先天超雄重度抑郁症焦虑症狂躁症 只有阳痿肥猪才会骂我🙄\n回私信随缘 只要主页不都是黄和啥都没有都会回关 我看不惯的直接毕业\n聊骚的盗图的主页有臭玩意的没礼貌的死妈了 你们说话小心点我是小学生我爸妈会查手机看",
+        "id": "1948974359798005760",
+        "location": "缅甸kk园区",
+        "name": "爱吃洋芋的洋芋",
+        "pinned_tweet_id": "1961101197940752811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959103893595688960/gqEInB86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 267,
+          "like_count": 2252,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 935
+        },
+        "username": "duduarmy319575",
+        "verified": false
+      }
+    ]
+  }
+}

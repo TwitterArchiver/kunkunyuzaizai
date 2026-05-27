@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2024416931126878333",
+    "created_at": "2026-02-19T09:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024419631780516123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024419631780516123",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024418961778250117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 哇噻🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2024416931126878333",
+        "created_at": "2026-02-19T09:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024419631780516123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024419631780516123",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024418961778250117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 哇噻🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970857021588262912",
+        "conversation_id": "2024416931126878333",
+        "created_at": "2026-02-19T09:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024418961778250117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024418961778250117",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024416931126878333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 我也是半个月左右就能摸到硬块了🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|\n|不OD|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 137,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 114,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 2580,
+          "like_count": 39635,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2734
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨顺男/🍥Hrt🏳️‍⚧️01.28.2026/无证含糖/14岁年龄党/家长不知道/生产日期:11.13.2011/喜欢xnn xyn mtf/INFP-T/性别认同不确定/社恐/初二牲/161cm51kg/坐标湖北/只玩Minecraft/民國派🇹🇼華獨/简中&繁中/欢迎互fo/\nTG:「mwdxj」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 23,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 0,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "ROC淪陷區,湖北/孝感「漢川城」",
+        "name": "🍥MWdxj🍥🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023075572533121025/bEp-7N8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 572,
+          "like_count": 5575,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 637
+        },
+        "url": "https://t.co/fG6XzUT3Y3",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

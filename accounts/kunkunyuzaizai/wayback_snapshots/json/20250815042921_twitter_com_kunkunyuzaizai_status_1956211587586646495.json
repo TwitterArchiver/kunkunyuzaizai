@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1955663708530872361",
+    "created_at": "2025-08-15T04:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T05:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956211587586646495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "272937663",
+          "start": 0,
+          "username": "dashaloveu"
+        },
+        {
+          "end": 19,
+          "id": "1468481874251362304",
+          "start": 12,
+          "username": "imvihv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956211587586646495",
+    "in_reply_to_user_id": "272937663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955845670906290589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dashaloveu @imvihv 你不会用谷歌play商店下载吗直接绕过魔改的国内系统"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1955663708530872361",
+        "created_at": "2025-08-15T04:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T05:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956211587586646495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "272937663",
+              "start": 0,
+              "username": "dashaloveu"
+            },
+            {
+              "end": 19,
+              "id": "1468481874251362304",
+              "start": 12,
+              "username": "imvihv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956211587586646495",
+        "in_reply_to_user_id": "272937663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955845670906290589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dashaloveu @imvihv 你不会用谷歌play商店下载吗直接绕过魔改的国内系统"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "272937663",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1955663708530872361",
+        "created_at": "2025-08-14T04:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T05:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955845670906290589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1468481874251362304",
+              "start": 0,
+              "username": "imvihv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955845670906290589",
+        "in_reply_to_user_id": "1468481874251362304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16276,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955663708530872361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imvihv 国产安卓/鸿蒙，装X/FB/YOUTUBE/TELEGRAM/Instagram这些也会提示，不会不知道吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 1352,
+          "like_count": 22192,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1371
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-27T13:47:44.000Z",
+        "description": "靡不有初，鲜克有终",
+        "id": "272937663",
+        "location": "Proxima Centauri",
+        "name": "Ale𝕏 Faaaang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679088188927913984/r-hJawrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 719,
+          "like_count": 5101,
+          "listed_count": 9,
+          "media_count": 840,
+          "tweet_count": 6907
+        },
+        "username": "dashaloveu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T07:26:09.000Z",
+        "description": "瞎捣鼓的程序员，探索被动收入，梦想财务自由🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zerorust.cn",
+                "end": 23,
+                "expanded_url": "https://zerorust.cn",
+                "start": 0,
+                "url": "https://t.co/m0FYbOLGkp"
+              }
+            ]
+          }
+        },
+        "id": "1468481874251362304",
+        "name": "辉小志",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871255832136192001/kRX1gM0f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6200,
+          "following_count": 2459,
+          "like_count": 14029,
+          "listed_count": 64,
+          "media_count": 301,
+          "tweet_count": 2910
+        },
+        "url": "https://t.co/m0FYbOLGkp",
+        "username": "imvihv",
+        "verified": false
+      }
+    ]
+  }
+}

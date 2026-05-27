@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967794451839062023"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967794459455918177",
+    "created_at": "2025-09-16T03:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T04:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967794459455918177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lvwHWtZe2W",
+          "end": 23,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1967794459455918177/photo/1",
+          "media_key": "3_1967794451839062023",
+          "start": 0,
+          "url": "https://t.co/lvwHWtZe2W"
+        },
+        {
+          "display_url": "x.com/oneqweasd/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/oneqweasd/status/1967512298819568010",
+          "start": 24,
+          "url": "https://t.co/KK1YQmGgbM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967794459455918177",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967512298819568010",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/lvwHWtZe2W https://t.co/KK1YQmGgbM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1967794459455918177].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1967794459455918177",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1967794459455918177"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_1967794451839062023",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08CoMzaEAcqps9.jpg",
+        "width": 828
+      },
+      {
+        "height": 812,
+        "media_key": "3_1967512295996571648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04CAkYWwAAZkwQ.jpg",
+        "width": 828
+      },
+      {
+        "height": 813,
+        "media_key": "3_1967512295673606144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04CAjLWsAAlEzL.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967512295996571648",
+            "3_1967512295673606144"
+          ]
+        },
+        "author_id": "1949012513271717888",
+        "conversation_id": "1967512298819568010",
+        "created_at": "2025-09-15T08:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T09:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967512298819568010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/682DAuaZrk",
+              "end": 35,
+              "expanded_url": "https://x.com/oneqweasd/status/1967512298819568010/photo/1",
+              "media_key": "3_1967512295996571648",
+              "start": 12,
+              "url": "https://t.co/682DAuaZrk"
+            },
+            {
+              "display_url": "pic.x.com/682DAuaZrk",
+              "end": 35,
+              "expanded_url": "https://x.com/oneqweasd/status/1967512298819568010/photo/1",
+              "media_key": "3_1967512295673606144",
+              "start": 12,
+              "url": "https://t.co/682DAuaZrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967512298819568010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4619,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，小one是小狗么🥺 https://t.co/682DAuaZrk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1825,
+          "like_count": 28325,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1895
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T07:42:56.000Z",
+        "description": "碎碎念，男168，60kg。9本，目前二战经济学。\n健身小号@feifeiyuqweasd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "feifeiyuqweasd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/feifeiyu1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/feifeiyu1",
+                "start": 0,
+                "url": "https://t.co/169cXdTwOR"
+              }
+            ]
+          }
+        },
+        "id": "1949012513271717888",
+        "location": "匿名",
+        "name": "one大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956541248543830016/4QSJOSSE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 433,
+          "like_count": 15573,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 3952
+        },
+        "url": "https://t.co/169cXdTwOR",
+        "username": "oneqweasd",
+        "verified": false
+      }
+    ]
+  }
+}

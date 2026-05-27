@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908811765934342144"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1908193343668105691",
+    "created_at": "2025-04-06T09:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T10:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908811769931526504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1806336144873054208",
+          "start": 0,
+          "username": "ti7029519810352"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l6L30BkZKV",
+          "end": 49,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1908811769931526504/photo/1",
+          "media_key": "3_1908811765934342144",
+          "start": 26,
+          "url": "https://t.co/l6L30BkZKV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908811769931526504",
+    "in_reply_to_user_id": "1806336144873054208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908193343668105691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ti7029519810352 凭什么这么好看😭 https://t.co/l6L30BkZKV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908811769931526504].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908811769931526504",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908811769931526504"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908811765934342144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn12MBOaQAAPdjg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1908193328082083840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GntDuMsaYAAqneS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908193328082083840"
+          ]
+        },
+        "author_id": "1806336144873054208",
+        "conversation_id": "1908193343668105691",
+        "created_at": "2025-04-04T16:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T17:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908193343668105691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUKMCFxIVK",
+              "end": 59,
+              "expanded_url": "https://x.com/ti7029519810352/status/1908193343668105691/photo/1",
+              "media_key": "3_1908193328082083840",
+              "start": 36,
+              "url": "https://t.co/nUKMCFxIVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908193343668105691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 56948,
+          "like_count": 1022,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "男生男生男生！不是女生！不要认错了。          (｡-_-｡) https://t.co/nUKMCFxIVK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 793,
+          "like_count": 13197,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 670
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T14:38:38.000Z",
+        "description": "没错重度二次元（芙宁娜重度依赖）infp 主玩原神崩铁 当朋友圈发的。我推芙宁娜、爱莉希雅，流萤…",
+        "id": "1806336144873054208",
+        "location": "提瓦特",
+        "name": "不想起床",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876252775652425728/6SrygcSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 98
+        },
+        "username": "ti7029519810352",
+        "verified": false
+      }
+    ]
+  }
+}

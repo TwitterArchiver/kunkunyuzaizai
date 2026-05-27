@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1988028867127505168",
+    "created_at": "2025-11-11T07:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T08:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988140911260561697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1935049716783521792",
+          "start": 0,
+          "username": "iwananahug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988140911260561697",
+    "in_reply_to_user_id": "1935049716783521792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988028867127505168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iwananahug 我到现在都不知道这是啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1988028867127505168",
+        "created_at": "2025-11-11T07:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T08:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988140911260561697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935049716783521792",
+              "start": 0,
+              "username": "iwananahug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988140911260561697",
+        "in_reply_to_user_id": "1935049716783521792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988028867127505168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iwananahug 我到现在都不知道这是啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935049716783521792",
+        "conversation_id": "1988028867127505168",
+        "created_at": "2025-11-10T23:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T00:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988028867127505168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988028867127505168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在等一个有缘人给我发婵姐被法的视频…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 2254,
+          "like_count": 32202,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2387
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T18:59:51.000Z",
+        "description": "清水推/不聊骚不约炮没兴趣认识你/不礼貌回关 合眼缘的我会回/男的不要给我发几把谢谢/不陪聊别来烦我",
+        "id": "1935049716783521792",
+        "name": "人善被狗欺",
+        "pinned_tweet_id": "1971159095072915634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987290880601112576/rfmR7CZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4031,
+          "following_count": 186,
+          "like_count": 2409,
+          "listed_count": 6,
+          "media_count": 134,
+          "tweet_count": 4262
+        },
+        "username": "iwananahug",
+        "verified": false
+      }
+    ]
+  }
+}

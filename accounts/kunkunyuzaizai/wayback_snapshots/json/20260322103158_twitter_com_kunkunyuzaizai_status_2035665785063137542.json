@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2035646269591519742",
+    "created_at": "2026-03-22T10:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T11:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035665785063137542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1895433091000467457",
+          "start": 0,
+          "username": "yaoyaoli2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035665785063137542",
+    "in_reply_to_user_id": "1895433091000467457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035646269591519742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaoyaoli2007 接😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2035646269591519742",
+        "created_at": "2026-03-22T10:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T11:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035665785063137542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1895433091000467457",
+              "start": 0,
+              "username": "yaoyaoli2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035665785063137542",
+        "in_reply_to_user_id": "1895433091000467457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035646269591519742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaoyaoli2007 接😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895433091000467457",
+        "conversation_id": "2035646269591519742",
+        "created_at": "2026-03-22T09:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T10:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035646269591519742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035646269591519742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢我就给我花钱呀，给我发口令红包，过我的门，报销我的搬家费房租，不然天天私信里发喜欢有什么用，偶要活着呀要吃饭呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 2707,
+          "like_count": 42725,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2936
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T11:17:32.000Z",
+        "description": "哈咯 跨性别女士 🚪50 私信只回门槛 不约 只交朋友",
+        "id": "1895433091000467457",
+        "location": "湖北武汉",
+        "name": "Anri酱🏳️‍⚧️",
+        "pinned_tweet_id": "2008525325526069400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988907501296009217/g0yBxG6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 808,
+          "like_count": 586,
+          "listed_count": 5,
+          "media_count": 72,
+          "tweet_count": 760
+        },
+        "username": "yaoyaoli2007",
+        "verified": false
+      }
+    ]
+  }
+}

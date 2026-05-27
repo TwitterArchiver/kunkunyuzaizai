@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968532845330301212",
+    "created_at": "2025-09-19T03:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T04:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968879666854322217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1798389435157147648",
+          "start": 0,
+          "username": "yanliang234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968879666854322217",
+    "in_reply_to_user_id": "1798389435157147648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968532845330301212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanliang234 加句号加到厌倦。。。。。。。。。。。。。\n。。。。。。。。。。。。。。。。。。。。。。。。。。。。\n。。。。。。。。。 。。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968532845330301212",
+        "created_at": "2025-09-19T03:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T04:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968879666854322217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1798389435157147648",
+              "start": 0,
+              "username": "yanliang234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968879666854322217",
+        "in_reply_to_user_id": "1798389435157147648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968532845330301212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanliang234 加句号加到厌倦。。。。。。。。。。。。。\n。。。。。。。。。。。。。。。。。。。。。。。。。。。。\n。。。。。。。。。 。。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798389435157147648",
+        "conversation_id": "1968532845330301212",
+        "created_at": "2025-09-18T04:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T05:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968532845330301212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968532845330301212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 53396,
+          "like_count": 776,
+          "quote_count": 10,
+          "reply_count": 87,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "加句号不是装逼啊，你们不觉得这样有一种戛然而止的语塞感吗？让整句话充斥着无力和无助。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1918,
+          "like_count": 29162,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2006
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T16:20:37.000Z",
+        "description": "山是地质年代里变化极其缓慢的浪 Ι海面：@yanliang456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "yanliang456"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.79754901",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.79754901",
+                "start": 0,
+                "url": "https://t.co/AeTYWvotDN"
+              }
+            ]
+          }
+        },
+        "id": "1798389435157147648",
+        "location": "于是猪小水开始期待（匿名↓）",
+        "name": "水",
+        "pinned_tweet_id": "1955327359143514603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929538124985901056/yqGmoBZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 159,
+          "like_count": 2848,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 2616
+        },
+        "url": "https://t.co/AeTYWvotDN",
+        "username": "yanliang234",
+        "verified": false
+      }
+    ]
+  }
+}

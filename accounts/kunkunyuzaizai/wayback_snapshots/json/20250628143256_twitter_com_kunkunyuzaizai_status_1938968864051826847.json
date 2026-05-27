@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1938524248966082661",
+    "created_at": "2025-06-28T14:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T15:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938968864051826847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1442162878929199107",
+          "start": 0,
+          "username": "xshwdzxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938968864051826847",
+    "in_reply_to_user_id": "1442162878929199107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938524248966082661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xshwdzxn 我已经废了最快不到一分钟就可以🐍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1938524248966082661",
+        "created_at": "2025-06-28T14:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T15:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938968864051826847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1442162878929199107",
+              "start": 0,
+              "username": "xshwdzxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938968864051826847",
+        "in_reply_to_user_id": "1442162878929199107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938524248966082661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xshwdzxn 我已经废了最快不到一分钟就可以🐍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442162878929199107",
+        "conversation_id": "1938524248966082661",
+        "created_at": "2025-06-27T09:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938524248966082661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938524248966082661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 59142,
+          "like_count": 302,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我跟你们讲个事喔…年纪在20以下的男生还是要少撸管。\n我还是处的时候试图跟一个处男学弟约，结果两个人试了三次都没有成功，中间有一次我给他口得到的反馈是他觉得很奇怪，想尿尿…我当时就沉默了，那会我口过的男的比牵过手的都多，怀疑了很久自己口活是不是真的很差……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 1260,
+          "like_count": 18834,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1030
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T16:23:32.000Z",
+        "description": "我的存在会让你觉得开心一点吗？",
+        "id": "1442162878929199107",
+        "location": "027",
+        "name": "小蛇和我都在想你",
+        "pinned_tweet_id": "1929772182810644486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899377637317128192/zbtSFzdk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8382,
+          "following_count": 351,
+          "like_count": 4921,
+          "listed_count": 18,
+          "media_count": 116,
+          "tweet_count": 5746
+        },
+        "username": "xshwdzxn",
+        "verified": false
+      }
+    ]
+  }
+}

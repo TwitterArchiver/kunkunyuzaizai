@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1880573133654217048",
+    "created_at": "2025-02-08T01:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T02:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888041320163459109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1147333532135698432",
+          "start": 0,
+          "username": "slmsg520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888041320163459109",
+    "in_reply_to_user_id": "1147333532135698432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880573133654217048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slmsg520 女仆装"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1880573133654217048",
+        "created_at": "2025-02-08T01:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T02:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888041320163459109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1147333532135698432",
+              "start": 0,
+              "username": "slmsg520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888041320163459109",
+        "in_reply_to_user_id": "1147333532135698432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880573133654217048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slmsg520 女仆装"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880572997158965249"
+          ]
+        },
+        "author_id": "1147333532135698432",
+        "conversation_id": "1880573133654217048",
+        "created_at": "2025-01-18T11:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T12:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880573133654217048"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "贞操锁"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/smSaEFvCDy",
+              "end": 40,
+              "expanded_url": "https://x.com/auVXVpDhzpAgDUY/status/1880573133654217048/photo/1",
+              "media_key": "3_1880572997158965249",
+              "start": 17,
+              "url": "https://t.co/smSaEFvCDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880573133654217048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 990,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜是什么衣服 #贞操锁 ＃男娘 https://t.co/smSaEFvCDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 318,
+          "like_count": 7337,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 299
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-06T02:36:45.000Z",
+        "description": "",
+        "id": "1147333532135698432",
+        "location": "北京",
+        "name": "圣灵魔闪光",
+        "pinned_tweet_id": "1887797749476905323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863767053771190272/i5u3jnK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 69,
+          "like_count": 187,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 21
+        },
+        "username": "slmsg520",
+        "verified": false
+      }
+    ]
+  }
+}

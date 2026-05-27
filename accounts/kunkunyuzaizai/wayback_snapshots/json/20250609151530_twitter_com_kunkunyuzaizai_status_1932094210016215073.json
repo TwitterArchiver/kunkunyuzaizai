@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1931711283734446157",
+    "created_at": "2025-06-09T15:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T16:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932094210016215073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1549875407922401281",
+          "start": 0,
+          "username": "1314520mylife"
+        },
+        {
+          "end": 26,
+          "id": "1919370764152979456",
+          "start": 15,
+          "username": "mei_bu6000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932094210016215073",
+    "in_reply_to_user_id": "1549875407922401281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932068897634799839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1314520mylife @mei_bu6000 0⃣️是真不想🌿人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1931711283734446157",
+        "created_at": "2025-06-09T15:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T16:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932094210016215073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1549875407922401281",
+              "start": 0,
+              "username": "1314520mylife"
+            },
+            {
+              "end": 26,
+              "id": "1919370764152979456",
+              "start": 15,
+              "username": "mei_bu6000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932094210016215073",
+        "in_reply_to_user_id": "1549875407922401281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932068897634799839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1314520mylife @mei_bu6000 0⃣️是真不想🌿人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549875407922401281",
+        "conversation_id": "1931711283734446157",
+        "created_at": "2025-06-09T13:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T14:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932068897634799839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1919370764152979456",
+              "start": 0,
+              "username": "mei_bu6000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932068897634799839",
+        "in_reply_to_user_id": "1919370764152979456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931711283734446157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mei_bu6000 家里还想给我钱去玩🐔呢，说和女生做过后就可以打消跨的念头了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 1208,
+          "like_count": 16309,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 873
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T21:56:11.000Z",
+        "description": "mtf|喜欢发一些奇怪的话|会分享生活|记录transition|梦想是写书和当视频up主|谢谢关注列表的每一位小可爱^_^|本号当朋友圈发|",
+        "id": "1549875407922401281",
+        "location": "上海市，中国",
+        "name": "SL",
+        "pinned_tweet_id": "1912891027977105797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931705086088290304/KLv5S2xz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 339,
+          "like_count": 17766,
+          "listed_count": 4,
+          "media_count": 308,
+          "tweet_count": 2007
+        },
+        "username": "1314520mylife",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T12:38:04.000Z",
+        "description": "",
+        "id": "1919370764152979456",
+        "name": "霉你不行🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919374629338267648/lx-8iv11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 50,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "mei_bu6000",
+        "verified": false
+      }
+    ]
+  }
+}

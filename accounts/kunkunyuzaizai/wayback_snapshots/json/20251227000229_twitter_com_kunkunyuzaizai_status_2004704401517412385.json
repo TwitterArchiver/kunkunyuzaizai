@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2002521054988939666",
+    "created_at": "2025-12-27T00:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T01:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004704401517412385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1905837378515947521",
+          "start": 0,
+          "username": "xu908944825990"
+        },
+        {
+          "end": 23,
+          "id": "1998290396762591232",
+          "start": 16,
+          "username": "rf0963"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004704401517412385",
+    "in_reply_to_user_id": "1905837378515947521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002659538806382985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu908944825990 @rf0963 直接谷歌搜推特官网"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2002521054988939666",
+        "created_at": "2025-12-27T00:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T01:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004704401517412385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1905837378515947521",
+              "start": 0,
+              "username": "xu908944825990"
+            },
+            {
+              "end": 23,
+              "id": "1998290396762591232",
+              "start": 16,
+              "username": "rf0963"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004704401517412385",
+        "in_reply_to_user_id": "1905837378515947521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002659538806382985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu908944825990 @rf0963 直接谷歌搜推特官网"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905837378515947521",
+        "conversation_id": "2002521054988939666",
+        "created_at": "2025-12-21T08:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T09:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002659538806382985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1998290396762591232",
+              "start": 0,
+              "username": "rf0963"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002659538806382985",
+        "in_reply_to_user_id": "1998290396762591232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002540365174444123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rf0963 网页端怎么上啊…😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 2393,
+          "like_count": 36454,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2573
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T04:20:28.000Z",
+        "description": "只想在这个无人在意的角落做自己",
+        "id": "1905837378515947521",
+        "name": "野生灌汤包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999493085513089024/yR64T6nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 83,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 73
+        },
+        "username": "xu908944825990",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T07:15:44.000Z",
+        "description": "",
+        "id": "1998290396762591232",
+        "name": "热水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998290670306660353/Dokm-gZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "rf0963",
+        "verified": false
+      }
+    ]
+  }
+}

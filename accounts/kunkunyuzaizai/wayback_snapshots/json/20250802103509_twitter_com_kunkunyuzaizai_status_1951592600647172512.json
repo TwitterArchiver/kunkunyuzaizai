@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1951476055459635414",
+    "created_at": "2025-08-02T10:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T11:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951592600647172512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490543758160527361",
+          "start": 0,
+          "username": "Qiu1647"
+        },
+        {
+          "end": 24,
+          "id": "1691385929968062464",
+          "start": 9,
+          "username": "zhou1919456789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951592600647172512",
+    "in_reply_to_user_id": "1490543758160527361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951501250987532758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiu1647 @zhou1919456789 爸爸的❗是什么意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1951476055459635414",
+        "created_at": "2025-08-02T10:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T11:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951592600647172512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490543758160527361",
+              "start": 0,
+              "username": "Qiu1647"
+            },
+            {
+              "end": 24,
+              "id": "1691385929968062464",
+              "start": 9,
+              "username": "zhou1919456789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951592600647172512",
+        "in_reply_to_user_id": "1490543758160527361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951501250987532758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiu1647 @zhou1919456789 爸爸的❗是什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490543758160527361",
+        "conversation_id": "1951476055459635414",
+        "created_at": "2025-08-02T04:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T05:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951501250987532758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691385929968062464",
+              "start": 0,
+              "username": "zhou1919456789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951501250987532758",
+        "in_reply_to_user_id": "1691385929968062464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1589,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951476055459635414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhou1919456789 爸爸的!我班主任怀孕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 1296,
+          "like_count": 20224,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1158
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:32:15.000Z",
+        "description": "男人，精分，善用拉黑，不要惹我。\n手控，期待回关，想和友善的人玩。欢迎互关➕v扩列",
+        "id": "1490543758160527361",
+        "location": "никто не знает",
+        "name": "PHILLIP",
+        "pinned_tweet_id": "1949145683765932191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946915872653602816/p-Jic3KX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 1241,
+          "like_count": 39931,
+          "listed_count": 7,
+          "media_count": 461,
+          "tweet_count": 11564
+        },
+        "username": "Qiu1647",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:47:02.000Z",
+        "description": "不需要太理会我这个幽默牢支\n\n我的认知水平尚在极度幼稚的阶段，所以总拿自己那些史来吹牛。\n\n正常人类，当作去动物园看猴子🐒就好。\n\n/高中生/互fo私信",
+        "id": "1691385929968062464",
+        "location": "Shanghai ",
+        "name": "明日美",
+        "pinned_tweet_id": "1945008058809376956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923343824744747008/2zTVcKUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 981,
+          "like_count": 2810,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 1050
+        },
+        "username": "zhou1919456789",
+        "verified": false
+      }
+    ]
+  }
+}

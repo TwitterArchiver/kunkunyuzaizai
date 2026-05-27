@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1966879352043540547",
+    "created_at": "2025-09-14T00:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T01:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967021345155543456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800724483805974529",
+          "start": 0,
+          "username": "Stevemo8871"
+        },
+        {
+          "end": 22,
+          "id": "1793273469637111808",
+          "start": 13,
+          "username": "hui_0024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967021345155543456",
+    "in_reply_to_user_id": "1800724483805974529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966887346265354599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stevemo8871 @hui_0024 华南F3从小就睡硬床板🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1966879352043540547",
+        "created_at": "2025-09-14T00:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T01:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967021345155543456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800724483805974529",
+              "start": 0,
+              "username": "Stevemo8871"
+            },
+            {
+              "end": 22,
+              "id": "1793273469637111808",
+              "start": 13,
+              "username": "hui_0024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967021345155543456",
+        "in_reply_to_user_id": "1800724483805974529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966887346265354599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stevemo8871 @hui_0024 华南F3从小就睡硬床板🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800724483805974529",
+        "conversation_id": "1966879352043540547",
+        "created_at": "2025-09-13T15:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T16:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966887346265354599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1793273469637111808",
+              "start": 0,
+              "username": "hui_0024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966887346265354599",
+        "in_reply_to_user_id": "1793273469637111808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966879352043540547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hui_0024 又得回去躺硬床板了😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 1779,
+          "like_count": 27765,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1861
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T02:59:33.000Z",
+        "description": "",
+        "id": "1800724483805974529",
+        "name": "馍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813526266349494272/15F-Xv32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 82,
+          "like_count": 2472,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1841
+        },
+        "username": "Stevemo8871",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T13:31:41.000Z",
+        "description": "叫我小绘 高p 泛性恋 主人@StrawberryFree_ 随意分享日常 无门槛喜欢可以投喂（纯绿不会发生什么）推广自辨 不约不露三点 私信会看 只回感兴趣 美少女互关贴贴 碎碎念小号@xn5410298085554仅限互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "StrawberryFree_"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "xn5410298085554"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hui_0024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hui_0024",
+                "start": 0,
+                "url": "https://t.co/L8wYoFvWTP"
+              }
+            ]
+          }
+        },
+        "id": "1793273469637111808",
+        "location": "匿名箱看这里⬇️ 互关加v私信即可ovo",
+        "name": "一只小绘饼",
+        "pinned_tweet_id": "1952428623602028847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965659126874423296/ixs1MM0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 812,
+          "like_count": 7340,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 7553
+        },
+        "url": "https://t.co/L8wYoFvWTP",
+        "username": "hui_0024",
+        "verified": false
+      }
+    ]
+  }
+}

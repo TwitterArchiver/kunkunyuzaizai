@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968314657598501110",
+    "created_at": "2025-09-18T10:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T11:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968619853784232235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1722890300757291008",
+          "start": 0,
+          "username": "baisechenyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968619853784232235",
+    "in_reply_to_user_id": "1722890300757291008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968314657598501110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baisechenyi 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2558,
+        "media_key": "3_1968314640003432448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DbvIubAAAL3Gg.jpg",
+        "width": 1918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968314657598501110",
+        "created_at": "2025-09-18T10:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T11:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968619853784232235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1722890300757291008",
+              "start": 0,
+              "username": "baisechenyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968619853784232235",
+        "in_reply_to_user_id": "1722890300757291008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968314657598501110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baisechenyi 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968314640003432448"
+          ]
+        },
+        "author_id": "1722890300757291008",
+        "conversation_id": "1968314657598501110",
+        "created_at": "2025-09-17T14:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T15:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968314657598501110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQmyB5s69q",
+              "end": 38,
+              "expanded_url": "https://x.com/baisechenyi/status/1968314657598501110/photo/1",
+              "media_key": "3_1968314640003432448",
+              "start": 15,
+              "url": "https://t.co/LQmyB5s69q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968314657598501110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 21047,
+          "like_count": 315,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝这个词过时了 该叫妈妈了 https://t.co/LQmyB5s69q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 1903,
+          "like_count": 29014,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1989
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:14:01.000Z",
+        "description": "清水清水清水 | 06 | 179 | esfp |喜欢发碎碎念和自拍照 | 无🚪只加互关 | 私信只回礼貌的还有大奶照和口令👅",
+        "id": "1722890300757291008",
+        "location": "锁评推广自辩",
+        "name": "Nn",
+        "pinned_tweet_id": "1968313672863989926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963578017453936640/R-aGGJS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8308,
+          "following_count": 455,
+          "like_count": 18830,
+          "listed_count": 13,
+          "media_count": 135,
+          "tweet_count": 5048
+        },
+        "username": "baisechenyi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1919377797107130533",
+    "created_at": "2025-05-07T03:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T04:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919950783216247255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1863473278247141376",
+          "start": 0,
+          "username": "qaq5777"
+        },
+        {
+          "end": 23,
+          "id": "1693070908041162753",
+          "start": 9,
+          "username": "katheryn66546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919950783216247255",
+    "in_reply_to_user_id": "1863473278247141376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919389592891126268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qaq5777 @katheryn66546 篮球袜穿着很舒服的有包裹感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1919377797107130533",
+        "created_at": "2025-05-07T03:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T04:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919950783216247255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1863473278247141376",
+              "start": 0,
+              "username": "qaq5777"
+            },
+            {
+              "end": 23,
+              "id": "1693070908041162753",
+              "start": 9,
+              "username": "katheryn66546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919950783216247255",
+        "in_reply_to_user_id": "1863473278247141376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919389592891126268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qaq5777 @katheryn66546 篮球袜穿着很舒服的有包裹感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863473278247141376",
+        "conversation_id": "1919377797107130533",
+        "created_at": "2025-05-05T13:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T14:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919389592891126268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1693070908041162753",
+              "start": 0,
+              "username": "katheryn66546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919389592891126268",
+        "in_reply_to_user_id": "1693070908041162753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919384910353121448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@katheryn66546 男同最爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 991,
+          "like_count": 14706,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 775
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T06:40:37.000Z",
+        "description": "谢谢你喜欢我＞𐋣＜| 碎碎念 自用🪜 https://t.co/8DbgWvEw2N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mi.le.mile-yun.com/index.php#/reg…",
+                "end": 42,
+                "expanded_url": "https://mi.le.mile-yun.com/index.php#/register?code=0xQPXqQf",
+                "start": 19,
+                "url": "https://t.co/8DbgWvEw2N"
+              }
+            ]
+          }
+        },
+        "id": "1863473278247141376",
+        "location": "🚪188/1314 无福利无线下 置顶关评为推广",
+        "name": "不加冰",
+        "pinned_tweet_id": "1919375364159406462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895054154084564992/SkRpTx_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10569,
+          "following_count": 195,
+          "like_count": 5759,
+          "listed_count": 30,
+          "media_count": 149,
+          "tweet_count": 2275
+        },
+        "username": "qaq5777",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T01:22:34.000Z",
+        "description": "intj｜brat 07 168 别给我发🐔 不聊骚 帅哥可以 🚪168私信只回口令 女宝宝直接找我互🥺",
+        "id": "1693070908041162753",
+        "name": "狗屎大侠1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916419648674988032/PXI1_jOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 10,
+          "like_count": 1095,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 79
+        },
+        "username": "katheryn66546",
+        "verified": false
+      }
+    ]
+  }
+}

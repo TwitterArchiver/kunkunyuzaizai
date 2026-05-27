@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956282332077580288"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1956282342655582626",
+    "created_at": "2025-08-15T09:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T10:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956282342655582626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1AaZDdHffZ",
+          "end": 25,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1956282342655582626/photo/1",
+          "media_key": "3_1956282332077580288",
+          "start": 2,
+          "url": "https://t.co/1AaZDdHffZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956282342655582626",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😡 https://t.co/1AaZDdHffZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1956282342655582626].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1956282342655582626",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1956282342655582626"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956282332077580288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYcaovbYAAj4m2.jpg",
+        "width": 917
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1358,
+          "like_count": 22282,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1380
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

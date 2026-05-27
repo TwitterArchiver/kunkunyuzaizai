@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1969416621480689759",
+    "created_at": "2025-09-20T15:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T16:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969416621480689759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "3words.ngl.link/kunkunyu627",
+          "end": 23,
+          "expanded_url": "https://3words.ngl.link/kunkunyu627",
+          "start": 0,
+          "status": 200,
+          "title": "@kunkunyu627: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/kunkunyu627/3words",
+          "url": "https://t.co/b1MlrFU4Rm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969416621480689759",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/b1MlrFU4Rm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1969416621480689759",
+        "created_at": "2025-09-20T15:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T16:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969416621480689759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "3words.ngl.link/kunkunyu627",
+              "end": 23,
+              "expanded_url": "https://3words.ngl.link/kunkunyu627",
+              "start": 0,
+              "status": 200,
+              "title": "@kunkunyu627: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/kunkunyu627/3words",
+              "url": "https://t.co/b1MlrFU4Rm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969416621480689759",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/b1MlrFU4Rm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1994,
+          "like_count": 29681,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2058
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1963433797023928693",
+    "created_at": "2025-09-04T09:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T10:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963534148431483244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1914348032826769408",
+          "start": 0,
+          "username": "hui0v0111"
+        },
+        {
+          "end": 19,
+          "id": "1930585988696539136",
+          "start": 11,
+          "username": "shsh11i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963534148431483244",
+    "in_reply_to_user_id": "1914348032826769408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963506002374135990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hui0v0111 @shsh11i 那我不是了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1963433797023928693",
+        "created_at": "2025-09-04T09:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T10:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963534148431483244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1914348032826769408",
+              "start": 0,
+              "username": "hui0v0111"
+            },
+            {
+              "end": 19,
+              "id": "1930585988696539136",
+              "start": 11,
+              "username": "shsh11i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963534148431483244",
+        "in_reply_to_user_id": "1914348032826769408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963506002374135990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hui0v0111 @shsh11i 那我不是了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914348032826769408",
+        "conversation_id": "1963433797023928693",
+        "created_at": "2025-09-04T07:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T08:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963506002374135990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1930585988696539136",
+              "start": 0,
+              "username": "shsh11i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963506002374135990",
+        "in_reply_to_user_id": "1930585988696539136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 436,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963433797023928693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shsh11i 其实是后面是处男吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON  凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 1669,
+          "like_count": 26507,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1791
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-21T15:58:42.000Z",
+        "description": "k8 brat ｜看内容回私信｜v🚪520绿 ｜感谢关注",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%97%A0%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%97%A0%E6%95%8C%E8%90%8C%E4%B8%BB",
+                "start": 0,
+                "url": "https://t.co/nwXVKmtUJE"
+              }
+            ]
+          }
+        },
+        "id": "1914348032826769408",
+        "location": "匿名提问箱(｡ì _ í｡)",
+        "name": "哈吉慧",
+        "pinned_tweet_id": "1935097626216776164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963509352834404352/Gj5z6TSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 21,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/nwXVKmtUJE",
+        "username": "hui0v0111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T11:23:05.000Z",
+        "description": "发点边角料",
+        "id": "1930585988696539136",
+        "location": "🚪520",
+        "name": "屎屎",
+        "pinned_tweet_id": "1957829932496679032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930587135482159104/b6i23TjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5345,
+          "following_count": 94,
+          "like_count": 1558,
+          "listed_count": 9,
+          "media_count": 70,
+          "tweet_count": 601
+        },
+        "username": "shsh11i",
+        "verified": false
+      }
+    ]
+  }
+}

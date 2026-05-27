@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1939321612568084927",
+    "created_at": "2025-07-01T10:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T11:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939996844379316233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        },
+        {
+          "end": 30,
+          "id": "1925363092931960832",
+          "start": 15,
+          "username": "lingyuanyuan07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939996844379316233",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939985982876504267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy @lingyuanyuan07 所以说嘛 一个小时两块一个月才几百"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1939321612568084927",
+        "created_at": "2025-07-01T10:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T11:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939996844379316233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            },
+            {
+              "end": 30,
+              "id": "1925363092931960832",
+              "start": 15,
+              "username": "lingyuanyuan07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939996844379316233",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939985982876504267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy @lingyuanyuan07 所以说嘛 一个小时两块一个月才几百"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1939321612568084927",
+        "created_at": "2025-07-01T09:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T10:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939985982876504267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 31,
+              "id": "1925363092931960832",
+              "start": 16,
+              "username": "lingyuanyuan07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939985982876504267",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939367673605013895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @lingyuanyuan07 你当我是永动机啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 1264,
+          "like_count": 19172,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1064
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN25mg"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ（山城归隐中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 2472,
+          "like_count": 22146,
+          "listed_count": 2,
+          "media_count": 471,
+          "tweet_count": 5306
+        },
+        "url": "https://t.co/CgxvdN25mg",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T01:28:43.000Z",
+        "description": "这里是泠鸢鸳，07年小女孩一枚/贴贴狂热爱好者/缺爱/od/双相/想瘦想瘦/想要浑身是伤浑身是血，啊啊啊为毛我xp是这个🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭一点就炸，炸你一脸芒果",
+        "id": "1925363092931960832",
+        "name": "芒果味火药桶🍥",
+        "pinned_tweet_id": "1928979009087439176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927640098541379584/WCdK-iFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 194,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 634
+        },
+        "username": "lingyuanyuan07",
+        "verified": false
+      }
+    ]
+  }
+}

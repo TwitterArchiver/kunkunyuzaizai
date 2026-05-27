@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1947533033185415416",
+    "created_at": "2025-07-25T12:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T13:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948718188482683364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1867432957113204736",
+          "start": 0,
+          "username": "owO123qwe"
+        },
+        {
+          "end": 26,
+          "id": "1891728370121179137",
+          "start": 11,
+          "username": "kyuusanngyou36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948718188482683364",
+    "in_reply_to_user_id": "1867432957113204736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948490404497662159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owO123qwe @kyuusanngyou36 咋啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1947533033185415416",
+        "created_at": "2025-07-25T12:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T13:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948718188482683364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867432957113204736",
+              "start": 0,
+              "username": "owO123qwe"
+            },
+            {
+              "end": 26,
+              "id": "1891728370121179137",
+              "start": 11,
+              "username": "kyuusanngyou36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948718188482683364",
+        "in_reply_to_user_id": "1867432957113204736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948490404497662159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owO123qwe @kyuusanngyou36 咋啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867432957113204736",
+        "conversation_id": "1947533033185415416",
+        "created_at": "2025-07-24T21:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T22:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948490404497662159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 31,
+              "id": "1891728370121179137",
+              "start": 16,
+              "username": "kyuusanngyou36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948490404497662159",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948435311777718534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @kyuusanngyou36 😫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 1289,
+          "like_count": 19863,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1132
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T04:55:02.000Z",
+        "description": "这里有一只超可爱的小然猫猫🍥~\n喜欢贴贴的可爱阳阳姐姐：@Kiss_light233\n超级可爱的若叶睦：@ai_yin16898",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "ai_yin16898"
+              }
+            ]
+          }
+        },
+        "id": "1867432957113204736",
+        "name": "小然🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1947970530449248556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936541535148871680/sm3pRx9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 506,
+          "like_count": 3706,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 1394
+        },
+        "username": "owO123qwe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T05:56:21.000Z",
+        "description": "17y♂️|把推特當可以發瘋(發情)的地方☝️🤓|當男娘好像也不錯但我不是🈸😬|腦迴路異常還沒報修🤯|我只有167☹️|55公斤我變胖了🥲|如果有私訊看到就會回(通常沒有🥲|努力存錢中😐|在這裡不談政治👍|粉色魔爪擁護者💖|一日音游人終身吟遊詩人🎵|打中二不戴手套🧤|重生一次🖕😄🖕",
+        "id": "1891728370121179137",
+        "name": "宮三 曉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892148178037968896/F8j9L9K6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 1407,
+          "like_count": 21324,
+          "listed_count": 0,
+          "media_count": 462,
+          "tweet_count": 1823
+        },
+        "username": "kyuusanngyou36",
+        "verified": false
+      }
+    ]
+  }
+}

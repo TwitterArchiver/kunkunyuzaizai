@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1937434320366383224",
+    "created_at": "2025-06-25T02:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T03:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937701418074538468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760890372585037824",
+          "start": 0,
+          "username": "puddings00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937701418074538468",
+    "in_reply_to_user_id": "1760890372585037824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937434320366383224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puddings00 我已经废了初中没毕业是因为不敢去上学以前被80过有阴影 必须待在学校还要参加中考才能毕业 还没手机玩🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 514,
+        "media_key": "3_1937434317627543552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuMmPzXXUAA5cAJ.jpg",
+        "width": 514
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1937434320366383224",
+        "created_at": "2025-06-25T02:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T03:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937701418074538468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760890372585037824",
+              "start": 0,
+              "username": "puddings00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937701418074538468",
+        "in_reply_to_user_id": "1760890372585037824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937434320366383224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puddings00 我已经废了初中没毕业是因为不敢去上学以前被80过有阴影 必须待在学校还要参加中考才能毕业 还没手机玩🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937434317627543552"
+          ]
+        },
+        "author_id": "1760890372585037824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1937434320366383224",
+        "created_at": "2025-06-24T08:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T09:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937434320366383224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3pFvERwFCV",
+              "end": 167,
+              "expanded_url": "https://x.com/puddings00/status/1937434320366383224/photo/1",
+              "media_key": "3_1937434317627543552",
+              "start": 144,
+              "url": "https://t.co/3pFvERwFCV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937434320366383224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2107,
+          "like_count": 47,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你们都这么执着于上大学\n身心健康不是比学历更重要吗\n宁可精神压力崩溃跳楼也不放松一下自己\n然后失败了被导员劝退\n身体也不好了钱和学籍也没了\n而且很多专业也都是找不到工作的\n继续考研考公压力更大了更崩溃了\n还不如把钱省出来犒劳一下自己\n还是说只是想晚一些进入社会嘛\n名正言顺的啃老嘛 https://t.co/3pFvERwFCV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1261,
+          "like_count": 18229,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 966
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:52:48.000Z",
+        "description": "希望你可以喜欢我哦🍬/zh-CN&en-US/Lesbian/可爱的mtf一只~🏳️‍⚧️/she or her🩷/158cm＆40kg/HRT•8.30.23🍥/infp-t/喜欢贴贴🌟/不玩游戏/🚪128/🏳️‍⚧️同类互fo喵/最爱的笨蛋老公:@XXSHHZ8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "XXSHHZ8964"
+              }
+            ]
+          }
+        },
+        "id": "1760890372585037824",
+        "location": "Hong Kong",
+        "name": "布丁喵呜🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1912727183027564721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760890511252955136/x0DpoxWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 611,
+          "like_count": 7434,
+          "listed_count": 3,
+          "media_count": 542,
+          "tweet_count": 4421
+        },
+        "username": "puddings00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2025247584047300634",
+    "created_at": "2026-03-07T16:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T17:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030316543436087387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1041928788215390208",
+          "start": 0,
+          "username": "CNmijiaren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030316543436087387",
+    "in_reply_to_user_id": "1041928788215390208",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025247584047300634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CNmijiaren 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2025247584047300634",
+        "created_at": "2026-03-07T16:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030316543436087387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1041928788215390208",
+              "start": 0,
+              "username": "CNmijiaren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030316543436087387",
+        "in_reply_to_user_id": "1041928788215390208",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025247584047300634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CNmijiaren 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1041928788215390208",
+        "conversation_id": "2025247584047300634",
+        "created_at": "2026-02-21T16:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025247584047300634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025247584047300634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MTF和INFP有关联性嘛？\n发现有不少MTF是INFP的样子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|QQ号3762377561\n|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 150,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 127,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 2653,
+          "like_count": 40872,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2802
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-18T05:55:56.000Z",
+        "description": "INFP 思想较为开放 不喜争吵 爱吸猫 对心理与社会现象感兴趣 喜欢到处走走看看 欢迎聊天/互fo",
+        "id": "1041928788215390208",
+        "location": "People's Republic of China ",
+        "name": "杯水",
+        "pinned_tweet_id": "2011250182722359646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1359489134423728133/wKng6b-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 498,
+          "like_count": 1960,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1208
+        },
+        "username": "CNmijiaren",
+        "verified": false
+      }
+    ]
+  }
+}

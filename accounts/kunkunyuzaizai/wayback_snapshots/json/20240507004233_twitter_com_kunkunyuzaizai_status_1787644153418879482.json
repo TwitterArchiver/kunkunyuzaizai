@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1787644153418879482",
+    "created_at": "2024-05-07T00:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-07T01:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1787644153418879482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1259385301899677696",
+          "start": 3,
+          "username": "1af4_1000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1787644153418879482",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1787391742293295166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1af4_1000: 我在吸食一种名叫“雌二醇”的新型毒品\n这种毒品成瘾性强，一开始吸食的人会吸食做成糖豆外观的片剂，随着依赖性增大，转而使用凝胶甚至注射型药物。经常吸食的人会出现幻觉，幻想自己变成了女孩子，穿着异性服饰，言行举止异常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1787644153418879482",
+        "created_at": "2024-05-07T00:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-07T01:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1787644153418879482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1259385301899677696",
+              "start": 3,
+              "username": "1af4_1000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1787644153418879482",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1787391742293295166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1af4_1000: 我在吸食一种名叫“雌二醇”的新型毒品\n这种毒品成瘾性强，一开始吸食的人会吸食做成糖豆外观的片剂，随着依赖性增大，转而使用凝胶甚至注射型药物。经常吸食的人会出现幻觉，幻想自己变成了女孩子，穿着异性服饰，言行举止异常"
+      },
+      {
+        "attachments": {},
+        "author_id": "1259385301899677696",
+        "conversation_id": "1787391742293295166",
+        "created_at": "2024-05-06T07:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-06T08:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1787391742293295166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawaii_tuimao/…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/kawaii_tuimao/status/1787389427729551825",
+              "start": 107,
+              "url": "https://t.co/76oAO1mnYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1787391742293295166",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 615,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1787389427729551825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在吸食一种名叫“雌二醇”的新型毒品\n这种毒品成瘾性强，一开始吸食的人会吸食做成糖豆外观的片剂，随着依赖性增大，转而使用凝胶甚至注射型药物。经常吸食的人会出现幻觉，幻想自己变成了女孩子，穿着异性服饰，言行举止异常 https://t.co/76oAO1mnYU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年的小男娘一枚A boy born in 2008 with gender dysphoria\nWeChat     Kyrie-Irving-3230\nphone number  +86 13202687362",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 147,
+          "like_count": 3474,
+          "listed_count": 0,
+          "tweet_count": 158
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-10T07:30:59.000Z",
+        "description": "含糖郭楠。23q3小证/23q4HRT处方/24.03.31第一针日雌。喜欢看管人。计科毕业，考研准备中，cet6/cjt4/vue/golang/nodejs/full stack/openwrt/docker/CI/CD/电路设计/Adobe全家桶/人肉贴片机/hardware modding\n需要回fo请私信",
+        "id": "1259385301899677696",
+        "location": "家里，或者路上",
+        "name": "星川ヤナ@开大证尝试中",
+        "pinned_tweet_id": "1787395615527522365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755237742869688320/j0e3_cCD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 1843,
+          "like_count": 207327,
+          "listed_count": 30,
+          "tweet_count": 17843
+        },
+        "username": "1af4_1000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1930633235832398306",
+    "created_at": "2025-06-05T15:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T16:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930653763133698259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884959792390938624",
+          "start": 0,
+          "username": "mengqing5735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930653763133698259",
+    "in_reply_to_user_id": "1884959792390938624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930633235832398306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengqing5735 啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1930633235832398306",
+        "created_at": "2025-06-05T15:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T16:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930653763133698259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884959792390938624",
+              "start": 0,
+              "username": "mengqing5735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930653763133698259",
+        "in_reply_to_user_id": "1884959792390938624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930633235832398306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengqing5735 啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884959792390938624",
+        "conversation_id": "1930633235832398306",
+        "created_at": "2025-06-05T14:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T15:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930633235832398306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930633235832398306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 409,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我follow的人实在太多了，我打算取关一些，实在抱歉！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 1137,
+          "like_count": 15436,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 850
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T13:40:24.000Z",
+        "description": "female/14-year-old/patients with moderate depression/pacifist（女孩子/14岁/中度抑郁/爱好和平）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/luna57351",
+                "end": 23,
+                "expanded_url": "http://t.me/luna57351",
+                "start": 0,
+                "url": "https://t.co/0elVIHwpOu"
+              }
+            ]
+          }
+        },
+        "id": "1884959792390938624",
+        "location": "美丽新世界",
+        "name": "梦情",
+        "pinned_tweet_id": "1929546395968553281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929155386973822977/1FhMRHW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 1028,
+          "like_count": 14156,
+          "listed_count": 5,
+          "media_count": 155,
+          "tweet_count": 5759
+        },
+        "url": "https://t.co/0elVIHwpOu",
+        "username": "mengqing5735",
+        "verified": false
+      }
+    ]
+  }
+}

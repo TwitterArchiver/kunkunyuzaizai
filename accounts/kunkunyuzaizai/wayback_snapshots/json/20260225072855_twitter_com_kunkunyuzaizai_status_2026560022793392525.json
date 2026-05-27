@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2026560022793392525",
+    "created_at": "2026-02-25T07:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T08:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026560022793392525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 71,
+          "id": "1720665183188922368",
+          "start": 66,
+          "username": "grok"
+        },
+        {
+          "end": 104,
+          "id": "1368897611672018953",
+          "start": 94,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026560022793392525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026191425852096515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 欢迎关注，5.8kfo抽奖\n奖品包含以下，另有随机小物件\n揪5位，送出雪球定制周边一份，包邮\n开奖由 @grok 于2026年2月26日18:00抽出\n关注 @XUEQIUxka 后在这条推文中点赞&amp;评论，均可参与，其中点赞抽2位，评论抽3位\n另外…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2026184377143803905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5z9LEaQAEkYus.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2026184377601081345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5z9MxbwAEOga6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 908,
+        "media_key": "3_2026184376283983873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5z9H3acAEx2Do.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026184375420006400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5z9EpbMAAapXs.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2026560022793392525",
+        "created_at": "2026-02-25T07:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T08:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026560022793392525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 71,
+              "id": "1720665183188922368",
+              "start": 66,
+              "username": "grok"
+            },
+            {
+              "end": 104,
+              "id": "1368897611672018953",
+              "start": 94,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026560022793392525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026191425852096515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 欢迎关注，5.8kfo抽奖\n奖品包含以下，另有随机小物件\n揪5位，送出雪球定制周边一份，包邮\n开奖由 @grok 于2026年2月26日18:00抽出\n关注 @XUEQIUxka 后在这条推文中点赞&amp;评论，均可参与，其中点赞抽2位，评论抽3位\n另外…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026184377143803905",
+            "3_2026184377601081345",
+            "3_2026184376283983873",
+            "3_2026184375420006400"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2026191425852096515",
+        "created_at": "2026-02-24T07:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:36:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026184384194494597",
+          "2026191425852096515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 56,
+              "id": "1720665183188922368",
+              "start": 51,
+              "username": "grok"
+            },
+            {
+              "end": 89,
+              "id": "1368897611672018953",
+              "start": 79,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 137,
+              "id": "1900168705847500800",
+              "start": 130,
+              "username": "wxb_NB"
+            },
+            {
+              "end": 146,
+              "id": "1552213521253150720",
+              "start": 138,
+              "username": "acnekot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YY6RuSn8zg",
+              "end": 186,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2026191425852096515/photo/1",
+              "media_key": "3_2026184377143803905",
+              "start": 163,
+              "url": "https://t.co/YY6RuSn8zg"
+            },
+            {
+              "display_url": "pic.x.com/YY6RuSn8zg",
+              "end": 186,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2026191425852096515/photo/1",
+              "media_key": "3_2026184377601081345",
+              "start": 163,
+              "url": "https://t.co/YY6RuSn8zg"
+            },
+            {
+              "display_url": "pic.x.com/YY6RuSn8zg",
+              "end": 186,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2026191425852096515/photo/1",
+              "media_key": "3_2026184376283983873",
+              "start": 163,
+              "url": "https://t.co/YY6RuSn8zg"
+            },
+            {
+              "display_url": "pic.x.com/YY6RuSn8zg",
+              "end": 186,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2026191425852096515/photo/1",
+              "media_key": "3_2026184375420006400",
+              "start": 163,
+              "url": "https://t.co/YY6RuSn8zg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026191425852096515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9978,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎关注，5.8kfo抽奖\n奖品包含以下，另有随机小物件\n揪5位，送出雪球定制周边一份，包邮\n开奖由 @grok 于2026年2月26日18:00抽出\n关注 @XUEQIUxka 后在这条推文中点赞&amp;评论，均可参与，其中点赞抽2位，评论抽3位\n另外在 @wxb_NB @acnekot\n的帖子也有抽奖，欢迎同步参加捏 https://t.co/YY6RuSn8zg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|\n|不OD|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 137,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 114,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 2648,
+          "like_count": 40137,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2762
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5866,
+          "following_count": 1490,
+          "like_count": 20047,
+          "listed_count": 26,
+          "media_count": 312,
+          "tweet_count": 1777
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8079732,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6195,
+          "media_count": 8450632,
+          "tweet_count": 108163665
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

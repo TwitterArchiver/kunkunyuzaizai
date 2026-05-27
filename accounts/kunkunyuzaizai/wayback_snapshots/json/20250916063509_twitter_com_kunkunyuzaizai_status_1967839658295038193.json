@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967798255263334695",
+    "created_at": "2025-09-16T06:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T07:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967839658295038193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938108852752502784",
+          "start": 0,
+          "username": "520Seulgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967839658295038193",
+    "in_reply_to_user_id": "1938108852752502784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967798255263334695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520Seulgi iOS26强制这样嘛不能改回去吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967798247646498816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08GFJSbEAAcEW1.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967798255263334695",
+        "created_at": "2025-09-16T06:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967839658295038193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938108852752502784",
+              "start": 0,
+              "username": "520Seulgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967839658295038193",
+        "in_reply_to_user_id": "1938108852752502784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967798255263334695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520Seulgi iOS26强制这样嘛不能改回去吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967798247646498816"
+          ]
+        },
+        "author_id": "1938108852752502784",
+        "conversation_id": "1967798255263334695",
+        "created_at": "2025-09-16T03:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T04:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967798255263334695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8WHiphPSdp",
+              "end": 41,
+              "expanded_url": "https://x.com/520Seulgi/status/1967798255263334695/photo/1",
+              "media_key": "3_1967798247646498816",
+              "start": 18,
+              "url": "https://t.co/8WHiphPSdp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967798255263334695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好丑啊..... 和安卓有啥区别？ https://t.co/8WHiphPSdp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1827,
+          "like_count": 28405,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1904
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T05:35:41.000Z",
+        "description": "姜涩琪主义....｜当朋友圈发🫧 碎碎念 分享日常｜互关可➕🛰️  不是互关🚪88｜悉尼留子🇦🇺｜不聊黄！绿色冲浪🏄｜欢迎宝宝们找我玩 https://t.co/uXGLEeOspz🥺｜（我是男的，是gay，是0。补药再把我当女生了/……… ）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/520seulgi",
+                "end": 91,
+                "expanded_url": "https://ngl.link/520seulgi",
+                "start": 68,
+                "url": "https://t.co/uXGLEeOspz"
+              }
+            ]
+          }
+        },
+        "id": "1938108852752502784",
+        "location": "在你心里",
+        "name": "鸡腿加点辣",
+        "pinned_tweet_id": "1955175746487587120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948655968755359744/-MCjuM5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 165,
+          "like_count": 4191,
+          "listed_count": 1,
+          "media_count": 962,
+          "tweet_count": 2581
+        },
+        "username": "520Seulgi",
+        "verified": false
+      }
+    ]
+  }
+}

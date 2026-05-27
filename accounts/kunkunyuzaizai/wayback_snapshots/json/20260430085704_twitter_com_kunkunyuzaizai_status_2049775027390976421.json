@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049775024505233408"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "2049775027390976421",
+    "created_at": "2026-04-30T08:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049775027390976421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OzJSSDx4dv",
+          "end": 39,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2049775027390976421/photo/1",
+          "media_key": "3_2049775024505233408",
+          "start": 16,
+          "url": "https://t.co/OzJSSDx4dv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049775027390976421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想知道大家对我的英雄学院的态度 https://t.co/OzJSSDx4dv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049775027390976421].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049775027390976421",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049775027390976421"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 584,
+        "media_key": "3_2049775024505233408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJDhk0aIAAS23L.jpg",
+        "width": 584
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 2979,
+          "like_count": 45632,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 3165
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

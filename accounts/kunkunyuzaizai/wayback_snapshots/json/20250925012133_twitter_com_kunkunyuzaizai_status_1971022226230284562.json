@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971022222589640704"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1962098853165101497",
+    "created_at": "2025-09-25T01:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T02:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971022226230284562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1903863202376458240",
+          "start": 0,
+          "username": "Bunnyo7O"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KMMngi1zHc",
+          "end": 37,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1971022226230284562/photo/1",
+          "media_key": "3_1971022222589640704",
+          "start": 14,
+          "url": "https://t.co/KMMngi1zHc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971022226230284562",
+    "in_reply_to_user_id": "1903863202376458240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962098853165101497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunnyo7O 这个嘛 https://t.co/KMMngi1zHc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1971022226230284562].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1971022226230284562",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1971022226230284562"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_1971022222589640704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1p6RL3bQAATG81.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903863202376458240",
+        "conversation_id": "1962098853165101497",
+        "created_at": "2025-08-31T10:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T11:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962098853165101497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Send 'bunnyo7O' anonymous questions on Tellonym!",
+              "display_url": "tellonym.me/bunnyo7O/realt…",
+              "end": 68,
+              "expanded_url": "https://tellonym.me/bunnyo7O/realtalk",
+              "images": [
+                {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/news_img/1962098858760232960/QHdDw2dV?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1962098858760232960/QHdDw2dV?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 45,
+              "status": 200,
+              "title": "'@bunnyo7O'",
+              "unwound_url": "https://tellonym.me/bunnyo7O/realtalk",
+              "url": "https://t.co/EuzJEo3vbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962098853165101497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7149,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "类似匿名箱的东东！\n有宝宝说好用\n用了会有很多人提问俺就来了。\n俺想玩这个！😿😿求你们了 https://t.co/EuzJEo3vbq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 2078,
+          "like_count": 30479,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2131
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T17:35:58.000Z",
+        "description": "｡✩⁺˚♪º 18 ⇡ 🌈 ♡碎碎念⊹ 没门 ⊹ ೀ⋆⑅˚我有精神病见谁咬谁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/bunnyo7O/sendc…",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/bunnyo7O/sendchallenge",
+                "start": 0,
+                "url": "https://t.co/S5HKUGxDQ3"
+              }
+            ]
+          }
+        },
+        "id": "1903863202376458240",
+        "location": "ଲ泥萌嚎我想玩这个✑",
+        "name": "兔兔美",
+        "pinned_tweet_id": "1962098853165101497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954809160618704897/Y18iKx2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 251,
+          "like_count": 14473,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 5759
+        },
+        "url": "https://t.co/S5HKUGxDQ3",
+        "username": "Bunnyo7O",
+        "verified": false
+      }
+    ]
+  }
+}

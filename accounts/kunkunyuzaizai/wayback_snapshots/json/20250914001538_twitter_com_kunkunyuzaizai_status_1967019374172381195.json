@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1966906613018862070",
+    "created_at": "2025-09-14T00:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T01:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967019374172381195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1364304524131725312",
+          "start": 0,
+          "username": "juxieyi"
+        },
+        {
+          "end": 19,
+          "id": "1501915925578420228",
+          "start": 9,
+          "username": "shaojiull"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967019374172381195",
+    "in_reply_to_user_id": "1364304524131725312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966938564526305767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juxieyi @shaojiull nm被轮了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1966906613018862070",
+        "created_at": "2025-09-14T00:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T01:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967019374172381195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1364304524131725312",
+              "start": 0,
+              "username": "juxieyi"
+            },
+            {
+              "end": 19,
+              "id": "1501915925578420228",
+              "start": 9,
+              "username": "shaojiull"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967019374172381195",
+        "in_reply_to_user_id": "1364304524131725312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966938564526305767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juxieyi @shaojiull nm被轮了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364304524131725312",
+        "conversation_id": "1966906613018862070",
+        "created_at": "2025-09-13T18:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T19:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966938564526305767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1501915925578420228",
+              "start": 0,
+              "username": "shaojiull"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966938564526305767",
+        "in_reply_to_user_id": "1501915925578420228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966906613018862070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaojiull 腿缝好大，可以放下很多几把，一看就是被很多根几把轮过呢~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 1778,
+          "like_count": 27739,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1858
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-23T20:02:10.000Z",
+        "description": "男的，私信请母人主动爆脸照和身材照",
+        "id": "1364304524131725312",
+        "location": "Shenzhen",
+        "name": "sanxin",
+        "pinned_tweet_id": "1963843376823816295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802743929466707968/nzMuh4tG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 11,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 88
+        },
+        "username": "juxieyi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-10T13:40:45.000Z",
+        "description": "68+私人v 聊天交朋友 我会掉落好看的照片",
+        "id": "1501915925578420228",
+        "name": "mio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840020929520513025/qXjrqdVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139402,
+          "following_count": 21,
+          "like_count": 449,
+          "listed_count": 201,
+          "media_count": 226,
+          "tweet_count": 324
+        },
+        "username": "shaojiull",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031754093342162944"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "2031754098635354269",
+    "created_at": "2026-03-11T15:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T16:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031754098635354269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mv10Dzz616",
+          "end": 41,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2031754098635354269/photo/1",
+          "media_key": "3_2031754093342162944",
+          "start": 18,
+          "url": "https://t.co/Mv10Dzz616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031754098635354269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于这个问题我不清楚不过我确实缺钱 https://t.co/Mv10Dzz616"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2031754098635354269].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2031754098635354269",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2031754098635354269"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2031754093342162944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDI9lUybAAAXUxf.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|QQ号3762377561\n|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 150,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 127,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 2645,
+          "like_count": 41100,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 2826
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

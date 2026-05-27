@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1883468145844945288",
+    "created_at": "2025-01-27T08:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T09:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883799835247276231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1653064639033516038",
+          "start": 0,
+          "username": "hk63435568"
+        },
+        {
+          "end": 23,
+          "id": "756779273155858432",
+          "start": 12,
+          "username": "ScarletKc_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883799835247276231",
+    "in_reply_to_user_id": "1653064639033516038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883782794440221122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hk63435568 @ScarletKc_ 挂的中国VPN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1883468145844945288",
+        "created_at": "2025-01-27T08:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T09:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883799835247276231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1653064639033516038",
+              "start": 0,
+              "username": "hk63435568"
+            },
+            {
+              "end": 23,
+              "id": "756779273155858432",
+              "start": 12,
+              "username": "ScarletKc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883799835247276231",
+        "in_reply_to_user_id": "1653064639033516038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883782794440221122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hk63435568 @ScarletKc_ 挂的中国VPN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653064639033516038",
+        "conversation_id": "1883468145844945288",
+        "created_at": "2025-01-27T07:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T08:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883782794440221122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 27,
+              "id": "756779273155858432",
+              "start": 16,
+              "username": "ScarletKc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883782794440221122",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883639456957452454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @ScarletKc_ 你这是用的中国ip吗？你挂了vpn，你的ip已经不是中国了。人家指的是直连。目前，只有清华北大那种985的高校有些是可以直连的，还有就是外贸企业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 296,
+          "like_count": 6295,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 273
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T15:51:51.000Z",
+        "description": "看到了不许讲出去！！！\n27/170/120/1S，尤其喜欢有络腮胡和胸毛的，双性恋请勿打扰。Q1810129364 V:Jawry6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Jawry",
+                "end": 23,
+                "expanded_url": "https://t.me/Jawry",
+                "start": 0,
+                "url": "https://t.co/uvjs1FVK1B"
+              }
+            ]
+          }
+        },
+        "id": "1653064639033516038",
+        "location": "Chong Qing，China",
+        "name": "那个会鹅笑的少年",
+        "pinned_tweet_id": "1698386201445810184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655589968616607747/hilkbp5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 2290,
+          "like_count": 5094,
+          "listed_count": 4,
+          "media_count": 113,
+          "tweet_count": 2291
+        },
+        "url": "https://t.co/uvjs1FVK1B",
+        "username": "hk63435568",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "she/her/她",
+        "id": "756779273155858432",
+        "location": "🏳️‍⚧️",
+        "name": "詩音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872461591347867648/iqHPGTW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 604,
+          "like_count": 28432,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 3070
+        },
+        "username": "ScarletKc_",
+        "verified": false
+      }
+    ]
+  }
+}

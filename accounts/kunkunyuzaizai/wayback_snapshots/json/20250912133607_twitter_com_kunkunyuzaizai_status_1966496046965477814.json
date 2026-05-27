@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966496042683351040"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1966496046965477814",
+    "created_at": "2025-09-12T13:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T14:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966496046965477814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q7Tz0jLqCF",
+          "end": 23,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1966496046965477814/photo/1",
+          "media_key": "3_1966496042683351040",
+          "start": 0,
+          "url": "https://t.co/q7Tz0jLqCF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966496046965477814",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/q7Tz0jLqCF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1966496046965477814].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1966496046965477814",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1966496046965477814"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1966496042683351040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0plu1xaQAA05Ef.jpg",
+        "width": 1440
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1759,
+          "like_count": 27381,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1837
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1966776329770012766",
+    "created_at": "2025-09-14T00:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T01:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967024366535012783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767755849672671232",
+          "start": 0,
+          "username": "BieGuanWoLeee"
+        },
+        {
+          "end": 23,
+          "id": "1644761277900951552",
+          "start": 15,
+          "username": "4rocky9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967024366535012783",
+    "in_reply_to_user_id": "1767755849672671232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966821815986045074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BieGuanWoLeee @4rocky9 那假JB降价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1966776329770012766",
+        "created_at": "2025-09-14T00:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T01:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967024366535012783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767755849672671232",
+              "start": 0,
+              "username": "BieGuanWoLeee"
+            },
+            {
+              "end": 23,
+              "id": "1644761277900951552",
+              "start": 15,
+              "username": "4rocky9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967024366535012783",
+        "in_reply_to_user_id": "1767755849672671232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966821815986045074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BieGuanWoLeee @4rocky9 那假JB降价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767755849672671232",
+        "conversation_id": "1966776329770012766",
+        "created_at": "2025-09-13T11:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966821815986045074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "4rocky9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966821815986045074",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1387,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966776329770012766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rocky9 比女生玩具便宜太多  我支持飞机杯涨价！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 1783,
+          "like_count": 27861,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1865
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T03:33:54.000Z",
+        "description": "别管我了/ 喜欢我可以给我打钱 谢谢",
+        "id": "1767755849672671232",
+        "name": "杀死一只知更鸟",
+        "pinned_tweet_id": "1944363523603075304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951330373973188609/QL8_krYs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 46,
+          "like_count": 529,
+          "listed_count": 6,
+          "media_count": 71,
+          "tweet_count": 575
+        },
+        "username": "BieGuanWoLeee",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "乐意骚扰人，给钱随便你骂，整抽象的，乐意说点屌话，喜欢看美女",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "建龙哥",
+        "pinned_tweet_id": "1670098097735860259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920824521441046528/hyICLTe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5483,
+          "following_count": 399,
+          "like_count": 43482,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 17155
+        },
+        "username": "4rocky9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898542204488138752"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1898542207759683670",
+    "created_at": "2025-03-09T01:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T02:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898542207759683670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/44WjgsNBwK",
+          "end": 45,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1898542207759683670/photo/1",
+          "media_key": "3_1898542204488138752",
+          "start": 22,
+          "url": "https://t.co/44WjgsNBwK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898542207759683670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我怎么说我的爱情一直不顺?原来友情占了上风 https://t.co/44WjgsNBwK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898542207759683670].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898542207759683670",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898542207759683670"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 494,
+        "media_key": "3_1898542204488138752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glj6E3maQAA-tOG.jpg",
+        "width": 922
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 629,
+          "like_count": 10542,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 492
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

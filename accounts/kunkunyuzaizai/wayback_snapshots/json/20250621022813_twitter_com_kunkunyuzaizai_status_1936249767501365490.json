@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1935646107805385013",
+    "created_at": "2025-06-21T02:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T03:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936249767501365490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "982460989005287424",
+          "start": 0,
+          "username": "entangled_pair"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936249767501365490",
+    "in_reply_to_user_id": "982460989005287424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935646107805385013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@entangled_pair 把ai看成4i了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1935646107805385013",
+        "created_at": "2025-06-21T02:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T03:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936249767501365490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "982460989005287424",
+              "start": 0,
+              "username": "entangled_pair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936249767501365490",
+        "in_reply_to_user_id": "982460989005287424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935646107805385013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@entangled_pair 把ai看成4i了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "982460989005287424",
+        "conversation_id": "1935646107805385013",
+        "created_at": "2025-06-19T10:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T11:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935646107805385013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935646107805385013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 12240,
+          "like_count": 212,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "怎么人人都在试图向AI证明自己的可操性？令人感叹！2025年，每个人都在把自己投射到欲望和凝视的客体，每个人都想挨操\n啊！生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 1248,
+          "like_count": 17283,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 930
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-07T03:32:07.000Z",
+        "description": "完蛋了。我完蛋了已经",
+        "id": "982460989005287424",
+        "name": "𝙅𝙆.",
+        "pinned_tweet_id": "1889555130543935976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924644713724051458/jCG1pD7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 221,
+          "like_count": 5832,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1577
+        },
+        "username": "entangled_pair",
+        "verified": false
+      }
+    ]
+  }
+}

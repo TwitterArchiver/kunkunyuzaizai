@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2037737982468440195",
+    "created_at": "2026-03-28T08:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037816744329527451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1712408820574793728",
+          "start": 0,
+          "username": "Amadeus22590723"
+        },
+        {
+          "end": 25,
+          "id": "1532663208393117696",
+          "start": 17,
+          "username": "Ziverk2"
+        },
+        {
+          "end": 38,
+          "id": "2019493331395571712",
+          "start": 26,
+          "username": "kyogenshou_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037816744329527451",
+    "in_reply_to_user_id": "1712408820574793728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037737982468440195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amadeus22590723 @Ziverk2 @kyogenshou_ 好梦...."
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [kyogenshou_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "kyogenshou_",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "kyogenshou_"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2037737982468440195",
+        "created_at": "2026-03-28T08:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037816744329527451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712408820574793728",
+              "start": 0,
+              "username": "Amadeus22590723"
+            },
+            {
+              "end": 25,
+              "id": "1532663208393117696",
+              "start": 17,
+              "username": "Ziverk2"
+            },
+            {
+              "end": 38,
+              "id": "2019493331395571712",
+              "start": 26,
+              "username": "kyogenshou_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037816744329527451",
+        "in_reply_to_user_id": "1712408820574793728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037737982468440195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amadeus22590723 @Ziverk2 @kyogenshou_ 好梦...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712408820574793728",
+        "conversation_id": "2037737982468440195",
+        "created_at": "2026-03-28T03:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037737982468440195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2019493331395571712",
+              "start": 6,
+              "username": "kyogenshou_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037737982468440195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10828,
+          "like_count": 130,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我重要的朋友@kyogenshou_今天凌晨死于安眠药和烧炭，她生前运气一直很差，总是遇到烂人烂事，她经常说自己运气很差，日子过得一塌糊涂。我现在很难受，已经不想说更多。\n她已息了地上的劳苦，归回天家，在主怀中安然居住。阿门。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 2813,
+          "like_count": 44239,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3048
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T10:04:57.000Z",
+        "description": "她已息了地上的劳苦，归回天家，在主怀中安然居住。阿门。",
+        "id": "1712408820574793728",
+        "name": "Amadeus",
+        "pinned_tweet_id": "1883983627740164501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003492664403197955/6tRS2Rua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 182,
+          "like_count": 15894,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 3698
+        },
+        "username": "Amadeus22590723",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T09:59:29.000Z",
+        "description": "喵喵喵喵喵\n| 2008-\n| MTF(X)🍥 🏳️‍⚧️ SINCE 2024.11\n|国内全平台原创音乐人\n|极度社恐\n|小群 1020709329\n|Office @mtitstudio\n|Debian\n|内有涩涩内容🫣\n|负面逃生仓⚠血图 @TakeNitrite\n|♥️ @lm9325435076267",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "mtitstudio"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "username": "TakeNitrite"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "lm9325435076267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eina-2nd.github.io",
+                "end": 23,
+                "expanded_url": "https://eina-2nd.github.io/",
+                "start": 0,
+                "url": "https://t.co/CY9WeMigBd"
+              }
+            ]
+          }
+        },
+        "id": "1532663208393117696",
+        "name": "Einaちゃん🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909919331443695616/ZASQNok0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2990,
+          "following_count": 5493,
+          "like_count": 167685,
+          "listed_count": 12,
+          "media_count": 252,
+          "tweet_count": 15150
+        },
+        "url": "https://t.co/CY9WeMigBd",
+        "username": "Ziverk2",
+        "verified": false
+      }
+    ]
+  }
+}

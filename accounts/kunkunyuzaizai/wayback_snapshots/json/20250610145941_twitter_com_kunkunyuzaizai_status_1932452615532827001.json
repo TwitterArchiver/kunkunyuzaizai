@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1932434567631413496",
+    "created_at": "2025-06-10T14:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T15:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932452615532827001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1096884442755260416",
+          "start": 0,
+          "username": "fubuki_xiaohuli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932452615532827001",
+    "in_reply_to_user_id": "1096884442755260416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932434567631413496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fubuki_xiaohuli 接了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932434559540645888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFi_lEb0AA87V8.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1932434567631413496",
+        "created_at": "2025-06-10T14:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T15:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932452615532827001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1096884442755260416",
+              "start": 0,
+              "username": "fubuki_xiaohuli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932452615532827001",
+        "in_reply_to_user_id": "1096884442755260416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932434567631413496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fubuki_xiaohuli 接了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932434559540645888"
+          ]
+        },
+        "author_id": "1096884442755260416",
+        "conversation_id": "1932434567631413496",
+        "created_at": "2025-06-10T13:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T14:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932434567631413496"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "男娘"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "伪娘"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUt4Awt3Ff",
+              "end": 49,
+              "expanded_url": "https://x.com/fubuki_xiaohuli/status/1932434567631413496/photo/1",
+              "media_key": "3_1932434559540645888",
+              "start": 26,
+              "url": "https://t.co/dUt4Awt3Ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932434567631413496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 804,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小小唧唧，拿捏拿捏😋😋😋\n#男娘 #伪娘 #男の娘 https://t.co/dUt4Awt3Ff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 1223,
+          "like_count": 16436,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 875
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-16T21:30:05.000Z",
+        "description": "03萌新一只 身高体重:180/56 风格主打一手潦草，不定时更新，还有不要在问我的牛至大小了，我是不会告诉你3㎝-9.6㎝的长度的 注意最近有很多吊毛冒充我用我的图收费，我再次强调，所有的图和视频都是免费的！",
+        "id": "1096884442755260416",
+        "name": "特別困",
+        "pinned_tweet_id": "1883137645762752676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762969678450933760/ZQdtiMch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16360,
+          "following_count": 890,
+          "like_count": 36,
+          "listed_count": 84,
+          "media_count": 164,
+          "tweet_count": 1904
+        },
+        "username": "fubuki_xiaohuli",
+        "verified": false
+      }
+    ]
+  }
+}

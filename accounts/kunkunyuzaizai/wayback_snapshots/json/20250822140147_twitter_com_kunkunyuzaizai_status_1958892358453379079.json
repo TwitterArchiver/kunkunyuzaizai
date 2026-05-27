@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1958567690790216132",
+    "created_at": "2025-08-22T14:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T15:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958892358453379079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1802677571877801984",
+          "start": 0,
+          "username": "CCNing777"
+        },
+        {
+          "end": 25,
+          "id": "1918920268296359936",
+          "start": 11,
+          "username": "FIREFLY040132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958892358453379079",
+    "in_reply_to_user_id": "1802677571877801984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958879013398880534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCNing777 @FIREFLY040132 黑魔绿爪不好喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1958567690790216132",
+        "created_at": "2025-08-22T14:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T15:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958892358453379079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1802677571877801984",
+              "start": 0,
+              "username": "CCNing777"
+            },
+            {
+              "end": 25,
+              "id": "1918920268296359936",
+              "start": 11,
+              "username": "FIREFLY040132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958892358453379079",
+        "in_reply_to_user_id": "1802677571877801984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958879013398880534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCNing777 @FIREFLY040132 黑魔绿爪不好喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802677571877801984",
+        "conversation_id": "1958567690790216132",
+        "created_at": "2025-08-22T13:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T14:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958879013398880534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 30,
+              "id": "1918920268296359936",
+              "start": 16,
+              "username": "FIREFLY040132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958879013398880534",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958761971844583543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @FIREFLY040132 不好喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 1457,
+          "like_count": 24268,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1579
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T12:20:10.000Z",
+        "description": "iiii/双/钱性恋/拼好饭大厨👩🏻‍🍳 /@xiaojiubuchiyu   我自用的并且非常好用的VPN稳定又便宜：https://t.co/YiXKGtmmzE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "xiaojiubuchiyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dash.tachvip.com/#/register?cod…",
+                "end": 83,
+                "expanded_url": "https://dash.tachvip.com/#/register?code=KoTwSiM4",
+                "start": 60,
+                "url": "https://t.co/YiXKGtmmzE"
+              }
+            ]
+          }
+        },
+        "id": "1802677571877801984",
+        "location": "🚪77（无福利甚至随缘回信息）",
+        "name": "冰冰气泡水🫧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916108699753644032/g8F6u_dZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5168,
+          "following_count": 121,
+          "like_count": 3281,
+          "listed_count": 5,
+          "media_count": 25,
+          "tweet_count": 1209
+        },
+        "username": "CCNing777",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T06:47:07.000Z",
+        "description": "15岁，168cm/52kg，没出息小废物，贪财好色死M，断粮断药又没钱，没钱没玩具没衣服，三无产品，求金主爸爸，不能线下，呜呜呜😭😭😭",
+        "id": "1918920268296359936",
+        "location": "山西",
+        "name": "FIREFLY🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948999350333624320/e-2Mljmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 372,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 349
+        },
+        "username": "FIREFLY040132",
+        "verified": false
+      }
+    ]
+  }
+}

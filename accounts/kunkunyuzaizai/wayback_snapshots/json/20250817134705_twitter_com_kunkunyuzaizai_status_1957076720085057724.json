@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1953463320985362754",
+    "created_at": "2025-08-17T13:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T14:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957076720085057724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1927092420916686849",
+          "start": 0,
+          "username": "QuQiixu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957076720085057724",
+    "in_reply_to_user_id": "1927092420916686849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953463320985362754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuQiixu 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1953463306498560000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxwYhwGbUAAYpNi.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1953463320985362754",
+        "created_at": "2025-08-17T13:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T14:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957076720085057724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1927092420916686849",
+              "start": 0,
+              "username": "QuQiixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957076720085057724",
+        "in_reply_to_user_id": "1927092420916686849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953463320985362754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuQiixu 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953463306498560000"
+          ]
+        },
+        "author_id": "1927092420916686849",
+        "conversation_id": "1953463320985362754",
+        "created_at": "2025-08-07T14:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T15:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953463320985362754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7yWdbbr4aq",
+              "end": 42,
+              "expanded_url": "https://x.com/QuQiixu/status/1953463320985362754/photo/1",
+              "media_key": "3_1953463306498560000",
+              "start": 19,
+              "url": "https://t.co/7yWdbbr4aq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953463320985362754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1184,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "整理东西好累阿..求夸(´-ω-`) https://t.co/7yWdbbr4aq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 1380,
+          "like_count": 22812,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1445
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T20:00:20.000Z",
+        "description": "🚪52",
+        "id": "1927092420916686849",
+        "name": "兔宝",
+        "pinned_tweet_id": "1946943175547084871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953110068590985217/CPXjZjsD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 9,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 35
+        },
+        "username": "QuQiixu",
+        "verified": false
+      }
+    ]
+  }
+}

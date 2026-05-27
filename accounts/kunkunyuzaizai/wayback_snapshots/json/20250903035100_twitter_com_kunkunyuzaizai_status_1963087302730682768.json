@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1962832957875298693",
+    "created_at": "2025-09-03T03:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T04:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963087302730682768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1514026242365804546",
+          "start": 0,
+          "username": "aouoyulin_0"
+        },
+        {
+          "end": 26,
+          "id": "1924364001267576832",
+          "start": 13,
+          "username": "Meow_Bellaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963087302730682768",
+    "in_reply_to_user_id": "1514026242365804546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962863132701028625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aouoyulin_0 @Meow_Bellaaa 这个赚的快呀😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1962832957875298693",
+        "created_at": "2025-09-03T03:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T04:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963087302730682768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1514026242365804546",
+              "start": 0,
+              "username": "aouoyulin_0"
+            },
+            {
+              "end": 26,
+              "id": "1924364001267576832",
+              "start": 13,
+              "username": "Meow_Bellaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963087302730682768",
+        "in_reply_to_user_id": "1514026242365804546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962863132701028625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aouoyulin_0 @Meow_Bellaaa 这个赚的快呀😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514026242365804546",
+        "conversation_id": "1962832957875298693",
+        "created_at": "2025-09-02T13:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962863132701028625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924364001267576832",
+              "start": 0,
+              "username": "Meow_Bellaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962863132701028625",
+        "in_reply_to_user_id": "1924364001267576832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3811,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962832957875298693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meow_Bellaaa 真的有很多工作选择的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON  凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1663,
+          "like_count": 26402,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1769
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T23:42:54.000Z",
+        "description": "自恋号|私信入门➡️碎碎碎碎念@Missouolsian2|08准大一|有些不太好看的照片也想发出来只是想记录😭|被封大号@Missouolsian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "Missouolsian2"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "Missouolsian"
+              }
+            ]
+          }
+        },
+        "id": "1514026242365804546",
+        "location": "🚪纯绿好友位100",
+        "name": "白毛红瞳狗狗厨3.0",
+        "pinned_tweet_id": "1959468544879673382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878429730690740224/ZTSr1HGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2764,
+          "following_count": 1,
+          "like_count": 747,
+          "listed_count": 6,
+          "media_count": 49,
+          "tweet_count": 317
+        },
+        "username": "aouoyulin_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T07:18:42.000Z",
+        "description": "ENFJ日记本📓｜活人感🧩掉落｜随你怎么说 也请随我怎么说🤫｜世界就是个巨大的心想事成 只想追求内心的平静｜不要给我分类和贴标签 惹我会触发愤怒咪请三思｜可以叫我小咪 谢谢你关注我🫶🏻",
+        "id": "1924364001267576832",
+        "location": "咪之幸福乌托邦",
+        "name": "小咪殿下萬歲萬歲萬萬歲",
+        "pinned_tweet_id": "1925852097314001194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924364129889931264/1blchVdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 135,
+          "like_count": 10668,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 3421
+        },
+        "username": "Meow_Bellaaa",
+        "verified": false
+      }
+    ]
+  }
+}

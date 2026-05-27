@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1954129025133400319",
+    "created_at": "2025-08-10T12:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T13:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954520714947772561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552773542856445952",
+          "start": 0,
+          "username": "qika5201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954520714947772561",
+    "in_reply_to_user_id": "1552773542856445952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954129025133400319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qika5201314 我炉管最快二十多秒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1954129025133400319",
+        "created_at": "2025-08-10T12:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T13:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954520714947772561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552773542856445952",
+              "start": 0,
+              "username": "qika5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954520714947772561",
+        "in_reply_to_user_id": "1552773542856445952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954129025133400319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qika5201314 我炉管最快二十多秒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552773542856445952",
+        "conversation_id": "1954129025133400319",
+        "created_at": "2025-08-09T10:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T11:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954129025133400319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954129025133400319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 21467,
+          "like_count": 265,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主播虽然说是15厘米，但是主播射的很快，所以不敢当1👉🏻👈🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 1322,
+          "like_count": 20840,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1205
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T21:50:47.000Z",
+        "description": "中国的龙龙//是🏳️‍🌈//没办法13就知道了🤓👆🏻// xp：锁，白袜，捆绑吗，应该是😋//芒果型人格//常在河北（），可以来找我玩？应该//不喜胖和老//很瘦啊170/43kg//要处的优先省内哦//理想型在20-25岁但是不能过30捏要不然就差太多啦//",
+        "id": "1552773542856445952",
+        "name": "奇卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928700215814414336/iViRoGn7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2805,
+          "following_count": 109,
+          "like_count": 754,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1081
+        },
+        "username": "qika5201314",
+        "verified": false
+      }
+    ]
+  }
+}

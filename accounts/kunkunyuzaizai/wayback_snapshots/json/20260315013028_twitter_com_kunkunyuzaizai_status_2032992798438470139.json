@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2010393409106952402",
+    "created_at": "2026-03-15T01:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T02:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032992798438470139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1764513634867404800",
+          "start": 0,
+          "username": "Yui336713354044"
+        },
+        {
+          "end": 32,
+          "id": "1944782718790983680",
+          "start": 17,
+          "username": "vele_alex37944"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032992798438470139",
+    "in_reply_to_user_id": "1764513634867404800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010587582929961302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yui336713354044 @vele_alex37944 怎么吹头发呀老是吹不干导致头发特别毛躁很卷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2010393409106952402",
+        "created_at": "2026-03-15T01:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T02:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032992798438470139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1764513634867404800",
+              "start": 0,
+              "username": "Yui336713354044"
+            },
+            {
+              "end": 32,
+              "id": "1944782718790983680",
+              "start": 17,
+              "username": "vele_alex37944"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032992798438470139",
+        "in_reply_to_user_id": "1764513634867404800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010587582929961302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yui336713354044 @vele_alex37944 怎么吹头发呀老是吹不干导致头发特别毛躁很卷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764513634867404800",
+        "conversation_id": "2010393409106952402",
+        "created_at": "2026-01-12T05:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T06:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010587582929961302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944782718790983680",
+              "start": 0,
+              "username": "vele_alex37944"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010587582929961302",
+        "in_reply_to_user_id": "1944782718790983680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 738,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010550848045318507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vele_alex37944 卷毛应该可以去理发店拉直吧，我也是很油的头发，两天一洗或者一天一洗吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|QQ号3762377561\n|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 150,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 127,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 2629,
+          "like_count": 41287,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 2838
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T04:50:43.000Z",
+        "description": "点赞和评论是免费的，却可以让你开心一下",
+        "id": "1764513634867404800",
+        "name": "酥宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028895996030410752/IIHeSW7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 799,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 356
+        },
+        "username": "Yui336713354044",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T15:35:42.000Z",
+        "description": "喜欢大家，大家的电子宠物，不是杯子！会更新自己的日常，正带努力学习画画，不会拍照，感情问题巨大，希望自己可以得到美味的投喂，这就是我的动力。过🚪25米，坐标盐城市\n（QQ∶3644414680）",
+        "id": "1944782718790983680",
+        "name": "何味酱",
+        "pinned_tweet_id": "2017247017148555376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024548549208444928/c5PkCVhX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 122,
+          "like_count": 147,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 373
+        },
+        "username": "vele_alex37944",
+        "verified": false
+      }
+    ]
+  }
+}

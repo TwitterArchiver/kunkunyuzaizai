@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968732940386357293",
+    "created_at": "2025-09-19T12:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T13:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969017778758733900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1897829731992805376",
+          "start": 0,
+          "username": "TongZi14905"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969017778758733900",
+    "in_reply_to_user_id": "1897829731992805376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968732940386357293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TongZi14905 对不起 我不是故意烦你的 我只是有点喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1968732937509363712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1JYLQXbYAAIECv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968732940386357293",
+        "created_at": "2025-09-19T12:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969017778758733900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1897829731992805376",
+              "start": 0,
+              "username": "TongZi14905"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969017778758733900",
+        "in_reply_to_user_id": "1897829731992805376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968732940386357293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TongZi14905 对不起 我不是故意烦你的 我只是有点喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968732937509363712"
+          ]
+        },
+        "author_id": "1897829731992805376",
+        "conversation_id": "1968732940386357293",
+        "created_at": "2025-09-18T17:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T18:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968732940386357293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yftVaLgD6Y",
+              "end": 45,
+              "expanded_url": "https://x.com/TongZi14905/status/1968732940386357293/photo/1",
+              "media_key": "3_1968732937509363712",
+              "start": 22,
+              "url": "https://t.co/yftVaLgD6Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968732940386357293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7852,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对不起 我不是故意烦你的 我只是有点喜欢你 https://t.co/yftVaLgD6Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1952,
+          "like_count": 29402,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2031
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T02:01:11.000Z",
+        "description": "ᐢ_   ̫ _ᐢ（补药取关哇(՞_  ̫ _ ̥՞)ᐝ੭）",
+        "id": "1897829731992805376",
+        "location": "猫猫",
+        "name": "桐原介子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897830044711395329/r97gfg8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2465,
+          "following_count": 605,
+          "like_count": 19524,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 2071
+        },
+        "username": "TongZi14905",
+        "verified": false
+      }
+    ]
+  }
+}

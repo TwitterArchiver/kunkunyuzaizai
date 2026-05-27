@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1950364191438581936",
+    "created_at": "2025-07-30T16:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T17:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950594415439065101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "RinneMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950594415439065101",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950364191438581936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RinneMTF 这是小米吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950364175743799296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxEV4mXbUAA47Wx.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1950364191438581936",
+        "created_at": "2025-07-30T16:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T17:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950594415439065101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "RinneMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950594415439065101",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950364191438581936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RinneMTF 这是小米吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950364175743799296"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "1950364191438581936",
+        "created_at": "2025-07-30T01:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T02:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950364191438581936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RP1EXQPhy",
+              "end": 102,
+              "expanded_url": "https://x.com/RinneMTF/status/1950364191438581936/photo/1",
+              "media_key": "3_1950364175743799296",
+              "start": 79,
+              "url": "https://t.co/0RP1EXQPhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950364191438581936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4558,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当身边人知道你坐了飞机头等舱： \n        土豪，我们做朋友吧😚\n\n当身边人知道你坐了高铁一等座：\n        又一个没抢到二等座票的可怜冤大头🤣 https://t.co/0RP1EXQPhy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 1299,
+          "like_count": 20207,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1151
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/中文，English /hrt: 2025.1.15/rle: 2025.2.10/ADHD, ASD /恐跨深柜觉醒党/家长党/生物系毕业/王者，崩铁，碧蓝航线",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2386,
+          "following_count": 1829,
+          "like_count": 698,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 836
+        },
+        "username": "RinneMTF",
+        "verified": true
+      }
+    ]
+  }
+}

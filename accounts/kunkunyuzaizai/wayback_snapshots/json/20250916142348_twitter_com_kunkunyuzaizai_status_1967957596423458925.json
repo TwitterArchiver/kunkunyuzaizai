@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967539686928507275",
+    "created_at": "2025-09-16T14:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T15:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967957596423458925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767872704621772800",
+          "start": 0,
+          "username": "QiuDAOyu0730"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967957596423458925",
+    "in_reply_to_user_id": "1767872704621772800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967539686928507275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuDAOyu0730 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1285,
+        "media_key": "3_1967539673187926017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04a6IXawAE5ZqH.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967539686928507275",
+        "created_at": "2025-09-16T14:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T15:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967957596423458925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767872704621772800",
+              "start": 0,
+              "username": "QiuDAOyu0730"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967957596423458925",
+        "in_reply_to_user_id": "1767872704621772800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967539686928507275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuDAOyu0730 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967539673187926017"
+          ]
+        },
+        "author_id": "1767872704621772800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967539686928507275",
+        "created_at": "2025-09-15T10:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T11:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967539686928507275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KXpXRQmTPV",
+              "end": 32,
+              "expanded_url": "https://x.com/QiuDAOyu0730/status/1967539686928507275/photo/1",
+              "media_key": "3_1967539673187926017",
+              "start": 9,
+              "url": "https://t.co/KXpXRQmTPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967539686928507275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8142,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嗯!我今天很开心 https://t.co/KXpXRQmTPV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1829,
+          "like_count": 28420,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1906
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T11:18:02.000Z",
+        "description": "唉…@Qzero0730//你只许喜欢我!≡ω≡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Qzero0730"
+              }
+            ]
+          }
+        },
+        "id": "1767872704621772800",
+        "location": "🐟",
+        "name": "魚",
+        "pinned_tweet_id": "1958877685138301211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966814655650951169/AeJeDvlr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3866,
+          "following_count": 243,
+          "like_count": 14273,
+          "listed_count": 7,
+          "media_count": 116,
+          "tweet_count": 6731
+        },
+        "username": "QiuDAOyu0730",
+        "verified": false
+      }
+    ]
+  }
+}

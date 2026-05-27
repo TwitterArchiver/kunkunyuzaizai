@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1936485911652683825",
+    "created_at": "2025-06-22T13:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T14:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936782069163864271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936782069163864271",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936485911652683825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 我也想去但是没钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1936485906271375360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt_Hq_vbEAA_r9d.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1936485911652683825",
+        "created_at": "2025-06-22T13:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T14:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936782069163864271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936782069163864271",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936485911652683825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 我也想去但是没钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936485906271375360"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1936485911652683825",
+        "created_at": "2025-06-21T18:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T19:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936485911652683825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PfffLVWooa",
+              "end": 169,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/1936485911652683825/photo/1",
+              "media_key": "3_1936485906271375360",
+              "start": 146,
+              "url": "https://t.co/PfffLVWooa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936485911652683825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 907,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好累好充实的一天呢૮₍♡&gt;𖥦&lt;₎ა\n香港对咱来说是个好新奇的世界…似乎每一眼都能看到没见过的东西，每一处角落都是值得纪念的风景\n总之就是，不一样，跟咱去过的每一座城市都不一样 ◍＞◡＜◍\n逛了一整天…拍了三百多张照片喵，都没找到空发推，明天补几次（）\n晚安安吖可爱的港～喵～🇭🇰 https://t.co/PfffLVWooa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1251,
+          "like_count": 17594,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 940
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1919740598187147331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910722822059810817/tWPhmxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 2196,
+          "like_count": 3773,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 628
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      }
+    ]
+  }
+}

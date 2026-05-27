@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988554731258871808"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1988462789300809987",
+    "created_at": "2025-11-12T10:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T11:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988554734928884073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1934682633637908483",
+          "start": 0,
+          "username": "ln2umerical1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rzrK3Yc7I7",
+          "end": 70,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1988554734928884073/photo/1",
+          "media_key": "3_1988554731258871808",
+          "start": 47,
+          "url": "https://t.co/rzrK3Yc7I7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988554734928884073",
+    "in_reply_to_user_id": "1934682633637908483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988462789300809987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ln2umerical1 就这个美味巧乐兹  里面是香芋更好吃我感觉 巧克力+香芋YYDS https://t.co/rzrK3Yc7I7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1988554734928884073].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1988554734928884073",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1988554734928884073"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1988554731258871808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jD_gUbgAAxZYb.png",
+        "width": 534
+      },
+      {
+        "height": 4390,
+        "media_key": "3_1988462751665303553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hwVlobMAE7OsK.jpg",
+        "width": 3472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988462751665303553"
+          ]
+        },
+        "author_id": "1934682633637908483",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988462789300809987",
+        "created_at": "2025-11-12T04:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T05:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988462789300809987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SxDVcEaOhy",
+              "end": 32,
+              "expanded_url": "https://x.com/ln2umerical1/status/1988462789300809987/photo/1",
+              "media_key": "3_1988462751665303553",
+              "start": 9,
+              "url": "https://t.co/SxDVcEaOhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988462789300809987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2088,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我瘦不下来的原因 https://t.co/SxDVcEaOhy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 2256,
+          "like_count": 32227,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2390
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T18:41:08.000Z",
+        "description": "@ln2umerical",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "ln2umerical"
+              }
+            ]
+          }
+        },
+        "id": "1934682633637908483",
+        "name": "小北",
+        "pinned_tweet_id": "1988176245205725555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934683080792657921/d7OpYrYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 212,
+          "like_count": 4711,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 797
+        },
+        "username": "ln2umerical1",
+        "verified": false
+      }
+    ]
+  }
+}

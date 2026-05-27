@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1982341612308189624",
+    "created_at": "2025-10-28T23:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T00:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983308821218111841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1482030767358496768",
+          "start": 0,
+          "username": "tcdwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983308821218111841",
+    "in_reply_to_user_id": "1482030767358496768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983122526848102780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcdwww 我是重度手机用户"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1982341612308189624",
+        "created_at": "2025-10-28T23:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T00:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983308821218111841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1482030767358496768",
+              "start": 0,
+              "username": "tcdwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983308821218111841",
+        "in_reply_to_user_id": "1482030767358496768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983122526848102780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcdwww 我是重度手机用户"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482030767358496768",
+        "conversation_id": "1982341612308189624",
+        "created_at": "2025-10-28T10:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983122526848102780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983122526848102780",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983120781539479933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 看起来每个人的使用习惯真的差很多呢。\n我自己的小米 13 换过一次电池之后，一天正常使用还挺够的。\n网络上声音有时候会放大某些体验，其实除去类似火龙 810 灾情这种东西，大部分手机只要「正常使用」都能用得很踏实（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 2204,
+          "like_count": 31819,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2318
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "Also known as 陶瓷大碗/吐槽大王/土豆喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/tcdw",
+                "end": 23,
+                "expanded_url": "https://bento.me/tcdw",
+                "start": 0,
+                "url": "https://t.co/X2P4LSRBqe"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "location": "Beijing",
+        "name": "碗",
+        "pinned_tweet_id": "1982115159259922654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982437146221764609/c3ln4Y-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 374,
+          "like_count": 55769,
+          "listed_count": 6,
+          "media_count": 558,
+          "tweet_count": 7460
+        },
+        "url": "https://t.co/X2P4LSRBqe",
+        "username": "tcdwww",
+        "verified": false
+      }
+    ]
+  }
+}

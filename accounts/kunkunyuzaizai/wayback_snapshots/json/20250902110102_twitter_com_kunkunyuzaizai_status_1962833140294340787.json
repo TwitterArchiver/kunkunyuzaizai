@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1962574455177388419",
+    "created_at": "2025-09-02T11:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T12:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962833140294340787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1939362432067178497",
+          "start": 0,
+          "username": "Ki707774508956"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962833140294340787",
+    "in_reply_to_user_id": "1939362432067178497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962574455177388419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ki707774508956 有我见过但我不能说是谁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1962574455177388419",
+        "created_at": "2025-09-02T11:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T12:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962833140294340787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1939362432067178497",
+              "start": 0,
+              "username": "Ki707774508956"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962833140294340787",
+        "in_reply_to_user_id": "1939362432067178497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962574455177388419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ki707774508956 有我见过但我不能说是谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939362432067178497",
+        "conversation_id": "1962574455177388419",
+        "created_at": "2025-09-01T17:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T18:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962574455177388419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962574455177388419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4227,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会有人有男女朋友还出去约炮的吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON  凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 1651,
+          "like_count": 26298,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1758
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T16:37:02.000Z",
+        "description": "",
+        "id": "1939362432067178497",
+        "name": "喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939362638380580864/a7Y3bTsT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 87,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "Ki707774508956",
+        "verified": false
+      }
+    ]
+  }
+}

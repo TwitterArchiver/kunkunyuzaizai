@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2000594535064494315",
+    "created_at": "2025-12-16T12:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T13:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000903850035912982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1635294164626833408",
+          "start": 0,
+          "username": "puppyouoseven"
+        },
+        {
+          "end": 25,
+          "id": "1844926832967286785",
+          "start": 15,
+          "username": "orisam123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000903850035912982",
+    "in_reply_to_user_id": "1635294164626833408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000594535064494315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puppyouoseven @orisam123 男生也整不好刘海我还是细软塌＋卷毛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1736,
+        "media_key": "3_2000594524117311489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8OKHr2aoAE9868.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2000594535064494315",
+        "created_at": "2025-12-16T12:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T13:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000903850035912982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1635294164626833408",
+              "start": 0,
+              "username": "puppyouoseven"
+            },
+            {
+              "end": 25,
+              "id": "1844926832967286785",
+              "start": 15,
+              "username": "orisam123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000903850035912982",
+        "in_reply_to_user_id": "1635294164626833408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000594535064494315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puppyouoseven @orisam123 男生也整不好刘海我还是细软塌＋卷毛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000594524117311489"
+          ]
+        },
+        "author_id": "1635294164626833408",
+        "conversation_id": "2000594535064494315",
+        "created_at": "2025-12-15T15:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000594535064494315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0MH9jscnfm",
+              "end": 32,
+              "expanded_url": "https://x.com/puppyouoseven/status/2000594535064494315/photo/1",
+              "media_key": "3_2000594524117311489",
+              "start": 9,
+              "url": "https://t.co/0MH9jscnfm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000594535064494315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 212334,
+          "like_count": 4546,
+          "quote_count": 29,
+          "reply_count": 50,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "刘海求你别整我了 https://t.co/0MH9jscnfm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 2345,
+          "like_count": 34838,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2520
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-13T14:58:34.000Z",
+        "description": "一个很有趣的小女孩 欢迎来找我玩呦💌 https://t.co/1IeJF5GYvs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7%E4%B8%8D77",
+                "end": 42,
+                "expanded_url": "https://ngl.link/7%E4%B8%8D77",
+                "start": 19,
+                "url": "https://t.co/1IeJF5GYvs"
+              }
+            ]
+          }
+        },
+        "id": "1635294164626833408",
+        "location": "不许问我奇怪问题",
+        "name": "7不77",
+        "pinned_tweet_id": "1976691660395585879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997559148444262400/ZojgtFyN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 170,
+          "like_count": 4699,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 2137
+        },
+        "username": "puppyouoseven",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "疯婆 取向异性微双 有点怕疼的sub |  \n从2024年七月初开始的饭桶（减肥中)\n   |     \n闺蜜&姐姐&引路人:  \n@zihou1968025650\n\ntg群组:\nhttps://t.co/ZsnfeGPdkA\n频道:\nhttps://t.co/S9Nk0R1gFs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "zihou1968025650"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/orisam123group",
+                "end": 113,
+                "expanded_url": "https://t.me/orisam123group",
+                "start": 90,
+                "url": "https://t.co/ZsnfeGPdkA"
+              },
+              {
+                "display_url": "t.me/orisam123catsl…",
+                "end": 141,
+                "expanded_url": "http://t.me/orisam123catsleeping",
+                "start": 118,
+                "url": "https://t.co/S9Nk0R1gFs"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "-0.15m",
+        "name": "折筱orisam🏳️‍⚧️（少女秃头中）",
+        "pinned_tweet_id": "1889966215923466584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972221628097708032/LU2zOJtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3289,
+          "following_count": 1326,
+          "like_count": 60225,
+          "listed_count": 2,
+          "media_count": 837,
+          "tweet_count": 16744
+        },
+        "username": "orisam123",
+        "verified": false
+      }
+    ]
+  }
+}

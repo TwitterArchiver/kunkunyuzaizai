@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1906918946785435935",
+    "created_at": "2025-04-02T07:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T08:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907332919166701885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1653260843323383808",
+          "start": 0,
+          "username": "skyJiLine"
+        },
+        {
+          "end": 22,
+          "id": "1253165636210978817",
+          "start": 11,
+          "username": "Exusiai159"
+        },
+        {
+          "end": 37,
+          "id": "1251721968958582784",
+          "start": 23,
+          "username": "MacchiatoFika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907332919166701885",
+    "in_reply_to_user_id": "1653260843323383808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907122926236909737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skyJiLine @Exusiai159 @MacchiatoFika 马化腾:你丫的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1906918946785435935",
+        "created_at": "2025-04-02T07:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T08:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907332919166701885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1653260843323383808",
+              "start": 0,
+              "username": "skyJiLine"
+            },
+            {
+              "end": 22,
+              "id": "1253165636210978817",
+              "start": 11,
+              "username": "Exusiai159"
+            },
+            {
+              "end": 37,
+              "id": "1251721968958582784",
+              "start": 23,
+              "username": "MacchiatoFika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907332919166701885",
+        "in_reply_to_user_id": "1653260843323383808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907122926236909737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyJiLine @Exusiai159 @MacchiatoFika 马化腾:你丫的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653260843323383808",
+        "conversation_id": "1906918946785435935",
+        "created_at": "2025-04-01T17:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T18:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907122926236909737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            },
+            {
+              "end": 26,
+              "id": "1251721968958582784",
+              "start": 12,
+              "username": "MacchiatoFika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907122926236909737",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907030374808752385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 @MacchiatoFika 发扬马家传统🤓👆\n旧版本强制踢下线\n仅允许新版登录"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 660,
+          "like_count": 12185,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 593
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T04:51:31.000Z",
+        "description": "Furry | 可能是无性恋？ | 不键政",
+        "id": "1653260843323383808",
+        "location": "中国大陆 广东省 广州市 天河区",
+        "name": "天迹线",
+        "pinned_tweet_id": "1902737196798676998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867731638446436353/BADhyqTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 318,
+          "like_count": 2633,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 686
+        },
+        "username": "skyJiLine",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "混吃等死大学牲，粥批，正太控，中推鹿野灸和能天使粉丝头子/头图来自剧毒的KCN老师/⚠️会转发正太黄推🔞，如有介意请不要关注/推特用来当日记本记录碎碎念/数码产品迷，Windows二合一爱好者/编程一生黑/拉黑政治歧视仇恨言论/有大量政治内容的账号恕不回fo/扩列可私信/避难所@Exusiai159_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "https://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/7uMHbOqbVv"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1853604123599622531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905504003678765057/ZCuNwwog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4050,
+          "following_count": 4902,
+          "like_count": 103102,
+          "listed_count": 8,
+          "media_count": 3094,
+          "tweet_count": 29915
+        },
+        "url": "https://t.co/7uMHbOqbVv",
+        "username": "Exusiai159",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-19T03:59:27.000Z",
+        "description": "Fragmented.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MacchiatoFika",
+                "end": 23,
+                "expanded_url": "https://t.me/MacchiatoFika",
+                "start": 0,
+                "url": "https://t.co/DvR9acHRuQ"
+              }
+            ]
+          }
+        },
+        "id": "1251721968958582784",
+        "location": "N/A",
+        "name": "Fika✨",
+        "pinned_tweet_id": "1881674970847424596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906891371019137024/Ud6Vqlo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7186,
+          "following_count": 770,
+          "like_count": 37713,
+          "listed_count": 28,
+          "media_count": 1820,
+          "tweet_count": 7820
+        },
+        "url": "https://t.co/DvR9acHRuQ",
+        "username": "MacchiatoFika",
+        "verified": false
+      }
+    ]
+  }
+}

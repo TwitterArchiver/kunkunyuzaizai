@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883639446802702336"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1883468145844945288",
+    "created_at": "2025-01-26T22:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T23:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883639456957452454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "756779273155858432",
+          "start": 0,
+          "username": "ScarletKc_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KYDZMGmWBQ",
+          "end": 38,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1883639456957452454/photo/1",
+          "media_key": "3_1883639446802702336",
+          "start": 15,
+          "url": "https://t.co/KYDZMGmWBQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883639456957452454",
+    "in_reply_to_user_id": "756779273155858432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883468145844945288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarletKc_ 可以 https://t.co/KYDZMGmWBQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1883639456957452454].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1883639456957452454",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1883639456957452454"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1883639446802702336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiQIGM-WoAAzsmp.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883468110088593408"
+          ]
+        },
+        "author_id": "756779273155858432",
+        "conversation_id": "1883468145844945288",
+        "created_at": "2025-01-26T10:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T11:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883468145844945288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wDhNgKu7N2",
+              "end": 32,
+              "expanded_url": "https://x.com/ScarletKc_/status/1883468145844945288/photo/1",
+              "media_key": "3_1883468110088593408",
+              "start": 9,
+              "url": "https://t.co/wDhNgKu7N2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883468145844945288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 943,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国IP能上X？ https://t.co/wDhNgKu7N2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 295,
+          "like_count": 6288,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 272
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "she/her/她",
+        "id": "756779273155858432",
+        "location": "🏳️‍⚧️",
+        "name": "詩音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872461591347867648/iqHPGTW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 604,
+          "like_count": 28264,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 3042
+        },
+        "username": "ScarletKc_",
+        "verified": false
+      }
+    ]
+  }
+}

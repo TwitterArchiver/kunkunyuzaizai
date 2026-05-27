@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1906284807786561600",
+    "created_at": "2025-03-30T17:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T18:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906392752780386814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841847755691745280",
+          "start": 0,
+          "username": "jimi_yang22770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906392752780386814",
+    "in_reply_to_user_id": "1841847755691745280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906284807786561600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jimi_yang22770 我从来没拿过五杀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_1906284803332448256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnR77b9bIAAew-G.jpg",
+        "width": 2048
+      },
+      {
+        "height": 917,
+        "media_key": "3_1906284802770395136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnR77Z3a4AA7W5p.jpg",
+        "width": 2048
+      },
+      {
+        "height": 917,
+        "media_key": "3_1906284803223412736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnR77bjbYAAGDL_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 917,
+        "media_key": "3_1906284803487657985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnR77cibcAEaOse.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1906284807786561600",
+        "created_at": "2025-03-30T17:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T18:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906392752780386814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841847755691745280",
+              "start": 0,
+              "username": "jimi_yang22770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906392752780386814",
+        "in_reply_to_user_id": "1841847755691745280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906284807786561600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jimi_yang22770 我从来没拿过五杀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906284803332448256",
+            "3_1906284802770395136",
+            "3_1906284803223412736",
+            "3_1906284803487657985"
+          ]
+        },
+        "author_id": "1841847755691745280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1906284807786561600",
+        "created_at": "2025-03-30T09:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T10:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906284807786561600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZh7P7HLNG",
+              "end": 50,
+              "expanded_url": "https://x.com/jimi_yang22770/status/1906284807786561600/photo/1",
+              "media_key": "3_1906284803332448256",
+              "start": 27,
+              "url": "https://t.co/GZh7P7HLNG"
+            },
+            {
+              "display_url": "pic.x.com/GZh7P7HLNG",
+              "end": 50,
+              "expanded_url": "https://x.com/jimi_yang22770/status/1906284807786561600/photo/1",
+              "media_key": "3_1906284802770395136",
+              "start": 27,
+              "url": "https://t.co/GZh7P7HLNG"
+            },
+            {
+              "display_url": "pic.x.com/GZh7P7HLNG",
+              "end": 50,
+              "expanded_url": "https://x.com/jimi_yang22770/status/1906284807786561600/photo/1",
+              "media_key": "3_1906284803223412736",
+              "start": 27,
+              "url": "https://t.co/GZh7P7HLNG"
+            },
+            {
+              "display_url": "pic.x.com/GZh7P7HLNG",
+              "end": 50,
+              "expanded_url": "https://x.com/jimi_yang22770/status/1906284807786561600/photo/1",
+              "media_key": "3_1906284803487657985",
+              "start": 27,
+              "url": "https://t.co/GZh7P7HLNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906284807786561600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1142,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你好，打扰一下\n我五杀了\n只是想让你知道一下\n再见👋 https://t.co/GZh7P7HLNG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 642,
+          "like_count": 11864,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 575
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T14:28:28.000Z",
+        "description": "友跨顺男（总有刁民想害朕翻车）\n  ENTJ  \n間歇性極端\n  喜歡運動    已成宅男（大悲\n     \n成分：农批   蒸蒸日上  甲级战犯\n\n怎么你们都那么变态，我跟不上节奏啊",
+        "id": "1841847755691745280",
+        "location": "正在某个草丛里蓄力大招的屑光信",
+        "name": "YYY",
+        "pinned_tweet_id": "1903693486710562893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888556222405828608/-hqP8VRz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 1332,
+          "like_count": 50466,
+          "listed_count": 8,
+          "media_count": 340,
+          "tweet_count": 9271
+        },
+        "username": "jimi_yang22770",
+        "verified": false
+      }
+    ]
+  }
+}

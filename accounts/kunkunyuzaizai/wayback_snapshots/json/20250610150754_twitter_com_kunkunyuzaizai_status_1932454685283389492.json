@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932454675896586240"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1932095206754504745",
+    "created_at": "2025-06-10T15:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T16:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932454685283389492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918683847014948864",
+          "start": 0,
+          "username": "wenjiuchen80589"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iANdpL7Lso",
+          "end": 194,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1932454685283389492/photo/1",
+          "media_key": "3_1932454675896586240",
+          "start": 171,
+          "url": "https://t.co/iANdpL7Lso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932454685283389492",
+    "in_reply_to_user_id": "1918683847014948864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932095206754504745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wenjiuchen80589 这我以前初一下册的成绩语文真的废大量时间才学会数学在后面也退步了说下最好的成绩应该是初二上学期语文最高是80多英语最高110多数学最高119.9生物地理80多政治历史应该都是50 60分物理八十多后面成绩就越来越差因为长期的被80我原本2023年6月就要毕业了但因80坚持不下去休学了现在都没毕业也不敢上学 https://t.co/iANdpL7Lso"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932454685283389492].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932454685283389492",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932454685283389492"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1932454675896586240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtF1SgVb0AAYq9r.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918683847014948864",
+        "conversation_id": "1932095206754504745",
+        "created_at": "2025-06-09T15:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T16:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932095206754504745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932095206754504745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6788,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "除去今天，距离中考只剩下三天了……\n呜呜呜怎么办，数学是彻底凉了，就算我语文英语都考110也补不了数学那这么大的分差啊呜呜呜，下辈子再不偏科了……\n有点想离家出走，去接线下单子的冲动……虽然这个想法半个月前就有了呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 1223,
+          "like_count": 16443,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 877
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T15:07:41.000Z",
+        "description": "2010.6.8一只刚满15岁小药娘，170cm，59kg，减肥中，M属性。喜欢文科，热爱历史。不鉴政，🚪30（扩列QQ好友位，涩图，陪聊涩涩，如有意过门可在推特发私信喵，同类免🚪）由于玖辰平时还要上学，平常只有晚上九点之后和周末才有时间呢（过🚪转钱之后记得私信提醒一下，人太多理不过来QAQ）",
+        "id": "1918683847014948864",
+        "location": "中国四川成都",
+        "name": "玖辰🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918684716120563712/s-9ilKxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 47,
+          "like_count": 401,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 59
+        },
+        "username": "wenjiuchen80589",
+        "verified": false
+      }
+    ]
+  }
+}

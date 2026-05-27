@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2000093888862937349",
+    "created_at": "2025-12-16T07:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T08:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000830356501746097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867775031541166081",
+          "start": 0,
+          "username": "Yangcong_232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000830356501746097",
+    "in_reply_to_user_id": "1867775031541166081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000093888862937349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yangcong_232 我也想HRT但我还有很多想要的东西没有买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2000093888862937349",
+        "created_at": "2025-12-16T07:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T08:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000830356501746097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867775031541166081",
+              "start": 0,
+              "username": "Yangcong_232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000830356501746097",
+        "in_reply_to_user_id": "1867775031541166081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000093888862937349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangcong_232 我也想HRT但我还有很多想要的东西没有买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867775031541166081",
+        "conversation_id": "2000093888862937349",
+        "created_at": "2025-12-14T06:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000093888862937349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000093888862937349",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "( ﾟ∀。)犹犹豫豫很久最后还是决定想要hrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 2344,
+          "like_count": 34677,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2517
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T03:34:10.000Z",
+        "description": "无证含糖🍥/小透明",
+        "id": "1867775031541166081",
+        "name": "洋葱232🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867775381060866048/No2jZaLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 137,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "username": "Yangcong_232",
+        "verified": false
+      }
+    ]
+  }
+}

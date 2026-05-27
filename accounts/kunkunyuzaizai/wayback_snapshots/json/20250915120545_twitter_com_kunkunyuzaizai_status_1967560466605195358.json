@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967523004440830237",
+    "created_at": "2025-09-15T12:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T13:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967560466605195358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761601564962426880",
+          "start": 0,
+          "username": "2828yy123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967560466605195358",
+    "in_reply_to_user_id": "1761601564962426880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967523004440830237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2828yy123 看着好美味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967522990628974592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04LvE_asAAsQgr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967523004440830237",
+        "created_at": "2025-09-15T12:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T13:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967560466605195358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761601564962426880",
+              "start": 0,
+              "username": "2828yy123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967560466605195358",
+        "in_reply_to_user_id": "1761601564962426880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967523004440830237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2828yy123 看着好美味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967522990628974592"
+          ]
+        },
+        "author_id": "1761601564962426880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1967523004440830237",
+        "created_at": "2025-09-15T09:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T10:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967523004440830237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQ39RYo7VW",
+              "end": 56,
+              "expanded_url": "https://x.com/2828yy123/status/1967523004440830237/photo/1",
+              "media_key": "3_1967522990628974592",
+              "start": 33,
+              "url": "https://t.co/RQ39RYo7VW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967523004440830237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 897,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天晚上吃照烧鸡腿饭配抹茶瑞纳冰～\n\n💛💛大家也要好好吃饭喔💛💛 https://t.co/RQ39RYo7VW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 1817,
+          "like_count": 28238,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1890
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T03:58:46.000Z",
+        "description": "自用蜂鸟VPN：https://t.co/uM0GstQXdu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 31,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=WOQXa1Vk",
+                "start": 8,
+                "url": "https://t.co/uM0GstQXdu"
+              }
+            ]
+          }
+        },
+        "id": "1761601564962426880",
+        "name": "布丁大炮",
+        "pinned_tweet_id": "1933161393060290795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931084206844915712/cPzvypqT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4344,
+          "following_count": 299,
+          "like_count": 22420,
+          "listed_count": 7,
+          "media_count": 927,
+          "tweet_count": 11792
+        },
+        "username": "2828yy123",
+        "verified": false
+      }
+    ]
+  }
+}

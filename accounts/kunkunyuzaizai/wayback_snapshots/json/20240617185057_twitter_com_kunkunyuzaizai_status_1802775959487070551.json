@@ -1,0 +1,88 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1802775952730005504"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1802775959487070551",
+    "created_at": "2024-06-17T18:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T19:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1802775959487070551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/SjTOAoi0LG",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kunkunyuzaizai/status/1802775959487070551/photo/1",
+          "media_key": "3_1802775952730005504",
+          "start": 5,
+          "url": "https://t.co/SjTOAoi0LG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802775959487070551",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑死我了 https://t.co/SjTOAoi0LG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1802775959487070551].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1802775959487070551",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1802775959487070551"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1645,
+        "media_key": "3_1802775952730005504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQS_LXAWoAAkVcj.jpg",
+        "width": 1228
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年的小男娘",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 239,
+          "like_count": 4547,
+          "listed_count": 0,
+          "tweet_count": 209
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

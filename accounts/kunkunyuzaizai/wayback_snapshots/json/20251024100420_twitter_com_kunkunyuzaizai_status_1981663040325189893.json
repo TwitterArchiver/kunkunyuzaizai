@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1981391113782223335",
+    "created_at": "2025-10-24T10:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T11:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981663040325189893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1962893857731084289",
+          "start": 0,
+          "username": "lgnwsmbaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981663040325189893",
+    "in_reply_to_user_id": "1962893857731084289",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981391113782223335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lgnwsmbaw HAPPY BIRTHDAY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1981391113782223335",
+        "created_at": "2025-10-24T10:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981663040325189893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962893857731084289",
+              "start": 0,
+              "username": "lgnwsmbaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981663040325189893",
+        "in_reply_to_user_id": "1962893857731084289",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981391113782223335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lgnwsmbaw HAPPY BIRTHDAY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962893857731084289",
+        "conversation_id": "1981391113782223335",
+        "created_at": "2025-10-23T16:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T17:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981391113782223335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981391113782223335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 276376,
+          "like_count": 2487,
+          "quote_count": 3,
+          "reply_count": 1581,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "看到这条推文的宝宝能不能祝我生日快乐( *｀ω´)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n提问箱https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 48,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 25,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 2185,
+          "like_count": 31812,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2295
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T15:02:38.000Z",
+        "description": "国产女子性压抑行为图鉴",
+        "id": "1962893857731084289",
+        "location": "十八线城市中等待枯萎的城中村",
+        "name": "降降火气吧",
+        "pinned_tweet_id": "1980326921239175347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979948891152830464/bReSEipp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4464,
+          "following_count": 41,
+          "like_count": 2282,
+          "listed_count": 10,
+          "media_count": 161,
+          "tweet_count": 1799
+        },
+        "username": "lgnwsmbaw",
+        "verified": false
+      }
+    ]
+  }
+}

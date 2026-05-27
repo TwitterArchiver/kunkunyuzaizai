@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1938246514985578582",
+    "created_at": "2025-06-27T01:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T02:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938415149884576163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1467435740959150081",
+          "start": 0,
+          "username": "JianYu233"
+        },
+        {
+          "end": 23,
+          "id": "1433833820810211332",
+          "start": 11,
+          "username": "Ettf_Cabage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938415149884576163",
+    "in_reply_to_user_id": "1467435740959150081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938348444994965819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JianYu233 @Ettf_Cabage 柿子是水果啊 难道你说的是番茄？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1938246514985578582",
+        "created_at": "2025-06-27T01:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T02:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938415149884576163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1467435740959150081",
+              "start": 0,
+              "username": "JianYu233"
+            },
+            {
+              "end": 23,
+              "id": "1433833820810211332",
+              "start": 11,
+              "username": "Ettf_Cabage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938415149884576163",
+        "in_reply_to_user_id": "1467435740959150081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938348444994965819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JianYu233 @Ettf_Cabage 柿子是水果啊 难道你说的是番茄？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467435740959150081",
+        "conversation_id": "1938246514985578582",
+        "created_at": "2025-06-26T21:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T22:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938348444994965819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1433833820810211332",
+              "start": 0,
+              "username": "Ettf_Cabage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938348444994965819",
+        "in_reply_to_user_id": "1433833820810211332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938246514985578582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ettf_Cabage 推特是这样，顺带一提我觉得是柿子炒鸡蛋（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1259,
+          "like_count": 18461,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 977
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T10:08:57.000Z",
+        "description": "07丨喜欢特摄，观鸟，拼胶，机娘，两爬节肢，粥（厨蓝毒），车万，女装，MGS。以后成分会更杂丨重抑重焦丨生理性别男，心理也是，不吃药，女装但大概不算南梁丨想交朋友或者互关可以直接和我私信，不太敢主动丨不建政丨讨厌猫孝子丨私信还请耐心等待下有时候睡觉没法回（\n妹妹：@xing0866879393",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 132,
+                "username": "xing0866879393"
+              }
+            ]
+          }
+        },
+        "id": "1467435740959150081",
+        "location": "内蒙",
+        "name": "剑鱼",
+        "pinned_tweet_id": "1893180601777467500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916716910584205312/4ZQCmO4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 1036,
+          "like_count": 23973,
+          "listed_count": 4,
+          "media_count": 396,
+          "tweet_count": 7210
+        },
+        "username": "JianYu233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T16:46:52.000Z",
+        "description": "中文/English 双性恋 男孩子！活动范围以泉州／厦门为主 现在是18岁想可爱的180cm 85kg性压抑肥猪 友跨／航空航天／ACG／车迷（汽车爱好者）欢迎来交朋友！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ettfcabage.airrice.cn",
+                "end": 23,
+                "expanded_url": "http://ettfcabage.airrice.cn",
+                "start": 0,
+                "url": "https://t.co/p5B0lrWGcf"
+              }
+            ]
+          }
+        },
+        "id": "1433833820810211332",
+        "location": "Airrice space center",
+        "name": "Ettf Cabage @什么都只会一点的废物人生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617749411005857793/1ffSoHVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 1373,
+          "like_count": 35057,
+          "listed_count": 4,
+          "media_count": 221,
+          "tweet_count": 8010
+        },
+        "url": "https://t.co/p5B0lrWGcf",
+        "username": "Ettf_Cabage",
+        "verified": false
+      }
+    ]
+  }
+}

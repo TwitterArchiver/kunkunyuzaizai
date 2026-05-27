@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1951645246062027051",
+    "created_at": "2025-08-02T23:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T00:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951784161112629362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1468163720195239938",
+          "start": 0,
+          "username": "kuromi_starking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951784161112629362",
+    "in_reply_to_user_id": "1468163720195239938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951645246062027051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuromi_starking 花火大会是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951645241116897281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxWjAaxasAEF1Ly.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1951645246062027051",
+        "created_at": "2025-08-02T23:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T00:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951784161112629362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1468163720195239938",
+              "start": 0,
+              "username": "kuromi_starking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951784161112629362",
+        "in_reply_to_user_id": "1468163720195239938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951645246062027051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuromi_starking 花火大会是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951645241116897281"
+          ]
+        },
+        "author_id": "1468163720195239938",
+        "conversation_id": "1951645246062027051",
+        "created_at": "2025-08-02T14:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T15:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951645246062027051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FeQqjtFPym",
+              "end": 36,
+              "expanded_url": "https://x.com/kuromi_starking/status/1951645246062027051/photo/1",
+              "media_key": "3_1951645241116897281",
+              "start": 13,
+              "url": "https://t.co/FeQqjtFPym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951645246062027051",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 55905,
+          "like_count": 437,
+          "quote_count": 12,
+          "reply_count": 81,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "？？？？？？？？？？？？ https://t.co/FeQqjtFPym"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 1295,
+          "like_count": 20299,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1164
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T10:22:07.000Z",
+        "description": "格安留学/不動産専門/就労支援/両替屋/君子居必择乡、遊必就士、所以防邪僻而近中正也",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCpK6b…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCpK6b7YCSlU4aN_tPdP4Daw",
+                "start": 0,
+                "url": "https://t.co/vvlVA1CzKz"
+              }
+            ]
+          }
+        },
+        "id": "1468163720195239938",
+        "location": "神奈 横浜市 神奈川区",
+        "name": "張　文文(万事屋版)",
+        "pinned_tweet_id": "1813064868666483068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921912752362467328/jpmoL15H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83790,
+          "following_count": 767,
+          "like_count": 38390,
+          "listed_count": 343,
+          "media_count": 4942,
+          "tweet_count": 11062
+        },
+        "url": "https://t.co/vvlVA1CzKz",
+        "username": "kuromi_starking",
+        "verified": true
+      }
+    ]
+  }
+}

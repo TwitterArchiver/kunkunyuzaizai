@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1971263989146415486",
+    "created_at": "2025-09-26T07:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T08:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971482238048141371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964690216049909762",
+          "start": 0,
+          "username": "GirlCanGetSad07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971482238048141371",
+    "in_reply_to_user_id": "1964690216049909762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971263989146415486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GirlCanGetSad07 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1971263989146415486",
+        "created_at": "2025-09-26T07:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T08:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971482238048141371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964690216049909762",
+              "start": 0,
+              "username": "GirlCanGetSad07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971482238048141371",
+        "in_reply_to_user_id": "1964690216049909762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971263989146415486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GirlCanGetSad07 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964690216049909762",
+        "conversation_id": "1971263989146415486",
+        "created_at": "2025-09-25T17:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T18:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971263989146415486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971263989146415486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11698,
+          "like_count": 178,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我每次看到丑货被溺爱我就急"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 2099,
+          "like_count": 30809,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2157
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T14:00:39.000Z",
+        "description": "我不礼貌性回关我有时候懒得回评论而且我会双取人也会拉黑人｜匿名在@BuleEeee_F",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "BuleEeee_F"
+              }
+            ]
+          }
+        },
+        "id": "1964690216049909762",
+        "location": "答应我会幸福",
+        "name": "我拒绝放置play",
+        "pinned_tweet_id": "1969658956453699779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965930146897985536/pI1kx1Qo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 185,
+          "like_count": 1847,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 771
+        },
+        "username": "GirlCanGetSad07",
+        "verified": false
+      }
+    ]
+  }
+}

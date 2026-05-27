@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2036803471463379332",
+    "created_at": "2026-03-27T03:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T04:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037370326607351811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029891270861299712",
+          "start": 0,
+          "username": "JoelQinmetme"
+        },
+        {
+          "end": 28,
+          "id": "1999007250829230080",
+          "start": 14,
+          "username": "DDaquaforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037370326607351811",
+    "in_reply_to_user_id": "2029891270861299712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036803471463379332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JoelQinmetme @DDaquaforever 喵呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2036803471463379332",
+        "created_at": "2026-03-27T03:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T04:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037370326607351811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029891270861299712",
+              "start": 0,
+              "username": "JoelQinmetme"
+            },
+            {
+              "end": 28,
+              "id": "1999007250829230080",
+              "start": 14,
+              "username": "DDaquaforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037370326607351811",
+        "in_reply_to_user_id": "2029891270861299712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036803471463379332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JoelQinmetme @DDaquaforever 喵呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029891270861299712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2036803471463379332",
+        "created_at": "2026-03-25T13:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T14:48:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036802326825242944",
+          "2036803471463379332"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "mtf"
+            },
+            {
+              "end": 153,
+              "start": 149,
+              "tag": "xyn"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "抽奖"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036803471463379332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6537,
+          "like_count": 117,
+          "quote_count": 1,
+          "reply_count": 75,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "500fo到啦\nkoala给大家抽奖啦！ \n一等奖，1位，补佳乐（国补）一盒（折现30）\n二等奖，3位，45cm小鲨鲨一只（折现10）\n三等奖，5位，蓝粉白口罩10只（折现3r）\n参与条件：关注点赞评论转帖 \n4月1日用grok开奖 \n多多参与喵～\n若与沃的其他产品一起购买可以免运费喵\n#mtf #xyn #抽奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 2798,
+          "like_count": 44012,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3032
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T12:06:37.000Z",
+        "description": "09高中生｜mtf｜含糖中｜第一次含糖 2026.02.18｜正式含糖2026.02.28｜互fo｜坐标上海｜生竞中｜175/46｜生产日期2009.05.26｜不建政不od｜小号@espakoala｜姐姐@ElysiumFengxuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "espakoala"
+              },
+              {
+                "end": 119,
+                "start": 103,
+                "username": "ElysiumFengxuan"
+              }
+            ]
+          }
+        },
+        "id": "2029891270861299712",
+        "name": "EspaKoala🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2034823393179316679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029891487677468672/_RfnoaLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 840,
+          "like_count": 766,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 145
+        },
+        "username": "JoelQinmetme",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4093,
+          "following_count": 4570,
+          "like_count": 7748,
+          "listed_count": 12,
+          "media_count": 2718,
+          "tweet_count": 12700
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

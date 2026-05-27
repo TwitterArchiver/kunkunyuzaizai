@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1949081500642628065",
+    "created_at": "2026-02-12T08:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T09:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021857300097683848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761778106740936704",
+          "start": 0,
+          "username": "80YearPopMusic"
+        },
+        {
+          "end": 25,
+          "id": "804592206",
+          "start": 16,
+          "username": "daimajia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021857300097683848",
+    "in_reply_to_user_id": "1761778106740936704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949309947176473051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@80YearPopMusic @daimajia 把软件推送关了就行 特别是自带的浏览器 天气什么的 高德地图也爱推送垃圾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1949081500642628065",
+        "created_at": "2026-02-12T08:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T09:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021857300097683848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761778106740936704",
+              "start": 0,
+              "username": "80YearPopMusic"
+            },
+            {
+              "end": 25,
+              "id": "804592206",
+              "start": 16,
+              "username": "daimajia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021857300097683848",
+        "in_reply_to_user_id": "1761778106740936704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949309947176473051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@80YearPopMusic @daimajia 把软件推送关了就行 特别是自带的浏览器 天气什么的 高德地图也爱推送垃圾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761778106740936704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1949081500642628065",
+        "created_at": "2025-07-27T03:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T04:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949309947176473051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "804592206",
+              "start": 0,
+              "username": "daimajia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949309947176473051",
+        "in_reply_to_user_id": "804592206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3661,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949081500642628065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daimajia 一加的安卓手机系统和小米华为一样会推送广告吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627|INFP|XYN|HRT2026 2.4|无证含糖🏳️‍⚧️🍥雌二醇凝胶|\n|不OD|不抽烟|不喝酒|抑郁|焦虑|早八晚六打工人|使命召唤手游＆巅峰极速手游＆网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 151,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 128,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 2565,
+          "like_count": 38967,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2701
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T15:41:15.000Z",
+        "description": "",
+        "id": "1761778106740936704",
+        "name": "Äpfel.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764346835668496384/oQxFLX8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 1113,
+          "like_count": 2364,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 3232
+        },
+        "username": "80YearPopMusic",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-05T13:23:53.000Z",
+        "description": "🎸独立投资人/ 👨‍💼 前真格基金投资 VP / 🚀 峰瑞资本投资经理 / 🛠️ 掘金联合创始人 / 🌊 GitHub 4w 星达成者 / 🎓 北京师范大学计算机硕士 / 🎓 西安西北大学学士 前面都是些没用的，其实我只是一个戴着大人面具🎭的小孩👶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "daimajia.com",
+                "end": 23,
+                "expanded_url": "https://daimajia.com",
+                "start": 0,
+                "url": "https://t.co/U0M2QjgcF2"
+              }
+            ]
+          }
+        },
+        "id": "804592206",
+        "location": "Beijing",
+        "name": "代码家",
+        "pinned_tweet_id": "1961973938868924908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1079686710282182663/tBz4bUwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14375,
+          "following_count": 4007,
+          "like_count": 4529,
+          "listed_count": 157,
+          "media_count": 299,
+          "tweet_count": 2307
+        },
+        "url": "https://t.co/U0M2QjgcF2",
+        "username": "daimajia",
+        "verified": true
+      }
+    ]
+  }
+}

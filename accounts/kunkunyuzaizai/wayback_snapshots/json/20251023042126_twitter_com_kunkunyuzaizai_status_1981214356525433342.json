@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1173614294082048001",
+          "name": "OPPO Indonesia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      }
+    ],
+    "conversation_id": "1980536466968097119",
+    "created_at": "2025-10-23T04:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T05:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981214356525433342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1935719415175372801",
+          "start": 0,
+          "username": "qikiqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981214356525433342",
+    "in_reply_to_user_id": "1935719415175372801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980536466968097119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qikiqwq OPPO RENO8PRO+ 天玑8100MAX处理器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "1980536466968097119",
+        "created_at": "2025-10-23T04:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T05:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981214356525433342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1935719415175372801",
+              "start": 0,
+              "username": "qikiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981214356525433342",
+        "in_reply_to_user_id": "1935719415175372801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980536466968097119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qikiqwq OPPO RENO8PRO+ 天玑8100MAX处理器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935719415175372801",
+        "conversation_id": "1980536466968097119",
+        "created_at": "2025-10-21T07:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980536466968097119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980536466968097119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 53170,
+          "like_count": 329,
+          "quote_count": 1,
+          "reply_count": 380,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "快说，泥们现在都用的什么手机（我还在用苦逼k50）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n提问箱https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 48,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 25,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 2174,
+          "like_count": 31818,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2292
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T15:21:07.000Z",
+        "description": "| MTF🍥 | hrt:25.5.16 | 暂时还没那么想死 | 音游 | 欧美电音 术力口 | oder | 自暴自弃 | 不想在学校营业 | 抑郁焦虑易性症心境情感障碍 |里推:@qikiowo| 最爱的人:@yysukiqiki | puppy :@cirn039 | 亲友:@liang080423 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 92,
+                "username": "qikiowo"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "yysukiqiki"
+              },
+              {
+                "end": 136,
+                "start": 128,
+                "username": "cirn039"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "liang080423"
+              }
+            ]
+          }
+        },
+        "id": "1935719415175372801",
+        "location": "Japantown, San Francisco",
+        "name": "qiki🏳️‍⚧🍥",
+        "pinned_tweet_id": "1936111039776534570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942107708976488448/ijqrPhOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 320,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 750
+        },
+        "username": "qikiqwq",
+        "verified": false
+      }
+    ]
+  }
+}

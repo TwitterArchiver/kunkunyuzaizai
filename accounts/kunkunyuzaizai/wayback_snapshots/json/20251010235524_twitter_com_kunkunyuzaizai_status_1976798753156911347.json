@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1976690837200482378",
+    "created_at": "2025-10-10T23:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T00:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976798753156911347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847025525610762240",
+          "start": 0,
+          "username": "KS_Nitori"
+        },
+        {
+          "end": 26,
+          "id": "1814598522895020033",
+          "start": 11,
+          "username": "LeoTrans112233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976798753156911347",
+    "in_reply_to_user_id": "1847025525610762240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976695128464277612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KS_Nitori @LeoTrans112233 我也想要 价格多少😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1976690837200482378",
+        "created_at": "2025-10-10T23:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T00:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976798753156911347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847025525610762240",
+              "start": 0,
+              "username": "KS_Nitori"
+            },
+            {
+              "end": 26,
+              "id": "1814598522895020033",
+              "start": 11,
+              "username": "LeoTrans112233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976798753156911347",
+        "in_reply_to_user_id": "1847025525610762240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976695128464277612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KS_Nitori @LeoTrans112233 我也想要 价格多少😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847025525610762240",
+        "conversation_id": "1976690837200482378",
+        "created_at": "2025-10-10T17:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976695128464277612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814598522895020033",
+              "start": 0,
+              "username": "LeoTrans112233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976695128464277612",
+        "in_reply_to_user_id": "1814598522895020033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976690837200482378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeoTrans112233 咱可以给你点自制的凝胶呢🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 2143,
+          "like_count": 31517,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2254
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我荷取|\n备用账号： @KS_Nitori_1|\n抑郁/ASD/不登校|\n彻底翻车（HRT 20250611）|\nBI9CJE/尼康佬/机械/铁道/……（爱好广泛，但是都不精通QAQ）|\n东方/P社/少战/邦/……\n|（2009～202?）\n成分非常复杂的说喵，不会讨厌任何人的，来陪我好不好……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "KS_Nitori_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/k_nitori",
+                "end": 23,
+                "expanded_url": "http://t.me/k_nitori",
+                "start": 0,
+                "url": "https://t.co/8rmha2mcys"
+              }
+            ]
+          }
+        },
+        "id": "1847025525610762240",
+        "location": "Xi'an, Shaanxi, China",
+        "name": "_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941716374922956800/3-1oxPdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1245,
+          "like_count": 9100,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 1408
+        },
+        "url": "https://t.co/8rmha2mcys",
+        "username": "KS_Nitori",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T09:49:54.000Z",
+        "description": "简介在置顶喵|无证含糖|08高三牲|穷|没钱买糖|求施舍|阴暗地爬行|突然喵喵叫|成绩中等偏上|目标是985的软件工程|害怕炸柜|同类请务必和我互fo贴贴啊|不设门槛|同类可直接私我要qq号或者群号（不喜欢的人我会踢掉）|非同类要加联系方式请先资助我一顿饭喔|周末只要看到消息就会回复|有几率爆出几张好看的自拍",
+        "id": "1814598522895020033",
+        "location": "在你心里…",
+        "name": "锦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1962917147489009864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930303859240644609/xeAo-Wo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 229,
+          "like_count": 584,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 333
+        },
+        "username": "LeoTrans112233",
+        "verified": false
+      }
+    ]
+  }
+}

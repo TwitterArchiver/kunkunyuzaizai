@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1958121758516777429",
+    "created_at": "2025-11-13T10:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T11:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988920318564421873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1798389435157147648",
+          "start": 0,
+          "username": "yanliang234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988920318564421873",
+    "in_reply_to_user_id": "1798389435157147648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958121758516777429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanliang234 萌萌哒"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1958121758516777429].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1958121758516777429",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1958121758516777429"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1958121758516777429",
+        "created_at": "2025-11-13T10:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988920318564421873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1798389435157147648",
+              "start": 0,
+              "username": "yanliang234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988920318564421873",
+        "in_reply_to_user_id": "1798389435157147648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958121758516777429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanliang234 萌萌哒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 2281,
+          "like_count": 32436,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2409
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T16:20:37.000Z",
+        "description": "I'll be your 1up boy Ι海面：@yanliang456  Ι\n自用蜂鸟链接 https://t.co/3vNgbJ16qa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "yanliang456"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sachlife.com/#/register?cod…",
+                "end": 71,
+                "expanded_url": "https://www.sachlife.com/#/register?code=thocsLxJ",
+                "start": 48,
+                "url": "https://t.co/3vNgbJ16qa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.79754901",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.79754901",
+                "start": 0,
+                "url": "https://t.co/AeTYWvnVOf"
+              }
+            ]
+          }
+        },
+        "id": "1798389435157147648",
+        "location": "于是猪小水开始期待（匿名↓）",
+        "name": "水",
+        "pinned_tweet_id": "1958121758516777429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929538124985901056/yqGmoBZd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 216,
+          "like_count": 5852,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 4249
+        },
+        "url": "https://t.co/AeTYWvnVOf",
+        "username": "yanliang234",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947118219187142657"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1947118232990843031",
+    "created_at": "2025-07-21T02:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T03:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947118232990843031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hJpZG5pmra",
+          "end": 33,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1947118232990843031/photo/1",
+          "media_key": "3_1947118219187142657",
+          "start": 10,
+          "url": "https://t.co/hJpZG5pmra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947118232990843031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人看过这个嘛😭🥺 https://t.co/hJpZG5pmra"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1947118232990843031].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1947118232990843031",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1947118232990843031"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_1947118219187142657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwWNtD5XQAEReax.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1283,
+          "like_count": 19831,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1121
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

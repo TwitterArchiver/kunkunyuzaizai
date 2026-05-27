@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1966679397756531043",
+    "created_at": "2025-09-13T23:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T00:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967015054878093389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908668668919398400",
+          "start": 0,
+          "username": "Kazumasski"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967015054878093389",
+    "in_reply_to_user_id": "1908668668919398400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966679397756531043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazumasski 转转典型的收的价格低卖的价格高"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1966679376134918144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0sMeQGb0AAjlMT.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1966679397756531043",
+        "created_at": "2025-09-13T23:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T00:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967015054878093389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "Kazumasski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967015054878093389",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966679397756531043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazumasski 转转典型的收的价格低卖的价格高"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966679376134918144"
+          ]
+        },
+        "author_id": "1908668668919398400",
+        "conversation_id": "1966679397756531043",
+        "created_at": "2025-09-13T01:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T02:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966679397756531043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nU3Y36qqdU",
+              "end": 45,
+              "expanded_url": "https://x.com/Kazumasski/status/1966679397756531043/photo/1",
+              "media_key": "3_1966679376134918144",
+              "start": 22,
+              "url": "https://t.co/nU3Y36qqdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966679397756531043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 31301,
+          "like_count": 211,
+          "quote_count": 2,
+          "reply_count": 42,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "？\n我一万买的手机你告诉我只值3000？？ https://t.co/nU3Y36qqdU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 1777,
+          "like_count": 27669,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1853
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "★佐々木 和真(ささき かずま)と申します★｜｜もしかしてお前も敵か？｜🏳️‍🌈｜オタク｜音ゲーマ｜🚹13歳中2生✏️｜サブ垢@HHAAIIBOT 音ゲー垢@BBLLOOCCKK_｜头像是 #白买蓝｜反跨｜〒SASHISUSESO@HOTMAIL.COM｜推事推了｜よろしく申し上げます。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 99,
+                "start": 95,
+                "tag": "白买蓝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "HHAAIIBOT"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "BBLLOOCCKK_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "irasutoya.com",
+                "end": 23,
+                "expanded_url": "http://irasutoya.com",
+                "start": 0,
+                "url": "https://t.co/vxqq8xI5xm"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "JR西日本",
+        "name": "佐々木 かずま 🏳️‍🌈",
+        "pinned_tweet_id": "1964625217613185057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966837696267177984/HB8_mVVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 4236,
+          "like_count": 6012,
+          "listed_count": 5,
+          "media_count": 1129,
+          "tweet_count": 6283
+        },
+        "url": "https://t.co/vxqq8xI5xm",
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

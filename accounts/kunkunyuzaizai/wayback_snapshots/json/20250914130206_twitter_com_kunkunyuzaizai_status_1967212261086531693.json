@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967064591260619173",
+    "created_at": "2025-09-14T13:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T14:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967212261086531693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1931829992427601920",
+          "start": 0,
+          "username": "finn0439"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967212261086531693",
+    "in_reply_to_user_id": "1931829992427601920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967064591260619173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@finn0439 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967064580179337216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0xq0E_XoAA6yt_.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967064591260619173",
+        "created_at": "2025-09-14T13:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967212261086531693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1931829992427601920",
+              "start": 0,
+              "username": "finn0439"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967212261086531693",
+        "in_reply_to_user_id": "1931829992427601920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967064591260619173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@finn0439 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967064580179337216"
+          ]
+        },
+        "author_id": "1931829992427601920",
+        "conversation_id": "1967064591260619173",
+        "created_at": "2025-09-14T03:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T04:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967064591260619173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dSjdPjgOF1",
+              "end": 42,
+              "expanded_url": "https://x.com/finn0439/status/1967064591260619173/photo/1",
+              "media_key": "3_1967064580179337216",
+              "start": 19,
+              "url": "https://t.co/dSjdPjgOF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967064591260619173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19564,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✌️3000了！粉丝数量正好是我生日 https://t.co/dSjdPjgOF1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 1790,
+          "like_count": 27994,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1873
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T21:45:57.000Z",
+        "description": "青年音 ♓️ intp 直男 ✝️ 抽象派 （接陪聊 陪🥣）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/finn040309",
+                "end": 23,
+                "expanded_url": "https://ngl.link/finn040309",
+                "start": 0,
+                "url": "https://t.co/d458ZLbWSS"
+              }
+            ]
+          }
+        },
+        "id": "1931829992427601920",
+        "location": "2.7km",
+        "name": "尼罗河",
+        "pinned_tweet_id": "1959859078902976619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955451273203027971/c6TBj0zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3157,
+          "following_count": 29,
+          "like_count": 6503,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/d458ZLbWSS",
+        "username": "finn0439",
+        "verified": false
+      }
+    ]
+  }
+}

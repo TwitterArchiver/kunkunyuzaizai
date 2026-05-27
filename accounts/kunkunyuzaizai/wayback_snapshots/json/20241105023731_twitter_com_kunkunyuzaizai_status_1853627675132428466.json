@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1850993682742182010",
+    "created_at": "2024-11-05T02:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T03:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853627675132428466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1684345799050661888",
+          "start": 0,
+          "username": "Ellis8964China"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853627675132428466",
+    "in_reply_to_user_id": "1684345799050661888",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850993682742182010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ellis8964China 哈里斯很大可能会让世界第三次世界大战爆发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1850993682742182010",
+        "created_at": "2024-11-05T02:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T03:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853627675132428466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1684345799050661888",
+              "start": 0,
+              "username": "Ellis8964China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853627675132428466",
+        "in_reply_to_user_id": "1684345799050661888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850993682742182010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ellis8964China 哈里斯很大可能会让世界第三次世界大战爆发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850993668905205761",
+            "3_1850993668896780288",
+            "3_1850993668909309953"
+          ]
+        },
+        "author_id": "1684345799050661888",
+        "conversation_id": "1850993682742182010",
+        "created_at": "2024-10-28T20:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T21:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850993682742182010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/93h5Jc9Ig8",
+              "end": 71,
+              "expanded_url": "https://x.com/Ellis8964China/status/1850993682742182010/photo/1",
+              "media_key": "3_1850993668905205761",
+              "start": 48,
+              "url": "https://t.co/93h5Jc9Ig8"
+            },
+            {
+              "display_url": "pic.x.com/93h5Jc9Ig8",
+              "end": 71,
+              "expanded_url": "https://x.com/Ellis8964China/status/1850993682742182010/photo/1",
+              "media_key": "3_1850993668896780288",
+              "start": 48,
+              "url": "https://t.co/93h5Jc9Ig8"
+            },
+            {
+              "display_url": "pic.x.com/93h5Jc9Ig8",
+              "end": 71,
+              "expanded_url": "https://x.com/Ellis8964China/status/1850993682742182010/photo/1",
+              "media_key": "3_1850993668909309953",
+              "start": 48,
+              "url": "https://t.co/93h5Jc9Ig8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850993682742182010",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 736255,
+          "like_count": 977,
+          "quote_count": 40,
+          "reply_count": 784,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "现在随便打开墙内关于美国大选的新闻，评论区清一色全是支持川普马斯克的。\n\n谁能告诉我为什么？😗 https://t.co/93h5Jc9Ig8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 261,
+          "like_count": 5257,
+          "listed_count": 0,
+          "tweet_count": 230
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T23:31:57.000Z",
+        "description": "Chinese /Reformed Christians✝️ /Speak up for #humanRights and #animals in China.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 45,
+                "tag": "humanRights"
+              },
+              {
+                "end": 70,
+                "start": 62,
+                "tag": "animals"
+              }
+            ]
+          }
+        },
+        "id": "1684345799050661888",
+        "location": "乌鲁木齐中路",
+        "name": "CruelRealityCN🐾",
+        "pinned_tweet_id": "1821127360256589957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773457167158312960/FCz44qC5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2751,
+          "following_count": 890,
+          "like_count": 24287,
+          "listed_count": 16,
+          "tweet_count": 7446
+        },
+        "username": "Ellis8964China",
+        "verified": false
+      }
+    ]
+  }
+}

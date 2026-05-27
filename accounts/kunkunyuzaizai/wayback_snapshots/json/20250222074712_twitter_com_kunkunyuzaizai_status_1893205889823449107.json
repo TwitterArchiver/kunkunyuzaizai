@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1890428978537623778",
+    "created_at": "2025-02-22T07:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T08:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893205889823449107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852646602537865216",
+          "start": 0,
+          "username": "Bu82742Chun"
+        },
+        {
+          "end": 24,
+          "id": "1257389785330651136",
+          "start": 13,
+          "username": "cdxx999999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893205889823449107",
+    "in_reply_to_user_id": "1852646602537865216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890952972793675998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bu82742Chun @cdxx999999 假jj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1890428978537623778",
+        "created_at": "2025-02-22T07:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T08:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893205889823449107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852646602537865216",
+              "start": 0,
+              "username": "Bu82742Chun"
+            },
+            {
+              "end": 24,
+              "id": "1257389785330651136",
+              "start": 13,
+              "username": "cdxx999999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893205889823449107",
+        "in_reply_to_user_id": "1852646602537865216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890952972793675998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bu82742Chun @cdxx999999 假jj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852646602537865216",
+        "conversation_id": "1890428978537623778",
+        "created_at": "2025-02-16T02:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T03:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890952972793675998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1257389785330651136",
+              "start": 0,
+              "username": "cdxx999999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890952972793675998",
+        "in_reply_to_user_id": "1257389785330651136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2658,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890428978537623778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cdxx999999 这是长了两根？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 495,
+          "like_count": 8948,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 372
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T09:39:27.000Z",
+        "description": "呐，您终于找到我了。my  daddy\n\n（97年，已婚人士，略BBW，喷泉小能手，（恋父）声控手控，轻微性瘾，服务型，就这么多吧，是个随缘菩萨，富有且慷慨）",
+        "id": "1852646602537865216",
+        "name": "春风不解风情",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856713860469989376/F3VfsHQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 21,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 33
+        },
+        "username": "Bu82742Chun",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-04T19:21:58.000Z",
+        "description": "00后反差男娘🥵｜纯天然不含糖💗｜有老婆主💕｜不约不线下🔞｜出原味👙｜喜欢熙熙的可以投喂赞助捏😘感谢支持｜🚪169/269/469/899｜",
+        "id": "1257389785330651136",
+        "name": "熙熙酱💕",
+        "pinned_tweet_id": "1893172971143077970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875592237637345280/1Jq0PtBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119102,
+          "following_count": 916,
+          "like_count": 2402,
+          "listed_count": 528,
+          "media_count": 175,
+          "tweet_count": 1004
+        },
+        "username": "cdxx999999",
+        "verified": false
+      }
+    ]
+  }
+}

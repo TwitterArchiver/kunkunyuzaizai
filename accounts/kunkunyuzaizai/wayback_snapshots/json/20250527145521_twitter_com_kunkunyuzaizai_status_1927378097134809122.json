@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1926781431889494138",
+    "created_at": "2025-05-27T14:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T15:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927378097134809122"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "恭喜",
+          "probability": 0.6438,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1901474376501055488",
+          "start": 0,
+          "username": "LanyanQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927378097134809122",
+    "in_reply_to_user_id": "1901474376501055488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926781431889494138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanyanQAQ 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 793,
+        "media_key": "3_1926781428483624960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr1NgCyWEAAtPkx.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1926781431889494138",
+        "created_at": "2025-05-27T14:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T15:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927378097134809122"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "恭喜",
+              "probability": 0.6438,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1901474376501055488",
+              "start": 0,
+              "username": "LanyanQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927378097134809122",
+        "in_reply_to_user_id": "1901474376501055488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926781431889494138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanyanQAQ 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926781428483624960"
+          ]
+        },
+        "author_id": "1901474376501055488",
+        "conversation_id": "1926781431889494138",
+        "created_at": "2025-05-25T23:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T00:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926781431889494138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wx1XPd2Ybz",
+              "end": 30,
+              "expanded_url": "https://x.com/LanyanQAQ/status/1926781431889494138/photo/1",
+              "media_key": "3_1926781428483624960",
+              "start": 7,
+              "url": "https://t.co/Wx1XPd2Ybz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926781431889494138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 63127,
+          "like_count": 459,
+          "quote_count": 0,
+          "reply_count": 78,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "牛牛再见啦！ https://t.co/Wx1XPd2Ybz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 1094,
+          "like_count": 15147,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 832
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T03:23:59.000Z",
+        "description": "喜欢飞机（拍的很烂，不要喷我！呜呜呜）但是想要佳能RF红圈镜头！/喜欢汽车和改装车（新能源❌）/电子阳痿/超级爱美食！/有爱人了很喜欢！",
+        "id": "1901474376501055488",
+        "name": "岚烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919384158192971777/ZDtf26JS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 56,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 76
+        },
+        "username": "LanyanQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

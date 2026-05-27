@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2016398251315147253",
+    "created_at": "2026-02-22T02:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T03:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025391651397706213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955988310956105732",
+          "start": 0,
+          "username": "AqDro9Qa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025391651397706213",
+    "in_reply_to_user_id": "1955988310956105732",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016398251315147253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AqDro9Qa 姐姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016398247288512512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uvhcdaIAAiYE4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2016398247221460997",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uvhcNbAAUHJpr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2016398248265777152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uvhgGaAAAQfZ-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2016398251315147253",
+        "created_at": "2026-02-22T02:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025391651397706213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955988310956105732",
+              "start": 0,
+              "username": "AqDro9Qa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025391651397706213",
+        "in_reply_to_user_id": "1955988310956105732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016398251315147253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AqDro9Qa 姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016398247288512512",
+            "3_2016398247221460997",
+            "3_2016398248265777152"
+          ]
+        },
+        "author_id": "1955988310956105732",
+        "conversation_id": "2016398251315147253",
+        "created_at": "2026-01-28T06:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T07:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016398251315147253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xIFa0o3Lu",
+              "end": 36,
+              "expanded_url": "https://x.com/AqDro9Qa/status/2016398251315147253/photo/1",
+              "media_key": "3_2016398247288512512",
+              "start": 13,
+              "url": "https://t.co/1xIFa0o3Lu"
+            },
+            {
+              "display_url": "pic.x.com/1xIFa0o3Lu",
+              "end": 36,
+              "expanded_url": "https://x.com/AqDro9Qa/status/2016398251315147253/photo/1",
+              "media_key": "3_2016398247221460997",
+              "start": 13,
+              "url": "https://t.co/1xIFa0o3Lu"
+            },
+            {
+              "display_url": "pic.x.com/1xIFa0o3Lu",
+              "end": 36,
+              "expanded_url": "https://x.com/AqDro9Qa/status/2016398251315147253/photo/1",
+              "media_key": "3_2016398248265777152",
+              "start": 13,
+              "url": "https://t.co/1xIFa0o3Lu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016398251315147253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3305,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "going你\n快叫姐姐😘 https://t.co/1xIFa0o3Lu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|\n|不OD|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 137,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 114,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 2614,
+          "like_count": 40030,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2752
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:42:30.000Z",
+        "description": "06年在校大学生｜mtf🏳️‍⚧️｜小证含糖｜炸柜后含糖｜2025.08.31 hrt｜家长不管党｜中式教育の摧残者｜cn浊酒｜169cm 112斤｜无瑕无痕无自残｜非同类🚪30｜轻度抑郁中度焦虑｜喜欢捏可爱的东西｜世界不能没了罗小黑（嘿咻｜\n小女儿@Htoz1790524\n主淫@coinsk252735",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 125,
+                "username": "Htoz1790524"
+              },
+              {
+                "end": 153,
+                "start": 140,
+                "username": "coinsk252735"
+              }
+            ]
+          }
+        },
+        "id": "1955988310956105732",
+        "location": "湖北  武汉",
+        "name": "Dro🍥9",
+        "pinned_tweet_id": "2019256782800187858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005445483574251521/o7tHdYtt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 716,
+          "like_count": 3949,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 808
+        },
+        "username": "AqDro9Qa",
+        "verified": false
+      }
+    ]
+  }
+}

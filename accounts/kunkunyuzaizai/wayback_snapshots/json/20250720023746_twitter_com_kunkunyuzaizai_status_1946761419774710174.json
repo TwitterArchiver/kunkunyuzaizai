@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1946261045406015537",
+    "created_at": "2025-07-20T02:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T03:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946761419774710174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1797202819415752705",
+          "start": 0,
+          "username": "xwdlwr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946761419774710174",
+    "in_reply_to_user_id": "1797202819415752705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946261045406015537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xwdlwr 差窝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1946261045406015537",
+        "created_at": "2025-07-20T02:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T03:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946761419774710174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1797202819415752705",
+              "start": 0,
+              "username": "xwdlwr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946761419774710174",
+        "in_reply_to_user_id": "1797202819415752705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946261045406015537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xwdlwr 差窝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797202819415752705",
+        "conversation_id": "1946261045406015537",
+        "created_at": "2025-07-18T17:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T18:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946261045406015537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946261045406015537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5580,
+          "like_count": 140,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🔮帮查父母性别1🍥秒出\n🔮帮查爸妈性别5🍥秒出\n🔮帮查爷奶性别2🍥秒出\n🔮帮查姐弟性别3🍥秒出\n🔮帮查自己性别6🍥秒出\n可以找我拜师8.8包学会\n找茬的别来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1284,
+          "like_count": 19769,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1115
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T09:45:30.000Z",
+        "description": "山竹別跑!!!/ 15岁高中无证含糖 🍥/玉林/ 喜欢睡觉 / 喜欢熬\n夜?/ 不想学习啦!!!/ 非常宅.…./随时可互fo / 其实是10\n后 / 不抽烟不喝酒不自残不自杀 / 168cm 53kg /不是机\n器人呀/HRT2025.3.22 \n已死保留@wdhswwcnm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "wdhswwcnm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BAsensei",
+                "end": 23,
+                "expanded_url": "http://t.me/BAsensei",
+                "start": 0,
+                "url": "https://t.co/FvuOqGdCtL"
+              }
+            ]
+          }
+        },
+        "id": "1797202819415752705",
+        "location": "你❤️里",
+        "name": "爱吃山竹口牙🍥（慢性互fo版）🤤😚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941750149027373056/vmBXCc-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 314,
+          "like_count": 2479,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 694
+        },
+        "url": "https://t.co/FvuOqGdCtL",
+        "username": "xwdlwr",
+        "verified": false
+      }
+    ]
+  }
+}

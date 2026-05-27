@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1969562631418888414",
+    "created_at": "2025-09-22T01:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T02:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969936165458592197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1802622341383389184",
+          "start": 0,
+          "username": "ChenZeYu5221"
+        },
+        {
+          "end": 23,
+          "id": "1913884589724258304",
+          "start": 14,
+          "username": "321Tttjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969936165458592197",
+    "in_reply_to_user_id": "1802622341383389184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969770295092551801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenZeYu5221 @321Tttjj 社交软件只是比较开放而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1969562631418888414",
+        "created_at": "2025-09-22T01:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T02:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969936165458592197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1802622341383389184",
+              "start": 0,
+              "username": "ChenZeYu5221"
+            },
+            {
+              "end": 23,
+              "id": "1913884589724258304",
+              "start": 14,
+              "username": "321Tttjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969936165458592197",
+        "in_reply_to_user_id": "1802622341383389184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969770295092551801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenZeYu5221 @321Tttjj 社交软件只是比较开放而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802622341383389184",
+        "conversation_id": "1969562631418888414",
+        "created_at": "2025-09-21T14:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T15:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969770295092551801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913884589724258304",
+              "start": 0,
+              "username": "321Tttjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969770295092551801",
+        "in_reply_to_user_id": "1913884589724258304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969562631418888414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@321Tttjj 现在墙内大部分人性压抑惯了都把x当看片软件🤣一群病猪还以为人人都是鸡鸭来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 2035,
+          "like_count": 30007,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2082
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T08:40:52.000Z",
+        "description": "side 清水帖 里@1209892497qq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "1209892497qq"
+              }
+            ]
+          }
+        },
+        "id": "1802622341383389184",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "🐶哥",
+        "pinned_tweet_id": "1969796009233670636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943677053972189184/BE2eF4qz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 27,
+          "like_count": 941,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 416
+        },
+        "username": "ChenZeYu5221",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T09:17:16.000Z",
+        "description": "于是天上人间 千年万年 /1900年 清朝老奶/ 我哥@alexian89（骂我先骂我哥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "alexian89"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/malala_jiajiaj…",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/malala_jiajiajiajia",
+                "start": 0,
+                "url": "https://t.co/6NnH0ZlELd"
+              }
+            ]
+          }
+        },
+        "id": "1913884589724258304",
+        "location": "锦绣天府 安逸四川",
+        "name": "malala_jiajiajiajia",
+        "pinned_tweet_id": "1969284234884927839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913980604221362176/uOxdWJDc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 662,
+          "like_count": 22666,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 4104
+        },
+        "url": "https://t.co/6NnH0ZlELd",
+        "username": "321Tttjj",
+        "verified": false
+      }
+    ]
+  }
+}

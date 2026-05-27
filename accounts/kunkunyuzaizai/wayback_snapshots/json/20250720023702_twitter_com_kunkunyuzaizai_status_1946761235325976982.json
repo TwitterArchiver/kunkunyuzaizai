@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1946572746487722419",
+    "created_at": "2025-07-20T02:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T03:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946761235325976982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933225223416864768",
+          "start": 0,
+          "username": "Araya_Touka_222"
+        },
+        {
+          "end": 25,
+          "id": "931934663198703616",
+          "start": 17,
+          "username": "BakaHDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946761235325976982",
+    "in_reply_to_user_id": "1933225223416864768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 50,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946702087468859424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Araya_Touka_222 @BakaHDT 比我高 体重跟我一样 我168cm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1946572746487722419",
+        "created_at": "2025-07-20T02:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T03:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946761235325976982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933225223416864768",
+              "start": 0,
+              "username": "Araya_Touka_222"
+            },
+            {
+              "end": 25,
+              "id": "931934663198703616",
+              "start": 17,
+              "username": "BakaHDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946761235325976982",
+        "in_reply_to_user_id": "1933225223416864768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946702087468859424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Araya_Touka_222 @BakaHDT 比我高 体重跟我一样 我168cm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933225223416864768",
+        "conversation_id": "1946572746487722419",
+        "created_at": "2025-07-19T22:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T23:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946702087468859424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "931934663198703616",
+              "start": 0,
+              "username": "BakaHDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946702087468859424",
+        "in_reply_to_user_id": "931934663198703616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1049,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946572746487722419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BakaHDT 日漫日本游戏喜欢乱填身体数据，我男的，172cm 45kg，看起来绝对比超天酱要重，超天酱那个立绘155厘米的话最多也就差不多35公斤。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1284,
+          "like_count": 19768,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1116
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T18:11:38.000Z",
+        "description": "中文/English/Français \n现居魁北克的ACGN享受者，可以叫我Léo。\n我推：爱尔奎特，新谷灯華，咲畑梨深，荻浜茜！\nJe me souviens!\n⚠ 我是挺🇺🇦🇮🇱的反川右🐶。",
+        "id": "1933225223416864768",
+        "location": "Québec",
+        "name": "灯華⚜️",
+        "pinned_tweet_id": "1937107668746809350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933232115555975169/fCyh7BT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 2633,
+          "like_count": 6442,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1130
+        },
+        "username": "Araya_Touka_222",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-18T17:18:33.000Z",
+        "description": "混沌的网络之海中照亮你妈灵堂的互联网之光 | 今天也在努力活着的小女孩，可以叫我123 | 发一些生活中的事情 | 下面的链接是提问箱 | 最爱的主人是 @FTMiaoX 愿意为他付出一切",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "FTMiaoX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bakahdt71431",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bakahdt71431",
+                "start": 0,
+                "url": "https://t.co/SJGLuP7WVm"
+              }
+            ]
+          }
+        },
+        "id": "931934663198703616",
+        "location": "发条喵家的笼子里",
+        "name": "BakaHDT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876193252422164480/fZqr5cG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2925,
+          "following_count": 501,
+          "like_count": 10056,
+          "listed_count": 7,
+          "media_count": 428,
+          "tweet_count": 2465
+        },
+        "url": "https://t.co/SJGLuP7WVm",
+        "username": "BakaHDT",
+        "verified": false
+      }
+    ]
+  }
+}

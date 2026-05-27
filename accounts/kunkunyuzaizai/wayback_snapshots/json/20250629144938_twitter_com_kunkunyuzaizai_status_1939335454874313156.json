@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1939134536421654546",
+    "created_at": "2025-06-29T14:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T15:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939335454874313156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1673663274112491520",
+          "start": 0,
+          "username": "Hosino_nagisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939335454874313156",
+    "in_reply_to_user_id": "1673663274112491520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939134536421654546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hosino_nagisa 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_1939134534122897408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GukwlbYWgAASKXS.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1939134536421654546",
+        "created_at": "2025-06-29T14:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T15:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939335454874313156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1673663274112491520",
+              "start": 0,
+              "username": "Hosino_nagisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939335454874313156",
+        "in_reply_to_user_id": "1673663274112491520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939134536421654546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hosino_nagisa 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939134534122897408"
+          ]
+        },
+        "author_id": "1673663274112491520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1939134536421654546",
+        "created_at": "2025-06-29T01:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T02:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939134536421654546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tgcBBVdSVR",
+              "end": 33,
+              "expanded_url": "https://x.com/Hosino_nagisa/status/1939134536421654546/photo/1",
+              "media_key": "3_1939134534122897408",
+              "start": 10,
+              "url": "https://t.co/tgcBBVdSVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939134536421654546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3145,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 48,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "18岁啦！www~ https://t.co/tgcBBVdSVR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 1261,
+          "like_count": 19038,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1046
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T12:03:23.000Z",
+        "description": "日本語を勉強している|女装 出cos 现在正在留长发 |游戲主玩原神（魈厨🥰）、ブルアカ、音游zzz|分享日常？可互fo，不建政|身材焦慮 容貌焦慮|2025.1.24含糖 MTX(F?)|大号@hosisawa被封，对所有有礼貌的人友好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "hosisawa"
+              }
+            ]
+          }
+        },
+        "id": "1673663274112491520",
+        "name": "星野渚_Nagisa（休学ing）",
+        "pinned_tweet_id": "1893129852712374340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891734992822337537/qHRAkf1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 508,
+          "like_count": 5709,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 654
+        },
+        "username": "Hosino_nagisa",
+        "verified": false
+      }
+    ]
+  }
+}

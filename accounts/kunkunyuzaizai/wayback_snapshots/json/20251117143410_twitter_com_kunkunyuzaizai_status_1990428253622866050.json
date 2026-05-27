@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1990347243224957077",
+    "created_at": "2025-11-17T14:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T15:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990428253622866050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1774638060963008512",
+          "start": 0,
+          "username": "LST12123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990428253622866050",
+    "in_reply_to_user_id": "1774638060963008512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990347243224957077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LST12123 补药接诈骗啊🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1990347243224957077",
+        "created_at": "2025-11-17T14:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990428253622866050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1774638060963008512",
+              "start": 0,
+              "username": "LST12123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990428253622866050",
+        "in_reply_to_user_id": "1774638060963008512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990347243224957077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LST12123 补药接诈骗啊🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774638060963008512",
+        "conversation_id": "1990347243224957077",
+        "created_at": "2025-11-17T09:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990347243224957077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can contact @LST121233 right away.",
+              "display_url": "t.me/LST121233",
+              "end": 36,
+              "expanded_url": "http://t.me/LST121233",
+              "start": 13,
+              "status": 200,
+              "title": "困困神",
+              "unwound_url": "https://t.me/LST121233",
+              "url": "https://t.co/PWuul6xHRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990347243224957077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 53562,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电报相册已更新 进入地址\nhttps://t.co/PWuul6xHRo （照片视频免费\n观看）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 2295,
+          "like_count": 32910,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2429
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T03:21:16.000Z",
+        "description": "傻卵二次元：粥批|音游人|邦邦人|英雄联盟|三角洲|FGO     碎碎念区主播🌈有好型|国际立场中立🥺|🇯🇵学习中\n线上小皇帝线下小怂逼\n  @0xo_snow 快去关注这个入\n接广请私信，随缘接广真假自辩！已接广！真假自辩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "0xo_snow"
+              }
+            ]
+          }
+        },
+        "id": "1774638060963008512",
+        "location": "距离你520m",
+        "name": "困困神",
+        "pinned_tweet_id": "1990347243224957077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978672734499704832/6yWQMv9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 329,
+          "like_count": 559,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 509
+        },
+        "username": "LST12123",
+        "verified": true
+      }
+    ]
+  }
+}

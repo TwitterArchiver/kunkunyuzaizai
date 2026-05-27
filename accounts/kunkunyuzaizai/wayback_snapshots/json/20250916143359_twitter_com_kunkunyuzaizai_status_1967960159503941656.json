@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967912890016637400",
+    "created_at": "2025-09-16T14:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T15:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967960159503941656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1167792264795394048",
+          "start": 0,
+          "username": "leetfs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967960159503941656",
+    "in_reply_to_user_id": "1167792264795394048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967912890016637400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leetfs1 好多精神疾病都会被劝退"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_1967912882970177538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G09uVzJaMAIFfO4.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1039,
+        "media_key": "3_1967912883091804160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G09uVzmaEAAzydh.jpg",
+        "width": 1200
+      },
+      {
+        "height": 553,
+        "media_key": "3_1967912883637153792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G09uV1obcAAVla0.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967912890016637400",
+        "created_at": "2025-09-16T14:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T15:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967960159503941656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1167792264795394048",
+              "start": 0,
+              "username": "leetfs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967960159503941656",
+        "in_reply_to_user_id": "1167792264795394048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967912890016637400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leetfs1 好多精神疾病都会被劝退"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967912882970177538",
+            "3_1967912883091804160",
+            "3_1967912883637153792"
+          ]
+        },
+        "author_id": "1167792264795394048",
+        "conversation_id": "1967912890016637400",
+        "created_at": "2025-09-16T11:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967912890016637400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3jO2cLagTB",
+              "end": 43,
+              "expanded_url": "https://x.com/leetfs1/status/1967912890016637400/photo/1",
+              "media_key": "3_1967912882970177538",
+              "start": 20,
+              "url": "https://t.co/3jO2cLagTB"
+            },
+            {
+              "display_url": "pic.x.com/3jO2cLagTB",
+              "end": 43,
+              "expanded_url": "https://x.com/leetfs1/status/1967912890016637400/photo/1",
+              "media_key": "3_1967912883091804160",
+              "start": 20,
+              "url": "https://t.co/3jO2cLagTB"
+            },
+            {
+              "display_url": "pic.x.com/3jO2cLagTB",
+              "end": 43,
+              "expanded_url": "https://x.com/leetfs1/status/1967912890016637400/photo/1",
+              "media_key": "3_1967912883637153792",
+              "start": 20,
+              "url": "https://t.co/3jO2cLagTB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967912890016637400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2852,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是也是否，否也是否，说真话 ≈ 被约谈 https://t.co/3jO2cLagTB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1830,
+          "like_count": 28432,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1907
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T13:32:39.000Z",
+        "description": "@MtFwiki & @RLEwiki 成员 | 喜欢前端和 RISC-V | They / Them",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 19,
+                "start": 11,
+                "username": "RLEwiki"
+              }
+            ]
+          }
+        },
+        "id": "1167792264795394048",
+        "name": "Lee🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941887536378658816/_xW0LrK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4205,
+          "following_count": 2519,
+          "like_count": 1944,
+          "listed_count": 23,
+          "media_count": 884,
+          "tweet_count": 5996
+        },
+        "username": "leetfs1",
+        "verified": false
+      }
+    ]
+  }
+}

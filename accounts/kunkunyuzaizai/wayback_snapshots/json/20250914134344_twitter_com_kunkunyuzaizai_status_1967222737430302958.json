@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967211775042166922",
+    "created_at": "2025-09-14T13:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T14:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967222737430302958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1909792177703768064",
+          "start": 0,
+          "username": "ruyan_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967222737430302958",
+    "in_reply_to_user_id": "1909792177703768064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967214264739148136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruyan_7 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967211775042166922",
+        "created_at": "2025-09-14T13:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967222737430302958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1909792177703768064",
+              "start": 0,
+              "username": "ruyan_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967222737430302958",
+        "in_reply_to_user_id": "1909792177703768064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967214264739148136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruyan_7 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909792177703768064",
+        "conversation_id": "1967211775042166922",
+        "created_at": "2025-09-14T13:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967214264739148136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967214264739148136",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967211775042166922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 1797,
+          "like_count": 28069,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1880
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T02:15:33.000Z",
+        "description": "我通过了你的好友申请 现在我们可以开始冷场了^𖥦^｜全世界最好的闺蜜@Mn1to05_ ｜@chuan_shan73269",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Mn1to05_"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "chuan_shan73269"
+              }
+            ]
+          }
+        },
+        "id": "1909792177703768064",
+        "location": "不约",
+        "name": "无人拒绝一具学生尸体",
+        "pinned_tweet_id": "1962592889591980240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966557905551073281/z00PbsQs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 152,
+          "like_count": 1612,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1331
+        },
+        "username": "ruyan_7",
+        "verified": false
+      }
+    ]
+  }
+}

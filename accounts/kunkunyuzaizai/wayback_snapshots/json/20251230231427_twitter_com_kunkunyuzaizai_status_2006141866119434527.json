@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2005555183020130662",
+    "created_at": "2025-12-30T23:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T00:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006141866119434527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1421301972007849986",
+          "start": 0,
+          "username": "pbpp10521715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006141866119434527",
+    "in_reply_to_user_id": "1421301972007849986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005555183020130662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pbpp10521715 我初三休学 23年休的 现在还没回去重新读 明年就成年了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2005555183020130662",
+        "created_at": "2025-12-30T23:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T00:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006141866119434527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1421301972007849986",
+              "start": 0,
+              "username": "pbpp10521715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006141866119434527",
+        "in_reply_to_user_id": "1421301972007849986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005555183020130662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pbpp10521715 我初三休学 23年休的 现在还没回去重新读 明年就成年了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421301972007849986",
+        "conversation_id": "2005555183020130662",
+        "created_at": "2025-12-29T08:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T09:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005555183020130662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005555183020130662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 83281,
+          "like_count": 788,
+          "quote_count": 15,
+          "reply_count": 70,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "凭我个人经验来说能不休学就不要休学，目前我认识的5个休学的地雷女最终都因为各种各样的原因回不了学校或者回学校以后无法适应直接跳了的，宁可直接退学破文凭不要了直接断舍离，不然心里一直有一个结堵着你更难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 2418,
+          "like_count": 36815,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2599
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-31T02:49:51.000Z",
+        "description": "水逆中，随机掉落小白",
+        "id": "1421301972007849986",
+        "location": "Mongolia",
+        "name": "咪咪摸摸",
+        "pinned_tweet_id": "1994214535100866917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005189372724027392/wrCnH6l9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12728,
+          "following_count": 476,
+          "like_count": 23912,
+          "listed_count": 26,
+          "media_count": 835,
+          "tweet_count": 9041
+        },
+        "username": "pbpp10521715",
+        "verified": false
+      }
+    ]
+  }
+}

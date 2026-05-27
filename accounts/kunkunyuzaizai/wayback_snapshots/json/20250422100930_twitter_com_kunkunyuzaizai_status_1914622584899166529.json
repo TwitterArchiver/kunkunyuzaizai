@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1914286066737242521",
+    "created_at": "2025-04-22T10:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T11:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914622584899166529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844025283676094464",
+          "start": 0,
+          "username": "Konekoutena"
+        },
+        {
+          "end": 23,
+          "id": "1703762928",
+          "start": 13,
+          "username": "1965chich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914622584899166529",
+    "in_reply_to_user_id": "1844025283676094464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914288319644815794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konekoutena @1965chich 帅t吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1914286066737242521",
+        "created_at": "2025-04-22T10:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T11:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914622584899166529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            },
+            {
+              "end": 23,
+              "id": "1703762928",
+              "start": 13,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914622584899166529",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914288319644815794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena @1965chich 帅t吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844025283676094464",
+        "conversation_id": "1914286066737242521",
+        "created_at": "2025-04-21T12:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T13:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914288319644815794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1703762928",
+              "start": 0,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914288319644815794",
+        "in_reply_to_user_id": "1703762928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 975,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914288135749730531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1965chich 其实很多女的长得也很像男的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 859,
+          "like_count": 13969,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 719
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "出生于不幸的原生家庭的小说家，遭受过其父（北京高通律师事务所律师张海秦）的极端家暴。现在正努力完成自己的作品。YouTube：@夜昕时光 接受网友提问（单价100RMB，油管视频解答）邮箱：konekoutena@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/yexinstory",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/yexinstory",
+                "start": 0,
+                "url": "https://t.co/5bxIkdvbun"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "1913579130786103421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911940891087933440/rQttHo5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7599,
+          "following_count": 1547,
+          "like_count": 5359,
+          "listed_count": 29,
+          "media_count": 3785,
+          "tweet_count": 11602
+        },
+        "url": "https://t.co/5bxIkdvbun",
+        "username": "Konekoutena",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到KFC的内心世界 带学生 有点社恐 喜欢看帅帅的女孩子/无性恋 /非跨/不会尊重人的关小黑屋/心里第一：浪浪宝贝 /爸爸：@kaijiangtuotu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kaijiangtuotu_"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1879137609982816677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882590512760446976/XdK6-PCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5929,
+          "following_count": 993,
+          "like_count": 15933,
+          "listed_count": 8,
+          "media_count": 234,
+          "tweet_count": 4693
+        },
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

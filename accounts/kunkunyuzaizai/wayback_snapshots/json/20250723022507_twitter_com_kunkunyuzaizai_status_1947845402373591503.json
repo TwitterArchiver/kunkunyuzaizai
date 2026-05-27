@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1947533033185415416",
+    "created_at": "2025-07-23T02:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T03:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947845402373591503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1867432957113204736",
+          "start": 0,
+          "username": "owO123qwe"
+        },
+        {
+          "end": 26,
+          "id": "1891728370121179137",
+          "start": 11,
+          "username": "kyuusanngyou36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947845402373591503",
+    "in_reply_to_user_id": "1867432957113204736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947548431452672028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owO123qwe @kyuusanngyou36 噢no撸太快我坚持不了30秒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1947533033185415416",
+        "created_at": "2025-07-23T02:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T03:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947845402373591503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867432957113204736",
+              "start": 0,
+              "username": "owO123qwe"
+            },
+            {
+              "end": 26,
+              "id": "1891728370121179137",
+              "start": 11,
+              "username": "kyuusanngyou36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947845402373591503",
+        "in_reply_to_user_id": "1867432957113204736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947548431452672028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owO123qwe @kyuusanngyou36 噢no撸太快我坚持不了30秒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867432957113204736",
+        "conversation_id": "1947533033185415416",
+        "created_at": "2025-07-22T06:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T07:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947548431452672028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1891728370121179137",
+              "start": 0,
+              "username": "kyuusanngyou36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947548431452672028",
+        "in_reply_to_user_id": "1891728370121179137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 475,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947545170289033662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyuusanngyou36 鹿出火星子，鹿！鹿！鹿！在鹿的话你的人生就要废掉了🤯🤯🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 1288,
+          "like_count": 19883,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1128
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T04:55:02.000Z",
+        "description": "这里有一只超可爱的小然猫猫🍥~\n喜欢贴贴的可爱阳阳姐姐：@Kiss_light233\n超级可爱的若叶睦：@ai_yin16898",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "ai_yin16898"
+              }
+            ]
+          }
+        },
+        "id": "1867432957113204736",
+        "name": "小然🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1947665498809786732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936541535148871680/sm3pRx9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 500,
+          "like_count": 3554,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 1341
+        },
+        "username": "owO123qwe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T05:56:21.000Z",
+        "description": "17y♂️|把推特當可以發瘋(發情)的地方☝️🤓|當男娘好像也不錯但我不是🈸😬|腦迴路異常還沒報修🤯|我只有167☹️|55公斤我變胖了🥲|如果有私訊看到就會回(通常沒有🥲|努力存錢中😐|在這裡不談政治👍|粉色魔爪擁護者💖|一日音游人終身吟遊詩人🎵|打中二不戴手套🧤|重生一次🖕😄🖕",
+        "id": "1891728370121179137",
+        "name": "宮三 曉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892148178037968896/F8j9L9K6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 1384,
+          "like_count": 20831,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 1802
+        },
+        "username": "kyuusanngyou36",
+        "verified": false
+      }
+    ]
+  }
+}

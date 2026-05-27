@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1969662985736946157",
+    "created_at": "2025-09-22T23:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T00:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970263301201465542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1871223001846624256",
+          "start": 0,
+          "username": "yuuuu999666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970263301201465542",
+    "in_reply_to_user_id": "1871223001846624256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969662985736946157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuuu999666 退退退退"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1969662985736946157",
+        "created_at": "2025-09-22T23:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T00:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970263301201465542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1871223001846624256",
+              "start": 0,
+              "username": "yuuuu999666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970263301201465542",
+        "in_reply_to_user_id": "1871223001846624256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969662985736946157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuuu999666 退退退退"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871223001846624256",
+        "conversation_id": "1969662985736946157",
+        "created_at": "2025-09-21T07:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T08:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969662985736946157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969662985736946157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 103815,
+          "like_count": 1090,
+          "quote_count": 1,
+          "reply_count": 120,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "大家退后！！！大家退后！！！大家退后！！！大家退后！！！大家退后！！！大家退后！！！大家退后！！！大家退后！！！大家退后！！！大家退后！！！大家退后！！！大家退后！！！大家退后！！！大家退后！！！大家退后！！！大家退后！！！大家退后！！！大家退后！！！大家退后！！！好了大家回来吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 2058,
+          "like_count": 30256,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2101
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T15:55:16.000Z",
+        "description": "我有厌蠢症 不加v 不闲聊",
+        "id": "1871223001846624256",
+        "name": "你是不是油饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886615285282824193/k1wYQaIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6182,
+          "following_count": 144,
+          "like_count": 3098,
+          "listed_count": 9,
+          "media_count": 41,
+          "tweet_count": 2487
+        },
+        "username": "yuuuu999666",
+        "verified": false
+      }
+    ]
+  }
+}

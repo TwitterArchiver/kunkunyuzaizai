@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1958797460232372247",
+    "created_at": "2025-08-22T07:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T08:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958797460232372247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824818634809806848",
+          "start": 3,
+          "username": "hsgmxz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/oTI",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/oTI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958797460232372247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958487610642583821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsgmxz: 200fo抽奖！！！🥰\n一等奖：52r红包 共1份\n二等奖：一杯奶茶（可折20r）共一份\n三等奖：5.2r红包 共两份\n参与方式：关注+转贴+评论\n开奖时间：8.23（暂定，看热度吧）\n总之非常感谢大家的陪伴！！！🥹🥹🥹 https://t.co/oTI…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 104,
+        "media_key": "3_1958487605500370944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy3yGcba4AAA9H4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1958797460232372247",
+        "created_at": "2025-08-22T07:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T08:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958797460232372247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824818634809806848",
+              "start": 3,
+              "username": "hsgmxz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/oTI",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/oTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958797460232372247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958487610642583821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsgmxz: 200fo抽奖！！！🥰\n一等奖：52r红包 共1份\n二等奖：一杯奶茶（可折20r）共一份\n三等奖：5.2r红包 共两份\n参与方式：关注+转贴+评论\n开奖时间：8.23（暂定，看热度吧）\n总之非常感谢大家的陪伴！！！🥹🥹🥹 https://t.co/oTI…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958487605500370944"
+          ]
+        },
+        "author_id": "1824818634809806848",
+        "conversation_id": "1958487610642583821",
+        "created_at": "2025-08-21T11:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T12:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958487610642583821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oTIOxdaMqw",
+              "end": 134,
+              "expanded_url": "https://x.com/hsgmxz/status/1958487610642583821/photo/1",
+              "media_key": "3_1958487605500370944",
+              "start": 111,
+              "url": "https://t.co/oTIOxdaMqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958487610642583821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3388,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "200fo抽奖！！！🥰\n一等奖：52r红包 共1份\n二等奖：一杯奶茶（可折20r）共一份\n三等奖：5.2r红包 共两份\n参与方式：关注+转贴+评论\n开奖时间：8.23（暂定，看热度吧）\n总之非常感谢大家的陪伴！！！🥹🥹🥹 https://t.co/oTIOxdaMqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 1453,
+          "like_count": 24184,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1566
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」mtf🏳️‍⚧️|含糖2025.7.26|初音ミク大好き。🥰|欢迎贴贴|同类互fo|2011.1.24",
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956290303792660480/uak33Kmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 326,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 68
+        },
+        "username": "hsgmxz",
+        "verified": false
+      }
+    ]
+  }
+}

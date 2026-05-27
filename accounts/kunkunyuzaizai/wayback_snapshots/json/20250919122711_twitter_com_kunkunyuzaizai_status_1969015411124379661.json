@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968950565582315894",
+    "created_at": "2025-09-19T12:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T13:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969015411124379661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1756551089376403456",
+          "start": 0,
+          "username": "Rainhearter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969015411124379661",
+    "in_reply_to_user_id": "1756551089376403456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968950565582315894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainhearter 接吻啥感觉 本人才17 还不知道捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968950565582315894",
+        "created_at": "2025-09-19T12:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969015411124379661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1756551089376403456",
+              "start": 0,
+              "username": "Rainhearter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969015411124379661",
+        "in_reply_to_user_id": "1756551089376403456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968950565582315894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainhearter 接吻啥感觉 本人才17 还不知道捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756551089376403456",
+        "conversation_id": "1968950565582315894",
+        "created_at": "2025-09-19T08:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T09:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968950565582315894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968950565582315894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次压力大焦虑的时候就会想做爱想拥抱想接吻，于是在这种时候脑袋里各种闪回跟前男友前女友恋爱的片段，等我把事情忙完了又回到清心寡欲的状态🦭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1944,
+          "like_count": 29351,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2027
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T05:30:01.000Z",
+        "description": "无门槛不加任何联系方式不约炮不回私信｜这里是我的日记本",
+        "id": "1756551089376403456",
+        "name": "零点零一分离场",
+        "pinned_tweet_id": "1836780221649096866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913985061550215168/P98MVcho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2821,
+          "following_count": 128,
+          "like_count": 444,
+          "listed_count": 6,
+          "media_count": 9,
+          "tweet_count": 95
+        },
+        "username": "Rainhearter",
+        "verified": false
+      }
+    ]
+  }
+}

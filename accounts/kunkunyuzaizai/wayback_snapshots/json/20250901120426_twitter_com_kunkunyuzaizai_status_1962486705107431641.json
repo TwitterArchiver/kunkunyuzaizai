@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1962031040102531087",
+    "created_at": "2025-09-01T12:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T13:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962486705107431641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "194824130",
+          "start": 0,
+          "username": "9efish"
+        },
+        {
+          "end": 15,
+          "id": "1422093855235715076",
+          "start": 8,
+          "username": "bkyssj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962486705107431641",
+    "in_reply_to_user_id": "194824130",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962047344851210624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9efish @bkyssj 房子最少也得二三十w吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1962031040102531087",
+        "created_at": "2025-09-01T12:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T13:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962486705107431641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "194824130",
+              "start": 0,
+              "username": "9efish"
+            },
+            {
+              "end": 15,
+              "id": "1422093855235715076",
+              "start": 8,
+              "username": "bkyssj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962486705107431641",
+        "in_reply_to_user_id": "194824130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962047344851210624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9efish @bkyssj 房子最少也得二三十w吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "194824130",
+        "conversation_id": "1962031040102531087",
+        "created_at": "2025-08-31T06:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T07:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962047344851210624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422093855235715076",
+              "start": 0,
+              "username": "bkyssj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962047344851210624",
+        "in_reply_to_user_id": "1422093855235715076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1753,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962031040102531087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bkyssj 如果是买了房子拿不出6w也能理解，直接拿不出6w的话，感觉就有点不太合适结婚了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON  凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1634,
+          "like_count": 26112,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1739
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-25T02:20:08.000Z",
+        "description": "烦恼的父亲",
+        "id": "194824130",
+        "location": "JiaXing China",
+        "name": "9efish",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 95,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 304
+        },
+        "username": "9efish",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-02T07:16:23.000Z",
+        "description": "脾气不好，没有耐心，不是陪聊，不讨论政治相关问题，不收门槛，不接推广，不卖淫，不加任何联系方式。\n未经允许不得转载个人照片，盗图替我挡灾财运全部归我。请保持边界感。",
+        "id": "1422093855235715076",
+        "location": "不闲聊，不参与黄赌毒，不搞小团体，没你想要的，取关随意",
+        "name": "十三",
+        "pinned_tweet_id": "1830637968778039296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906614203173208064/c5rdpUdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17394,
+          "following_count": 282,
+          "like_count": 44432,
+          "listed_count": 54,
+          "media_count": 2263,
+          "tweet_count": 35053
+        },
+        "username": "bkyssj",
+        "verified": false
+      }
+    ]
+  }
+}

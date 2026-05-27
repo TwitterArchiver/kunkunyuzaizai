@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1987856895735169037",
+    "created_at": "2025-11-10T14:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T15:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987884354304201200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1939352450714202112",
+          "start": 0,
+          "username": "inwhtk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987884354304201200",
+    "in_reply_to_user_id": "1939352450714202112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987856895735169037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inwhtk 进来干啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1987856895735169037",
+        "created_at": "2025-11-10T14:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987884354304201200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1939352450714202112",
+              "start": 0,
+              "username": "inwhtk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987884354304201200",
+        "in_reply_to_user_id": "1939352450714202112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987856895735169037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inwhtk 进来干啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939352450714202112",
+        "conversation_id": "1987856895735169037",
+        "created_at": "2025-11-10T12:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987856895735169037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987856895735169037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽尼玛我刷到个好诡异的伪娘买了我们学校的运动服跟制服 还在校庆园游会偷偷溜进来啊啊啊啊啊啊啊啊 好𫫇心。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 2243,
+          "like_count": 32108,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2382
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T15:57:22.000Z",
+        "description": "你们到底咋了？",
+        "id": "1939352450714202112",
+        "name": "好宅宅",
+        "pinned_tweet_id": "1982874248474722547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983231045001740288/CB5Bwugo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4517,
+          "following_count": 247,
+          "like_count": 9695,
+          "listed_count": 10,
+          "media_count": 71,
+          "tweet_count": 5230
+        },
+        "username": "inwhtk",
+        "verified": false
+      }
+    ]
+  }
+}

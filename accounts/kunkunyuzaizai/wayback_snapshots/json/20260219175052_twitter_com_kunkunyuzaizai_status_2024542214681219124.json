@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2024160062424653953",
+    "created_at": "2026-02-19T17:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024542214681219124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1521749348140392448",
+          "start": 0,
+          "username": "Shuanq2"
+        },
+        {
+          "end": 20,
+          "id": "1685499489493323776",
+          "start": 9,
+          "username": "GuiMengNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024542214681219124",
+    "in_reply_to_user_id": "1521749348140392448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024348503674179669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shuanq2 @GuiMengNya 画质和帧率还是比音质明显多了差距"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2024160062424653953",
+        "created_at": "2026-02-19T17:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024542214681219124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1521749348140392448",
+              "start": 0,
+              "username": "Shuanq2"
+            },
+            {
+              "end": 20,
+              "id": "1685499489493323776",
+              "start": 9,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024542214681219124",
+        "in_reply_to_user_id": "1521749348140392448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024348503674179669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shuanq2 @GuiMengNya 画质和帧率还是比音质明显多了差距"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521749348140392448",
+        "conversation_id": "2024160062424653953",
+        "created_at": "2026-02-19T05:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024348503674179669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024348503674179669",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1145,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024160062424653953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 其实大部分人的耳朵都无法分辨，就跟帧数焦虑一样 60跟120区别明显 120以上真看不出来，120跟130那除非谁眼睛是显微镜级别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|\n|不OD|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 137,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 114,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 2589,
+          "like_count": 39801,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2743
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T07:12:12.000Z",
+        "description": "没有建模 没有经济 没有手法",
+        "id": "1521749348140392448",
+        "location": "码头偷🍟ing",
+        "name": "AAA把你们豆沙拉",
+        "pinned_tweet_id": "1793550428275437963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998662734339293184/VzO8MJLZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 532,
+          "like_count": 7398,
+          "listed_count": 7,
+          "media_count": 1936,
+          "tweet_count": 9617
+        },
+        "username": "Shuanq2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7164,
+          "following_count": 725,
+          "like_count": 10116,
+          "listed_count": 24,
+          "media_count": 1254,
+          "tweet_count": 3407
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

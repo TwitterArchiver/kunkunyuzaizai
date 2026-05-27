@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907470931745976320"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1907460564731019289",
+    "created_at": "2025-04-02T16:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T17:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907470943301341625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867567506581598208",
+          "start": 0,
+          "username": "freequan2025"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LJ3xb2MFI8",
+          "end": 42,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1907470943301341625/photo/1",
+          "media_key": "3_1907470931745976320",
+          "start": 19,
+          "url": "https://t.co/LJ3xb2MFI8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907470943301341625",
+    "in_reply_to_user_id": "1867567506581598208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907460564731019289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freequan2025 我也焦虑 https://t.co/LJ3xb2MFI8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907470943301341625].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907470943301341625",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907470943301341625"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907470931745976320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GniytMoaMAAttW3.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867567506581598208",
+        "conversation_id": "1907460564731019289",
+        "created_at": "2025-04-02T15:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T16:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907460564731019289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907460564731019289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到了两位推u的长相，再看看我，我感觉好自卑...🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 674,
+          "like_count": 12441,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 618
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T13:49:36.000Z",
+        "description": "不建政！/15岁🥺/初中生/生理男心理女/每天都很劳累🥲/友好交流哦🥺/欢迎交友/互fo查成分（正常账号和能友好交流的会fo哦）/我的话有一部分人肯定认识我，换账号了🤔",
+        "id": "1867567506581598208",
+        "location": "幸福之地",
+        "name": "自由的权😇",
+        "pinned_tweet_id": "1904145995153228009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904901865558712320/GaBxtD3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 293,
+          "like_count": 899,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 581
+        },
+        "username": "freequan2025",
+        "verified": false
+      }
+    ]
+  }
+}

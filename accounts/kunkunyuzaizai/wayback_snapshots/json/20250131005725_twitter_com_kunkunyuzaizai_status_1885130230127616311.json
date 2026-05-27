@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1882704658017538158",
+    "created_at": "2025-01-31T00:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T01:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885130230127616311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1484982884863668227",
+          "start": 0,
+          "username": "bacu33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885130230127616311",
+    "in_reply_to_user_id": "1484982884863668227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882704658017538158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bacu33 我怎么觉得你和大舅子长得好像 就那个搞笑博主🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1882704658017538158",
+        "created_at": "2025-01-31T00:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T01:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885130230127616311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1484982884863668227",
+              "start": 0,
+              "username": "bacu33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885130230127616311",
+        "in_reply_to_user_id": "1484982884863668227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882704658017538158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bacu33 我怎么觉得你和大舅子长得好像 就那个搞笑博主🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882704644667019265"
+          ]
+        },
+        "author_id": "1484982884863668227",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1882704658017538158",
+        "created_at": "2025-01-24T08:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T09:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882704658017538158"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "四爱"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "4i"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "iiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xyVZXY4Uy9",
+              "end": 45,
+              "expanded_url": "https://x.com/bacu33/status/1882704658017538158/photo/1",
+              "media_key": "3_1882704644667019265",
+              "start": 22,
+              "url": "https://t.co/xyVZXY4Uy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882704658017538158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 27516,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来就是很缺爱 #四爱 #4i #iiii https://t.co/xyVZXY4Uy9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 296,
+          "like_count": 6542,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 285
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-22T20:34:57.000Z",
+        "description": "ENFP  https://t.co/9Ey0Tu0pTw 👈已读必回   互关➕V！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/crisp42572",
+                "end": 29,
+                "expanded_url": "https://ngl.link/crisp42572",
+                "start": 6,
+                "url": "https://t.co/9Ey0Tu0pTw"
+              }
+            ]
+          }
+        },
+        "id": "1484982884863668227",
+        "name": "小杨生煎",
+        "pinned_tweet_id": "1882704658017538158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876570881725796352/P-eigb6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 427,
+          "like_count": 1171,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 510
+        },
+        "username": "bacu33",
+        "verified": false
+      }
+    ]
+  }
+}

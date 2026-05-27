@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1957607466499494261",
+    "created_at": "2025-08-20T02:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T03:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957988115215478852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1938210111992074240",
+          "start": 0,
+          "username": "FJUNNNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957988115215478852",
+    "in_reply_to_user_id": "1938210111992074240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957607466499494261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FJUNNNN 真多啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957607458794594304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyrRnKcbYAA9OfT.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1957607466499494261",
+        "created_at": "2025-08-20T02:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T03:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957988115215478852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1938210111992074240",
+              "start": 0,
+              "username": "FJUNNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957988115215478852",
+        "in_reply_to_user_id": "1938210111992074240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957607466499494261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FJUNNNN 真多啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957607458794594304"
+          ]
+        },
+        "author_id": "1938210111992074240",
+        "conversation_id": "1957607466499494261",
+        "created_at": "2025-08-19T00:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T01:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957607466499494261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7V5SUk90g",
+              "end": 39,
+              "expanded_url": "https://x.com/FJUNNNN/status/1957607466499494261/photo/1",
+              "media_key": "3_1957607458794594304",
+              "start": 16,
+              "url": "https://t.co/s7V5SUk90g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957607466499494261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13455,
+          "like_count": 116,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "给宝宝还了个花呗 (*≧▽≦) https://t.co/s7V5SUk90g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 1396,
+          "like_count": 23251,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1474
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 168,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 112
+        },
+        "username": "FJUNNNN",
+        "verified": false
+      }
+    ]
+  }
+}

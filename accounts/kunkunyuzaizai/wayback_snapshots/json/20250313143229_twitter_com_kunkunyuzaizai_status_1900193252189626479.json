@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1900022978697638217",
+    "created_at": "2025-03-13T14:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T15:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900193252189626479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1165654342696886280",
+          "start": 0,
+          "username": "CutieStellaa"
+        },
+        {
+          "end": 22,
+          "id": "1433678976564662273",
+          "start": 14,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900193252189626479",
+    "in_reply_to_user_id": "1165654342696886280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900114257431453959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CutieStellaa @hsn8086 只有ha-lo和hellow"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1900022978697638217",
+        "created_at": "2025-03-13T14:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T15:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900193252189626479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1165654342696886280",
+              "start": 0,
+              "username": "CutieStellaa"
+            },
+            {
+              "end": 22,
+              "id": "1433678976564662273",
+              "start": 14,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900193252189626479",
+        "in_reply_to_user_id": "1165654342696886280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900114257431453959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CutieStellaa @hsn8086 只有ha-lo和hellow"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165654342696886280",
+        "conversation_id": "1900022978697638217",
+        "created_at": "2025-03-13T09:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T10:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900114257431453959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900114257431453959",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13993,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900022978697638217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 上次看到还有个人发 Hallo 哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 626,
+          "like_count": 10610,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 496
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-25T15:57:17.000Z",
+        "description": "已婚/幸运而富足/白白瘦瘦美美✨健康幸福快乐自信的小美女/ESFJ/Dancer/K-POP爱好者/金融从业/不约 不搞h 真的不搞 骚扰会被我骂+拉黑",
+        "id": "1165654342696886280",
+        "name": "Stella",
+        "pinned_tweet_id": "1589666309801115648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893153507978469376/ivQDEXk4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8769,
+          "following_count": 112,
+          "like_count": 764,
+          "listed_count": 30,
+          "media_count": 241,
+          "tweet_count": 1950
+        },
+        "username": "CutieStellaa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1898763769171542384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47099,
+          "following_count": 930,
+          "like_count": 37107,
+          "listed_count": 114,
+          "media_count": 7514,
+          "tweet_count": 12977
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

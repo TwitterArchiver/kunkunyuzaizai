@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1988646027906416908",
+    "created_at": "2025-11-13T10:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T11:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988913846254256208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1584183846857109505",
+          "start": 0,
+          "username": "WhatttaboutLov1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988913846254256208",
+    "in_reply_to_user_id": "1584183846857109505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988646027906416908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WhatttaboutLov1 男生可以吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988646015080288256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kXA7DbUAArZrm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1988646027906416908",
+        "created_at": "2025-11-13T10:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988913846254256208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1584183846857109505",
+              "start": 0,
+              "username": "WhatttaboutLov1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988913846254256208",
+        "in_reply_to_user_id": "1584183846857109505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988646027906416908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WhatttaboutLov1 男生可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988646015080288256"
+          ]
+        },
+        "author_id": "1584183846857109505",
+        "conversation_id": "1988646027906416908",
+        "created_at": "2025-11-12T16:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988646027906416908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3DQ0VSgMzr",
+              "end": 118,
+              "expanded_url": "https://x.com/WhatttaboutLov1/status/1988646027906416908/photo/1",
+              "media_key": "3_1988646015080288256",
+              "start": 95,
+              "url": "https://t.co/3DQ0VSgMzr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988646027906416908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小某书上看到的办法，用发膜➕水解胶原蛋白➕椰子油➕透明质酸钠搅在一起敷20分钟头发就能顺点、、我是细软沙发能有这个顺度感觉蛮不错的，平时洗完头炸的跟狮子狗一样。大家要是有耐心的话可以试试！ https://t.co/3DQ0VSgMzr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 2278,
+          "like_count": 32399,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2403
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T14:04:52.000Z",
+        "description": "🐱记事簿📒胡言乱语",
+        "id": "1584183846857109505",
+        "name": "momokittyyyyyy🍑🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966556288969834496/xevChlKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 60,
+          "like_count": 914,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 794
+        },
+        "username": "WhatttaboutLov1",
+        "verified": false
+      }
+    ]
+  }
+}

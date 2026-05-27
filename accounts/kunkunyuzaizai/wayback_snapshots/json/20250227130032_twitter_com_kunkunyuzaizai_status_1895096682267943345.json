@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1894419931086950513",
+    "created_at": "2025-02-27T13:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T14:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895096682267943345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1883183848399474689",
+          "start": 0,
+          "username": "Y44149Qing"
+        },
+        {
+          "end": 20,
+          "id": "1672345798070370305",
+          "start": 12,
+          "username": "aurait_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895096682267943345",
+    "in_reply_to_user_id": "1883183848399474689",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894980734114554284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y44149Qing @aurait_ 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1894419931086950513",
+        "created_at": "2025-02-27T13:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T14:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895096682267943345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1883183848399474689",
+              "start": 0,
+              "username": "Y44149Qing"
+            },
+            {
+              "end": 20,
+              "id": "1672345798070370305",
+              "start": 12,
+              "username": "aurait_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895096682267943345",
+        "in_reply_to_user_id": "1883183848399474689",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894980734114554284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y44149Qing @aurait_ 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883183848399474689",
+        "conversation_id": "1894419931086950513",
+        "created_at": "2025-02-27T05:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T06:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894980734114554284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 24,
+              "id": "1672345798070370305",
+              "start": 16,
+              "username": "aurait_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894980734114554284",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 644,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894573296966144395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @aurait_ 有没有可能是4i呢，因为我前女友的朋友真的是S0...就是男受，但是是4i小狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 603,
+          "like_count": 10003,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 441
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T16:03:24.000Z",
+        "description": "",
+        "id": "1883183848399474689",
+        "location": "山西太原/新西兰 奥克兰",
+        "name": "青衣",
+        "pinned_tweet_id": "1885968480459198467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883196012271210496/kYGVxOt7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 229,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 103
+        },
+        "username": "Y44149Qing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T20:48:24.000Z",
+        "description": "Les🌈 和杜宾稳定恋爱中 @W3Lxp7i7PKeI7f1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "W3Lxp7i7PKeI7f1"
+              }
+            ]
+          }
+        },
+        "id": "1672345798070370305",
+        "location": "❗️推广自辨",
+        "name": "微熱",
+        "pinned_tweet_id": "1852436410223206738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890984830206160897/19_MhGMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15400,
+          "following_count": 250,
+          "like_count": 1587,
+          "listed_count": 10,
+          "media_count": 120,
+          "tweet_count": 1407
+        },
+        "username": "aurait_",
+        "verified": false
+      }
+    ]
+  }
+}

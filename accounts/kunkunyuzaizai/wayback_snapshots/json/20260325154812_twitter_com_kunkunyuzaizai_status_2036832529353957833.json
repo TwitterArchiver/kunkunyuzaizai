@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2036832529353957833",
+    "created_at": "2026-03-25T15:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036832529353957833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1560533329912311808",
+          "start": 3,
+          "username": "BdZzbw6goo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036832529353957833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036282783950418156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BdZzbw6goo2: 400fo的抽奖，关注➕转发➕评论参与（我实在是穷的不行，只能给点小礼物，抱歉。最后由grok选）\n\n一等奖：两盒绿普（或一盒国补or折现）\n\n二等奖：一盒愈美（或折现）\n\n三等奖的：5r现金"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2036832529353957833",
+        "created_at": "2026-03-25T15:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036832529353957833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1560533329912311808",
+              "start": 3,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036832529353957833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036282783950418156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BdZzbw6goo2: 400fo的抽奖，关注➕转发➕评论参与（我实在是穷的不行，只能给点小礼物，抱歉。最后由grok选）\n\n一等奖：两盒绿普（或一盒国补or折现）\n\n二等奖：一盒愈美（或折现）\n\n三等奖的：5r现金"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2036282783950418156",
+        "created_at": "2026-03-24T03:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036282783950418156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036282783950418156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4032,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "400fo的抽奖，关注➕转发➕评论参与（我实在是穷的不行，只能给点小礼物，抱歉。最后由grok选）\n\n一等奖：两盒绿普（或一盒国补or折现）\n\n二等奖：一盒愈美（或折现）\n\n三等奖的：5r现金"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 2779,
+          "like_count": 43720,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3015
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 651,
+          "like_count": 46621,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 206
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

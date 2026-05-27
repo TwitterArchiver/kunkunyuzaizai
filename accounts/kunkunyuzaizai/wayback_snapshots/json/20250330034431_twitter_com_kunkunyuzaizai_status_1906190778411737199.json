@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1905627495598358548",
+    "created_at": "2025-03-30T03:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T04:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906190778411737199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885233030631219202",
+          "start": 0,
+          "username": "shanben7x8"
+        },
+        {
+          "end": 27,
+          "id": "1818920358403256320",
+          "start": 12,
+          "username": "xuanyu20240316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906190778411737199",
+    "in_reply_to_user_id": "1885233030631219202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906153358920155606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanben7x8 @xuanyu20240316 但是我喜欢玩游戏呀😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1905627495598358548",
+        "created_at": "2025-03-30T03:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T04:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906190778411737199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885233030631219202",
+              "start": 0,
+              "username": "shanben7x8"
+            },
+            {
+              "end": 27,
+              "id": "1818920358403256320",
+              "start": 12,
+              "username": "xuanyu20240316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906190778411737199",
+        "in_reply_to_user_id": "1885233030631219202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906153358920155606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanben7x8 @xuanyu20240316 但是我喜欢玩游戏呀😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885233030631219202",
+        "conversation_id": "1905627495598358548",
+        "created_at": "2025-03-30T01:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T02:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906153358920155606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 31,
+              "id": "1818920358403256320",
+              "start": 16,
+              "username": "xuanyu20240316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906153358920155606",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906013471545888770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @xuanyu20240316 那就别玩了，做自己喜欢的不就行了，你明知道自己操作会被队友骂你还玩这不就等于…明知山有虎偏向虎山行吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 641,
+          "like_count": 11807,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 568
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T07:46:58.000Z",
+        "description": "世界没有秘密……只有被遗忘的历史…",
+        "id": "1885233030631219202",
+        "name": "Laputa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898227668304461824/TnizW3Hn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 22,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 170
+        },
+        "username": "shanben7x8",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "mtf/无证含糖/仍然深柜中/HRT2024.3.16/生日2010.4.14/infp/CChOer（连省一线都过不了的废物）/朝7.5晚10一周6天的初三牲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuanyu20240316",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xuanyu20240316",
+                "start": 0,
+                "url": "https://t.co/CpO3M0EScL"
+              }
+            ]
+          }
+        },
+        "id": "1818920358403256320",
+        "location": "重庆",
+        "name": "萱雨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885250161720647680/qEzol3xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 1947,
+          "like_count": 8077,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/CpO3M0EScL",
+        "username": "xuanyu20240316",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Cancer",
+          "id": "1138864492526297093",
+          "name": "Cancer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cancer",
+          "id": "1138864492526297093",
+          "name": "Cancer"
+        }
+      }
+    ],
+    "conversation_id": "1954222462708904081",
+    "created_at": "2025-08-11T04:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T05:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954762933659160705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1513909585672736769",
+          "start": 0,
+          "username": "tianmei001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954762933659160705",
+    "in_reply_to_user_id": "1513909585672736769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954222462708904081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianmei001 窝9⃣️素巨蟹♋080627嘟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1051,
+        "media_key": "3_1954222457306730496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx7K-JPb0AAZDMB.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          }
+        ],
+        "conversation_id": "1954222462708904081",
+        "created_at": "2025-08-11T04:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T05:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954762933659160705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513909585672736769",
+              "start": 0,
+              "username": "tianmei001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954762933659160705",
+        "in_reply_to_user_id": "1513909585672736769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954222462708904081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianmei001 窝9⃣️素巨蟹♋080627嘟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954222457306730496"
+          ]
+        },
+        "author_id": "1513909585672736769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1954222462708904081",
+        "created_at": "2025-08-09T16:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T17:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954222462708904081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UMkj92fvuL",
+              "end": 44,
+              "expanded_url": "https://x.com/tianmei001/status/1954222462708904081/photo/1",
+              "media_key": "3_1954222457306730496",
+              "start": 21,
+              "url": "https://t.co/UMkj92fvuL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954222462708904081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 38027,
+          "like_count": 346,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我以前和巨蟹男就这样聊天\n真的好萌^ ^ https://t.co/UMkj92fvuL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 1326,
+          "like_count": 20967,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1228
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:59:16.000Z",
+        "description": "请熄灭我的心",
+        "id": "1513909585672736769",
+        "name": "黯淡星💭",
+        "pinned_tweet_id": "1870140845405679913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953848640533155840/0v5Bb58e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36483,
+          "following_count": 260,
+          "like_count": 31672,
+          "listed_count": 78,
+          "media_count": 2263,
+          "tweet_count": 33585
+        },
+        "username": "tianmei001",
+        "verified": false
+      }
+    ]
+  }
+}

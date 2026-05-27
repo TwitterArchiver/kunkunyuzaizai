@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1966826275752092032",
+    "created_at": "2025-09-14T12:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T13:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967199754523427195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1833947636396929024",
+          "start": 0,
+          "username": "Zhi0120_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967199754523427195",
+    "in_reply_to_user_id": "1833947636396929024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966826275752092032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhi0120_ 这么久我靠真素wyy重度用户"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966826268886003713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uSEiPbcAEsMFx.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1966826275752092032",
+        "created_at": "2025-09-14T12:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T13:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967199754523427195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1833947636396929024",
+              "start": 0,
+              "username": "Zhi0120_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967199754523427195",
+        "in_reply_to_user_id": "1833947636396929024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966826275752092032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhi0120_ 这么久我靠真素wyy重度用户"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966826268886003713"
+          ]
+        },
+        "author_id": "1833947636396929024",
+        "conversation_id": "1966826275752092032",
+        "created_at": "2025-09-13T11:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966826275752092032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HpgREi9aqf",
+              "end": 33,
+              "expanded_url": "https://x.com/Zhi0120_/status/1966826275752092032/photo/1",
+              "media_key": "3_1966826268886003713",
+              "start": 10,
+              "url": "https://t.co/HpgREi9aqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966826275752092032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 42083,
+          "like_count": 239,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "找我一起听歌好不好 https://t.co/HpgREi9aqf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 1789,
+          "like_count": 27960,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1871
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T19:16:11.000Z",
+        "description": "花花世界不必当真、",
+        "id": "1833947636396929024",
+        "location": "🚪120",
+        "name": "芷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959987400232652801/bE_A10V1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11094,
+          "following_count": 2,
+          "like_count": 6,
+          "listed_count": 14,
+          "media_count": 10,
+          "tweet_count": 23
+        },
+        "username": "Zhi0120_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968007366437376139",
+    "created_at": "2025-09-17T10:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T11:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968255269005361261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1491438786248470532",
+          "start": 0,
+          "username": "tttttang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968255269005361261",
+    "in_reply_to_user_id": "1491438786248470532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968007366437376139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tttttang_ 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1968007351266312192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_EQk-WAAA8_Y3.jpg",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968007366437376139",
+        "created_at": "2025-09-17T10:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T11:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968255269005361261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1491438786248470532",
+              "start": 0,
+              "username": "tttttang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968255269005361261",
+        "in_reply_to_user_id": "1491438786248470532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968007366437376139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tttttang_ 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968007351266312192"
+          ]
+        },
+        "author_id": "1491438786248470532",
+        "conversation_id": "1968007366437376139",
+        "created_at": "2025-09-16T17:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T18:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968007366437376139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aj4A5nGwAR",
+              "end": 29,
+              "expanded_url": "https://x.com/tttttang_/status/1968007366437376139/photo/1",
+              "media_key": "3_1968007351266312192",
+              "start": 6,
+              "url": "https://t.co/aj4A5nGwAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968007366437376139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 17809,
+          "like_count": 189,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "咋这么搞笑 https://t.co/aj4A5nGwAR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 1868,
+          "like_count": 28737,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1944
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T15:48:23.000Z",
+        "description": "上网冲浪。玩一下智能手机。",
+        "id": "1491438786248470532",
+        "name": "我就这样莫名其妙",
+        "pinned_tweet_id": "1968208505351049704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956020771157106693/IpY2jMUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 278,
+          "like_count": 2477,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 4900
+        },
+        "username": "tttttang_",
+        "verified": false
+      }
+    ]
+  }
+}

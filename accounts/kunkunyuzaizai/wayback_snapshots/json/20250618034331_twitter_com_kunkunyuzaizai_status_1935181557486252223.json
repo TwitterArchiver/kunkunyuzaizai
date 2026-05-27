@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1935161211030749463",
+    "created_at": "2025-06-18T03:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T04:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935181557486252223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1920012650232315905",
+          "start": 0,
+          "username": "ZXXAQZXJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935181557486252223",
+    "in_reply_to_user_id": "1920012650232315905",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935161211030749463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZXXAQZXJ ber？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 174,
+        "media_key": "16_1935161196925304832",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GtsS2w3aQAAvKgo.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GtsS2w3aQAAvKgo.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1935161211030749463",
+        "created_at": "2025-06-18T03:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T04:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935181557486252223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1920012650232315905",
+              "start": 0,
+              "username": "ZXXAQZXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935181557486252223",
+        "in_reply_to_user_id": "1920012650232315905",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935161211030749463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZXXAQZXJ ber？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1935161196925304832"
+          ]
+        },
+        "author_id": "1920012650232315905",
+        "conversation_id": "1935161211030749463",
+        "created_at": "2025-06-18T02:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T03:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935161211030749463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZAmI3FkCn",
+              "end": 49,
+              "expanded_url": "https://x.com/ZXXAQZXJ/status/1935161211030749463/photo/1",
+              "media_key": "16_1935161196925304832",
+              "start": 26,
+              "url": "https://t.co/lZAmI3FkCn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935161211030749463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 207,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打算暑假跑路成功之后就直接出柜告诉我爸我是亖人妖🤓 https://t.co/lZAmI3FkCn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1252,
+          "like_count": 17204,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 924
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T07:08:56.000Z",
+        "description": "11年的无证小药娘🏳️‍⚧叫我小寻就行咯😘有中度抑郁😞喜欢吃😋甜甜的🍥深柜家暴党暂时没休学😭 详情看下面↓最爱的老公🥰🥰🥰@wjhlovelzp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "wjhlovelzp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hmoegirl.com/index.php?titl…",
+                "end": 23,
+                "expanded_url": "https://hmoegirl.com/index.php?title=%E8%8D%AF%E5%A8%98&mobileaction=toggle_view_desktop",
+                "start": 0,
+                "url": "https://t.co/rfeR4XCh3o"
+              }
+            ]
+          }
+        },
+        "id": "1920012650232315905",
+        "location": "Jiangxi",
+        "name": "小寻酱🍥🏳️‍⚧",
+        "pinned_tweet_id": "1932615468428505254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930076063755055105/PhkM4OOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 503,
+          "like_count": 645,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/rfeR4XCh3o",
+        "username": "ZXXAQZXJ",
+        "verified": false
+      }
+    ]
+  }
+}

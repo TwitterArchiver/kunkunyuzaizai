@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2049667185740775911",
+    "created_at": "2026-04-30T08:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049775235961069588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900108524304076800",
+          "start": 0,
+          "username": "qi_bu64350"
+        },
+        {
+          "end": 25,
+          "id": "1984997071435489280",
+          "start": 12,
+          "username": "NianKui59953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049775235961069588",
+    "in_reply_to_user_id": "1900108524304076800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049667185740775911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_bu64350 @NianKui59953 啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049666956173934592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHhPK6agAANA-3.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2049667185740775911",
+        "created_at": "2026-04-30T08:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049775235961069588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900108524304076800",
+              "start": 0,
+              "username": "qi_bu64350"
+            },
+            {
+              "end": 25,
+              "id": "1984997071435489280",
+              "start": 12,
+              "username": "NianKui59953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049775235961069588",
+        "in_reply_to_user_id": "1900108524304076800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049667185740775911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_bu64350 @NianKui59953 啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049666956173934592"
+          ]
+        },
+        "author_id": "1900108524304076800",
+        "conversation_id": "2049667185740775911",
+        "created_at": "2026-04-30T01:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049667185740775911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kyQ6wc06f2",
+              "end": 42,
+              "expanded_url": "https://x.com/qi_bu64350/status/2049667185740775911/photo/1",
+              "media_key": "3_2049666956173934592",
+              "start": 19,
+              "url": "https://t.co/kyQ6wc06f2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049667185740775911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1419,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "又被封力🤗\n\n互fo寻回求转发谢谢喵 https://t.co/kyQ6wc06f2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 2982,
+          "like_count": 45637,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 3166
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T08:56:07.000Z",
+        "description": "好累……\n依旧把这当QQ空间用\n一切过激言论均由第二人格控制发布\n前@Ciallo_114_514 @YunoQiu56649",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Ciallo_114_514"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "1900108524304076800",
+        "location": "第五高原",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049695578402304000/1dyUSXys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 436,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 348
+        },
+        "username": "qi_bu64350",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T14:52:51.000Z",
+        "description": "mtf🏳️‍⚧️（无证无糖）|179cm/47kg|社恐&表达障碍（不怎么会说话...）|永远14岁|互fo欢迎|可交朋友喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikuzuy",
+                "end": 23,
+                "expanded_url": "http://t.me/mikuzuy",
+                "start": 0,
+                "url": "https://t.co/aLPRrkCTSF"
+              }
+            ]
+          }
+        },
+        "id": "1984997071435489280",
+        "name": "葉落風隨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018571020467392512/c8dZJopO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 1053,
+          "like_count": 6011,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 693
+        },
+        "url": "https://t.co/aLPRrkCTSF",
+        "username": "NianKui59953",
+        "verified": false
+      }
+    ]
+  }
+}

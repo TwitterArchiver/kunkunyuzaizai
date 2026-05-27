@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1941504964842619279",
+    "created_at": "2025-07-05T16:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T17:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941538280522252591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889157954143981568",
+          "start": 0,
+          "username": "_blueberrysauce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941538280522252591",
+    "in_reply_to_user_id": "1889157954143981568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941504964842619279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_blueberrysauce 唧唧怎么萎掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1941504964842619279",
+        "created_at": "2025-07-05T16:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T17:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941538280522252591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889157954143981568",
+              "start": 0,
+              "username": "_blueberrysauce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941538280522252591",
+        "in_reply_to_user_id": "1889157954143981568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941504964842619279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_blueberrysauce 唧唧怎么萎掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889157954143981568",
+        "conversation_id": "1941504964842619279",
+        "created_at": "2025-07-05T14:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T15:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941504964842619279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941504964842619279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5831,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "菠萝包是个很有耐心而且乐于助人的人🥺无论是女装穿法，还是脱毛建议都会耐心解答的🥹\n但不要问我飞机杯用法啊😭（掀裙子）你看啊😭（指着手术材料）我一个幼年跨女哪里用过哇😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 1274,
+          "like_count": 19327,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1081
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T03:42:26.000Z",
+        "description": "少女进行时ing 10年 I mtf l 友跨友同 l 泛性恋 l 不收门槛了 I 最爱的老公🥰🥰🥰@wwjxx好朋友@liciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 50,
+                "username": "wwjxx"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "liciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/milksugar17165",
+                "end": 23,
+                "expanded_url": "https://ngl.link/milksugar17165",
+                "start": 0,
+                "url": "https://t.co/7oEMPv0yii"
+              }
+            ]
+          }
+        },
+        "id": "1889157954143981568",
+        "location": "江苏",
+        "name": "小小菠萝包🍥",
+        "pinned_tweet_id": "1919217286923080152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907076397060808704/k0sUv7QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2741,
+          "following_count": 1396,
+          "like_count": 9700,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 2814
+        },
+        "url": "https://t.co/7oEMPv0yii",
+        "username": "_blueberrysauce",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1898940949369331930",
+    "created_at": "2025-03-11T07:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T08:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899362516796686699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857134346676895744",
+          "start": 0,
+          "username": "chayuxiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899362516796686699",
+    "in_reply_to_user_id": "1857134346676895744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898940949369331930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chayuxiang 我都好久没去学校了我原本是2023届的 到现在都没毕业我是2020上的初中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1898940949369331930",
+        "created_at": "2025-03-11T07:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T08:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899362516796686699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857134346676895744",
+              "start": 0,
+              "username": "chayuxiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899362516796686699",
+        "in_reply_to_user_id": "1857134346676895744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898940949369331930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chayuxiang 我都好久没去学校了我原本是2023届的 到现在都没毕业我是2020上的初中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857134346676895744",
+        "conversation_id": "1898940949369331930",
+        "created_at": "2025-03-10T03:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T04:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898940949369331930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898940949369331930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7243,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "【私事现生相关】\n求助现在正在休学的推友🤔\n我从2024年初第二学期开学时提交休学申请，因精神问题一直休学治疗到现在。\n今年九月份想要回学校继续读，因为遇到新教材改革，由于类似应激的反应，一年磕磕绊绊没有碰过课本，现在学习上遇到了困难🥲\n根据相关政策，可以选择退一级重新读吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 628,
+          "like_count": 10589,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 495
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T18:52:27.000Z",
+        "description": "茶语香｜唯一日常碎碎念账号｜普通人类｜想和大家交朋友｜₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chayuxiang1",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@chayuxiang1",
+                "start": 0,
+                "url": "https://t.co/C0Wr8Y3ej2"
+              }
+            ]
+          }
+        },
+        "id": "1857134346676895744",
+        "location": "🌏",
+        "name": "茶语香@低浮上",
+        "pinned_tweet_id": "1898264898263548066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875477108656611328/UrCy2t0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 194,
+          "like_count": 3182,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 1033
+        },
+        "url": "https://t.co/C0Wr8Y3ej2",
+        "username": "chayuxiang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910524337230323712",
+        "3_1910524339482746881",
+        "3_1910524339927343107"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1910524326090334495",
+    "created_at": "2025-04-11T02:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T03:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910524342984990720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/65RBx3uqLL",
+          "end": 31,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1910524342984990720/photo/1",
+          "media_key": "3_1910524337230323712",
+          "start": 8,
+          "url": "https://t.co/65RBx3uqLL"
+        },
+        {
+          "display_url": "pic.x.com/65RBx3uqLL",
+          "end": 31,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1910524342984990720/photo/1",
+          "media_key": "3_1910524339482746881",
+          "start": 8,
+          "url": "https://t.co/65RBx3uqLL"
+        },
+        {
+          "display_url": "pic.x.com/65RBx3uqLL",
+          "end": 31,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1910524342984990720/photo/1",
+          "media_key": "3_1910524339927343107",
+          "start": 8,
+          "url": "https://t.co/65RBx3uqLL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910524342984990720",
+    "in_reply_to_user_id": "1779063322500874240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910524326090334495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个也是以前的 https://t.co/65RBx3uqLL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1910524342984990720].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1910524342984990720",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1910524342984990720"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1910524337230323712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoOLwydaIAATIRY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1910524339482746881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoOLw62bYAEx1FK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1910524339927343107",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoOLw8gbYAMRspQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1910524322655199235",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoOLv8KbYAMDR1A.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910524322655199235"
+          ]
+        },
+        "author_id": "1779063322500874240",
+        "conversation_id": "1910524326090334495",
+        "created_at": "2025-04-11T02:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T03:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910524326090334495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YgrRBHBjZ3",
+              "end": 30,
+              "expanded_url": "https://x.com/kunkunyuzaizai/status/1910524326090334495/photo/1",
+              "media_key": "3_1910524322655199235",
+              "start": 7,
+              "url": "https://t.co/YgrRBHBjZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910524326090334495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻到以前画的 https://t.co/YgrRBHBjZ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 822,
+          "like_count": 13708,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 703
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1955927215088263633",
+    "created_at": "2025-08-14T12:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T13:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955968583818985700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812363069487742976",
+          "start": 0,
+          "username": "mingji_A"
+        },
+        {
+          "end": 26,
+          "id": "1794617194954850304",
+          "start": 10,
+          "username": "Baixiaoming0707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955968583818985700",
+    "in_reply_to_user_id": "1812363069487742976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955967832405237814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingji_A @Baixiaoming0707 厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1955927215088263633",
+        "created_at": "2025-08-14T12:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T13:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955968583818985700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            },
+            {
+              "end": 26,
+              "id": "1794617194954850304",
+              "start": 10,
+              "username": "Baixiaoming0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955968583818985700",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955967832405237814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A @Baixiaoming0707 厉害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812363069487742976",
+        "conversation_id": "1955927215088263633",
+        "created_at": "2025-08-14T12:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T13:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955967832405237814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794617194954850304",
+              "start": 0,
+              "username": "Baixiaoming0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955967832405237814",
+        "in_reply_to_user_id": "1794617194954850304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955927215088263633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baixiaoming0707 第一次去赌场下了最便宜的50块赌注\n运气好赢了1500\n然后马上换钱跑路了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 1340,
+          "like_count": 21922,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1353
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候。",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "铭纪Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812363217642967040/m7BCW6K3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 748,
+          "like_count": 22195,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 4148
+        },
+        "username": "mingji_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T06:31:28.000Z",
+        "description": "08年广西土著 | 简中/正體/English | 政史地亡命文科生 | 快品尝国宾酒尊尼获加 | 都去关注@virtual_kaf ！ | 永远追随国王→@oldsddl4gunmu @diangunottosm @otto_houguoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "virtual_kaf"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "oldsddl4gunmu"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "diangunottosm"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "otto_houguoyu"
+              }
+            ]
+          }
+        },
+        "id": "1794617194954850304",
+        "location": "无处不在 无影无踪",
+        "name": "白小铭",
+        "pinned_tweet_id": "1955314465181687825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923928431512707072/VKPjgBRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 1117,
+          "like_count": 14004,
+          "listed_count": 5,
+          "media_count": 729,
+          "tweet_count": 4281
+        },
+        "username": "Baixiaoming0707",
+        "verified": false
+      }
+    ]
+  }
+}

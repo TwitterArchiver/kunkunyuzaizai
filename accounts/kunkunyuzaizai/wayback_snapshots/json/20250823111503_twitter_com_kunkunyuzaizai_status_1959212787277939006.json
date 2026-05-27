@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1958819207170359437",
+    "created_at": "2025-08-23T11:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T12:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959212787277939006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493409182141206531",
+          "start": 0,
+          "username": "JQKAwhocares"
+        },
+        {
+          "end": 25,
+          "id": "1741091789879308288",
+          "start": 14,
+          "username": "zixinmiao2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959212787277939006",
+    "in_reply_to_user_id": "1493409182141206531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959036120148168782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JQKAwhocares @zixinmiao2 苹果也有英特尔处理器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1958819207170359437",
+        "created_at": "2025-08-23T11:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T12:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959212787277939006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493409182141206531",
+              "start": 0,
+              "username": "JQKAwhocares"
+            },
+            {
+              "end": 25,
+              "id": "1741091789879308288",
+              "start": 14,
+              "username": "zixinmiao2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959212787277939006",
+        "in_reply_to_user_id": "1493409182141206531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959036120148168782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JQKAwhocares @zixinmiao2 苹果也有英特尔处理器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493409182141206531",
+        "conversation_id": "1958819207170359437",
+        "created_at": "2025-08-22T23:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T00:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959036120148168782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741091789879308288",
+              "start": 0,
+              "username": "zixinmiao2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959036120148168782",
+        "in_reply_to_user_id": "1741091789879308288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958819207170359437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zixinmiao2 我不明白，苹果不是用的M芯片吗为什么显示intel呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY 凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1491,
+          "like_count": 24546,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1601
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T02:18:13.000Z",
+        "description": "临床医学生/男娘/性取向也是男娘/男娘最棒了🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰没有男娘看我可怎么办呀🥲🥲🥲🥲🥲🥲🥲🥲🥲🥲🥲",
+        "id": "1493409182141206531",
+        "location": "Los Angeles, CA",
+        "name": "Cyber Coffin",
+        "pinned_tweet_id": "1953092266966565288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712402755757957120/a6XFKgYw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 116,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 285
+        },
+        "username": "JQKAwhocares",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "一个杂鱼填充物，中推第一锦依卫\ncoser/kiger/せいふくコン/写真撮影\n想和娃娃们贴贴\n欢迎大家扩列",
+        "id": "1741091789879308288",
+        "location": "上海 闵行区",
+        "name": "超级可爱天依酱",
+        "pinned_tweet_id": "1947996301037334601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946796000896565248/ml-OsKJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4856,
+          "following_count": 1821,
+          "like_count": 11520,
+          "listed_count": 13,
+          "media_count": 198,
+          "tweet_count": 2546
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      }
+    ]
+  }
+}

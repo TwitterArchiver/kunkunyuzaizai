@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1927425872304177253",
+    "created_at": "2025-07-05T16:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T17:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941538668419969369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1326740695663607809",
+          "start": 0,
+          "username": "jianghunAY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941538668419969369",
+    "in_reply_to_user_id": "1326740695663607809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927425872304177253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianghunAY 接了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1927425867728216064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr-XnWDW4AAu7dK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1927425872304177253",
+        "created_at": "2025-07-05T16:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T17:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941538668419969369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1326740695663607809",
+              "start": 0,
+              "username": "jianghunAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941538668419969369",
+        "in_reply_to_user_id": "1326740695663607809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927425872304177253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianghunAY 接了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927425867728216064"
+          ]
+        },
+        "author_id": "1326740695663607809",
+        "conversation_id": "1927425872304177253",
+        "created_at": "2025-05-27T18:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T19:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927425872304177253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZzEXsniBw",
+              "end": 27,
+              "expanded_url": "https://x.com/jianghunAY/status/1927425872304177253/photo/1",
+              "media_key": "3_1927425867728216064",
+              "start": 4,
+              "url": "https://t.co/0ZzEXsniBw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927425872304177253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1831,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "小唧唧 https://t.co/0ZzEXsniBw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 1276,
+          "like_count": 19335,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1082
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-12T04:16:55.000Z",
+        "description": "这个账号会发🔞，不喜欢的请取关\n来自中国，喜欢furry。是广东人，妈的老子不约炮",
+        "id": "1326740695663607809",
+        "name": "阿羊🔞",
+        "pinned_tweet_id": "1680099368555401216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609866717882376195/cuOOz58L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3509,
+          "following_count": 877,
+          "like_count": 1948,
+          "listed_count": 4,
+          "media_count": 732,
+          "tweet_count": 2395
+        },
+        "username": "jianghunAY",
+        "verified": false
+      }
+    ]
+  }
+}

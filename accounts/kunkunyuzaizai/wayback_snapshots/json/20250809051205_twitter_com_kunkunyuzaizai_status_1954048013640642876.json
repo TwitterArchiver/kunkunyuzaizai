@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1952795718613082133",
+    "created_at": "2025-08-09T05:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T06:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954048013640642876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        },
+        {
+          "end": 25,
+          "id": "718654922749652992",
+          "start": 15,
+          "username": "jimmy_JJN"
+        },
+        {
+          "end": 38,
+          "id": "1451898340262645760",
+          "start": 26,
+          "username": "Xiaohan_QwQ"
+        },
+        {
+          "end": 49,
+          "id": "1807680175238422528",
+          "start": 39,
+          "username": "aihua_chn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954048013640642876",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953666918423953466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 @jimmy_JJN @Xiaohan_QwQ @aihua_chn 我被语言80三年没跟老师说过一次"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 166,
+        "media_key": "16_1953666902125162501",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GxzRsk6bsAUyO-O.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GxzRsk6bsAUyO-O.mp4"
+          }
+        ],
+        "width": 142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1952795718613082133",
+        "created_at": "2025-08-09T05:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T06:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954048013640642876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 25,
+              "id": "718654922749652992",
+              "start": 15,
+              "username": "jimmy_JJN"
+            },
+            {
+              "end": 38,
+              "id": "1451898340262645760",
+              "start": 26,
+              "username": "Xiaohan_QwQ"
+            },
+            {
+              "end": 49,
+              "id": "1807680175238422528",
+              "start": 39,
+              "username": "aihua_chn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954048013640642876",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953666918423953466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 @jimmy_JJN @Xiaohan_QwQ @aihua_chn 我被语言80三年没跟老师说过一次"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1953666902125162501"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1952795718613082133",
+        "created_at": "2025-08-08T03:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T04:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953666918423953466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "718654922749652992",
+              "start": 0,
+              "username": "jimmy_JJN"
+            },
+            {
+              "end": 23,
+              "id": "1451898340262645760",
+              "start": 11,
+              "username": "Xiaohan_QwQ"
+            },
+            {
+              "end": 34,
+              "id": "1807680175238422528",
+              "start": 24,
+              "username": "aihua_chn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PGRon7aBOu",
+              "end": 117,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1953666918423953466/photo/1",
+              "media_key": "16_1953666902125162501",
+              "start": 94,
+              "url": "https://t.co/PGRon7aBOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953666918423953466",
+        "in_reply_to_user_id": "718654922749652992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953503707015852429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jimmy_JJN @Xiaohan_QwQ @aihua_chn 他有没有被霸凌不知道，但你看着就像那种霸凌者，你还定义上受害者了，《你不会反抗？》《你不会告诉老师？》一股子健全逼味 https://t.co/PGRon7aBOu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 1307,
+          "like_count": 20633,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1185
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @04177_realname | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "04177_realname"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9617,
+          "following_count": 875,
+          "like_count": 20499,
+          "listed_count": 10,
+          "media_count": 3211,
+          "tweet_count": 20896
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-09T04:21:00.000Z",
+        "description": "🇨🇳",
+        "id": "718654922749652992",
+        "name": "Vec_Lo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930571995911225344/OzD76Hbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 293,
+          "like_count": 5715,
+          "listed_count": 11,
+          "media_count": 193,
+          "tweet_count": 5723
+        },
+        "username": "jimmy_JJN",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-23T13:08:43.000Z",
+        "description": "这里是一只小涵~希望你能天天开心哦~ | 小号：@yuhan2680",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "yuhan2680"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuhan2680.net",
+                "end": 23,
+                "expanded_url": "http://www.yuhan2680.net",
+                "start": 0,
+                "url": "https://t.co/EaLqxElBpJ"
+              }
+            ]
+          }
+        },
+        "id": "1451898340262645760",
+        "location": "乌托邦 Utopia ",
+        "name": "小涵QwQ🍥",
+        "pinned_tweet_id": "1763787971818594679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843883663496458240/GypnDc1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5777,
+          "following_count": 311,
+          "like_count": 93918,
+          "listed_count": 16,
+          "media_count": 1982,
+          "tweet_count": 21364
+        },
+        "url": "https://t.co/EaLqxElBpJ",
+        "username": "Xiaohan_QwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T07:38:50.000Z",
+        "description": "",
+        "id": "1807680175238422528",
+        "name": "aihua.chn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865592152870506496/JkF0wr7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 105,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 284
+        },
+        "username": "aihua_chn",
+        "verified": false
+      }
+    ]
+  }
+}

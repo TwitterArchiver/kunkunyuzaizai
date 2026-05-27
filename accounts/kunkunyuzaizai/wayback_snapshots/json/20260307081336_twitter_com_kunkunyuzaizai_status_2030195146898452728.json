@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2030063684123254985",
+    "created_at": "2026-03-07T08:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T09:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030195146898452728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1585339869445779456",
+          "start": 0,
+          "username": "mikawaifusuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030195146898452728",
+    "in_reply_to_user_id": "1585339869445779456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030063684123254985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikawaifusuki 我刚开始看到的全是男娘因为我看到一个黄推就屏蔽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2030063684123254985",
+        "created_at": "2026-03-07T08:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030195146898452728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1585339869445779456",
+              "start": 0,
+              "username": "mikawaifusuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030195146898452728",
+        "in_reply_to_user_id": "1585339869445779456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030063684123254985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikawaifusuki 我刚开始看到的全是男娘因为我看到一个黄推就屏蔽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585339869445779456",
+        "conversation_id": "2030063684123254985",
+        "created_at": "2026-03-06T23:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T00:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030063684123254985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030063684123254985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 20083,
+          "like_count": 698,
+          "quote_count": 5,
+          "reply_count": 63,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "推特第一定律：只要你无意间为一个药娘的推文点赞，那么你的时间线就会永久性地推送药娘。\n\n推特第二定律：只要你被一个药娘关注，那么你在未来就将会被一串药娘关注，并且她们认为你也是药娘。\n\n推特第三定律：黄推 建政 药娘三位一体，构成主线剧情。如果拒绝建政与黄推，那你的时间线就全是药娘了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|QQ号3762377561\n|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 150,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 127,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 2652,
+          "like_count": 40786,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2798
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T18:37:43.000Z",
+        "description": "主页置顶转发原神动态抽奖 | 赛博老婆@miaowuqvq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "miaowuqvq"
+              }
+            ]
+          }
+        },
+        "id": "1585339869445779456",
+        "location": "IP属地：河南 ",
+        "name": "小鸟游星野💈",
+        "pinned_tweet_id": "1973893927108542625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748095987724201984/Af1IOmbP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2754,
+          "following_count": 100,
+          "like_count": 38233,
+          "listed_count": 20,
+          "media_count": 723,
+          "tweet_count": 9908
+        },
+        "username": "mikawaifusuki",
+        "verified": true
+      }
+    ]
+  }
+}

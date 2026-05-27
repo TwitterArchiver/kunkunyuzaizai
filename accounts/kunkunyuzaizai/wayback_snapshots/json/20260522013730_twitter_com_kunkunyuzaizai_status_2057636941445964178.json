@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2057482784755814649",
+    "created_at": "2026-05-22T01:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T02:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057636941445964178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1689323430590418944",
+          "start": 0,
+          "username": "YanYu_Sauce"
+        },
+        {
+          "end": 28,
+          "id": "1810873766119100416",
+          "start": 13,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057636941445964178",
+    "in_reply_to_user_id": "1689323430590418944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057489534468931804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YanYu_Sauce @RainEngine2024 为什么不用内核ROOT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1926,
+        "media_key": "3_2057489521076576257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2r0YDboAEAABI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057489524087992320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2r0jRaMAAgW8D.jpg",
+        "width": 957
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057489525442834432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2r0oUbcAAHQds.jpg",
+        "width": 957
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2057482784755814649",
+        "created_at": "2026-05-22T01:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057636941445964178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1689323430590418944",
+              "start": 0,
+              "username": "YanYu_Sauce"
+            },
+            {
+              "end": 28,
+              "id": "1810873766119100416",
+              "start": 13,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057636941445964178",
+        "in_reply_to_user_id": "1689323430590418944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057489534468931804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YanYu_Sauce @RainEngine2024 为什么不用内核ROOT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057489521076576257",
+            "3_2057489524087992320",
+            "3_2057489525442834432"
+          ]
+        },
+        "author_id": "1689323430590418944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057482784755814649",
+        "created_at": "2026-05-21T15:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057489534468931804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7GL5d4h6mc",
+              "end": 159,
+              "expanded_url": "https://x.com/YanYu_Sauce/status/2057489534468931804/photo/1",
+              "media_key": "3_2057489521076576257",
+              "start": 136,
+              "url": "https://t.co/7GL5d4h6mc"
+            },
+            {
+              "display_url": "pic.x.com/7GL5d4h6mc",
+              "end": 159,
+              "expanded_url": "https://x.com/YanYu_Sauce/status/2057489534468931804/photo/1",
+              "media_key": "3_2057489524087992320",
+              "start": 136,
+              "url": "https://t.co/7GL5d4h6mc"
+            },
+            {
+              "display_url": "pic.x.com/7GL5d4h6mc",
+              "end": 159,
+              "expanded_url": "https://x.com/YanYu_Sauce/status/2057489534468931804/photo/1",
+              "media_key": "3_2057489525442834432",
+              "start": 136,
+              "url": "https://t.co/7GL5d4h6mc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057489534468931804",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057482784755814649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 没有遇到过，我的设备目前root环境都没隐藏，照样用，甚至tee都没修（没找到能用的模块），除了部分金融软件用不了，其他问题没遇到，感觉你的问题可能是证书过期导致的可以用Play Integrity API Checker和证书密室看一下 https://t.co/7GL5d4h6mc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 2994,
+          "like_count": 46013,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 3195
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T17:13:33.000Z",
+        "description": "",
+        "id": "1689323430590418944",
+        "name": "Misty_sauce",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689324047593611282/9np6qaoN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 65,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "YanYu_Sauce",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052221080052674560/erKoHu5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10181,
+          "following_count": 959,
+          "like_count": 89083,
+          "listed_count": 24,
+          "media_count": 1760,
+          "tweet_count": 12370
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

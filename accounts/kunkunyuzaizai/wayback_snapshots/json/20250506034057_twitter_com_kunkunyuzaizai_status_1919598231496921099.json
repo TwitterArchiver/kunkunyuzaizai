@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1919408511131210044",
+    "created_at": "2025-05-06T03:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T04:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919598231496921099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1606690184564985856",
+          "start": 0,
+          "username": "hgsbtin_nisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919598231496921099",
+    "in_reply_to_user_id": "1606690184564985856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919408511131210044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgsbtin_nisaki 撸多了也会没味道吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1919408503602786304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqMb3VQbsAApHb5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1919408511131210044",
+        "created_at": "2025-05-06T03:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T04:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919598231496921099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1606690184564985856",
+              "start": 0,
+              "username": "hgsbtin_nisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919598231496921099",
+        "in_reply_to_user_id": "1606690184564985856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919408511131210044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgsbtin_nisaki 撸多了也会没味道吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919408503602786304"
+          ]
+        },
+        "author_id": "1606690184564985856",
+        "conversation_id": "1919408511131210044",
+        "created_at": "2025-05-05T15:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T16:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919408511131210044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZRpusfK1dg",
+              "end": 69,
+              "expanded_url": "https://x.com/hgsbtin_nisaki/status/1919408511131210044/photo/1",
+              "media_key": "3_1919408503602786304",
+              "start": 46,
+              "url": "https://t.co/ZRpusfK1dg"
+            },
+            {
+              "display_url": "x.com/hgsbtin_nisaki…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/hgsbtin_nisaki/status/1919172642248245507",
+              "start": 70,
+              "url": "https://t.co/RCMlhEkY1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919408511131210044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6143,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919172642248245507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ニサキ的药娘汁，咱糖吃的不够久不够纯啊\n\n顺便尝了一口咸咸的没什么味道但实在是不想把它吃完 https://t.co/ZRpusfK1dg https://t.co/RCMlhEkY1B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 969,
+          "like_count": 14625,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 766
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年无证含糖mtf🏳️‍⚧️｜INFP-T｜168 48｜xyn｜HRT 2025/2/17｜N1考取中｜🏳️‍⚧️同类互fo｜@WangPu90983",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "WangPu90983"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "pinned_tweet_id": "1901667171320959058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374049002299392/JqxE9WVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 260,
+          "like_count": 1800,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 238
+        },
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      }
+    ]
+  }
+}

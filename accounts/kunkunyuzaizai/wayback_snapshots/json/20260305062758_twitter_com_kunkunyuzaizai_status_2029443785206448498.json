@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029443777681817600"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "2029443785206448498",
+    "created_at": "2026-03-05T06:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T07:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029443785206448498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C9SAx7E6uV",
+          "end": 29,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2029443785206448498/photo/1",
+          "media_key": "3_2029443777681817600",
+          "start": 6,
+          "url": "https://t.co/C9SAx7E6uV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029443785206448498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "豹子号我去 https://t.co/C9SAx7E6uV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2029443785206448498].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2029443785206448498",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2029443785206448498"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_2029443777681817600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCoIXQRaAAA1Z01.jpg",
+        "width": 1288
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|\n|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 137,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 114,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 2654,
+          "like_count": 40702,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2783
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

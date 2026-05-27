@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967946785521078737",
+    "created_at": "2025-09-17T02:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T03:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968141865741627520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1947537338806243333",
+          "start": 0,
+          "username": "copy0915ninja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968141865741627520",
+    "in_reply_to_user_id": "1947537338806243333",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967946785521078737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@copy0915ninja 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 845,
+        "media_key": "3_1967946772036325387",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-NKZwaEAsMee5.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967946785521078737",
+        "created_at": "2025-09-17T02:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T03:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968141865741627520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947537338806243333",
+              "start": 0,
+              "username": "copy0915ninja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968141865741627520",
+        "in_reply_to_user_id": "1947537338806243333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967946785521078737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copy0915ninja 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967946772036325387"
+          ]
+        },
+        "author_id": "1947537338806243333",
+        "conversation_id": "1967946785521078737",
+        "created_at": "2025-09-16T13:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T14:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967946785521078737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/onYW9ZfJcC",
+              "end": 34,
+              "expanded_url": "https://x.com/copy0915ninja/status/1967946785521078737/photo/1",
+              "media_key": "3_1967946772036325387",
+              "start": 11,
+              "url": "https://t.co/onYW9ZfJcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967946785521078737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 21763,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本入新号第一个门哥。 https://t.co/onYW9ZfJcC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1835,
+          "like_count": 28446,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1908
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T06:01:12.000Z",
+        "description": "宝宝们我之前的号卖掉了 我是虫虫",
+        "id": "1947537338806243333",
+        "name": "这个虫虫明明超过分",
+        "pinned_tweet_id": "1963687778275012689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966357123979448320/GNFQQ7-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 103,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 358
+        },
+        "username": "copy0915ninja",
+        "verified": false
+      }
+    ]
+  }
+}

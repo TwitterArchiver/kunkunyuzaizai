@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1923361511046557913",
+    "created_at": "2025-05-17T13:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T14:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923736527840084100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1843029762354393088",
+          "start": 0,
+          "username": "ldyacmg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923736527840084100",
+    "in_reply_to_user_id": "1843029762354393088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923361511046557913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ldyacmg 你们都没有容貌焦虑吗好羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1923361493808185344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrEnFpUaAAAEGeP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1923361493799849984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrEnFpSa0AAA_JD.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1923361493841743872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrEnFpcaEAAZnMm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1923361493921509376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrEnFpvbMAAoaMC.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1923361511046557913",
+        "created_at": "2025-05-17T13:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T14:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923736527840084100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1843029762354393088",
+              "start": 0,
+              "username": "ldyacmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923736527840084100",
+        "in_reply_to_user_id": "1843029762354393088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923361511046557913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ldyacmg 你们都没有容貌焦虑吗好羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923361493808185344",
+            "3_1923361493799849984",
+            "3_1923361493841743872",
+            "3_1923361493921509376"
+          ]
+        },
+        "author_id": "1843029762354393088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1923361511046557913",
+        "created_at": "2025-05-16T12:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T13:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923361511046557913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uoGVwsEuHL",
+              "end": 80,
+              "expanded_url": "https://x.com/ldyacmg/status/1923361511046557913/photo/1",
+              "media_key": "3_1923361493808185344",
+              "start": 57,
+              "url": "https://t.co/uoGVwsEuHL"
+            },
+            {
+              "display_url": "pic.x.com/uoGVwsEuHL",
+              "end": 80,
+              "expanded_url": "https://x.com/ldyacmg/status/1923361511046557913/photo/1",
+              "media_key": "3_1923361493799849984",
+              "start": 57,
+              "url": "https://t.co/uoGVwsEuHL"
+            },
+            {
+              "display_url": "pic.x.com/uoGVwsEuHL",
+              "end": 80,
+              "expanded_url": "https://x.com/ldyacmg/status/1923361511046557913/photo/1",
+              "media_key": "3_1923361493841743872",
+              "start": 57,
+              "url": "https://t.co/uoGVwsEuHL"
+            },
+            {
+              "display_url": "pic.x.com/uoGVwsEuHL",
+              "end": 80,
+              "expanded_url": "https://x.com/ldyacmg/status/1923361511046557913/photo/1",
+              "media_key": "3_1923361493921509376",
+              "start": 57,
+              "url": "https://t.co/uoGVwsEuHL"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "1923361511046557913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "yummy٩(๑´ڡ`๑)۶\n游泳好爽(｡&gt;∀&lt;｡)，而且不知道为什么，晚上的水一点都不冷反而很舒服 https://t.co/uoGVwsEuHL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 1050,
+          "like_count": 15008,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 815
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T20:45:22.000Z",
+        "description": "开心，快乐，happiness，这三样最重要！~(¯▽¯~)",
+        "id": "1843029762354393088",
+        "location": "广东，东莞",
+        "name": "家伙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843029985407455232/UsFWpfzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 174,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 70
+        },
+        "username": "ldyacmg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1982629947341672783",
+    "created_at": "2025-10-28T10:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T11:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983115733921054906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1731865096345780224",
+          "start": 0,
+          "username": "Ustinian_XiXi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983115733921054906",
+    "in_reply_to_user_id": "1731865096345780224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983062473675849728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ustinian_XiXi 屏幕小了吧 不动的敌人我也经常看不到 稍微一动就能看到 静态视力太差了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1982629947341672783",
+        "created_at": "2025-10-28T10:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983115733921054906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1731865096345780224",
+              "start": 0,
+              "username": "Ustinian_XiXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983115733921054906",
+        "in_reply_to_user_id": "1731865096345780224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983062473675849728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ustinian_XiXi 屏幕小了吧 不动的敌人我也经常看不到 稍微一动就能看到 静态视力太差了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731865096345780224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1982629947341672783",
+        "created_at": "2025-10-28T06:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983062473675849728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983062473675849728",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983031785899602198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 每个人擅长的不一样啦，3D游戏我自动看不见人眼瞎模式(｢･ω･)｢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 2194,
+          "like_count": 31770,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2309
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T02:36:44.000Z",
+        "description": "是超级圆圆的嘟嘟鱼！(｢･ω･)｢\n持证含糖，hrt  2023.12.7",
+        "id": "1731865096345780224",
+        "name": "✎ℳ₯㎕希曦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734585005718839296/RvMQy4gy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 408,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 203
+        },
+        "username": "Ustinian_XiXi",
+        "verified": false
+      }
+    ]
+  }
+}

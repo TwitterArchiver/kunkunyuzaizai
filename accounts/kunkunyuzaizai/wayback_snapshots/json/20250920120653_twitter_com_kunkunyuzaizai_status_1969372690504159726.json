@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969372685676527626"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1969372690504159726",
+    "created_at": "2025-09-20T12:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T13:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969372690504159726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AG51jsqKuo",
+          "end": 23,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1969372690504159726/photo/1",
+          "media_key": "3_1969372685676527626",
+          "start": 0,
+          "url": "https://t.co/AG51jsqKuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969372690504159726",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/AG51jsqKuo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1969372690504159726].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1969372690504159726",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1969372690504159726"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_1969372685676527626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SeBgAbQAoHOuD.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1990,
+          "like_count": 29637,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2049
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

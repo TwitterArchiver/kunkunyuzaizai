@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967835029821874211",
+    "created_at": "2025-09-16T06:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T07:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967835029821874211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mitawlove/stat…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/mitawlove/status/1967614652378145149",
+          "start": 36,
+          "url": "https://t.co/ncPJlqUtZw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967835029821874211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967614652378145149",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "收ATM奴，喜欢被物化 被人使用的可以私信我了。纯正酸爽，你值得拥有！ https://t.co/ncPJlqUtZw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967835029821874211",
+        "created_at": "2025-09-16T06:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967835029821874211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mitawlove/stat…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/mitawlove/status/1967614652378145149",
+              "start": 36,
+              "url": "https://t.co/ncPJlqUtZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967835029821874211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967614652378145149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收ATM奴，喜欢被物化 被人使用的可以私信我了。纯正酸爽，你值得拥有！ https://t.co/ncPJlqUtZw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809221791958900736",
+        "conversation_id": "1967614652378145149",
+        "created_at": "2025-09-15T15:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T16:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967614652378145149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tearfall73/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/tearfall73/status/1967577415565381650",
+              "start": 36,
+              "url": "https://t.co/vdtxS6X85A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967614652378145149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967577415565381650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收ATM奴，喜欢被物化 被人使用的可以私信我了。纯正酸爽，你值得拥有！ https://t.co/vdtxS6X85A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1824,
+          "like_count": 28329,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1896
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T13:44:32.000Z",
+        "description": "双性恋 07 178cm bbw enfp&infp 水瓶 精神病 休学中 上推就只是随便发些负能量话语和碎碎念和涩涩内容 私信无聊有时候会回 某些傻逼男的别凑上来 傻逼男的没屁眼断屌死全家 提问箱 https://t.co/wQuxFJPnlw 负能量拉满骂人账号：@2702wtbf 只过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 134,
+                "username": "2702wtbf"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mitawlove",
+                "end": 123,
+                "expanded_url": "https://ngl.link/mitawlove",
+                "start": 100,
+                "url": "https://t.co/wQuxFJPnlw"
+              }
+            ]
+          }
+        },
+        "id": "1809221791958900736",
+        "location": "互关可以加v",
+        "name": "美味乌头拌饭",
+        "pinned_tweet_id": "1957340339678896542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966002507446181888/uQ3Do7QH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 217,
+          "like_count": 6630,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 1635
+        },
+        "username": "mitawlove",
+        "verified": false
+      }
+    ]
+  }
+}

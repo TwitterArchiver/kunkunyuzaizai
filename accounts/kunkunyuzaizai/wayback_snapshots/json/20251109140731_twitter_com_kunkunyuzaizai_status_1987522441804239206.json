@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1987522441804239206",
+    "created_at": "2025-11-09T14:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T15:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987522441804239206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1854122101441241088",
+          "start": 3,
+          "username": "mengmeng000715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987522441804239206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987123306550731221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mengmeng000715: 不知不觉粉丝快破3k了🥹！\n真的超级感谢大家一路支持～\n那就来办个小抽奖回馈一下吧！\n开奖时间看这帖子的热度决定哦～  \n\n奖项设置：  一等奖：100元支付宝口令红包 ×1  \n二等奖：国补两盒 ×1  \n三等奖：国补一盒 ×2 \n\n参…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1639,
+        "media_key": "3_1987123302939406337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OuHaSasAEaoO6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1216,
+        "media_key": "3_1987123301630820352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OuHVabQAAPZvI.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1987522441804239206",
+        "created_at": "2025-11-09T14:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T15:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987522441804239206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1854122101441241088",
+              "start": 3,
+              "username": "mengmeng000715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987522441804239206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987123306550731221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mengmeng000715: 不知不觉粉丝快破3k了🥹！\n真的超级感谢大家一路支持～\n那就来办个小抽奖回馈一下吧！\n开奖时间看这帖子的热度决定哦～  \n\n奖项设置：  一等奖：100元支付宝口令红包 ×1  \n二等奖：国补两盒 ×1  \n三等奖：国补一盒 ×2 \n\n参…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987123302939406337",
+            "3_1987123301630820352"
+          ]
+        },
+        "author_id": "1854122101441241088",
+        "conversation_id": "1987123306550731221",
+        "created_at": "2025-11-08T11:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T12:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987123306550731221"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "药娘"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "mtf"
+            },
+            {
+              "end": 155,
+              "start": 150,
+              "tag": "男娘雌堕"
+            },
+            {
+              "end": 159,
+              "start": 156,
+              "tag": "男娘"
+            },
+            {
+              "end": 163,
+              "start": 160,
+              "tag": "吃糖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d0lCDU6MWH",
+              "end": 187,
+              "expanded_url": "https://x.com/mengmeng000715/status/1987123306550731221/photo/1",
+              "media_key": "3_1987123302939406337",
+              "start": 164,
+              "url": "https://t.co/d0lCDU6MWH"
+            },
+            {
+              "display_url": "pic.x.com/d0lCDU6MWH",
+              "end": 187,
+              "expanded_url": "https://x.com/mengmeng000715/status/1987123306550731221/photo/1",
+              "media_key": "3_1987123301630820352",
+              "start": 164,
+              "url": "https://t.co/d0lCDU6MWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987123306550731221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6413,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "不知不觉粉丝快破3k了🥹！\n真的超级感谢大家一路支持～\n那就来办个小抽奖回馈一下吧！\n开奖时间看这帖子的热度决定哦～  \n\n奖项设置：  一等奖：100元支付宝口令红包 ×1  \n二等奖：国补两盒 ×1  \n三等奖：国补一盒 ×2 \n\n参与方式：关注 + 转发 + 评论 + 点赞\n#药娘 #mtf #男娘雌堕 #男娘 #吃糖 https://t.co/d0lCDU6MWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 2234,
+          "like_count": 31900,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2360
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T11:22:19.000Z",
+        "description": "买糖药💊色谱龙/日雌/补佳乐/减肥药/美白丸，售卖正规进口药品🏳️‍⚧️（未成年同类买糖🍬更实惠！） | 08的人类女孩🐱 | 可以叫窝小蛋糕🍋🍰 | 🚪30 50 100（可聊天可树洞）",
+        "id": "1854122101441241088",
+        "location": "在你心里❤️过🚪30 50 100",
+        "name": "檬檬🍬🍥(HRT药商糖商补佳乐日雌色谱龙)",
+        "pinned_tweet_id": "1856210666937561199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854162974212304898/rxDHGT8l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2833,
+          "following_count": 562,
+          "like_count": 510,
+          "listed_count": 14,
+          "media_count": 140,
+          "tweet_count": 279
+        },
+        "username": "mengmeng000715",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1905627495598358548",
+    "created_at": "2025-03-28T15:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T16:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905641851518148849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818920358403256320",
+          "start": 0,
+          "username": "xuanyu20240316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905641851518148849",
+    "in_reply_to_user_id": "1818920358403256320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905627495598358548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanyu20240316 强大不起来 我很懦弱的 打游戏看到打不过就投降摆烂了  被人骂也只会哭或者忍着 什么的    唉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1905627486643458048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnImGkeakAAx6jT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1905627495598358548",
+        "created_at": "2025-03-28T15:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T16:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905641851518148849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818920358403256320",
+              "start": 0,
+              "username": "xuanyu20240316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905641851518148849",
+        "in_reply_to_user_id": "1818920358403256320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905627495598358548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanyu20240316 强大不起来 我很懦弱的 打游戏看到打不过就投降摆烂了  被人骂也只会哭或者忍着 什么的    唉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905627486643458048"
+          ]
+        },
+        "author_id": "1818920358403256320",
+        "conversation_id": "1905627495598358548",
+        "created_at": "2025-03-28T14:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T15:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905627495598358548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FkkizycrJk",
+              "end": 57,
+              "expanded_url": "https://x.com/xuanyu20240316/status/1905627495598358548/photo/1",
+              "media_key": "3_1905627486643458048",
+              "start": 34,
+              "url": "https://t.co/FkkizycrJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905627495598358548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 418,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸给我买的...\n难绷...\n谁爱看谁看去吧...\n想扔掉... https://t.co/FkkizycrJk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 642,
+          "like_count": 11662,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 554
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "mtf/无证含糖/仍然深柜中/HRT2024.3.16/生日2010.4.14/infp/CChOer（连省一线都过不了的废物）/朝7.5晚10一周6天的初三牲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuanyu20240316",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xuanyu20240316",
+                "start": 0,
+                "url": "https://t.co/CpO3M0EScL"
+              }
+            ]
+          }
+        },
+        "id": "1818920358403256320",
+        "location": "重庆",
+        "name": "萱雨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885250161720647680/qEzol3xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 1937,
+          "like_count": 7764,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/CpO3M0EScL",
+        "username": "xuanyu20240316",
+        "verified": false
+      }
+    ]
+  }
+}

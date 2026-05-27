@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1907364636560863233"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1907364724607721496",
+    "created_at": "2025-04-02T09:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T10:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907364724607721496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/StGr01xOy9",
+          "end": 23,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1907364724607721496/video/1",
+          "media_key": "7_1907364636560863233",
+          "start": 0,
+          "url": "https://t.co/StGr01xOy9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907364724607721496",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/StGr01xOy9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907364724607721496].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907364724607721496",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907364724607721496"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34992,
+        "height": 1280,
+        "media_key": "7_1907364636560863233",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1907364636560863233/pu/img/AQG8v_1-2INeMOs9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907364636560863233/pu/vid/avc1/320x568/CnztQRKB8QK-44hB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907364636560863233/pu/vid/avc1/480x852/Ql4IG4bHIIYeJJ-L.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907364636560863233/pu/vid/avc1/720x1280/k4cs3zNJc2CsnBKa.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1907364636560863233/pu/pl/jUTkNYKQ1SicJUvj.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 669,
+          "like_count": 12384,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 612
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

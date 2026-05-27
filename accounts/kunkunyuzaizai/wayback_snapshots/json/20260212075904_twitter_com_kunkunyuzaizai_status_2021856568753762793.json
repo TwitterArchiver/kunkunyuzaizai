@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1906926460247634269",
+    "created_at": "2026-02-12T07:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T08:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021856568753762793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1502482959827292161",
+          "start": 0,
+          "username": "Danielzmeow"
+        },
+        {
+          "end": 21,
+          "id": "820124419674677249",
+          "start": 13,
+          "username": "Im_Sdog"
+        },
+        {
+          "end": 33,
+          "id": "141659609",
+          "start": 22,
+          "username": "blackyneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021856568753762793",
+    "in_reply_to_user_id": "1502482959827292161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906934081411297646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Danielzmeow @Im_Sdog @blackyneko 我觉得苹果8才是小屏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1906926460247634269",
+        "created_at": "2026-02-12T07:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021856568753762793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1502482959827292161",
+              "start": 0,
+              "username": "Danielzmeow"
+            },
+            {
+              "end": 21,
+              "id": "820124419674677249",
+              "start": 13,
+              "username": "Im_Sdog"
+            },
+            {
+              "end": 33,
+              "id": "141659609",
+              "start": 22,
+              "username": "blackyneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021856568753762793",
+        "in_reply_to_user_id": "1502482959827292161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906934081411297646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Danielzmeow @Im_Sdog @blackyneko 我觉得苹果8才是小屏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502482959827292161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1906926460247634269",
+        "created_at": "2025-04-01T04:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906934081411297646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "820124419674677249",
+              "start": 0,
+              "username": "Im_Sdog"
+            },
+            {
+              "end": 20,
+              "id": "141659609",
+              "start": 9,
+              "username": "blackyneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906934081411297646",
+        "in_reply_to_user_id": "820124419674677249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906928034923622681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Sdog @blackyneko 那怎么算小屏…虽然我觉得iPhone Pro很好了但是这个东西在我眼里就是主流尺寸啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627|INFP|XYN|HRT2026 2.4|无证含糖🏳️‍⚧️🍥雌二醇凝胶|\n|不OD|不抽烟|不喝酒|抑郁|焦虑|早八晚六打工人|使命召唤手游＆巅峰极速手游＆网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 151,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 128,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 2565,
+          "like_count": 38964,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2700
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T03:14:00.000Z",
+        "description": "Skiing & Running & Playing tennis | CSE Student & Vibe Developer | Always being curious & Trying to find a consistency to justify my endless childhood.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.danielz.net",
+                "end": 23,
+                "expanded_url": "http://blog.danielz.net",
+                "start": 0,
+                "url": "https://t.co/MjyOBOjzN8"
+              }
+            ]
+          }
+        },
+        "id": "1502482959827292161",
+        "location": "In the dream of 2019",
+        "name": "danielzhang",
+        "pinned_tweet_id": "1993706435797287134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005616187078737920/eIXHe5KE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 1112,
+          "like_count": 103091,
+          "listed_count": 5,
+          "media_count": 1568,
+          "tweet_count": 21972
+        },
+        "url": "https://t.co/MjyOBOjzN8",
+        "username": "Danielzmeow",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-14T04:24:33.000Z",
+        "description": "https://t.co/OWcnOxROk5 |\n文不识评测，武不能拆机 |\n山景城上单：Pixel，NM（指 Google）什么时候肆啊？ |\n腰间盘突出 | 酒精成瘾 | 肾结石 |\n@ChelseaFC 车路士的男孩 |\n#アズールレーン |\n#メタルマックス |\nfo 满 7500，无法及时回关🥲 |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 115,
+                "tag": "アズールレーン"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "tag": "メタルマックス"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "ChelseaFC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/sdog",
+                "end": 23,
+                "expanded_url": "http://lit.link/sdog",
+                "start": 0,
+                "url": "https://t.co/OWcnOxROk5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sdog9527/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/sdog9527/",
+                "start": 0,
+                "url": "https://t.co/kMNkAoHQ9Y"
+              }
+            ]
+          }
+        },
+        "id": "820124419674677249",
+        "location": "People's Republic of China",
+        "name": "𝕊𝕕𝕠𝕘",
+        "pinned_tweet_id": "1953104018437242925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876546693145210880/KWlA4Q6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 7500,
+          "like_count": 253465,
+          "listed_count": 11,
+          "media_count": 8927,
+          "tweet_count": 34588
+        },
+        "url": "https://t.co/kMNkAoHQ9Y",
+        "username": "Im_Sdog",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-08T17:27:57.000Z",
+        "description": "G+; 一个老司机，有 Porsche/Tesla/Li. 有在认真玩 Home Assistant，欢迎讨论。客厅娱乐的忠实拥趸。奥利奥🐈铲屎官。",
+        "id": "141659609",
+        "name": "八雲チェン",
+        "pinned_tweet_id": "2009895925423235356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1049694267193491456/G2uxwP3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 929,
+          "like_count": 5410,
+          "listed_count": 26,
+          "media_count": 2249,
+          "tweet_count": 34017
+        },
+        "username": "blackyneko",
+        "verified": false
+      }
+    ]
+  }
+}

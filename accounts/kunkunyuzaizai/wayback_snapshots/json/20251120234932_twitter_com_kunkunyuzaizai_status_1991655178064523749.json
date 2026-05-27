@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1991361731969577414",
+    "created_at": "2025-11-20T23:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T00:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991655178064523749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1717010531209670656",
+          "start": 0,
+          "username": "mtrlike"
+        },
+        {
+          "end": 22,
+          "id": "1803069002370912256",
+          "start": 9,
+          "username": "qinqin191939"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991655178064523749",
+    "in_reply_to_user_id": "1717010531209670656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991501611462697469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtrlike @qinqin191939 肛门塞矿泉水瓶？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1991361731969577414",
+        "created_at": "2025-11-20T23:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T00:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991655178064523749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1717010531209670656",
+              "start": 0,
+              "username": "mtrlike"
+            },
+            {
+              "end": 22,
+              "id": "1803069002370912256",
+              "start": 9,
+              "username": "qinqin191939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991655178064523749",
+        "in_reply_to_user_id": "1717010531209670656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991501611462697469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtrlike @qinqin191939 肛门塞矿泉水瓶？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717010531209670656",
+        "conversation_id": "1991361731969577414",
+        "created_at": "2025-11-20T13:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T14:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991501611462697469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1803069002370912256",
+              "start": 0,
+              "username": "qinqin191939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991501611462697469",
+        "in_reply_to_user_id": "1803069002370912256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1642,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991361731969577414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinqin191939 被骚扰过，上来就问我能开视频调他吗，让我看他自己塞矿泉水瓶玩👀😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 2330,
+          "like_count": 33318,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2442
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T02:49:55.000Z",
+        "description": "妹1，超超超级喜欢肌肉男妈妈，雷小男娘\n接定制，1i 4i都阔以",
+        "id": "1717010531209670656",
+        "location": "哈尔滨",
+        "name": "盛予安",
+        "pinned_tweet_id": "1957744134422425981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824829557784064000/CSwfqwxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 365,
+          "like_count": 564,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 649
+        },
+        "username": "mtrlike",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T14:15:59.000Z",
+        "description": "",
+        "id": "1803069002370912256",
+        "name": "无声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939580588748402688/ChOHLe81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 124,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "qinqin191939",
+        "verified": false
+      }
+    ]
+  }
+}

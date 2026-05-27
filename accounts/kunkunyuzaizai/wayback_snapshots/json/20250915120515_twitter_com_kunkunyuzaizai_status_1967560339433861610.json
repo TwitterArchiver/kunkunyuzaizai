@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967503523727507710",
+    "created_at": "2025-09-15T12:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T13:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967560339433861610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920162329255448576",
+          "start": 0,
+          "username": "zzzz_o0o0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967560339433861610",
+    "in_reply_to_user_id": "1920162329255448576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967503523727507710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzz_o0o0 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967503513077833729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G036BVdWYAEFY1C.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967503513031720960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G036BVSWwAAPOMQ.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967503523727507710",
+        "created_at": "2025-09-15T12:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T13:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967560339433861610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920162329255448576",
+              "start": 0,
+              "username": "zzzz_o0o0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967560339433861610",
+        "in_reply_to_user_id": "1920162329255448576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967503523727507710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzz_o0o0 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967503513077833729",
+            "3_1967503513031720960"
+          ]
+        },
+        "author_id": "1920162329255448576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1967503523727507710",
+        "created_at": "2025-09-15T08:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T09:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967503523727507710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VQZZ4Bek1z",
+              "end": 38,
+              "expanded_url": "https://x.com/zzzz_o0o0/status/1967503523727507710/photo/1",
+              "media_key": "3_1967503513077833729",
+              "start": 15,
+              "url": "https://t.co/VQZZ4Bek1z"
+            },
+            {
+              "display_url": "pic.x.com/VQZZ4Bek1z",
+              "end": 38,
+              "expanded_url": "https://x.com/zzzz_o0o0/status/1967503523727507710/photo/1",
+              "media_key": "3_1967503513031720960",
+              "start": 15,
+              "url": "https://t.co/VQZZ4Bek1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967503523727507710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2735,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "门槛哥们仿佛约定好了一般🤗🤗 https://t.co/VQZZ4Bek1z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 1816,
+          "like_count": 28237,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1889
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T17:02:40.000Z",
+        "description": "许愿有人一直喜欢我。防炸小号@ll1113806150973",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "ll1113806150973"
+              }
+            ]
+          }
+        },
+        "id": "1920162329255448576",
+        "location": "🚪520",
+        "name": "o0o0",
+        "pinned_tweet_id": "1966565384414236843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948390566066089984/oBZoa0uT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10994,
+          "following_count": 149,
+          "like_count": 2653,
+          "listed_count": 21,
+          "media_count": 28,
+          "tweet_count": 1075
+        },
+        "username": "zzzz_o0o0",
+        "verified": false
+      }
+    ]
+  }
+}

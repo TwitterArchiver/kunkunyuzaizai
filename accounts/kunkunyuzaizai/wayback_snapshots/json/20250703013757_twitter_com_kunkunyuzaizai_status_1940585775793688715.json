@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1940343576610869682",
+    "created_at": "2025-07-03T01:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T02:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940585775793688715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990912416983601153",
+          "start": 0,
+          "username": "guiwow8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940585775793688715",
+    "in_reply_to_user_id": "990912416983601153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940392668703699030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guiwow8964 @kiyooooii 外国卡也能定位吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1940343576610869682",
+        "created_at": "2025-07-03T01:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T02:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940585775793688715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990912416983601153",
+              "start": 0,
+              "username": "guiwow8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940585775793688715",
+        "in_reply_to_user_id": "990912416983601153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940392668703699030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guiwow8964 @kiyooooii 外国卡也能定位吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990912416983601153",
+        "conversation_id": "1940343576610869682",
+        "created_at": "2025-07-02T12:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T13:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940392668703699030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1614826297091592198",
+              "start": 0,
+              "username": "kiyooooii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940392668703699030",
+        "in_reply_to_user_id": "1614826297091592198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940343576610869682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiyooooii 我觉着如果晶哥知道你手机号的话不可能找不到你的，手机号用基站定位不是晶哥基础操作吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 1267,
+          "like_count": 19197,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1069
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-30T11:15:05.000Z",
+        "description": "人生自古谁无死\n不幸的，此号原主已经离世\n因此以后将永远无法与您互动",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "http://gov.cn",
+                "start": 0,
+                "url": "https://t.co/TbW0lX9674"
+              }
+            ]
+          }
+        },
+        "id": "990912416983601153",
+        "location": "北京西城区",
+        "name": "guiwow",
+        "pinned_tweet_id": "1895562600341254233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787194887726841856/QMGObFy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4346,
+          "following_count": 4671,
+          "like_count": 58527,
+          "listed_count": 13,
+          "media_count": 97,
+          "tweet_count": 920
+        },
+        "url": "https://t.co/TbW0lX9674",
+        "username": "guiwow8964",
+        "verified": false
+      }
+    ]
+  }
+}

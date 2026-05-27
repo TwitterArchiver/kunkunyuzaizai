@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2002314721039679791",
+    "created_at": "2025-12-21T13:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T14:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002726294078050426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        },
+        {
+          "end": 32,
+          "id": "1781893716183060480",
+          "start": 16,
+          "username": "annie_cath86841"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002726294078050426",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002339296708342003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 @annie_cath86841 所以你可以随便解锁小米手机BL？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2002314721039679791",
+        "created_at": "2025-12-21T13:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002726294078050426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 32,
+              "id": "1781893716183060480",
+              "start": 16,
+              "username": "annie_cath86841"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002726294078050426",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002339296708342003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 @annie_cath86841 所以你可以随便解锁小米手机BL？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2002314721039679791",
+        "created_at": "2025-12-20T11:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002339296708342003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "annie_cath86841"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002339296708342003",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1285,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002337955835432992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annie_cath86841 来入职小米开发部门就可以自己解锁了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\n没有学历的废物\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 97,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 74,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 2328,
+          "like_count": 35537,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2545
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "小米合作伙伴/米家线下运营/互联网小透明/喜欢拍照记录生活/爱好折腾数码产品/PM前请征得同意否则Ban/回复消息可能不及时还请谅解/最棒的女孩子w @Sokei_ko_nya/ GMT+8/ZH-CN/EN-US is OK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "Sokei_ko_nya"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2001491202013827260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999397701537136644/7_l653ly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4070,
+          "following_count": 679,
+          "like_count": 38040,
+          "listed_count": 6,
+          "media_count": 823,
+          "tweet_count": 5535
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "A studio leader...\n(MayOS Team)\nHappy everyday.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mayos.liveblog365.com",
+                "end": 23,
+                "expanded_url": "http://mayos.liveblog365.com/",
+                "start": 0,
+                "url": "https://t.co/MjVBbNKoMm"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "location": "A happy world...",
+        "name": "Cathy Annie",
+        "pinned_tweet_id": "1987322008246624460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959184472890540033/c5ODDXQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 222,
+          "like_count": 2261,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 1184
+        },
+        "url": "https://t.co/MjVBbNKoMm",
+        "username": "annie_cath86841",
+        "verified": false
+      }
+    ]
+  }
+}

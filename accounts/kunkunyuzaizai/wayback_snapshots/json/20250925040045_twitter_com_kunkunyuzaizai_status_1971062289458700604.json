@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968331294104023178",
+    "created_at": "2025-09-25T04:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T05:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971062289458700604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1846893587675459584",
+          "start": 0,
+          "username": "mai996778"
+        },
+        {
+          "end": 21,
+          "id": "1226833851583889409",
+          "start": 11,
+          "username": "AyameHoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971062289458700604",
+    "in_reply_to_user_id": "1846893587675459584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968337350490259772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mai996778 @AyameHoro 好涩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968331294104023178",
+        "created_at": "2025-09-25T04:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T05:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971062289458700604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1846893587675459584",
+              "start": 0,
+              "username": "mai996778"
+            },
+            {
+              "end": 21,
+              "id": "1226833851583889409",
+              "start": 11,
+              "username": "AyameHoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971062289458700604",
+        "in_reply_to_user_id": "1846893587675459584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968337350490259772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mai996778 @AyameHoro 好涩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846893587675459584",
+        "conversation_id": "1968331294104023178",
+        "created_at": "2025-09-17T15:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T16:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968337350490259772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1226833851583889409",
+              "start": 0,
+              "username": "AyameHoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/AyameHoro/stat…",
+              "end": 36,
+              "expanded_url": "https://x.com/AyameHoro/status/1888168050232324491?s=19",
+              "start": 13,
+              "url": "https://t.co/EVzGrJrK2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968337350490259772",
+        "in_reply_to_user_id": "1846893587675459584",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5082,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888168050232324491",
+            "type": "quoted"
+          },
+          {
+            "id": "1968331294104023178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyameHoro 1\nhttps://t.co/EVzGrJrK2f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 2085,
+          "like_count": 30579,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2134
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T12:38:50.000Z",
+        "description": "呱呱呱呱呱随便录录～感谢喜欢❤️/Switch偏m/私信只回礼貌宝宝～/定制过🚪七折/接kp/不接推广转帖/ \n提问箱📭https://t.co/5ImAu43KdQ  饭盒：https://t.co/LpsBg8ZV2N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/maii83795/",
+                "end": 83,
+                "expanded_url": "https://ngl.link/maii83795/",
+                "start": 60,
+                "url": "https://t.co/5ImAu43KdQ"
+              },
+              {
+                "display_url": "maii.fanbox.cc",
+                "end": 111,
+                "expanded_url": "https://maii.fanbox.cc/",
+                "start": 88,
+                "url": "https://t.co/LpsBg8ZV2N"
+              }
+            ]
+          }
+        },
+        "id": "1846893587675459584",
+        "location": "快乐岛",
+        "name": "Mai",
+        "pinned_tweet_id": "1950345491100680456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920468041961185281/u8NH7dJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6475,
+          "following_count": 38,
+          "like_count": 1865,
+          "listed_count": 42,
+          "media_count": 132,
+          "tweet_count": 578
+        },
+        "username": "mai996778",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T11:42:49.000Z",
+        "description": "男孩子！172cm/53kg/不吃晚饭星人/发着玩真的不线下！-在fo中满足赛博暴露癖的男子（）",
+        "id": "1226833851583889409",
+        "name": "AyameHoro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848327027834912768/kTtHUF4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 118,
+          "like_count": 903,
+          "listed_count": 11,
+          "media_count": 183,
+          "tweet_count": 331
+        },
+        "username": "AyameHoro",
+        "verified": false
+      }
+    ]
+  }
+}

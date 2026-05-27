@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967593576998834247",
+    "created_at": "2025-09-16T06:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T07:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967836030293422249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1373650271251820554",
+          "start": 0,
+          "username": "CwuteMarikowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967836030293422249",
+    "in_reply_to_user_id": "1373650271251820554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967593576998834247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CwuteMarikowo 这是啥数学怎么全是英文"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1221,
+        "media_key": "3_1967593566596943872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05L7I9a0AAqGRT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967593576998834247",
+        "created_at": "2025-09-16T06:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967836030293422249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1373650271251820554",
+              "start": 0,
+              "username": "CwuteMarikowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967836030293422249",
+        "in_reply_to_user_id": "1373650271251820554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967593576998834247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CwuteMarikowo 这是啥数学怎么全是英文"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967593566596943872"
+          ]
+        },
+        "author_id": "1373650271251820554",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1967593576998834247",
+        "created_at": "2025-09-15T14:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T15:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967593576998834247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKxSY7rbnz",
+              "end": 45,
+              "expanded_url": "https://x.com/CwuteMarikowo/status/1967593576998834247/photo/1",
+              "media_key": "3_1967593566596943872",
+              "start": 22,
+              "url": "https://t.co/jKxSY7rbnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967593576998834247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 921,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久沒出來了，最近大學好忙，心理健康不太好 https://t.co/jKxSY7rbnz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1826,
+          "like_count": 28371,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1899
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T14:58:47.000Z",
+        "description": "🏳️‍⚧️ she/her |\nhrt: 21/8/2024 |\nmade with Copper and Tellurium |\nborn and raised in 🇭🇰, living in 🇦🇺|\ndiscord: stellawa_",
+        "id": "1373650271251820554",
+        "location": "Usyd",
+        "name": "Sakura Mariko🇭🇰 🏳️‍⚧️",
+        "pinned_tweet_id": "1937127468449898686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642248924265324544/iHYEATDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 1535,
+          "like_count": 18214,
+          "listed_count": 6,
+          "media_count": 1106,
+          "tweet_count": 10853
+        },
+        "username": "CwuteMarikowo",
+        "verified": false
+      }
+    ]
+  }
+}

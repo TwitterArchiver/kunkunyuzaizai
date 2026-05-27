@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1938380438659334232",
+    "created_at": "2025-06-27T14:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T15:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938609378262933942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1001121523611197440",
+          "start": 0,
+          "username": "pierrewang2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938609378262933942",
+    "in_reply_to_user_id": "1001121523611197440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938599703895286229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pierrewang2 蟹蟹陌生人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1938380438659334232",
+        "created_at": "2025-06-27T14:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938609378262933942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1001121523611197440",
+              "start": 0,
+              "username": "pierrewang2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938609378262933942",
+        "in_reply_to_user_id": "1001121523611197440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938599703895286229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pierrewang2 蟹蟹陌生人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1001121523611197440",
+        "conversation_id": "1938380438659334232",
+        "created_at": "2025-06-27T14:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938599703895286229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938599703895286229",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938380438659334232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1260,
+          "like_count": 18591,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1004
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-28T15:22:25.000Z",
+        "description": "🐠找🐟，🦀找🦐，🐸找🐸",
+        "id": "1001121523611197440",
+        "location": "Singapore",
+        "name": "pierre wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246615989803876357/LmOjbnYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5501,
+          "following_count": 2321,
+          "like_count": 870297,
+          "listed_count": 15,
+          "media_count": 229,
+          "tweet_count": 79863
+        },
+        "username": "pierrewang2",
+        "verified": false
+      }
+    ]
+  }
+}

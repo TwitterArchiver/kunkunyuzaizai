@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1939897387969126906",
+    "created_at": "2025-07-02T08:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T09:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940330125104750989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940330125104750989",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939897387969126906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinaseAyano 可以的要是能便宜点就完美了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1939897377311326208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuvmYvtagAAXeGU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1939897387969126906",
+        "created_at": "2025-07-02T08:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T09:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940330125104750989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940330125104750989",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939897387969126906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano 可以的要是能便宜点就完美了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939897377311326208"
+          ]
+        },
+        "author_id": "1693935285577670656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1939897387969126906",
+        "created_at": "2025-07-01T04:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T05:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939897387969126906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMIyxHywpB",
+              "end": 39,
+              "expanded_url": "https://x.com/MinaseAyano/status/1939897387969126906/photo/1",
+              "media_key": "3_1939897377311326208",
+              "start": 16,
+              "url": "https://t.co/vMIyxHywpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939897387969126906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 77164,
+          "like_count": 754,
+          "quote_count": 3,
+          "reply_count": 216,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "如何评价学校的午饭\n这些17块 https://t.co/vMIyxHywpB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 1266,
+          "like_count": 19186,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1068
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 可以私信找我交换明信片～ | 里推负能 & 可爱老婆@Yumo_1314 杂鱼主人❤️@_Tojita_Sekai 可爱姐姐@yanmin1105 老婆大人@Kisaragi_momoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "Yumo_1314"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "_Tojita_Sekai"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 123,
+                "start": 108,
+                "username": "Kisaragi_momoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/minaseayano",
+                "end": 23,
+                "expanded_url": "http://ngl.link/minaseayano",
+                "start": 0,
+                "url": "https://t.co/vdyPufHjYv"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "Longyearbyen",
+        "name": "綾乃 🏳️‍⚧️",
+        "pinned_tweet_id": "1909517285662101999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895406575382413312/OZs9bNeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 1753,
+          "like_count": 6526,
+          "listed_count": 6,
+          "media_count": 553,
+          "tweet_count": 6710
+        },
+        "url": "https://t.co/vdyPufHjYv",
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

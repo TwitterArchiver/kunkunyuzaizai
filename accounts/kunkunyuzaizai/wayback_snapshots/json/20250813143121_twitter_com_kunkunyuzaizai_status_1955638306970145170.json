@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1955318258506031598",
+    "created_at": "2025-08-13T14:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T15:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955638306970145170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721288623654658048",
+          "start": 0,
+          "username": "cv41___midway"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955638306970145170",
+    "in_reply_to_user_id": "1721288623654658048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955318258506031598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cv41___midway 怎么老刷到这种东西😭我一年也赚不了这么多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_1955318255285047300",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyKvl-0aEAQ7Ype.jpg",
+        "width": 713
+      },
+      {
+        "height": 1150,
+        "media_key": "3_1955318255041843200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyKvl96bEAA8YtC.jpg",
+        "width": 726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1955318258506031598",
+        "created_at": "2025-08-13T14:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955638306970145170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721288623654658048",
+              "start": 0,
+              "username": "cv41___midway"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955638306970145170",
+        "in_reply_to_user_id": "1721288623654658048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955318258506031598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cv41___midway 怎么老刷到这种东西😭我一年也赚不了这么多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955318255285047300",
+            "3_1955318255041843200"
+          ]
+        },
+        "author_id": "1721288623654658048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1955318258506031598",
+        "created_at": "2025-08-12T17:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T18:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955318258506031598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KhMP2RzIkI",
+              "end": 79,
+              "expanded_url": "https://x.com/cv41___midway/status/1955318258506031598/photo/1",
+              "media_key": "3_1955318255285047300",
+              "start": 56,
+              "url": "https://t.co/KhMP2RzIkI"
+            },
+            {
+              "display_url": "pic.x.com/KhMP2RzIkI",
+              "end": 79,
+              "expanded_url": "https://x.com/cv41___midway/status/1955318258506031598/photo/1",
+              "media_key": "3_1955318255041843200",
+              "start": 56,
+              "url": "https://t.co/KhMP2RzIkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955318258506031598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 34229,
+          "like_count": 322,
+          "quote_count": 6,
+          "reply_count": 54,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "假期去辅导机构兼职教物理20天赚了1w8\n带两个班，一个班赚了1w2，另一个6000，这比援交来钱还快啊（（（ https://t.co/KhMP2RzIkI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 1334,
+          "like_count": 21599,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1319
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T22:09:35.000Z",
+        "description": "Midway-class No. 1 ship |want to be cute~|Computational fluid dynamics|Please feel free to use personal pronouns QAQ|亲姐姐 @Abs0lutHydra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "Abs0lutHydra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/midway_channel",
+                "end": 23,
+                "expanded_url": "https://t.me/midway_channel",
+                "start": 0,
+                "url": "https://t.co/FF1lx06EJS"
+              }
+            ]
+          }
+        },
+        "id": "1721288623654658048",
+        "location": "Amsterdam, The Netherlands",
+        "name": "米德伟",
+        "pinned_tweet_id": "1942839474280620394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777195227951820800/Ye9qu7qF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 1196,
+          "like_count": 13543,
+          "listed_count": 5,
+          "media_count": 636,
+          "tweet_count": 6234
+        },
+        "url": "https://t.co/FF1lx06EJS",
+        "username": "cv41___midway",
+        "verified": false
+      }
+    ]
+  }
+}

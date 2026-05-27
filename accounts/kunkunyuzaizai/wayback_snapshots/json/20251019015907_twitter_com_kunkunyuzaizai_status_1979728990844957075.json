@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1979680933323407704",
+    "created_at": "2025-10-19T01:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T02:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979728990844957075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1711840683638792192",
+          "start": 0,
+          "username": "xiaogudu423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979728990844957075",
+    "in_reply_to_user_id": "1711840683638792192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979680933323407704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaogudu423 枣尚豪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1979680933323407704",
+        "created_at": "2025-10-19T01:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T02:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979728990844957075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1711840683638792192",
+              "start": 0,
+              "username": "xiaogudu423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979728990844957075",
+        "in_reply_to_user_id": "1711840683638792192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979680933323407704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaogudu423 枣尚豪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711840683638792192",
+        "conversation_id": "1979680933323407704",
+        "created_at": "2025-10-18T22:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T23:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979680933323407704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979680933323407704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "枣！！尚！！耗！！(˵¯͒〰¯͒˵)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 2169,
+          "like_count": 31648,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2281
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T20:27:20.000Z",
+        "description": "05 年/ MTF / 无证含糖 / infp / 家长反对党 / 欢迎随时找我聊天~ / 喜欢作词，小说，钢琴和猫猫 / 愿望是和他永远在一起❤️",
+        "id": "1711840683638792192",
+        "name": "雨泠🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1975147988461961561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960278385118298112/eLB4LArM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 1070,
+          "like_count": 6254,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1254
+        },
+        "username": "xiaogudu423",
+        "verified": false
+      }
+    ]
+  }
+}

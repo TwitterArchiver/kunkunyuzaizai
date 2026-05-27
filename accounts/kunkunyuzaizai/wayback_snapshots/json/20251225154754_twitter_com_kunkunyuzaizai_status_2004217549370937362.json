@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2004173949035561197",
+    "created_at": "2025-12-25T15:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T16:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004217549370937362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1840008766135103488",
+          "start": 0,
+          "username": "nande198900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004217549370937362",
+    "in_reply_to_user_id": "1840008766135103488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004173949035561197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nande198900 男的不能爱美 很容易被骂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004173942655737856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BBlRAW4AAKPSt.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2004173942638911488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BBlQ8WIAAvK9R.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2004173942613753856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BBlQ2WQAAuZuX.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2004173949035561197",
+        "created_at": "2025-12-25T15:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T16:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004217549370937362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1840008766135103488",
+              "start": 0,
+              "username": "nande198900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004217549370937362",
+        "in_reply_to_user_id": "1840008766135103488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004173949035561197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nande198900 男的不能爱美 很容易被骂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004173942655737856",
+            "3_2004173942638911488",
+            "3_2004173942613753856"
+          ]
+        },
+        "author_id": "1840008766135103488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2004173949035561197",
+        "created_at": "2025-12-25T12:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T13:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004173949035561197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8blD4DLuoW",
+              "end": 141,
+              "expanded_url": "https://x.com/nande198900/status/2004173949035561197/photo/1",
+              "media_key": "3_2004173942655737856",
+              "start": 118,
+              "url": "https://t.co/8blD4DLuoW"
+            },
+            {
+              "display_url": "pic.x.com/8blD4DLuoW",
+              "end": 141,
+              "expanded_url": "https://x.com/nande198900/status/2004173949035561197/photo/1",
+              "media_key": "3_2004173942638911488",
+              "start": 118,
+              "url": "https://t.co/8blD4DLuoW"
+            },
+            {
+              "display_url": "pic.x.com/8blD4DLuoW",
+              "end": 141,
+              "expanded_url": "https://x.com/nande198900/status/2004173949035561197/photo/1",
+              "media_key": "3_2004173942613753856",
+              "start": 118,
+              "url": "https://t.co/8blD4DLuoW"
+            },
+            {
+              "display_url": "x.com/noname2095_/st…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/noname2095_/status/2003815226450514161",
+              "start": 142,
+              "url": "https://t.co/E9NIG2sckw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004173949035561197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3961,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003815226450514161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有的宝宝，有的，有的优势是很明显的\n这是我一年之前总结的为什么我身为男性独生子是老天给我的礼物，虽然我很多观点都改变了但男性优势的大体可以参考：\n总之就是想吃到部分女性红利需要的是你好看而不是成为女人，而男性红利则需要你真的是生理男人 https://t.co/8blD4DLuoW https://t.co/E9NIG2sckw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 2389,
+          "like_count": 36250,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2571
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T12:41:00.000Z",
+        "description": "🍊",
+        "id": "1840008766135103488",
+        "name": "某人的第五个号",
+        "pinned_tweet_id": "1983518752793604213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923498092516573185/UQ5TgMeR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17671,
+          "following_count": 2385,
+          "like_count": 5443,
+          "listed_count": 73,
+          "media_count": 1119,
+          "tweet_count": 14784
+        },
+        "username": "nande198900",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2013564912245563449",
+    "created_at": "2026-01-21T01:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T02:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013779040872599793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1369516386939117568",
+          "start": 0,
+          "username": "Lunatic_Raver"
+        },
+        {
+          "end": 25,
+          "id": "1211879989995421696",
+          "start": 15,
+          "username": "medicagoo"
+        },
+        {
+          "end": 39,
+          "id": "957544663275028481",
+          "start": 26,
+          "username": "SuBanXia1120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013779040872599793",
+    "in_reply_to_user_id": "1369516386939117568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013637896990007469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lunatic_Raver @medicagoo @SuBanXia1120 跨女没有B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 416,
+        "media_key": "3_2013637492273000450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HgoWlXMAIsfqs.jpg",
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2013564912245563449",
+        "created_at": "2026-01-21T01:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T02:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013779040872599793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1369516386939117568",
+              "start": 0,
+              "username": "Lunatic_Raver"
+            },
+            {
+              "end": 25,
+              "id": "1211879989995421696",
+              "start": 15,
+              "username": "medicagoo"
+            },
+            {
+              "end": 39,
+              "id": "957544663275028481",
+              "start": 26,
+              "username": "SuBanXia1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013779040872599793",
+        "in_reply_to_user_id": "1369516386939117568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013637896990007469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lunatic_Raver @medicagoo @SuBanXia1120 跨女没有B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013637492273000450"
+          ]
+        },
+        "author_id": "1369516386939117568",
+        "conversation_id": "2013564912245563449",
+        "created_at": "2026-01-20T15:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013637896990007469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1211879989995421696",
+              "start": 0,
+              "username": "medicagoo"
+            },
+            {
+              "end": 24,
+              "id": "957544663275028481",
+              "start": 11,
+              "username": "SuBanXia1120"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Lunatic_Raver/…",
+              "end": 129,
+              "expanded_url": "https://x.com/Lunatic_Raver/status/1969754368145781077",
+              "start": 106,
+              "url": "https://t.co/qjk0S4igUS"
+            },
+            {
+              "display_url": "pic.x.com/CiaAIDXypp",
+              "end": 153,
+              "expanded_url": "https://x.com/Lunatic_Raver/status/2013637896990007469/photo/1",
+              "media_key": "3_2013637492273000450",
+              "start": 130,
+              "url": "https://t.co/CiaAIDXypp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013637896990007469",
+        "in_reply_to_user_id": "1211879989995421696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 126,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969754368145781077",
+            "type": "quoted"
+          },
+          {
+            "id": "2013575280061718815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@medicagoo @SuBanXia1120 至少跨女会，此事于《变性现象》中早有记载，没有人天生知道怎么当顺女。\n\n「我被当成男人养大，怎么会知晓身为女性的种种体验？我如果说我了解，反而是在侮辱女人。」\n\nhttps://t.co/qjk0S4igUS https://t.co/CiaAIDXypp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 2446,
+          "like_count": 37669,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2640
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-10T05:12:22.000Z",
+        "description": "zh-Wikipedian｜社畜｜closeted MtX/TransFem｜lolicon｜incel (本义)｜AS-ADHD谱系｜Anti Animal Welfare\n\n尝试理解人类感情的AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "w.wiki/7Bxz",
+                "end": 23,
+                "expanded_url": "https://w.wiki/7Bxz",
+                "start": 0,
+                "url": "https://t.co/nLXq2TH0xE"
+              }
+            ]
+          }
+        },
+        "id": "1369516386939117568",
+        "location": "NEC(n)",
+        "name": "無名冰精@Hourai Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986839926466641920/mzgkbvoc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 56,
+          "like_count": 1938,
+          "listed_count": 2,
+          "media_count": 1047,
+          "tweet_count": 3582
+        },
+        "url": "https://t.co/nLXq2TH0xE",
+        "username": "Lunatic_Raver",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-31T05:21:31.000Z",
+        "description": "Transcend body. Trans 🏳️‍⚧️. 内心空洞，无法挣脱束缚。跨女🏳️‍⚧️。 日记本，不做账号，无需关注。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "medicago.top",
+                "end": 23,
+                "expanded_url": "https://medicago.top/",
+                "start": 0,
+                "url": "https://t.co/yXqadddKGh"
+              }
+            ]
+          }
+        },
+        "id": "1211879989995421696",
+        "name": "🍉楠沐雪🌰",
+        "pinned_tweet_id": "2012168057485971719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990723871683837952/qN5-3xFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 554,
+          "like_count": 11415,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 5309
+        },
+        "url": "https://t.co/yXqadddKGh",
+        "username": "medicagoo",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-28T09:23:32.000Z",
+        "description": "我居然是苏半夏🦋丨“我觉得现在的人生，就很幸福了。”纯绿🚪50丨幻想频道：https://t.co/AGPNZuMX3L丨SRS手术分享https://t.co/HLSHXOnt8E要是我们能永远留在夏天里，就好了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/MuranAG",
+                "end": 60,
+                "expanded_url": "https://t.me/MuranAG",
+                "start": 37,
+                "url": "https://t.co/AGPNZuMX3L"
+              },
+              {
+                "display_url": "t.me/muranSRSinpai",
+                "end": 91,
+                "expanded_url": "https://t.me/muranSRSinpai",
+                "start": 68,
+                "url": "https://t.co/HLSHXOnt8E"
+              }
+            ]
+          }
+        },
+        "id": "957544663275028481",
+        "location": "Hong Kong",
+        "name": "苒🦊木狐",
+        "pinned_tweet_id": "1924371810130518218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1433839553748430851/2UH9XRNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18055,
+          "following_count": 848,
+          "like_count": 6004,
+          "listed_count": 55,
+          "media_count": 704,
+          "tweet_count": 4498
+        },
+        "username": "SuBanXia1120",
+        "verified": true
+      }
+    ]
+  }
+}

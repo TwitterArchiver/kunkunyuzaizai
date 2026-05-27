@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2005221185504887239",
+    "created_at": "2025-12-29T15:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T16:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005663646186381340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1962794475274805248",
+          "start": 0,
+          "username": "cutezm107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005663646186381340",
+    "in_reply_to_user_id": "1962794475274805248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005663196078870605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cutezm107 对我太贵了 我工资低😭 按劳分配累死一天最多50多大部分时候只有三十多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2005221185504887239",
+        "created_at": "2025-12-29T15:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T16:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005663646186381340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962794475274805248",
+              "start": 0,
+              "username": "cutezm107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005663646186381340",
+        "in_reply_to_user_id": "1962794475274805248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005663196078870605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cutezm107 对我太贵了 我工资低😭 按劳分配累死一天最多50多大部分时候只有三十多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962794475274805248",
+        "conversation_id": "2005221185504887239",
+        "created_at": "2025-12-29T15:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T16:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005663196078870605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005663196078870605",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005662508083036531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 其实很便宜了！😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 2413,
+          "like_count": 36668,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2584
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T08:27:36.000Z",
+        "description": "",
+        "id": "1962794475274805248",
+        "location": "哎",
+        "name": "有我呢",
+        "pinned_tweet_id": "1981380882301931950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997421223186472960/5uDoGEqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 55,
+          "like_count": 1658,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 459
+        },
+        "username": "cutezm107",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1877371623914774731",
+    "created_at": "2025-01-11T02:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T03:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877903525512192259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1092456200212369408",
+          "start": 0,
+          "username": "samuel651118"
+        },
+        {
+          "end": 28,
+          "id": "872337605697974272",
+          "start": 14,
+          "username": "Frank778_3316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877903525512192259",
+    "in_reply_to_user_id": "1092456200212369408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877545529170645350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samuel651118 @Frank778_3316 可是西藏已经解决好了👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1877371623914774731",
+        "created_at": "2025-01-11T02:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T03:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877903525512192259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1092456200212369408",
+              "start": 0,
+              "username": "samuel651118"
+            },
+            {
+              "end": 28,
+              "id": "872337605697974272",
+              "start": 14,
+              "username": "Frank778_3316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877903525512192259",
+        "in_reply_to_user_id": "1092456200212369408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877545529170645350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samuel651118 @Frank778_3316 可是西藏已经解决好了👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1092456200212369408",
+        "conversation_id": "1877371623914774731",
+        "created_at": "2025-01-10T02:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T03:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877545529170645350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "872337605697974272",
+              "start": 0,
+              "username": "Frank778_3316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877545529170645350",
+        "in_reply_to_user_id": "872337605697974272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4375,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877371623914774731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Frank778_3316 这些人对西藏地震漠不关心，却心生欢喜别国的灾害。\n真不知道这些人父母是怎么教育的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 290,
+          "like_count": 6013,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 259
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-04T16:13:49.000Z",
+        "description": "",
+        "id": "1092456200212369408",
+        "name": "Samuel651118",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 427,
+          "like_count": 10317,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 14805
+        },
+        "username": "samuel651118",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-07T06:21:07.000Z",
+        "description": "",
+        "id": "872337605697974272",
+        "location": "British Columbia，Canada",
+        "name": "乘风破浪🍁🇨🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850078096638214146/fWTBnuNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4380,
+          "following_count": 733,
+          "like_count": 106169,
+          "listed_count": 16,
+          "media_count": 2569,
+          "tweet_count": 20470
+        },
+        "username": "Frank778_3316",
+        "verified": false
+      }
+    ]
+  }
+}

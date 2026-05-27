@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1936622425204314276",
+    "created_at": "2025-06-23T10:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T11:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937098057893773717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1693873810469199872",
+          "start": 0,
+          "username": "eve_city"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937098057893773717",
+    "in_reply_to_user_id": "1693873810469199872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936622425204314276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eve_city 喝酒可以那俩个不可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1936622425204314276",
+        "created_at": "2025-06-23T10:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T11:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937098057893773717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1693873810469199872",
+              "start": 0,
+              "username": "eve_city"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937098057893773717",
+        "in_reply_to_user_id": "1693873810469199872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936622425204314276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eve_city 喝酒可以那俩个不可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693873810469199872",
+        "conversation_id": "1936622425204314276",
+        "created_at": "2025-06-22T03:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T04:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936622425204314276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936622425204314276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4320,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱会不会在毕业之前染上od吸烟喝酒呢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1252,
+          "like_count": 17729,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 945
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T06:32:52.000Z",
+        "description": "INFP / HRT 2024.3.4 / 07年 成都📖 / 愿意成为每个人的小太阳 / 同类互fo☀️ / 喜欢音游 MC 轨交🐱 /〔最可爱的猫猫🐈〕 @Jin_Ge233 /〔最可爱的月月🌕〕@Dymoons_tis /〔主人〕@shensheng657867 @Paranoia23334",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Jin_Ge233"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "Dymoons_tis"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "shensheng657867"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Paranoia23334"
+              }
+            ]
+          }
+        },
+        "id": "1693873810469199872",
+        "name": "雨城EveningCity🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803692072035397632/jWnt6iWs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 1073,
+          "like_count": 14582,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 4608
+        },
+        "username": "eve_city",
+        "verified": false
+      }
+    ]
+  }
+}

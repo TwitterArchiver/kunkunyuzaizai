@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2022208509409190012",
+    "created_at": "2026-02-13T09:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T10:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022239032902877195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2021842555735097344",
+          "start": 0,
+          "username": "Emo7778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022239032902877195",
+    "in_reply_to_user_id": "2021842555735097344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022208509409190012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emo7778 呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 477,
+        "media_key": "3_2022208503658819587",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBT64JbsAMz80v.jpg",
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2022208509409190012",
+        "created_at": "2026-02-13T09:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T10:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022239032902877195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2021842555735097344",
+              "start": 0,
+              "username": "Emo7778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022239032902877195",
+        "in_reply_to_user_id": "2021842555735097344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022208509409190012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emo7778 呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022208503658819587"
+          ]
+        },
+        "author_id": "2021842555735097344",
+        "conversation_id": "2022208509409190012",
+        "created_at": "2026-02-13T07:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T08:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022208509409190012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJfUrSU9cI",
+              "end": 35,
+              "expanded_url": "https://x.com/Emo7778/status/2022208509409190012/photo/1",
+              "media_key": "3_2022208503658819587",
+              "start": 12,
+              "url": "https://t.co/qJfUrSU9cI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022208509409190012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1130,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "唔……认可我的性别了吗 https://t.co/qJfUrSU9cI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|\n|不OD|不抽烟|不喝酒|抑郁|焦虑|早八晚六打工人|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 145,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 122,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 2569,
+          "like_count": 39097,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2710
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T07:03:31.000Z",
+        "description": "蓝粉白的小天使，虽然本人不太好，但是我会把我所有的爱都给你们，爱你们！｜心理健康问题 ｜咨询｜买药QQ：3387774141，01年的超可爱小药娘喵",
+        "id": "2021842555735097344",
+        "name": "Emo（糖商",
+        "pinned_tweet_id": "2022019695562699188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021842982056734720/t-XUUfmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 9,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 67
+        },
+        "username": "Emo7778",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1991571830575099954",
+    "created_at": "2025-11-21T14:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T15:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991873348444496218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1931634000453345280",
+          "start": 0,
+          "username": "ll97515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991873348444496218",
+    "in_reply_to_user_id": "1931634000453345280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991571830575099954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ll97515 窝可以嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1991571830575099954",
+        "created_at": "2025-11-21T14:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991873348444496218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1931634000453345280",
+              "start": 0,
+              "username": "ll97515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991873348444496218",
+        "in_reply_to_user_id": "1931634000453345280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991571830575099954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ll97515 窝可以嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931634000453345280",
+        "conversation_id": "1991571830575099954",
+        "created_at": "2025-11-20T18:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T19:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991571830575099954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991571830575099954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1734,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "想多来点人互fo喵 男生女生都可以来 我很好说话平时可以来找我玩捏₍˄·͈༝·͈˄*₎◞ ̑̑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 2334,
+          "like_count": 33382,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2444
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T08:46:56.000Z",
+        "description": "自残 | 应该是地雷女来的。？| 不定时崩溃 喜欢互动 可以来找我互fo聊天˃ʍ˂",
+        "id": "1931634000453345280",
+        "name": "(●─●)",
+        "pinned_tweet_id": "1990739159653261743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987318821154324480/qCEPNWhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 191,
+          "like_count": 1546,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 459
+        },
+        "username": "ll97515",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1889899890991571459",
+    "created_at": "2025-02-13T11:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T12:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889995967757427179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1816423735454511104",
+          "start": 0,
+          "username": "TAOZHIKBK"
+        },
+        {
+          "end": 23,
+          "id": "1291988176496545792",
+          "start": 11,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889995967757427179",
+    "in_reply_to_user_id": "1816423735454511104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889935041406677014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TAOZHIKBK @Vox35112635 笑死了姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1889899890991571459",
+        "created_at": "2025-02-13T11:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T12:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889995967757427179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816423735454511104",
+              "start": 0,
+              "username": "TAOZHIKBK"
+            },
+            {
+              "end": 23,
+              "id": "1291988176496545792",
+              "start": 11,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889995967757427179",
+        "in_reply_to_user_id": "1816423735454511104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889935041406677014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TAOZHIKBK @Vox35112635 笑死了姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816423735454511104",
+        "conversation_id": "1889899890991571459",
+        "created_at": "2025-02-13T07:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T08:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889935041406677014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889935041406677014",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 735,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889899890991571459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 兄弟给他钱他连吃带拿的 当男的这么爽吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 404,
+          "like_count": 8082,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 324
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T10:42:33.000Z",
+        "description": "🍑328v🫧/520/1314/5200🚪",
+        "id": "1816423735454511104",
+        "location": "距你5.2km",
+        "name": "小桃神",
+        "pinned_tweet_id": "1845451994120810553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889748924312985600/Kj0T4tB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10782,
+          "following_count": 35,
+          "like_count": 746,
+          "listed_count": 30,
+          "media_count": 291,
+          "tweet_count": 7506
+        },
+        "username": "TAOZHIKBK",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/没有小红书/现在会接一点有偿转发/付费线上绿色交友委托/广告正规推以外的其他投稿均为免费/加vx随缘给门槛就好了",
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "1883908430777462864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237333,
+          "following_count": 533,
+          "like_count": 492,
+          "listed_count": 261,
+          "media_count": 8571,
+          "tweet_count": 12425
+        },
+        "username": "Vox35112635",
+        "verified": false
+      }
+    ]
+  }
+}

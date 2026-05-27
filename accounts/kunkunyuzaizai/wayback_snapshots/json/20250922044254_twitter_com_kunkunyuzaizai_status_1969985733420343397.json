@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1969614702264401930",
+    "created_at": "2025-09-22T04:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T05:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969985733420343397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1860241233878351872",
+          "start": 0,
+          "username": "TiSaTo1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969985733420343397",
+    "in_reply_to_user_id": "1860241233878351872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969985461432250404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TiSaTo1234 难怪呢但我的旧手机 FCM是应该没砍 那个荣耀V9 消息推送老及时了 EMUI9.1系统"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1969614702264401930",
+        "created_at": "2025-09-22T04:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T05:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969985733420343397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1860241233878351872",
+              "start": 0,
+              "username": "TiSaTo1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969985733420343397",
+        "in_reply_to_user_id": "1860241233878351872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969985461432250404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TiSaTo1234 难怪呢但我的旧手机 FCM是应该没砍 那个荣耀V9 消息推送老及时了 EMUI9.1系统"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860241233878351872",
+        "conversation_id": "1969614702264401930",
+        "created_at": "2025-09-22T04:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T05:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969985461432250404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969985461432250404",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969976945787199938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 因为很多国产安卓机的谷歌服务被砍了一部分，谷歌的消息推送服务一般是会被国行版安卓机砍掉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 2046,
+          "like_count": 30152,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2095
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T08:37:37.000Z",
+        "description": "こんにちは！うちは日本語勉強中だ。２次元とパソコンゲームとテレビゲーム好き。🥰特にペルソナ５とresident evil4（2023）大好きだあ。🤓👆ぜひ私とお話しに来てください！🥰",
+        "id": "1860241233878351872",
+        "location": "Illinois, USA",
+        "name": "陽光魅魔千束",
+        "pinned_tweet_id": "1969433841527111871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860241283215949827/JVDrM_V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 67,
+          "like_count": 4256,
+          "listed_count": 0,
+          "media_count": 384,
+          "tweet_count": 1388
+        },
+        "username": "TiSaTo1234",
+        "verified": false
+      }
+    ]
+  }
+}

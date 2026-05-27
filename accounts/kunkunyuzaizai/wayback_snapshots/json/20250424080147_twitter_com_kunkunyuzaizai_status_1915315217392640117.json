@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1914874010426617910",
+    "created_at": "2025-04-24T08:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T09:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915315217392640117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810588828111196160",
+          "start": 0,
+          "username": "ZhangJim387305"
+        },
+        {
+          "end": 27,
+          "id": "1182158764419403776",
+          "start": 16,
+          "username": "SilenceGvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915315217392640117",
+    "in_reply_to_user_id": "1810588828111196160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914962437750821003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhangJim387305 @SilenceGvq 这种是顶级学霸呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1914874010426617910",
+        "created_at": "2025-04-24T08:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T09:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915315217392640117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810588828111196160",
+              "start": 0,
+              "username": "ZhangJim387305"
+            },
+            {
+              "end": 27,
+              "id": "1182158764419403776",
+              "start": 16,
+              "username": "SilenceGvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915315217392640117",
+        "in_reply_to_user_id": "1810588828111196160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914962437750821003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhangJim387305 @SilenceGvq 这种是顶级学霸呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810588828111196160",
+        "conversation_id": "1914874010426617910",
+        "created_at": "2025-04-23T08:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T09:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914962437750821003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1182158764419403776",
+              "start": 0,
+              "username": "SilenceGvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914962437750821003",
+        "in_reply_to_user_id": "1182158764419403776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 27528,
+          "like_count": 426,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914874010426617910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SilenceGvq 经典刻板印象，等你去清华大学转一圈你就知道腹有诗书气自华，有太多人比你聪明的同时还比你帅气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 875,
+          "like_count": 14127,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 726
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T08:17:09.000Z",
+        "description": "男，直男",
+        "id": "1810588828111196160",
+        "location": "BJ,CN",
+        "name": "Jjim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909247634315018241/-HdwRSCJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 31,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 260
+        },
+        "username": "ZhangJim387305",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-10T05:00:30.000Z",
+        "description": "TO     ERR    IS     HUMAN\nTO     FORGIVE      DIVINE",
+        "id": "1182158764419403776",
+        "name": "Silent Bird",
+        "pinned_tweet_id": "1766130988709744839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838472412981268481/IOjA7oTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112116,
+          "following_count": 553,
+          "like_count": 154723,
+          "listed_count": 363,
+          "media_count": 8115,
+          "tweet_count": 24606
+        },
+        "username": "SilenceGvq",
+        "verified": false
+      }
+    ]
+  }
+}

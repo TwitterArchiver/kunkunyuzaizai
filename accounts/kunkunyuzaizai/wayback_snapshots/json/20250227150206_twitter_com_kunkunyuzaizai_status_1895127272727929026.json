@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1895067835195629637",
+    "created_at": "2025-02-27T15:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T16:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895127272727929026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765914039102652416",
+          "start": 0,
+          "username": "jiajia8812"
+        },
+        {
+          "end": 23,
+          "id": "1788074548262236161",
+          "start": 12,
+          "username": "mmmm109622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895127272727929026",
+    "in_reply_to_user_id": "1765914039102652416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895067835195629637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiajia8812 @mmmm109622 第一張圖怎麼做到的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895067822813859840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkyiJPQX0AACYOH.jpg",
+        "width": 1556
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1895067822776037376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkyiJPHWsAAY6wr.jpg",
+        "width": 1553
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1895067835195629637",
+        "created_at": "2025-02-27T15:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T16:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895127272727929026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765914039102652416",
+              "start": 0,
+              "username": "jiajia8812"
+            },
+            {
+              "end": 23,
+              "id": "1788074548262236161",
+              "start": 12,
+              "username": "mmmm109622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895127272727929026",
+        "in_reply_to_user_id": "1765914039102652416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895067835195629637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiajia8812 @mmmm109622 第一張圖怎麼做到的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895067822813859840",
+            "3_1895067822776037376"
+          ]
+        },
+        "author_id": "1765914039102652416",
+        "conversation_id": "1895067835195629637",
+        "created_at": "2025-02-27T11:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T12:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895067835195629637"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "男娘"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "骚母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/omLRJcr9DD",
+              "end": 37,
+              "expanded_url": "https://x.com/jiajia8812/status/1895067835195629637/photo/1",
+              "media_key": "3_1895067822813859840",
+              "start": 14,
+              "url": "https://t.co/omLRJcr9DD"
+            },
+            {
+              "display_url": "pic.x.com/omLRJcr9DD",
+              "end": 37,
+              "expanded_url": "https://x.com/jiajia8812/status/1895067835195629637/photo/1",
+              "media_key": "3_1895067822776037376",
+              "start": 14,
+              "url": "https://t.co/omLRJcr9DD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895067835195629637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 15968,
+          "like_count": 338,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "调皮一下。#男娘 #骚母狗 https://t.co/omLRJcr9DD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 605,
+          "like_count": 10023,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 442
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T01:35:02.000Z",
+        "description": "女装大佬。每天手冲，性瘾患者晚期，不点赞转发的唧唧变小",
+        "id": "1765914039102652416",
+        "location": "📍距离你很近",
+        "name": "欧阳菁",
+        "pinned_tweet_id": "1858068122449949064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889023907350659072/uME4_2UN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18773,
+          "following_count": 9,
+          "like_count": 81,
+          "listed_count": 57,
+          "media_count": 34,
+          "tweet_count": 225
+        },
+        "username": "jiajia8812",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T05:12:58.000Z",
+        "description": "Cdm 骚0 天然没吃🍬 有点小🐻 小废物阳痿早泄 经常前锁后塞 逼有点外翻 M属性 轻微受虐癖 喜欢勾引男人💋 QOS♠ 超爱丝袜👠裙子胸罩❤ 有🚪 喜欢就加 戳我xp就加😍 互推只留最新的转推🐤喜欢看我的视频可以看亮点 特意为了宝宝们开会员的～ 小号：@mmmfaggot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "mmmfaggot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "umate.me/sissycarol/M7N…",
+                "end": 23,
+                "expanded_url": "https://umate.me/sissycarol/M7NIZZ",
+                "start": 0,
+                "url": "https://t.co/2HjcsVRwRk"
+              }
+            ]
+          }
+        },
+        "id": "1788074548262236161",
+        "name": "Sissy曦曦",
+        "pinned_tweet_id": "1817881522579628252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894125520394362880/kQveGkUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11197,
+          "following_count": 484,
+          "like_count": 361,
+          "listed_count": 44,
+          "media_count": 132,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/2HjcsVRwRk",
+        "username": "mmmm109622",
+        "verified": true
+      }
+    ]
+  }
+}

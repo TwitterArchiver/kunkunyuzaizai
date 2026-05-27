@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972199628780244992"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1971936042715697361",
+    "created_at": "2025-09-28T07:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T08:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972199632232153545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1932861332300443650",
+          "start": 0,
+          "username": "momo1583853"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YhZMCICt52",
+          "end": 36,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1972199632232153545/photo/1",
+          "media_key": "3_1972199628780244992",
+          "start": 13,
+          "url": "https://t.co/YhZMCICt52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972199632232153545",
+    "in_reply_to_user_id": "1932861332300443650",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971936042715697361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momo1583853 https://t.co/YhZMCICt52"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1972199632232153545].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1972199632232153545",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1972199632232153545"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_1972199628780244992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G16pHPuakAAcDq6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 720,
+        "media_key": "3_1971936032464814080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G125X67bwAAzGHY.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971936032489984010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G125X7Bb0AopCdM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971936032494178310",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G125X7Cb0AY6_RN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971936032494161920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G125X7CbkAAXD35.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971936032464814080",
+            "3_1971936032489984010",
+            "3_1971936032494178310",
+            "3_1971936032494161920"
+          ]
+        },
+        "author_id": "1932861332300443650",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1971936042715697361",
+        "created_at": "2025-09-27T13:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T14:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971936042715697361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NqNRihOig",
+              "end": 41,
+              "expanded_url": "https://x.com/momo1583853/status/1971936042715697361/photo/1",
+              "media_key": "3_1971936032464814080",
+              "start": 18,
+              "url": "https://t.co/9NqNRihOig"
+            },
+            {
+              "display_url": "pic.x.com/9NqNRihOig",
+              "end": 41,
+              "expanded_url": "https://x.com/momo1583853/status/1971936042715697361/photo/1",
+              "media_key": "3_1971936032489984010",
+              "start": 18,
+              "url": "https://t.co/9NqNRihOig"
+            },
+            {
+              "display_url": "pic.x.com/9NqNRihOig",
+              "end": 41,
+              "expanded_url": "https://x.com/momo1583853/status/1971936042715697361/photo/1",
+              "media_key": "3_1971936032494178310",
+              "start": 18,
+              "url": "https://t.co/9NqNRihOig"
+            },
+            {
+              "display_url": "pic.x.com/9NqNRihOig",
+              "end": 41,
+              "expanded_url": "https://x.com/momo1583853/status/1971936042715697361/photo/1",
+              "media_key": "3_1971936032494161920",
+              "start": 18,
+              "url": "https://t.co/9NqNRihOig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971936042715697361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 56020,
+          "like_count": 271,
+          "quote_count": 1,
+          "reply_count": 50,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看短剧挣了20一晚上就挥霍完了。。 https://t.co/9NqNRihOig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 2105,
+          "like_count": 30919,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2173
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T18:03:58.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sjdn90374",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sjdn90374",
+                "start": 0,
+                "url": "https://t.co/tOwuPHzSOv"
+              }
+            ]
+          }
+        },
+        "id": "1932861332300443650",
+        "name": "邮寄吧咋滴了啊",
+        "pinned_tweet_id": "1960704815492681793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952831043452432384/YhzDMe_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 222,
+          "like_count": 20772,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 6653
+        },
+        "url": "https://t.co/tOwuPHzSOv",
+        "username": "momo1583853",
+        "verified": false
+      }
+    ]
+  }
+}

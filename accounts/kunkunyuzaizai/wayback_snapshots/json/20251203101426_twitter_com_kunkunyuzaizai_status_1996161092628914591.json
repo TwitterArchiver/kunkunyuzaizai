@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1996080915630653834",
+    "created_at": "2025-12-03T10:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996161092628914591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984632480947998720",
+          "start": 0,
+          "username": "youyoushowme"
+        },
+        {
+          "end": 28,
+          "id": "1837006133900554240",
+          "start": 14,
+          "username": "xiaoxiongQAQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996161092628914591",
+    "in_reply_to_user_id": "1984632480947998720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996147716892795368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youyoushowme @xiaoxiongQAQ1 我感觉我也有点 腰两边弧度不一样 也不能确定是不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1996080915630653834",
+        "created_at": "2025-12-03T10:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996161092628914591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984632480947998720",
+              "start": 0,
+              "username": "youyoushowme"
+            },
+            {
+              "end": 28,
+              "id": "1837006133900554240",
+              "start": 14,
+              "username": "xiaoxiongQAQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996161092628914591",
+        "in_reply_to_user_id": "1984632480947998720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996147716892795368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youyoushowme @xiaoxiongQAQ1 我感觉我也有点 腰两边弧度不一样 也不能确定是不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984632480947998720",
+        "conversation_id": "1996080915630653834",
+        "created_at": "2025-12-03T09:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996147716892795368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837006133900554240",
+              "start": 0,
+              "username": "xiaoxiongQAQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996147716892795368",
+        "in_reply_to_user_id": "1837006133900554240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996080915630653834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiongQAQ1 呵呵已经侧弯了但不是因为一直用一只手擦屁股而是因为跷二郎腿和胳膊撑脸躺床上玩手机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 2357,
+          "like_count": 33547,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2463
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T14:44:09.000Z",
+        "description": "在杭读研的男的｜私信都会回｜switch偏m｜梦想是有人能喜欢我\nhttps://t.co/e3eFsrzQSk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youyou86552",
+                "end": 56,
+                "expanded_url": "https://ngl.link/youyou86552",
+                "start": 33,
+                "url": "https://t.co/e3eFsrzQSk"
+              }
+            ]
+          }
+        },
+        "id": "1984632480947998720",
+        "location": "杭州",
+        "name": "悠悠",
+        "pinned_tweet_id": "1992979828442800574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985326750319206400/fBPD1Hjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 87,
+          "like_count": 4708,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 472
+        },
+        "username": "youyoushowme",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T05:49:34.000Z",
+        "description": "ISFJ｜金牛｜我只是个臭复制的 搬运求打码｜推广自辨❗️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%86%8A22543",
+                "start": 0,
+                "url": "https://t.co/cY8TCU2R8n"
+              }
+            ]
+          }
+        },
+        "id": "1837006133900554240",
+        "location": "匿名👉🏻",
+        "name": "小熊（枪软软的也没事）",
+        "pinned_tweet_id": "1995465546788225192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996089116530982912/2q0ea8zC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 94,
+          "like_count": 24621,
+          "listed_count": 3,
+          "media_count": 449,
+          "tweet_count": 9249
+        },
+        "url": "https://t.co/cY8TCU2R8n",
+        "username": "xiaoxiongQAQ1",
+        "verified": false
+      }
+    ]
+  }
+}

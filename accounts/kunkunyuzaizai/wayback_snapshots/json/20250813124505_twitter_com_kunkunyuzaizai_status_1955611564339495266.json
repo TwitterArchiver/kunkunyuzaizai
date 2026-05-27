@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1954947933444661364",
+    "created_at": "2025-08-13T12:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T13:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955611564339495266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1530582053812441089",
+          "start": 0,
+          "username": "Lornafu4869"
+        },
+        {
+          "end": 21,
+          "id": "1513753182182133762",
+          "start": 13,
+          "username": "wysgdmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955611564339495266",
+    "in_reply_to_user_id": "1530582053812441089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955156244442071082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lornafu4869 @wysgdmn 进厂一个月没有三千 摇奶茶也很累的 来钱快的都在法律里面比如黄赌毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1954947933444661364",
+        "created_at": "2025-08-13T12:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T13:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955611564339495266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1530582053812441089",
+              "start": 0,
+              "username": "Lornafu4869"
+            },
+            {
+              "end": 21,
+              "id": "1513753182182133762",
+              "start": 13,
+              "username": "wysgdmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955611564339495266",
+        "in_reply_to_user_id": "1530582053812441089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955156244442071082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lornafu4869 @wysgdmn 进厂一个月没有三千 摇奶茶也很累的 来钱快的都在法律里面比如黄赌毒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530582053812441089",
+        "conversation_id": "1954947933444661364",
+        "created_at": "2025-08-12T06:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T07:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955156244442071082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1513753182182133762",
+              "start": 0,
+              "username": "wysgdmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955156244442071082",
+        "in_reply_to_user_id": "1513753182182133762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17901,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954947933444661364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wysgdmn 三千块进厂一个月怎么也赚回来了，不然去摇俩月奶茶或者送外卖怎么都赚回来了，这个钱哪是那么好挣的，真是很无语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n男生哦\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉    凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1948720348029161563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 1334,
+          "like_count": 21539,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1308
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T16:09:39.000Z",
+        "description": "",
+        "id": "1530582053812441089",
+        "name": "Lornafu",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 34,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Lornafu4869",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T05:42:34.000Z",
+        "description": "不接骗人推广！从未做过中介！！\n天然奶，没做过更不推荐任何粉嫩手术！\n装b大号: @9_jfm【🚪1314  加v和tg精品私密频道。全国可✈️过门问价，门槛不退请谨慎考虑】‖\n🍑店铺：doi用品🔍:   丸趣WannaPlay  ‖倒膜：黑科技工程机（进店搜丸崽）‖不玩其他软件，不卖视频图包，不要被骗！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 41,
+                "username": "9_jfm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wannaplay.taobao.com",
+                "end": 23,
+                "expanded_url": "https://wannaplay.taobao.com/",
+                "start": 0,
+                "url": "https://t.co/ItFzepNc5M"
+              }
+            ]
+          }
+        },
+        "id": "1513753182182133762",
+        "location": "淘宝店：丸趣WannaPlay",
+        "name": "GB2312",
+        "pinned_tweet_id": "1948398650779963518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916534128687906816/4vD55ziP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496231,
+          "following_count": 1,
+          "like_count": 841,
+          "listed_count": 711,
+          "media_count": 1196,
+          "tweet_count": 4299
+        },
+        "url": "https://t.co/ItFzepNc5M",
+        "username": "wysgdmn",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

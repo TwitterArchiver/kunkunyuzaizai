@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2022251392782717431",
+    "created_at": "2026-02-13T11:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022269079130935426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1877318007359418369",
+          "start": 0,
+          "username": "mngz657877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022269079130935426",
+    "in_reply_to_user_id": "1877318007359418369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022251392782717431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mngz657877 羡慕直发"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022251387728613376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBB67Dwa0AAoKqH.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2022251392782717431",
+        "created_at": "2026-02-13T11:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022269079130935426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1877318007359418369",
+              "start": 0,
+              "username": "mngz657877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022269079130935426",
+        "in_reply_to_user_id": "1877318007359418369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022251392782717431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mngz657877 羡慕直发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022251387728613376"
+          ]
+        },
+        "author_id": "1877318007359418369",
+        "conversation_id": "2022251392782717431",
+        "created_at": "2026-02-13T10:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022251392782717431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uv36VxKOu0",
+              "end": 64,
+              "expanded_url": "https://x.com/mngz657877/status/2022251392782717431/photo/1",
+              "media_key": "3_2022251387728613376",
+              "start": 41,
+              "url": "https://t.co/uv36VxKOu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022251392782717431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我🥲🥵😈👿😵‍💫😵‍💫🥵🥵🥵🥵🥳🥳我是小药娘🥵🥵😨😨🍥🍥🍥🍥🍥🍥😜😋😋😋😋😋 https://t.co/uv36VxKOu0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|\n|不OD|不抽烟|不喝酒|抑郁|焦虑|早八晚六打工人|网易云重度依赖|同类互FO|\nDREAM IS BE A GIRL|\n\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 145,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 122,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 2570,
+          "like_count": 39159,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2712
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T11:34:32.000Z",
+        "description": "生于10年|2024.6.13 HRT🍥|主包身高高达165cm😏|雌贴太好用了，治好了我老忘记吃糖/小朋友，你们好啊，我是贝利亚👿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mngz657877",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mngz657877",
+                "start": 0,
+                "url": "https://t.co/pmqemo56sE"
+              }
+            ]
+          }
+        },
+        "id": "1877318007359418369",
+        "name": "北矞🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021951799285215232/DcVgYgiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 215,
+          "like_count": 1329,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/pmqemo56sE",
+        "username": "mngz657877",
+        "verified": false
+      }
+    ]
+  }
+}

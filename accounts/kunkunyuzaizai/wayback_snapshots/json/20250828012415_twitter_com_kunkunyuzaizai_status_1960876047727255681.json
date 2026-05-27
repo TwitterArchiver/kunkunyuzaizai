@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1960876047727255681",
+    "created_at": "2025-08-28T01:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T02:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960876047727255681"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pome.vip/kunkunyu",
+          "end": 41,
+          "expanded_url": "https://pome.vip/kunkunyu",
+          "start": 18,
+          "status": 200,
+          "title": "POME",
+          "unwound_url": "https://pome.vip/kunkunyu",
+          "url": "https://t.co/iDFfKpl4Jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960876047727255681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "认识我，快用POME来向我匿名发问！https://t.co/iDFfKpl4Jp \n ——POME 匿名提问箱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1960876047727255681",
+        "created_at": "2025-08-28T01:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T02:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960876047727255681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pome.vip/kunkunyu",
+              "end": 41,
+              "expanded_url": "https://pome.vip/kunkunyu",
+              "start": 18,
+              "status": 200,
+              "title": "POME",
+              "unwound_url": "https://pome.vip/kunkunyu",
+              "url": "https://t.co/iDFfKpl4Jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960876047727255681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "认识我，快用POME来向我匿名发问！https://t.co/iDFfKpl4Jp \n ——POME 匿名提问箱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON  凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 1586,
+          "like_count": 25619,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1686
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

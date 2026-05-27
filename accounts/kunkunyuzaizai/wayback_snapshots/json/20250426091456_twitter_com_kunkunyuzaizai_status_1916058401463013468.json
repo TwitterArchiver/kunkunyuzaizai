@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1915437762028941542",
+    "created_at": "2025-04-26T09:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T10:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916058401463013468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883047762729820160",
+          "start": 0,
+          "username": "tidy_fun8964"
+        },
+        {
+          "end": 30,
+          "id": "1573663582994444289",
+          "start": 14,
+          "username": "guojiazongshuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916058401463013468",
+    "in_reply_to_user_id": "1883047762729820160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916049901131006460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tidy_fun8964 @guojiazongshuji 才发现打错字了是magisk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1915437762028941542",
+        "created_at": "2025-04-26T09:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916058401463013468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883047762729820160",
+              "start": 0,
+              "username": "tidy_fun8964"
+            },
+            {
+              "end": 30,
+              "id": "1573663582994444289",
+              "start": 14,
+              "username": "guojiazongshuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916058401463013468",
+        "in_reply_to_user_id": "1883047762729820160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916049901131006460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tidy_fun8964 @guojiazongshuji 才发现打错字了是magisk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883047762729820160",
+        "conversation_id": "1915437762028941542",
+        "created_at": "2025-04-26T08:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T09:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916049901131006460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 32,
+              "id": "1573663582994444289",
+              "start": 16,
+              "username": "guojiazongshuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916049901131006460",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915781151358357783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @guojiazongshuji Magisk 但是这个隐藏效果不好 我觉得还是用ksun比较好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 901,
+          "like_count": 14413,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 738
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T07:02:44.000Z",
+        "description": "ENFP-A 10年学生 事mtx🤓让我想想含不含糖 170cm|48kg 万用人 包容所有人 中文|English RFS IF SFS 关注@LiuSuK7777喵 关注@SeventeenYizuka喵谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "LiuSuK7777"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "SeventeenYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1883047762729820160",
+        "location": "马应龙坟前",
+        "name": "泉こなたOffical",
+        "pinned_tweet_id": "1908108815741899222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908488824067371008/B9gnjeKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 822,
+          "like_count": 1666,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 1186
+        },
+        "username": "tidy_fun8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T13:20:19.000Z",
+        "description": "满洲国出身 / 国歌《南蛮大布》/满洲第一厨师老八 / 外交部发言人黑手哥 / 一级上将宇将军 / 传统运动项目海兰泡冬泳大赛 / 信仰李洪志《转法轮》/ 满洲国传统美食桌饺🥟大酱、西安猪臊子/自用🪜👉https://t.co/uBlodabRgZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "susu.cheapestizi.top/#/register?cod…",
+                "end": 124,
+                "expanded_url": "https://susu.cheapestizi.top/#/register?code=p3VhqxV5",
+                "start": 101,
+                "url": "https://t.co/uBlodabRgZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "h5.cctvnews.cctv.com/szdh2023/index…",
+                "end": 23,
+                "expanded_url": "https://h5.cctvnews.cctv.com/szdh2023/index.html?spm=C73544894212.P59511941341.0.0",
+                "start": 0,
+                "url": "https://t.co/Y7VxXFnuyj"
+              }
+            ]
+          }
+        },
+        "id": "1573663582994444289",
+        "location": "符拉迪沃斯托克—满俄奥运会现场",
+        "name": "狐仙苏苏",
+        "pinned_tweet_id": "1790949934688268776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886419378591399936/AA5Epfm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10342,
+          "following_count": 567,
+          "like_count": 57008,
+          "listed_count": 24,
+          "media_count": 308,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/Y7VxXFnuyj",
+        "username": "guojiazongshuji",
+        "verified": true
+      }
+    ]
+  }
+}

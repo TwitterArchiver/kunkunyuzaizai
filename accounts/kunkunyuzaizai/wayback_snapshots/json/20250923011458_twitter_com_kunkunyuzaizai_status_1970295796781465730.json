@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1970138341745299923",
+    "created_at": "2025-09-23T01:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T02:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970295796781465730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850957992776347648",
+          "start": 0,
+          "username": "xiaoduubb_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970295796781465730",
+    "in_reply_to_user_id": "1850957992776347648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970138341745299923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoduubb_ 美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3872,
+        "media_key": "3_1970138332710723584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dWYBeaYAAHFBa.jpg",
+        "width": 2904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1970138341745299923",
+        "created_at": "2025-09-23T01:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T02:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970295796781465730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850957992776347648",
+              "start": 0,
+              "username": "xiaoduubb_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970295796781465730",
+        "in_reply_to_user_id": "1850957992776347648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970138341745299923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoduubb_ 美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970138332710723584"
+          ]
+        },
+        "author_id": "1850957992776347648",
+        "conversation_id": "1970138341745299923",
+        "created_at": "2025-09-22T14:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T15:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970138341745299923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BO25So0bMs",
+              "end": 30,
+              "expanded_url": "https://x.com/xiaoduubb_/status/1970138341745299923/photo/1",
+              "media_key": "3_1970138332710723584",
+              "start": 7,
+              "url": "https://t.co/BO25So0bMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970138341745299923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4345,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张挺好看的 https://t.co/BO25So0bMs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 2063,
+          "like_count": 30305,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2105
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T17:49:26.000Z",
+        "description": "我有点想死",
+        "id": "1850957992776347648",
+        "location": "🚪88^_^",
+        "name": "緣",
+        "pinned_tweet_id": "1949835650238222523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952159712272859136/Y5C28I8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 74,
+          "like_count": 6883,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 1403
+        },
+        "username": "xiaoduubb_",
+        "verified": false
+      }
+    ]
+  }
+}

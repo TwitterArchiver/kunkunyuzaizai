@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968670481818546373",
+    "created_at": "2025-09-20T12:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T13:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969376676254793772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1489611149704192005",
+          "start": 0,
+          "username": "BiYebi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969376676254793772",
+    "in_reply_to_user_id": "1489611149704192005",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968670481818546373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BiYebi1 🥔炒生姜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1226,
+        "media_key": "3_1968670473987964930",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IfXZnaQAIseHj.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968670481818546373",
+        "created_at": "2025-09-20T12:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969376676254793772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1489611149704192005",
+              "start": 0,
+              "username": "BiYebi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969376676254793772",
+        "in_reply_to_user_id": "1489611149704192005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968670481818546373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BiYebi1 🥔炒生姜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968670473987964930"
+          ]
+        },
+        "author_id": "1489611149704192005",
+        "conversation_id": "1968670481818546373",
+        "created_at": "2025-09-18T13:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T14:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968670481818546373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/71Mrdgxtf3",
+              "end": 29,
+              "expanded_url": "https://x.com/BiYebi1/status/1968670481818546373/photo/1",
+              "media_key": "3_1968670473987964930",
+              "start": 6,
+              "url": "https://t.co/71Mrdgxtf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968670481818546373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 296610,
+          "like_count": 2653,
+          "quote_count": 8,
+          "reply_count": 83,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "那很权威了 https://t.co/71Mrdgxtf3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1994,
+          "like_count": 29653,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2052
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T14:46:05.000Z",
+        "description": "“可以是不完美的”",
+        "id": "1489611149704192005",
+        "name": "欠骂吧",
+        "pinned_tweet_id": "1960276699410784320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944750673133965312/rLTpxBVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7345,
+          "following_count": 47,
+          "like_count": 106,
+          "listed_count": 3,
+          "media_count": 187,
+          "tweet_count": 238
+        },
+        "username": "BiYebi1",
+        "verified": false
+      }
+    ]
+  }
+}

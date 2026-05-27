@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2043001217341849615",
+    "created_at": "2026-04-13T05:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043561998030602715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031959480448294912",
+          "start": 0,
+          "username": "morisase"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043561998030602715",
+    "in_reply_to_user_id": "2031959480448294912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043001217341849615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@morisase 😭🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2043001217341849615",
+        "created_at": "2026-04-13T05:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043561998030602715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031959480448294912",
+              "start": 0,
+              "username": "morisase"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043561998030602715",
+        "in_reply_to_user_id": "2031959480448294912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043001217341849615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@morisase 😭🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031959480448294912",
+        "conversation_id": "2043001217341849615",
+        "created_at": "2026-04-11T16:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043001217341849615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043001217341849615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 56316,
+          "like_count": 2218,
+          "quote_count": 28,
+          "reply_count": 81,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "好想当女孩😭😭😭\n男性躯壳太难受了😭😭😭\n每次看到女性身体都羡慕得要死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 2916,
+          "like_count": 45347,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 3144
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T05:04:52.000Z",
+        "description": "INFP-T｜168/78 (已减20)｜Ⓐ｜TransFem🏳️‍⚧️｜E Day🍥20-12-2025",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/morisasa",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/morisasa",
+                "start": 0,
+                "url": "https://t.co/5ADJckixfV"
+              }
+            ]
+          }
+        },
+        "id": "2031959480448294912",
+        "name": "Morisa🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032008726505537539/htm2DLm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 459,
+          "like_count": 2866,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/5ADJckixfV",
+        "username": "morisase",
+        "verified": false
+      }
+    ]
+  }
+}

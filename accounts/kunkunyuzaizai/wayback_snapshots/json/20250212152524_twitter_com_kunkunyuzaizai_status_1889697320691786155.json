@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889697261220929536"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1889129654029848828",
+    "created_at": "2025-02-12T15:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T16:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889697320691786155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1815266194863112192",
+          "start": 0,
+          "username": "fngynliang84010"
+        },
+        {
+          "end": 27,
+          "id": "1795842539603578880",
+          "start": 17,
+          "username": "HydFLgxXD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GX7n7W7ZLt",
+          "end": 56,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1889697320691786155/photo/1",
+          "media_key": "3_1889697261220929536",
+          "start": 33,
+          "url": "https://t.co/GX7n7W7ZLt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889697320691786155",
+    "in_reply_to_user_id": "1815266194863112192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889222994696003958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fngynliang84010 @HydFLgxXD 这种吗🌚 https://t.co/GX7n7W7ZLt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1889697320691786155].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1889697320691786155",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1889697320691786155"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1889697261220929536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjmNpaQaIAALIrO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889222990874710016"
+          ]
+        },
+        "author_id": "1815266194863112192",
+        "conversation_id": "1889129654029848828",
+        "created_at": "2025-02-11T08:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T09:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889222994696003958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1795842539603578880",
+              "start": 0,
+              "username": "HydFLgxXD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFhw9IEqUK",
+              "end": 65,
+              "expanded_url": "https://x.com/fngynliang84010/status/1889222994696003958/photo/1",
+              "media_key": "3_1889222990874710016",
+              "start": 42,
+              "url": "https://t.co/AFhw9IEqUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889222994696003958",
+        "in_reply_to_user_id": "1795842539603578880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2246,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889129654029848828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HydFLgxXD 不说女装，那好歹头发不能是寸头，齐耳短发也行啊，能那么糙吗？ https://t.co/AFhw9IEqUK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 388,
+          "like_count": 7916,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 317
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T06:02:58.000Z",
+        "description": "疯子一个热爱色色",
+        "id": "1815266194863112192",
+        "name": "枫焰煷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867487137698115584/CJUD3DcX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 908,
+          "like_count": 4348,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 274
+        },
+        "username": "fngynliang84010",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T15:40:09.000Z",
+        "description": "转生了。然后想要被别人夸（bushi",
+        "id": "1795842539603578880",
+        "location": "四川盆地",
+        "name": "HBK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882463986874224640/Y70KSeqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 63,
+          "like_count": 328,
+          "listed_count": 7,
+          "media_count": 30,
+          "tweet_count": 199
+        },
+        "username": "HydFLgxXD",
+        "verified": false
+      }
+    ]
+  }
+}

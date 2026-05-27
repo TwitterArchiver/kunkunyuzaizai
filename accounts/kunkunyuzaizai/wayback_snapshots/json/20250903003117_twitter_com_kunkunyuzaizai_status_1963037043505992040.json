@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963037034022572032"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "1963037043505992040",
+    "created_at": "2025-09-03T00:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T01:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963037043505992040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yqsreCHeC5",
+          "end": 37,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1963037043505992040/photo/1",
+          "media_key": "3_1963037034022572032",
+          "start": 14,
+          "url": "https://t.co/yqsreCHeC5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963037043505992040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听书听到这里我都要无语死了 https://t.co/yqsreCHeC5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1963037043505992040].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1963037043505992040",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1963037043505992040"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963037034022572032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz4byCXaEAAM96k.jpg",
+        "width": 917
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON  凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1652,
+          "like_count": 26304,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1761
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

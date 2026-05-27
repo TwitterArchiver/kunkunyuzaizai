@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1989037279030177893",
+    "created_at": "2025-11-15T11:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T12:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989657835555422353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862557266890956800",
+          "start": 0,
+          "username": "bei_haishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989657835555422353",
+    "in_reply_to_user_id": "1862557266890956800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989037279030177893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bei_haishui 好了不许说了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989037267730702337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5p620waIAEds8J.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1989037279030177893",
+        "created_at": "2025-11-15T11:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T12:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989657835555422353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862557266890956800",
+              "start": 0,
+              "username": "bei_haishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989657835555422353",
+        "in_reply_to_user_id": "1862557266890956800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989037279030177893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bei_haishui 好了不许说了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989037267730702337"
+          ]
+        },
+        "author_id": "1862557266890956800",
+        "conversation_id": "1989037279030177893",
+        "created_at": "2025-11-13T18:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T19:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989037279030177893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MiIAejZTTe",
+              "end": 43,
+              "expanded_url": "https://x.com/bei_haishui/status/1989037279030177893/photo/1",
+              "media_key": "3_1989037267730702337",
+              "start": 20,
+              "url": "https://t.co/MiIAejZTTe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989037279030177893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 69131,
+          "like_count": 761,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我趣抖音自动配的这个滤镜把我显得好萌！ https://t.co/MiIAejZTTe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 2288,
+          "like_count": 32747,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2423
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "双取屏蔽随意 匿名信箱 https://t.co/mDWro0l3qC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lzb06110813374",
+                "end": 35,
+                "expanded_url": "https://ngl.link/lzb06110813374",
+                "start": 12,
+                "url": "https://t.co/mDWro0l3qC"
+              }
+            ]
+          }
+        },
+        "id": "1862557266890956800",
+        "name": "该如何描述那个溺死我的梦境",
+        "pinned_tweet_id": "1987210397947187273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989225041318596608/0LwigORs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10604,
+          "following_count": 557,
+          "like_count": 33752,
+          "listed_count": 13,
+          "media_count": 104,
+          "tweet_count": 4995
+        },
+        "username": "bei_haishui",
+        "verified": false
+      }
+    ]
+  }
+}

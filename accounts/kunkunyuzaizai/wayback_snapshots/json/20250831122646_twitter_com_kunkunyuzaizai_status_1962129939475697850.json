@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1961628007526965417",
+    "created_at": "2025-08-31T12:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T13:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962129939475697850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1708514882080186368",
+          "start": 0,
+          "username": "ruoyu1101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962129939475697850",
+    "in_reply_to_user_id": "1708514882080186368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961628007526965417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruoyu1101 宿舍不应该有嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1961627962530566148",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzkaPSAbkAQ2A70.jpg",
+        "width": 1080
+      },
+      {
+        "height": 960,
+        "media_key": "3_1961627970520641536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzkaPvxacAAZK8L.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1961627993983651845",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzkaRHLbkAUYWUy.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1580,
+        "media_key": "3_1961628001814417409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzkaRkWbkAEpGLP.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1961628007526965417",
+        "created_at": "2025-08-31T12:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T13:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962129939475697850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1708514882080186368",
+              "start": 0,
+              "username": "ruoyu1101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962129939475697850",
+        "in_reply_to_user_id": "1708514882080186368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961628007526965417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruoyu1101 宿舍不应该有嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961627962530566148",
+            "3_1961627970520641536",
+            "3_1961627993983651845",
+            "3_1961628001814417409"
+          ]
+        },
+        "author_id": "1708514882080186368",
+        "conversation_id": "1961628007526965417",
+        "created_at": "2025-08-30T03:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T04:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961628007526965417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJNDf9GdLu",
+              "end": 109,
+              "expanded_url": "https://x.com/ruoyu1101/status/1961628007526965417/photo/1",
+              "media_key": "3_1961627962530566148",
+              "start": 86,
+              "url": "https://t.co/SJNDf9GdLu"
+            },
+            {
+              "display_url": "pic.x.com/SJNDf9GdLu",
+              "end": 109,
+              "expanded_url": "https://x.com/ruoyu1101/status/1961628007526965417/photo/1",
+              "media_key": "3_1961627970520641536",
+              "start": 86,
+              "url": "https://t.co/SJNDf9GdLu"
+            },
+            {
+              "display_url": "pic.x.com/SJNDf9GdLu",
+              "end": 109,
+              "expanded_url": "https://x.com/ruoyu1101/status/1961628007526965417/photo/1",
+              "media_key": "3_1961627993983651845",
+              "start": 86,
+              "url": "https://t.co/SJNDf9GdLu"
+            },
+            {
+              "display_url": "pic.x.com/SJNDf9GdLu",
+              "end": 109,
+              "expanded_url": "https://x.com/ruoyu1101/status/1961628007526965417/photo/1",
+              "media_key": "3_1961628001814417409",
+              "start": 86,
+              "url": "https://t.co/SJNDf9GdLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961628007526965417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 14845,
+          "like_count": 168,
+          "quote_count": 4,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么中国北方学校的浴室都是那种没有门并且隔断和帘子都没有的那种。\n类似于这样的，主打一个通透。\n没有边界感的北方学校澡堂，真是烂透了。我小学初中高中学校里都是这种的浴室 https://t.co/SJNDf9GdLu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON  凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1622,
+          "like_count": 26016,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1734
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T16:11:27.000Z",
+        "description": "喵…\nmtf/无证含糖🍥\n/177  64kg/80B\n是只大猫猫    ——————————    来月p几十块钱🚪都付不起还喜欢苟叫的穷b别tm来烦我",
+        "id": "1708514882080186368",
+        "name": "若雨🍥",
+        "pinned_tweet_id": "1926683103050785127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708515333634719744/GOhCxAfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 133,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 342
+        },
+        "username": "ruoyu1101",
+        "verified": false
+      }
+    ]
+  }
+}

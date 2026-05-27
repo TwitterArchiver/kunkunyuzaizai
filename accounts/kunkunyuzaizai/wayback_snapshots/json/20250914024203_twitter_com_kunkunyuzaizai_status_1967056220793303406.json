@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1966928564152160640",
+    "created_at": "2025-09-14T02:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T03:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967056220793303406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794617194954850304",
+          "start": 0,
+          "username": "Baixiaoming0707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967056220793303406",
+    "in_reply_to_user_id": "1794617194954850304",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967034233307722073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baixiaoming0707 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1966928564152160640",
+        "created_at": "2025-09-14T02:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T03:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967056220793303406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794617194954850304",
+              "start": 0,
+              "username": "Baixiaoming0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967056220793303406",
+        "in_reply_to_user_id": "1794617194954850304",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967034233307722073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baixiaoming0707 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794617194954850304",
+        "conversation_id": "1966928564152160640",
+        "created_at": "2025-09-14T01:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T02:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967034233307722073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967034233307722073",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967018033119195266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 月月月"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 1783,
+          "like_count": 27883,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1866
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T06:31:28.000Z",
+        "description": "总有一天我会离去，在此之前我会发光到最后一刻 | 08年广西土著 | 简中/正體/English | 政史地亡命文科生 | 快品尝国宾酒尊尼获加 | 都去关注@virtual_kaf ！ | 永远追随国王→@oldsddl4gunmu @diangunottosm @otto_houguoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "virtual_kaf"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "oldsddl4gunmu"
+              },
+              {
+                "end": 132,
+                "start": 118,
+                "username": "diangunottosm"
+              },
+              {
+                "end": 147,
+                "start": 133,
+                "username": "otto_houguoyu"
+              }
+            ]
+          }
+        },
+        "id": "1794617194954850304",
+        "location": "无处不在 无影无踪",
+        "name": "白小铭",
+        "pinned_tweet_id": "1961780054662295565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923928431512707072/VKPjgBRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 1217,
+          "like_count": 16490,
+          "listed_count": 6,
+          "media_count": 826,
+          "tweet_count": 4913
+        },
+        "username": "Baixiaoming0707",
+        "verified": false
+      }
+    ]
+  }
+}

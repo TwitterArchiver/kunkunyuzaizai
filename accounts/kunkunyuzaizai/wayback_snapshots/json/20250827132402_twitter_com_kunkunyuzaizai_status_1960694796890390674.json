@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1960285581033779386",
+    "created_at": "2025-08-27T13:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T14:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960694796890390674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903479085139099648",
+          "start": 0,
+          "username": "Lunnnv_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960694796890390674",
+    "in_reply_to_user_id": "1903479085139099648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960285581033779386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lunnnv_ 哇塞看美味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960285568304361472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRVVp0bMAAJywf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1960285581033779386",
+        "created_at": "2025-08-27T13:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T14:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960694796890390674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903479085139099648",
+              "start": 0,
+              "username": "Lunnnv_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960694796890390674",
+        "in_reply_to_user_id": "1903479085139099648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960285581033779386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lunnnv_ 哇塞看美味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960285568304361472"
+          ]
+        },
+        "author_id": "1903479085139099648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1960285581033779386",
+        "created_at": "2025-08-26T10:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960285581033779386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DEmQNvk5Lb",
+              "end": 39,
+              "expanded_url": "https://x.com/Lunnnv_/status/1960285581033779386/photo/1",
+              "media_key": "3_1960285568304361472",
+              "start": 16,
+              "url": "https://t.co/DEmQNvk5Lb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960285581033779386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 34426,
+          "like_count": 399,
+          "quote_count": 5,
+          "reply_count": 75,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个炸鱼条来海底捞都给我点好吗 https://t.co/DEmQNvk5Lb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦补素直男 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON  凯里·欧文(NBA球星)\n爱哭的笨蛋  敏感抑郁焦虑善良胆小🥺 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1955991809274118535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 1570,
+          "like_count": 25450,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1676
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T16:09:30.000Z",
+        "description": "或许保持柔软 也是一种勇敢",
+        "id": "1903479085139099648",
+        "name": "pp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957791779408793600/O7vLC5RQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 176,
+          "like_count": 4350,
+          "listed_count": 8,
+          "media_count": 314,
+          "tweet_count": 1129
+        },
+        "username": "Lunnnv_",
+        "verified": false
+      }
+    ]
+  }
+}

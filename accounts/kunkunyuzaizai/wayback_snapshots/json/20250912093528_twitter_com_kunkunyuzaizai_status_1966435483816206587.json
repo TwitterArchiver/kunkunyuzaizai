@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1966423411573616935",
+    "created_at": "2025-09-12T09:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T10:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966435483816206587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1748645500537229312",
+          "start": 0,
+          "username": "dsahkla34377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966435483816206587",
+    "in_reply_to_user_id": "1748645500537229312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966423411573616935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsahkla34377 想到河南就想笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1966423411573616935",
+        "created_at": "2025-09-12T09:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T10:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966435483816206587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1748645500537229312",
+              "start": 0,
+              "username": "dsahkla34377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966435483816206587",
+        "in_reply_to_user_id": "1748645500537229312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966423411573616935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsahkla34377 想到河南就想笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748645500537229312",
+        "conversation_id": "1966423411573616935",
+        "created_at": "2025-09-12T08:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T09:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966423411573616935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966423411573616935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "河南人的脚是豫足"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627巨蟹 水象\n男生哦 性取向男男＆4i\n主担rose＆lisa\n主推路飞/波奇酱/乌萨奇/库洛米\n喜欢卡梅隆·莫纳汉  邓紫棋 JAY  EASON",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1757,
+          "like_count": 27370,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1833
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T09:56:02.000Z",
+        "description": "ISTP人类。想互关的私信除了被自动划到屏蔽的驻波一般都会看看主页，无帖子或者有什么人身攻击物化人类这样子让驻波不爽的不会回关……还有最重要的❗❗❗可以骚扰我但是丑的敢发你就死定了😠😠😠😠😠😠😠//绵绵冰的收件箱https://t.co/ExfNcdV2ks",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dshakla34377",
+                "end": 129,
+                "expanded_url": "https://ngl.link/dshakla34377",
+                "start": 106,
+                "url": "https://t.co/ExfNcdV2ks"
+              }
+            ]
+          }
+        },
+        "id": "1748645500537229312",
+        "name": "全世界最最好吃绵绵冰🧊（小豆腐梦女",
+        "pinned_tweet_id": "1930915932769255784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910906342304362496/coNEWFES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 317,
+          "like_count": 4587,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 4371
+        },
+        "username": "dsahkla34377",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1893115688497357048",
+    "created_at": "2025-02-22T09:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T10:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893226442785268117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856186701280075776",
+          "start": 0,
+          "username": "baizhouzi520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893226442785268117",
+    "in_reply_to_user_id": "1856186701280075776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893115688497357048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhouzi520 螺内酯？好像是抗雄的我也有用过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1893115688497357048",
+        "created_at": "2025-02-22T09:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T10:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893226442785268117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856186701280075776",
+              "start": 0,
+              "username": "baizhouzi520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893226442785268117",
+        "in_reply_to_user_id": "1856186701280075776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893115688497357048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhouzi520 螺内酯？好像是抗雄的我也有用过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856186701280075776",
+        "conversation_id": "1893115688497357048",
+        "created_at": "2025-02-22T01:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T02:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893115688497357048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893115688497357048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7324,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我跟我妈说，让她带我去医院，她不愿意\n家里人都怀疑我掉进了一个邪教组织，就是骗小孩变性的（\n然后他们说要报警，拯救我们（\n晚上的话，白洲喝醉了\n跟家里面人又吵，又发酒疯\n后面清醒一点之后，嗯，跟我妈说，如果不吃药的话，我要当南梁，我妈说至少是个男的就行）\n我还在偷偷的用凝胶和螺内酯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 503,
+          "like_count": 9054,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 374
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T04:06:17.000Z",
+        "description": "精神状态差（待认证）|互联网生物|喵喵喵（赛博猫娘/大概）|08mtf|白洲梓是咱最喜欢的女孩子w|笨蛋|拍车佬（大概|16岁休学ing|🍥2024.12.11|二次元|175cm|55kg|想发疯|自宅警备队|无证含糖ing～|最最好哒妹妹@Yamanaka_Ame|补佳乐重度依赖|容易社死|麦门信徒|拜耳忠实用户",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "Yamanaka_Ame"
+              }
+            ]
+          }
+        },
+        "id": "1856186701280075776",
+        "location": "（随机刷新于全国各地）",
+        "name": "白洲不是白粥是白洲（在家休学ing）（能不能讨个fo啊）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1891326726560448730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866681094873157633/fWyMHiqq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 509,
+          "like_count": 10121,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 1098
+        },
+        "username": "baizhouzi520",
+        "verified": false
+      }
+    ]
+  }
+}

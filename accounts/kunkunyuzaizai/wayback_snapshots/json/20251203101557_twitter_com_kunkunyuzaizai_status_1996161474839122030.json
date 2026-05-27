@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1995860793016086909",
+    "created_at": "2025-12-03T10:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996161474839122030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592719222940962817",
+          "start": 0,
+          "username": "mofumofuyewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996161474839122030",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995860793016086909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofumofuyewo 我就被这样对待了所以我休学了 明年成年了还没回学校 学籍还在初中没毕业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1995860793016086909",
+        "created_at": "2025-12-03T10:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996161474839122030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofumofuyewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996161474839122030",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995860793016086909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofumofuyewo 我就被这样对待了所以我休学了 明年成年了还没回学校 学籍还在初中没毕业"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "1995860793016086909",
+        "created_at": "2025-12-02T14:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995860793016086909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995860793016086909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 109001,
+          "like_count": 1756,
+          "quote_count": 7,
+          "reply_count": 69,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得郭楠最恶心的一点就是他们还会霸凌正常男性。如果情感丰富就是娘炮，不一起欺负女生就是喜欢对方之类的，给我恶心够呛。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 2357,
+          "like_count": 33558,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2464
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜王老师是我的恋人我的朋友我的母亲我的狗我的主人我的灵魂伴侣我的性奴隶｜名字是小咪",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994383870863847424/1f2gl8hR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2357,
+          "following_count": 752,
+          "like_count": 2031,
+          "listed_count": 4,
+          "media_count": 115,
+          "tweet_count": 1291
+        },
+        "username": "mofumofuyewo",
+        "verified": false
+      }
+    ]
+  }
+}

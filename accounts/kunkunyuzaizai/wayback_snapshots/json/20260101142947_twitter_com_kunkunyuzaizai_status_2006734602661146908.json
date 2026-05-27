@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2006734602661146908",
+    "created_at": "2026-01-01T14:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T15:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006734602661146908"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006734602661146908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "杜蕾斯超薄提醒您：今天晚就是跨年夜了，姿势千万条，安全第一条，跨年夜不戴套，孩子天秤座，属蛇 2043年高考\n温馨提醒您：姿势千万条 避孕第一条 动作不规范 亲人多一半。[破涕为笑][破涕为笑]"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2006734602661146908",
+        "created_at": "2026-01-01T14:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T15:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006734602661146908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006734602661146908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杜蕾斯超薄提醒您：今天晚就是跨年夜了，姿势千万条，安全第一条，跨年夜不戴套，孩子天秤座，属蛇 2043年高考\n温馨提醒您：姿势千万条 避孕第一条 动作不规范 亲人多一半。[破涕为笑][破涕为笑]"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\n168CM/50KG\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 66,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 2433,
+          "like_count": 37044,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2613
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

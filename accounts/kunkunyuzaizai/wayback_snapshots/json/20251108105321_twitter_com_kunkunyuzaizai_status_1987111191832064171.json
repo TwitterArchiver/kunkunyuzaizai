@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1986654199460077655",
+    "created_at": "2025-11-08T10:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T11:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987111191832064171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1725534917201645568",
+          "start": 0,
+          "username": "chuan_ao77311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987111191832064171",
+    "in_reply_to_user_id": "1725534917201645568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986654199460077655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_ao77311 没这么萌没这么清醒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1603,
+        "media_key": "3_1986654195718758400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5IDdxtbIAAtaeC.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1986654199460077655",
+        "created_at": "2025-11-08T10:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987111191832064171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1725534917201645568",
+              "start": 0,
+              "username": "chuan_ao77311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987111191832064171",
+        "in_reply_to_user_id": "1725534917201645568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986654199460077655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_ao77311 没这么萌没这么清醒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986654195718758400"
+          ]
+        },
+        "author_id": "1725534917201645568",
+        "conversation_id": "1986654199460077655",
+        "created_at": "2025-11-07T04:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T05:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986654199460077655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nw9ljK7EPT",
+              "end": 31,
+              "expanded_url": "https://x.com/chuan_ao77311/status/1986654199460077655/photo/1",
+              "media_key": "3_1986654195718758400",
+              "start": 8,
+              "url": "https://t.co/nw9ljK7EPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986654199460077655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 31686,
+          "like_count": 507,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我的上课状态: https://t.co/nw9ljK7EPT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 2223,
+          "like_count": 31862,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2353
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T15:23:01.000Z",
+        "description": "未成年/直男/intp/狮子座/185  75 16/Switch偏S一点\n可以叫我小叶🍁/互fo哦！主页正常哒！\n@jiaoxingge520\n✉️https://t.co/JVdXa0bqOJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "jiaoxingge520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/diyiqiuxie/",
+                "end": 98,
+                "expanded_url": "https://ngl.link/diyiqiuxie/",
+                "start": 75,
+                "url": "https://t.co/JVdXa0bqOJ"
+              }
+            ]
+          }
+        },
+        "id": "1725534917201645568",
+        "name": "第一秋叶",
+        "pinned_tweet_id": "1976878577418436830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975730500519272450/UxkpPzaF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 212,
+          "like_count": 3985,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1115
+        },
+        "username": "chuan_ao77311",
+        "verified": false
+      }
+    ]
+  }
+}

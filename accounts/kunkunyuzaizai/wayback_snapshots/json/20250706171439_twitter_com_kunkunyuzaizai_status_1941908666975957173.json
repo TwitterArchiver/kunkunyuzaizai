@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1941593994280173762",
+    "created_at": "2025-07-06T17:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T18:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941908666975957173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846082172429783044",
+          "start": 0,
+          "username": "0XADhgbWr913958"
+        },
+        {
+          "end": 29,
+          "id": "1744316513291747328",
+          "start": 17,
+          "username": "shuifenziya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941908666975957173",
+    "in_reply_to_user_id": "1846082172429783044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941645582088716358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0XADhgbWr913958 @shuifenziya 没经过同意啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1941593994280173762",
+        "created_at": "2025-07-06T17:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T18:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941908666975957173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846082172429783044",
+              "start": 0,
+              "username": "0XADhgbWr913958"
+            },
+            {
+              "end": 29,
+              "id": "1744316513291747328",
+              "start": 17,
+              "username": "shuifenziya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941908666975957173",
+        "in_reply_to_user_id": "1846082172429783044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941645582088716358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0XADhgbWr913958 @shuifenziya 没经过同意啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846082172429783044",
+        "conversation_id": "1941593994280173762",
+        "created_at": "2025-07-05T23:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T00:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941645582088716358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744316513291747328",
+              "start": 0,
+              "username": "shuifenziya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941645582088716358",
+        "in_reply_to_user_id": "1744316513291747328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941593994280173762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuifenziya 给你洗衣服还被你骂全无人伦之理。你先学会做个人再去做人妖吧。你可以问问你妈妈东西放哪了。这么大的她肯定不会仍了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627\n主推路飞/索隆/波奇酱/乌萨奇/小八/库洛米/香克斯 爱哭的笨蛋  敏感抑郁焦虑 善良🥺🤗成分复杂 抽象",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1914559190288453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 1279,
+          "like_count": 19401,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1084
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T06:54:33.000Z",
+        "description": "",
+        "id": "1846082172429783044",
+        "name": "草莓棉花糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938870701865476099/NtGKgLMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 25,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 123
+        },
+        "username": "0XADhgbWr913958",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "我...我....是水分子呀/08年17岁/休学中ing.../无证🍥hrt6个月/💥已炸柜/167cm53kg/坐标广东清远/负能/🚪35/不接线下/是条杂鱼🐟~~/SAD/互fo/喜欢六花和六花/不鉴证/小鸟游六花单推/",
+        "id": "1744316513291747328",
+        "location": "我在二次元",
+        "name": "水分子🍥（想死版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934294610022678528/3f0NJBAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 717,
+          "like_count": 21245,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 1461
+        },
+        "username": "shuifenziya",
+        "verified": false
+      }
+    ]
+  }
+}

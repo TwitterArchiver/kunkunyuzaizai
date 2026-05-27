@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896960475977728000"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1896597604672393519",
+    "created_at": "2025-03-04T16:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T17:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896960500317274355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1878628404926545920",
+          "start": 0,
+          "username": "chy1216tou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/05vRTF0mO4",
+          "end": 35,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/1896960500317274355/photo/1",
+          "media_key": "3_1896960475977728000",
+          "start": 12,
+          "url": "https://t.co/05vRTF0mO4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896960500317274355",
+    "in_reply_to_user_id": "1878628404926545920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896597604672393519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chy1216tou https://t.co/05vRTF0mO4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1896960500317274355].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1896960500317274355",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1896960500317274355"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1896960475977728000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlNbgJubwAAqfOE.jpg",
+        "width": 922
+      },
+      {
+        "height": 1404,
+        "media_key": "3_1896597600800829440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlIReCWXcAAunsf.jpg",
+        "width": 1073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896597600800829440"
+          ]
+        },
+        "author_id": "1878628404926545920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1896597604672393519",
+        "created_at": "2025-03-03T16:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T17:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896597604672393519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z3G7MmVlvJ",
+              "end": 28,
+              "expanded_url": "https://x.com/chy1216tou/status/1896597604672393519/photo/1",
+              "media_key": "3_1896597600800829440",
+              "start": 5,
+              "url": "https://t.co/z3G7MmVlvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896597604672393519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 62832,
+          "like_count": 181,
+          "quote_count": 1,
+          "reply_count": 318,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "突击检查 https://t.co/z3G7MmVlvJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 623,
+          "like_count": 10340,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 476
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T02:21:41.000Z",
+        "description": "当朋友圈发(想交朋友) 欢迎互fo|🉑私信|INFP🦋",
+        "id": "1878628404926545920",
+        "location": "Hong Kong",
+        "name": "Piaฅ Si",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895775940103532544/uKfjvvGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 436,
+          "like_count": 1289,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 257
+        },
+        "username": "chy1216tou",
+        "verified": false
+      }
+    ]
+  }
+}

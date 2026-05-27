@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1892948040434200904",
+    "created_at": "2025-02-26T04:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T05:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894602893011067042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1641720889455570944",
+          "start": 0,
+          "username": "jinglwins195713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894602893011067042",
+    "in_reply_to_user_id": "1641720889455570944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894599084591501802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinglwins195713 我都玩了五年这游戏了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_1894599070133751812",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkr30PcbkAQlt4-.jpg",
+        "width": 1059
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1892948040434200904",
+        "created_at": "2025-02-26T04:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T05:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894602893011067042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1641720889455570944",
+              "start": 0,
+              "username": "jinglwins195713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894602893011067042",
+        "in_reply_to_user_id": "1641720889455570944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894599084591501802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinglwins195713 我都玩了五年这游戏了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894599070133751812"
+          ]
+        },
+        "author_id": "1641720889455570944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1892948040434200904",
+        "created_at": "2025-02-26T04:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T05:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894599084591501802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yi4WxccxZM",
+              "end": 58,
+              "expanded_url": "https://x.com/jinglwins195713/status/1894599084591501802/photo/1",
+              "media_key": "3_1894599070133751812",
+              "start": 35,
+              "url": "https://t.co/Yi4WxccxZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894599084591501802",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892948040434200904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 这我就不得不说一下了嘿嘿(¬◡¬)✧ https://t.co/Yi4WxccxZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 572,
+          "like_count": 9794,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 415
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T08:35:46.000Z",
+        "description": "客服就是客服啦╮(¯▽¯)╭\n也是一个希望能帮到你们的客服",
+        "id": "1641720889455570944",
+        "location": "随时会到你身边(˘³˘)💕",
+        "name": "猫猫客服",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822225909824315392/8StPLGQv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 96,
+          "like_count": 160,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 876
+        },
+        "username": "jinglwins195713",
+        "verified": false
+      }
+    ]
+  }
+}

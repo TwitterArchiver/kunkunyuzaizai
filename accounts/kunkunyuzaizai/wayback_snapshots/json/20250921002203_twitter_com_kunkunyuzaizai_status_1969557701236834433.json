@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1969378899697287570",
+    "created_at": "2025-09-21T00:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T01:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969557701236834433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2596381225",
+          "start": 0,
+          "username": "goodnight_ye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969557701236834433",
+    "in_reply_to_user_id": "2596381225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969378899697287570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@goodnight_ye 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 664,
+        "media_key": "3_1969378894437629961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Sjq5cbQAkIEI-.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1969378899697287570",
+        "created_at": "2025-09-21T00:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T01:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969557701236834433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2596381225",
+              "start": 0,
+              "username": "goodnight_ye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969557701236834433",
+        "in_reply_to_user_id": "2596381225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969378899697287570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@goodnight_ye 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969378894437629961"
+          ]
+        },
+        "author_id": "2596381225",
+        "conversation_id": "1969378899697287570",
+        "created_at": "2025-09-20T12:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969378899697287570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxKfiY3QDe",
+              "end": 45,
+              "expanded_url": "https://x.com/goodnight_ye/status/1969378899697287570/photo/1",
+              "media_key": "3_1969378894437629961",
+              "start": 22,
+              "url": "https://t.co/uxKfiY3QDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969378899697287570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 30568,
+          "like_count": 192,
+          "quote_count": 15,
+          "reply_count": 114,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "接不接哼哼 关注转推揪一个1314 七天开 https://t.co/uxKfiY3QDe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 65,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 42,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 2004,
+          "like_count": 29737,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2062
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-30T13:25:34.000Z",
+        "description": "私信只回复口令红包",
+        "id": "2596381225",
+        "location": "🚪520/1314",
+        "name": "梦魇",
+        "pinned_tweet_id": "1960984636055552308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963357856968970241/PRTaafaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33400,
+          "following_count": 285,
+          "like_count": 3157,
+          "listed_count": 69,
+          "media_count": 10,
+          "tweet_count": 23
+        },
+        "username": "goodnight_ye",
+        "verified": false
+      }
+    ]
+  }
+}

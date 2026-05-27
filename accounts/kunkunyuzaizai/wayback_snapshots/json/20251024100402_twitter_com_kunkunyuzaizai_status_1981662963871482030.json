@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1981398706495902041",
+    "created_at": "2025-10-24T10:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T11:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981662963871482030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "892047328902651904",
+          "start": 0,
+          "username": "konoki_chai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981662963871482030",
+    "in_reply_to_user_id": "892047328902651904",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981398706495902041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konoki_chai HAPPY BIRTHDAY"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "繪師 @A_Da_channel 🎨",
+        "height": 560,
+        "media_key": "3_1981398119947374592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39XF5oXEAAb349.png",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1981398706495902041",
+        "created_at": "2025-10-24T10:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981662963871482030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "892047328902651904",
+              "start": 0,
+              "username": "konoki_chai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981662963871482030",
+        "in_reply_to_user_id": "892047328902651904",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981398706495902041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konoki_chai HAPPY BIRTHDAY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981398119947374592"
+          ]
+        },
+        "author_id": "892047328902651904",
+        "conversation_id": "1981398706495902041",
+        "created_at": "2025-10-23T16:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T17:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981398706495902041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QLNvLHvoTb",
+              "end": 59,
+              "expanded_url": "https://x.com/konoki_chai/status/1981398706495902041/photo/1",
+              "media_key": "3_1981398119947374592",
+              "start": 36,
+              "url": "https://t.co/QLNvLHvoTb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981398706495902041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3908,
+          "like_count": 220,
+          "quote_count": 0,
+          "reply_count": 104,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我的生日 Today My Birthday !!! ✨ 🎉 🎈 https://t.co/QLNvLHvoTb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n提问箱https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 48,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 25,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 2184,
+          "like_count": 31810,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2294
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-31T15:40:31.000Z",
+        "description": "馬來西亞 🇲🇾 中文個人勢Vtuber  \n是位喜歡玩游戲的黑色柴犬少女\n願我的一點小小溫暖可以帶給大家\n\n【 聯絡方式 】\n📬 Gmail : chaijun2073@gmail.com\n📬 Discord : konokichai\n\n【 繪師&建模媽媽 】 🎨 @en_kaien",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "en_kaien"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/MbUeytz…",
+                "end": 23,
+                "expanded_url": "https://discord.com/invite/MbUeytzNNH",
+                "start": 0,
+                "url": "https://t.co/XAQ8V829rA"
+              }
+            ]
+          }
+        },
+        "id": "892047328902651904",
+        "location": "三視圖和資訊在釘選推文",
+        "name": "此木柴 🐕🐾 柴犬Vtuber",
+        "pinned_tweet_id": "1918370544107569458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981018000716152832/R7Q50SpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 1059,
+          "like_count": 55482,
+          "listed_count": 22,
+          "media_count": 155,
+          "tweet_count": 992
+        },
+        "url": "https://t.co/XAQ8V829rA",
+        "username": "konoki_chai",
+        "verified": true
+      }
+    ]
+  }
+}

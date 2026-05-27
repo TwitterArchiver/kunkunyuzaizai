@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968712554605134041",
+    "created_at": "2025-09-19T13:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T14:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969028664282009801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1223407990713114624",
+          "start": 0,
+          "username": "wmtbxsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969028664282009801",
+    "in_reply_to_user_id": "1223407990713114624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968712554605134041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmtbxsh 比我白 鸡肚了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1968712541334560768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1JFoCsaYAAAQ2B.jpg",
+        "width": 764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968712554605134041",
+        "created_at": "2025-09-19T13:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T14:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969028664282009801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1223407990713114624",
+              "start": 0,
+              "username": "wmtbxsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969028664282009801",
+        "in_reply_to_user_id": "1223407990713114624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968712554605134041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmtbxsh 比我白 鸡肚了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968712541334560768"
+          ]
+        },
+        "author_id": "1223407990713114624",
+        "conversation_id": "1968712554605134041",
+        "created_at": "2025-09-18T16:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T17:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968712554605134041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dToNUV74EB",
+              "end": 27,
+              "expanded_url": "https://x.com/wmtbxsh/status/1968712554605134041/photo/1",
+              "media_key": "3_1968712541334560768",
+              "start": 4,
+              "url": "https://t.co/dToNUV74EB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968712554605134041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 58898,
+          "like_count": 888,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "白不白 https://t.co/dToNUV74EB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1974,
+          "like_count": 29515,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2041
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T00:49:51.000Z",
+        "description": "我只想安静发疯💢｜碎碎念@wjtbxsh｜⚠️推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "wjtbxsh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=6CUnE7BS",
+                "start": 0,
+                "url": "https://t.co/A6v6lTgUhq"
+              }
+            ]
+          }
+        },
+        "id": "1223407990713114624",
+        "location": "自用蜂鸟vpn",
+        "name": "我明天不想说话（读研发疯版）",
+        "pinned_tweet_id": "1962525282868629857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964015447591849985/pqPXfgeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20880,
+          "following_count": 203,
+          "like_count": 4032,
+          "listed_count": 51,
+          "media_count": 178,
+          "tweet_count": 785
+        },
+        "url": "https://t.co/A6v6lTgUhq",
+        "username": "wmtbxsh",
+        "verified": false
+      }
+    ]
+  }
+}

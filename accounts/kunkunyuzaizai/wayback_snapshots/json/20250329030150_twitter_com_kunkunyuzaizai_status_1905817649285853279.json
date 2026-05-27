@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1905593991300874673",
+    "created_at": "2025-03-29T03:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T04:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905817649285853279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842105698509017088",
+          "start": 0,
+          "username": "26hrssleep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905817649285853279",
+    "in_reply_to_user_id": "1842105698509017088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905593991300874673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@26hrssleep 我最开始都是在华为上找的 因为华为应用市场可以改香港地区 然后搜索VPN 用的什么老王VPN什么的 后面不记得了 现在就用的在纸飞机的那种软件群下的 绿茶VPN 23年学会这些的  什么谷歌账号 推特 脸书 ins等等海外账号全有 没有一个封 不过新注册是ins和脸书全部不通过被冻结了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1905593991300874673",
+        "created_at": "2025-03-29T03:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T04:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905817649285853279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842105698509017088",
+              "start": 0,
+              "username": "26hrssleep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905817649285853279",
+        "in_reply_to_user_id": "1842105698509017088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905593991300874673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@26hrssleep 我最开始都是在华为上找的 因为华为应用市场可以改香港地区 然后搜索VPN 用的什么老王VPN什么的 后面不记得了 现在就用的在纸飞机的那种软件群下的 绿茶VPN 23年学会这些的  什么谷歌账号 推特 脸书 ins等等海外账号全有 没有一个封 不过新注册是ins和脸书全部不通过被冻结了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842105698509017088",
+        "conversation_id": "1905593991300874673",
+        "created_at": "2025-03-28T12:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T13:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905593991300874673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905593991300874673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 34203,
+          "like_count": 226,
+          "quote_count": 6,
+          "reply_count": 150,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "纯好奇，那些14岁以下的推友是怎么搞到VPN的？🫤（我是因为人在海外）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "08年 已有对象\n\n           天天开心",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779145591345324032/MWFxFSnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 642,
+          "like_count": 11716,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 560
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T07:34:16.000Z",
+        "description": "10年14岁，加拿大🇨🇦国籍，汉语/English //小号@ViiyElvin //逃生舱@KINGSLA85042146 //墨尔本九年级在读 //EDM转摇滚/朋克/金属乐迷，音乐收听时常2000+小时，电吉他新手//反对AI代替人类艺术 //非极权主义与民族主义 //被动/偏抖M（支黑月抛一律拉黑）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "ViiyElvin"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "KINGSLA85042146"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kew-vic.compass.education/Organise/Calen…",
+                "end": 23,
+                "expanded_url": "https://kew-vic.compass.education/Organise/Calendar/",
+                "start": 0,
+                "url": "https://t.co/J5pNEmNJZE"
+              }
+            ]
+          }
+        },
+        "id": "1842105698509017088",
+        "location": "Home",
+        "name": "Cybernerd赛博疯子🇨🇦🇦🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903370536941727744/WraL3mnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 186,
+          "like_count": 8348,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 165
+        },
+        "url": "https://t.co/J5pNEmNJZE",
+        "username": "26hrssleep",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1968295354815918138",
+    "created_at": "2025-09-19T13:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T14:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969026363756589305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969026363756589305",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968295354815918138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 比我皮肤好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1023,
+        "media_key": "3_1968295345915633664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DKMEpbIAAvIzE.jpg",
+        "width": 575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1968295354815918138",
+        "created_at": "2025-09-19T13:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T14:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969026363756589305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969026363756589305",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968295354815918138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 比我皮肤好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968295345915633664"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "conversation_id": "1968295354815918138",
+        "created_at": "2025-09-17T12:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T13:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968295354815918138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBgDKKCjsT",
+              "end": 45,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/1968295354815918138/photo/1",
+              "media_key": "3_1968295345915633664",
+              "start": 22,
+              "url": "https://t.co/PBgDKKCjsT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968295354815918138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 44208,
+          "like_count": 556,
+          "quote_count": 0,
+          "reply_count": 64,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "摊牌了 没有任何化妆加上闪光灯 请各位鉴赏 https://t.co/PBgDKKCjsT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 2i＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1974,
+          "like_count": 29502,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2040
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "18岁 女 没少骂人/中文/English勉強しています /BS/🐻❤️@Lmao_Quien / 萌豚@niceball_wuwaa 🐖@fuckpregabalin🎸@D_D_ovO_星酱 @whyuounot 厚米@ninarich1991 @kikyo4000 @sanitf1 @iTZQing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 67,
+                "start": 52,
+                "username": "niceball_wuwaa"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "fuckpregabalin"
+              },
+              {
+                "end": 94,
+                "start": 85,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "whyuounot"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "ninarich1991"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "kikyo4000"
+              },
+              {
+                "end": 143,
+                "start": 135,
+                "username": "sanitf1"
+              },
+              {
+                "end": 152,
+                "start": 144,
+                "username": "iTZQing"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "niceball_wuwaa",
+        "name": "vico不会",
+        "pinned_tweet_id": "1968883337092608270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943523513643732995/2kx3p2bv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3818,
+          "following_count": 312,
+          "like_count": 20181,
+          "listed_count": 12,
+          "media_count": 655,
+          "tweet_count": 9862
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

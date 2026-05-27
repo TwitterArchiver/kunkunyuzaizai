@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1976201842997723368",
+    "created_at": "2025-10-09T08:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T09:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976201842997723368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/inwhtk_/status…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/inwhtk_/status/1976153850454356183",
+          "start": 58,
+          "url": "https://t.co/tqjxWNImMr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976201842997723368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976153850454356183",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "各位好，为沉痛悼念逝去的8天小长假，现向大家征收50元哀悼费用于纪念，绝对不是为了今天吃什么疯狂星期四，特此通知。 https://t.co/tqjxWNImMr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1976201842997723368",
+        "created_at": "2025-10-09T08:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T09:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976201842997723368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inwhtk_/status…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/inwhtk_/status/1976153850454356183",
+              "start": 58,
+              "url": "https://t.co/tqjxWNImMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976201842997723368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976153850454356183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各位好，为沉痛悼念逝去的8天小长假，现向大家征收50元哀悼费用于纪念，绝对不是为了今天吃什么疯狂星期四，特此通知。 https://t.co/tqjxWNImMr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939352450714202112",
+        "conversation_id": "1976153850454356183",
+        "created_at": "2025-10-09T05:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T06:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976153850454356183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cjyqy10/status…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/cjyqy10/status/1976131288726905037",
+              "start": 58,
+              "url": "https://t.co/nD77oXnkHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976153850454356183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 906,
+          "like_count": 12,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976131288726905037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各位好，为沉痛悼念逝去的8天小长假，现向大家征收50元哀悼费用于纪念，绝对不是为了今天吃什么疯狂星期四，特此通知。 https://t.co/nD77oXnkHg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男 2i＆4i\n提问箱https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 29,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 2140,
+          "like_count": 31447,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2241
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T15:57:22.000Z",
+        "description": "不陪聊 除非给我打钱 发鸡死全家",
+        "id": "1939352450714202112",
+        "location": "过🚪+v",
+        "name": "好宅宅",
+        "pinned_tweet_id": "1969102534900953152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974117460325642251/oL8tDqON_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4412,
+          "following_count": 214,
+          "like_count": 5783,
+          "listed_count": 6,
+          "media_count": 36,
+          "tweet_count": 3917
+        },
+        "username": "inwhtk_",
+        "verified": false
+      }
+    ]
+  }
+}

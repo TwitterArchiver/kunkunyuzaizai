@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1967438109219684499",
+    "created_at": "2025-09-15T08:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T09:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967508757862371633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1926603465821704192",
+          "start": 0,
+          "username": "PhiloTurner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967508757862371633",
+    "in_reply_to_user_id": "1926603465821704192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967438109219684499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PhiloTurner 我可以吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1967438109219684499",
+        "created_at": "2025-09-15T08:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T09:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967508757862371633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1926603465821704192",
+              "start": 0,
+              "username": "PhiloTurner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967508757862371633",
+        "in_reply_to_user_id": "1926603465821704192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967438109219684499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhiloTurner 我可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926603465821704192",
+        "conversation_id": "1967438109219684499",
+        "created_at": "2025-09-15T03:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T04:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967438109219684499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967438109219684499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真得再说一遍了\n找我互关（的男的）我还是会看主页的如果全是片/涉政/锁推/啥也没发/纯粹我不喜欢我就不会回关\n女生都可以啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹 \n男生哦 性取向男男＆4i\n担ROSE＆LISA",
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🥰👿🥺🤗😡😡",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 1805,
+          "like_count": 28170,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1887
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T11:37:29.000Z",
+        "description": "什么都发 | 喜欢小狗 给我发发你们漂亮的手…🤤 | 礼貌私信不陪聊不聊骚 男的先发腹肌再说话 女生请随意🥺来和我丸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/philoturner",
+                "end": 23,
+                "expanded_url": "https://ngl.link/philoturner",
+                "start": 0,
+                "url": "https://t.co/iDN1v9E9wB"
+              }
+            ]
+          }
+        },
+        "id": "1926603465821704192",
+        "location": "1m",
+        "name": "土豆泥尼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949039836469563392/7vpyT7kX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 144,
+          "like_count": 1324,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 1292
+        },
+        "url": "https://t.co/iDN1v9E9wB",
+        "username": "PhiloTurner",
+        "verified": false
+      }
+    ]
+  }
+}

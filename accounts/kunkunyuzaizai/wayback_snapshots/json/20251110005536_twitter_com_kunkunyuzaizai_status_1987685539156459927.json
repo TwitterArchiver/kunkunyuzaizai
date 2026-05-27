@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1987021313761005969",
+    "created_at": "2025-11-10T00:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T01:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987685539156459927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1787468902051852289",
+          "start": 0,
+          "username": "Oboro_Moonlit_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987685539156459927",
+    "in_reply_to_user_id": "1787468902051852289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987021313761005969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oboro_Moonlit_ 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 225,
+        "media_key": "3_1987021305796059136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5NRWZUbYAA3kvA.jpg",
+        "width": 225
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1987021313761005969",
+        "created_at": "2025-11-10T00:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T01:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987685539156459927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1787468902051852289",
+              "start": 0,
+              "username": "Oboro_Moonlit_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987685539156459927",
+        "in_reply_to_user_id": "1787468902051852289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987021313761005969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oboro_Moonlit_ 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987021305796059136"
+          ]
+        },
+        "author_id": "1787468902051852289",
+        "conversation_id": "1987021313761005969",
+        "created_at": "2025-11-08T04:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T05:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987021313761005969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IVbAS8lEpp",
+              "end": 49,
+              "expanded_url": "https://x.com/Oboro_Moonlit_/status/1987021313761005969/photo/1",
+              "media_key": "3_1987021305796059136",
+              "start": 26,
+              "url": "https://t.co/IVbAS8lEpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987021313761005969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 35919,
+          "like_count": 1738,
+          "quote_count": 2,
+          "reply_count": 337,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "發動魔法卡！！！\n請祝我生日快樂！！！\n謝謝！！！ https://t.co/IVbAS8lEpp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "20080627 INFP 巨蟹男\nXNN\n叫我小云就好了🥰\nDREAM IS BE A GIRL\n\n匿名提问https://t.co/3xGifEiNxg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 78,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 55,
+                "url": "https://t.co/3xGifEiNxg"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907334411152158720/pPb-PHRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 2235,
+          "like_count": 31934,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2366
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-06T13:06:52.000Z",
+        "description": "子午計畫【月蝕屋Moonlit】🇹🇼．Oboro from @MeridianPRJ_tw ママ @a_harart & パパ @ryuroro_Live2D & ミミ @Haruzawa0731 中文／日本語／English 【Fanart】 #OboroArt 【Live】#朧來誇 【Meme】#朧係歐北共",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 123,
+                "tag": "OboroArt"
+              },
+              {
+                "end": 143,
+                "start": 139,
+                "tag": "朧來誇"
+              },
+              {
+                "end": 156,
+                "start": 150,
+                "tag": "朧係歐北共"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "MeridianPRJ_tw"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "a_harart"
+              },
+              {
+                "end": 79,
+                "start": 64,
+                "username": "ryuroro_Live2D"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Haruzawa0731"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/OboroMoonlit",
+                "end": 23,
+                "expanded_url": "https://lit.link/OboroMoonlit",
+                "start": 0,
+                "url": "https://t.co/6T69BuU6xR"
+              }
+            ]
+          }
+        },
+        "id": "1787468902051852289",
+        "location": "三視圖請看litlink！",
+        "name": "朧Oboro🦎Meridian🌼新Cover【徘徊】💫",
+        "pinned_tweet_id": "1985236983787176041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957409161215660032/Cc-yJE9p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14010,
+          "following_count": 153,
+          "like_count": 10562,
+          "listed_count": 24,
+          "media_count": 375,
+          "tweet_count": 2928
+        },
+        "url": "https://t.co/6T69BuU6xR",
+        "username": "Oboro_Moonlit_",
+        "verified": false
+      }
+    ]
+  }
+}
