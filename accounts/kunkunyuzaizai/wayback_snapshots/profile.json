@@ -5,5 +5,16 @@
   "location": "",
   "link": "",
   "avatar": "avatar/avatar.jpg",
-  "banner": "avatar/1500x500.jpg"
+  "banner": "avatar/1500x500.jpg",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "ngl.link/kunkunyu627",
+        "end": 65,
+        "expanded_url": "https://ngl.link/kunkunyu627",
+        "start": 42,
+        "url": "https://t.co/3xGifEjlmO"
+      }
+    ]
+  }
 }
