@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2059867746670928147",
+    "created_at": "2026-05-28T05:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059867746670928147"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059867746670928147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女儿，你能不能不当地雷女啊，妈妈好害怕啊，一天天学也不上，天天请假，带你去看医生又不愿意，你能告诉妈妈发生什么了吗？为什么搞的手上一道道的，妈妈求求你了，不要伤害自己，你是妈妈的心肝啊，妈妈今天晚上一定睡不着了，为什么要伤害自己啊？妈妈现在真的搞不懂你了，你怎么会变成这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2059867746670928147",
+        "created_at": "2026-05-28T05:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059867746670928147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059867746670928147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女儿，你能不能不当地雷女啊，妈妈好害怕啊，一天天学也不上，天天请假，带你去看医生又不愿意，你能告诉妈妈发生什么了吗？为什么搞的手上一道道的，妈妈求求你了，不要伤害自己，你是妈妈的心肝啊，妈妈今天晚上一定睡不着了，为什么要伤害自己啊？妈妈现在真的搞不懂你了，你怎么会变成这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 3016,
+          "like_count": 46370,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 3231
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}
