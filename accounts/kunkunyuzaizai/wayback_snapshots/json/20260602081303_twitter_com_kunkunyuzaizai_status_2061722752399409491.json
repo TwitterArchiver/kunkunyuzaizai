@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2061427538694746239",
+    "created_at": "2026-06-02T08:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061722752399409491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1536337502654853122",
+          "start": 0,
+          "username": "MercuricCyanide"
+        },
+        {
+          "end": 29,
+          "id": "1739591003559088128",
+          "start": 17,
+          "username": "ShiYou62377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061722752399409491",
+    "in_reply_to_user_id": "1536337502654853122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061502676207358407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MercuricCyanide @ShiYou62377 我有500颗🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2061427538694746239",
+        "created_at": "2026-06-02T08:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061722752399409491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1536337502654853122",
+              "start": 0,
+              "username": "MercuricCyanide"
+            },
+            {
+              "end": 29,
+              "id": "1739591003559088128",
+              "start": 17,
+              "username": "ShiYou62377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061722752399409491",
+        "in_reply_to_user_id": "1536337502654853122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061502676207358407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MercuricCyanide @ShiYou62377 我有500颗🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536337502654853122",
+        "conversation_id": "2061427538694746239",
+        "created_at": "2026-06-01T17:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061502676207358407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1739591003559088128",
+              "start": 0,
+              "username": "ShiYou62377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061502676207358407",
+        "in_reply_to_user_id": "1739591003559088128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061427538694746239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiYou62377 含有对乙酰氨基酚的都绝对不可以过量服用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 3048,
+          "like_count": 46656,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 3252
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T13:19:54.000Z",
+        "description": "04 CN｡TUS。趣味は化学と古銭と料理しかないダメ人間… 錯体/有機金属/無機合成/古試薬蒐集/アンプル標本/古銭/廃墟探険etc. DMはお気軽にどうぞ。皆んなと仲良くなりたいんです！",
+        "id": "1536337502654853122",
+        "location": "東亜",
+        "name": "Yusaki",
+        "pinned_tweet_id": "1970372282691526871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056080472527253504/PBpyrgO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 861,
+          "like_count": 9503,
+          "listed_count": 3,
+          "media_count": 909,
+          "tweet_count": 2440
+        },
+        "username": "MercuricCyanide",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T10:16:37.000Z",
+        "description": "我叫小沋｜时好时坏的小男孩｜⬇️是匿名提问箱｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%B2%8B",
+                "start": 0,
+                "url": "https://t.co/l2NtAain6j"
+              }
+            ]
+          }
+        },
+        "id": "1739591003559088128",
+        "location": "地狱",
+        "name": "十沋",
+        "pinned_tweet_id": "2014806667360444630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036419932368543744/PyHm8kSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 157,
+          "like_count": 15626,
+          "listed_count": 0,
+          "media_count": 462,
+          "tweet_count": 4587
+        },
+        "url": "https://t.co/l2NtAain6j",
+        "username": "ShiYou62377",
+        "verified": false
+      }
+    ]
+  }
+}

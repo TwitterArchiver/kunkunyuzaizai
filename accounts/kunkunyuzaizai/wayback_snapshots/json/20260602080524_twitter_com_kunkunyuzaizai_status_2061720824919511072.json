@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2061336895158927458",
+    "created_at": "2026-06-02T08:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061720824919511072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016108531028787202",
+          "start": 0,
+          "username": "hello1145110043"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061720824919511072",
+    "in_reply_to_user_id": "2016108531028787202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061336895158927458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hello1145110043 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2061336895158927458",
+        "created_at": "2026-06-02T08:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061720824919511072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016108531028787202",
+              "start": 0,
+              "username": "hello1145110043"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061720824919511072",
+        "in_reply_to_user_id": "2016108531028787202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061336895158927458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hello1145110043 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016108531028787202",
+        "conversation_id": "2061336895158927458",
+        "created_at": "2026-06-01T06:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061336895158927458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061336895158927458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7017,
+          "like_count": 204,
+          "quote_count": 4,
+          "reply_count": 115,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "不要回复这条推！\n他会让你们变成可爱猫娘！\n一定不要回复！\n转发也不要！\n他会让你们变成白毛萝莉！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 3046,
+          "like_count": 46631,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 3245
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T11:18:35.000Z",
+        "description": "没什么想说的……",
+        "id": "2016108531028787202",
+        "location": "地球",
+        "name": "fo我送赛博炸鸡🍥",
+        "pinned_tweet_id": "2054964617055797408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056789508591611904/jAX9WWuH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 100,
+          "like_count": 3529,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 1263
+        },
+        "username": "hello1145110043",
+        "verified": false
+      }
+    ]
+  }
+}
