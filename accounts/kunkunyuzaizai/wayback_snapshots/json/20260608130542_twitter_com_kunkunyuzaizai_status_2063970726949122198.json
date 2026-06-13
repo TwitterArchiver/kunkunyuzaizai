@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2063845585845989427",
+    "created_at": "2026-06-08T13:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T14:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063970726949122198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889861257",
+          "start": 0,
+          "username": "__summer__sea__"
+        },
+        {
+          "end": 29,
+          "id": "2046967144798121984",
+          "start": 17,
+          "username": "Cristinai1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063970726949122198",
+    "in_reply_to_user_id": "1889861257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063845585845989427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__summer__sea__ @Cristinai1b 喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2063845573888004097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRAnV7bUAEfdO7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2063845585845989427",
+        "created_at": "2026-06-08T13:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063970726949122198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889861257",
+              "start": 0,
+              "username": "__summer__sea__"
+            },
+            {
+              "end": 29,
+              "id": "2046967144798121984",
+              "start": 17,
+              "username": "Cristinai1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063970726949122198",
+        "in_reply_to_user_id": "1889861257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063845585845989427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__summer__sea__ @Cristinai1b 喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063845573888004097"
+          ]
+        },
+        "author_id": "1889861257",
+        "conversation_id": "2063845585845989427",
+        "created_at": "2026-06-08T04:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063845585845989427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bCsnZ4MhE",
+              "end": 105,
+              "expanded_url": "https://x.com/__summer__sea__/status/2063845585845989427/photo/1",
+              "media_key": "3_2063845573888004097",
+              "start": 82,
+              "url": "https://t.co/2bCsnZ4MhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063845585845989427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1690,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "转发此贴可以获得我55g普瑞的抽奖机会，我会随机抽取4名转发者每人获得13.75g的普瑞(大约14次od)，邮费药瓶自付，截止到1000名粉丝，封顶转发开始抽奖。 https://t.co/2bCsnZ4MhE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|不抽烟|不喝酒|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 138,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 115,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961203265527283808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 3052,
+          "like_count": 46598,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 3269
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜已扭转一年半｜情感淡漠｜家长不管党｜Q:3755457720｜对象:@sklmm_｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "sklmm_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "pinned_tweet_id": "2063845585845989427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 920,
+          "like_count": 8870,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2775
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T15:01:30.000Z",
+        "description": "oded餐券嗯嗯好的🚪88/152/188",
+        "id": "2046967144798121984",
+        "name": "Relythat517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046968486316978177/sxvY-Ud2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 268,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 99
+        },
+        "username": "Cristinai1b",
+        "verified": false
+      }
+    ]
+  }
+}
