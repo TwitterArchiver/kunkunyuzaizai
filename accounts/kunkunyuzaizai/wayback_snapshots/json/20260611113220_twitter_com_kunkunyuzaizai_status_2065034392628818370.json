@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2060244009868526080",
+    "created_at": "2026-06-11T11:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065034392628818370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        },
+        {
+          "end": 18,
+          "id": "761375055724974081",
+          "start": 10,
+          "username": "Azuelle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065034392628818370",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060244009868526080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Ted_yeet @Azuelle CD和男娘都是男扮女装吧还有伪娘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1458,
+        "media_key": "3_2060244002847203333",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJd1AURWIAU9vQD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2060244009868526080",
+        "created_at": "2026-06-11T11:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065034392628818370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            },
+            {
+              "end": 18,
+              "id": "761375055724974081",
+              "start": 10,
+              "username": "Azuelle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065034392628818370",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060244009868526080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ted_yeet @Azuelle CD和男娘都是男扮女装吧还有伪娘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060244002847203333"
+          ]
+        },
+        "author_id": "1499442786453663745",
+        "conversation_id": "2060244009868526080",
+        "created_at": "2026-05-29T06:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060244009868526080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/llZOcDuval",
+              "end": 41,
+              "expanded_url": "https://x.com/Ted_yeet/status/2060244009868526080/photo/1",
+              "media_key": "3_2060244002847203333",
+              "start": 18,
+              "url": "https://t.co/llZOcDuval"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060244009868526080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 43191,
+          "like_count": 316,
+          "quote_count": 4,
+          "reply_count": 35,
+          "retweet_count": 23
+        },
+        "reply_settings": "other",
+        "text": "我要以后所有的跨性别圣经都有这个图 https://t.co/llZOcDuval"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 130,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 107,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2029751527485931768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 3045,
+          "like_count": 46576,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 3269
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "神秘旅商/🏳️‍🌈🏳️‍⚧️/姛/brat/整点𝕄𝕒𝕥𝕙/养毛绒玩具/偶尔拍点📸/超业余贝斯手/说LaTeX的人形编译器/给你们看我的小猫@bubblepipe42",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "bubblepipe42"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "pinned_tweet_id": "2055181133973954997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057063305681002496/0duENI7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5961,
+          "following_count": 1738,
+          "like_count": 52592,
+          "listed_count": 20,
+          "media_count": 519,
+          "tweet_count": 12275
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-05T01:35:33.000Z",
+        "description": "She/Her / 一只重点色布偶猫 / AKA Sierra / #FF14 #maimai / 随缘回fo / HKU CompSc · Ling / Ex-OI&BOer / 🏳️‍🌈🏳️‍⚧️ Transles / 🍥 Sept 21, 2021",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "FF14"
+              },
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "maimai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "azuelle.github.io",
+                "end": 23,
+                "expanded_url": "https://azuelle.github.io/",
+                "start": 0,
+                "url": "https://t.co/SIWcfK6B13"
+              }
+            ]
+          }
+        },
+        "id": "761375055724974081",
+        "location": "Aetherial Sea",
+        "name": "Azuelle × 夢野雫",
+        "pinned_tweet_id": "1837750991841907110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497607849760813056/TCtKM9ES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 1232,
+          "like_count": 80158,
+          "listed_count": 9,
+          "media_count": 1148,
+          "tweet_count": 13268
+        },
+        "url": "https://t.co/SIWcfK6B13",
+        "username": "Azuelle",
+        "verified": false
+      }
+    ]
+  }
+}

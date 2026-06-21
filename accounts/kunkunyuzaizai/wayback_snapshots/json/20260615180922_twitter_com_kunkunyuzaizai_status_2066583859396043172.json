@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2066512043000188942",
+    "created_at": "2026-06-15T18:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T19:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066583859396043172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974380290031132672",
+          "start": 0,
+          "username": "kawail_yachiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066583859396043172",
+    "in_reply_to_user_id": "1974380290031132672",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066512043000188942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@kawail_yachiyo 🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066512043000188942].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066512043000188942",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066512043000188942"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2066512043000188942",
+        "created_at": "2026-06-15T18:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066583859396043172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974380290031132672",
+              "start": 0,
+              "username": "kawail_yachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066583859396043172",
+        "in_reply_to_user_id": "1974380290031132672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066512043000188942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@kawail_yachiyo 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 130,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 107,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 3066,
+          "like_count": 46794,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 3283
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T07:45:32.000Z",
+        "description": "八年級初中生｜重度抑鬱症｜不一定即時互fo｜pepoyo粉絲｜成分正常可互fo｜全力支持LGBTQ+ 社區｜聯繫我：lzeyu2811@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@juhuhiu1145",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@juhuhiu1145",
+                "start": 0,
+                "url": "https://t.co/IkCjlfKXjF"
+              }
+            ]
+          }
+        },
+        "id": "1974380290031132672",
+        "location": "幻想空间「月读」",
+        "name": "Yachiyo_八千代",
+        "pinned_tweet_id": "2064343466662920698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061081314317524993/tb_XTCXZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 605,
+          "like_count": 4556,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 893
+        },
+        "url": "https://t.co/IkCjlfKXjF",
+        "username": "kawail_yachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

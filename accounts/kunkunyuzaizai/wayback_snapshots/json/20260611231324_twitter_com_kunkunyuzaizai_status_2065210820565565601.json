@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2064901614914396284",
+    "created_at": "2026-06-11T23:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T00:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065210820565565601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050537864908128256",
+          "start": 0,
+          "username": "guoqu10086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065210820565565601",
+    "in_reply_to_user_id": "2050537864908128256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064901614914396284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guoqu10086 PDD可以买国补20多一盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2064901614914396284",
+        "created_at": "2026-06-11T23:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T00:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065210820565565601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050537864908128256",
+              "start": 0,
+              "username": "guoqu10086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065210820565565601",
+        "in_reply_to_user_id": "2050537864908128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064901614914396284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guoqu10086 PDD可以买国补20多一盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050537864908128256",
+        "conversation_id": "2064901614914396284",
+        "created_at": "2026-06-11T02:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064901614914396284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064901614914396284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2273,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诸位可以推荐几个靠谱的糖商吗，有点害怕上当受骗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 130,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 107,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2029751527485931768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 3046,
+          "like_count": 46623,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 3272
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T11:28:32.000Z",
+        "description": "年龄党丨mtf丨反对党（母亲反对父亲超级反对)丨出厂日期:10.3.4丨🍥hrt:26.5.18丨无证含糖丨上班族丨不o丨不刀丨同类互fo丨各类fps又菜又爱玩",
+        "id": "2050537864908128256",
+        "location": "翁法罗斯",
+        "name": "玖桃🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056834328089518080/v3MzTviX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 176,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 44
+        },
+        "username": "guoqu10086",
+        "verified": true
+      }
+    ]
+  }
+}

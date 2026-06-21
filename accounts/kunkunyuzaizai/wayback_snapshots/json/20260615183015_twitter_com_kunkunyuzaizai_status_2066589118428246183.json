@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2066579594283749509",
+    "created_at": "2026-06-15T18:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T19:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066589118428246183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1560411093075316736",
+          "start": 0,
+          "username": "Mini_SaltedFish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066589118428246183",
+    "in_reply_to_user_id": "1560411093075316736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066579594283749509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mini_SaltedFish 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2066579576084672512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK33LNyasAA6cFK.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2066579594283749509",
+        "created_at": "2026-06-15T18:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066589118428246183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1560411093075316736",
+              "start": 0,
+              "username": "Mini_SaltedFish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066589118428246183",
+        "in_reply_to_user_id": "1560411093075316736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066579594283749509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mini_SaltedFish 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066579576084672512"
+          ]
+        },
+        "author_id": "1560411093075316736",
+        "conversation_id": "2066579594283749509",
+        "created_at": "2026-06-15T17:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066579594283749509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TFrvox3zVn",
+              "end": 35,
+              "expanded_url": "https://x.com/Mini_SaltedFish/status/2066579594283749509/photo/1",
+              "media_key": "3_2066579576084672512",
+              "start": 12,
+              "url": "https://t.co/TFrvox3zVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066579594283749509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草了，好像一下子买多了 https://t.co/TFrvox3zVn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 130,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 107,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 3066,
+          "like_count": 46814,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 3284
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T23:39:41.000Z",
+        "description": "我也可以是女孩子吗？\n喜欢女孩子。\n05便利店夜班社畜。",
+        "id": "1560411093075316736",
+        "name": "小咸鱼",
+        "pinned_tweet_id": "2063483022717096060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008767370846209/uZgFORhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 789,
+          "like_count": 30903,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 1210
+        },
+        "username": "Mini_SaltedFish",
+        "verified": false
+      }
+    ]
+  }
+}

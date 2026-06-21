@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2066787580017074474",
+    "created_at": "2026-06-16T07:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066787580017074474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "别口嗨",
+          "display_url": "t.me/kunkunyuzai627",
+          "end": 29,
+          "expanded_url": "https://t.me/kunkunyuzai627",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2066787513986166785/SF-War2P?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2066787513986166785/SF-War2P?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 6,
+          "status": 200,
+          "title": "困困鱼崽仔小云的家",
+          "unwound_url": "https://t.me/kunkunyuzai627",
+          "url": "https://t.co/6jrz9H0eyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066787580017074474",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "TG个人频道https://t.co/6jrz9H0eyi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066787580017074474].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066787580017074474",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066787580017074474"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n好累\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 35,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 12,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 65,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 42,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 3079,
+          "like_count": 46903,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 3287
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

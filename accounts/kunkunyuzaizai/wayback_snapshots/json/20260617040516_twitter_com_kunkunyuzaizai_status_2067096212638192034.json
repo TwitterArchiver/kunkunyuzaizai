@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2067095760668184999",
+    "created_at": "2026-06-17T04:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067096212638192034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974380290031132672",
+          "start": 0,
+          "username": "kawail_yachiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067096212638192034",
+    "in_reply_to_user_id": "1974380290031132672",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067095760668184999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawail_yachiyo 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2067095760668184999",
+        "created_at": "2026-06-17T04:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067096212638192034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974380290031132672",
+              "start": 0,
+              "username": "kawail_yachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067096212638192034",
+        "in_reply_to_user_id": "1974380290031132672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067095760668184999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawail_yachiyo 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974380290031132672",
+        "conversation_id": "2067095760668184999",
+        "created_at": "2026-06-17T04:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067095760668184999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1779063322500874240",
+              "start": 5,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 58,
+              "id": "1974380290031132672",
+              "start": 43,
+              "username": "kawail_yachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067095760668184999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有关注了@kunkunyuzaizai的推友们，请多多关注她的心理状态。\n\n谢谢。\n@kawail_yachiyo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n好累\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 35,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 12,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 65,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 42,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 3092,
+          "like_count": 47072,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 3306
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T07:45:32.000Z",
+        "description": "八年級初中生｜重度抑鬱症｜不一定即時互fo｜pepoyo粉絲｜成分正常可互fo｜全力支持LGBTQ+ 社區｜聯繫我：lzeyu2811@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@juhuhiu1145",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@juhuhiu1145",
+                "start": 0,
+                "url": "https://t.co/IkCjlfKXjF"
+              }
+            ]
+          }
+        },
+        "id": "1974380290031132672",
+        "location": "幻想空间「月读」",
+        "name": "Yachiyo_八千代",
+        "pinned_tweet_id": "2064343466662920698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061081314317524993/tb_XTCXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 608,
+          "like_count": 4597,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 896
+        },
+        "url": "https://t.co/IkCjlfKXjF",
+        "username": "kawail_yachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

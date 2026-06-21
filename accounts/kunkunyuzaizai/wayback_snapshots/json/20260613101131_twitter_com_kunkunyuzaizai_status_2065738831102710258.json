@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065738822160355328",
+        "3_2065738822168756225",
+        "3_2065738822156181504",
+        "3_2065738822160461824"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "conversation_id": "2065738831102710258",
+    "created_at": "2026-06-13T10:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065738831102710258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LwdnN1I73o",
+          "end": 31,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2065738831102710258/photo/1",
+          "media_key": "3_2065738822160355328",
+          "start": 8,
+          "url": "https://t.co/LwdnN1I73o"
+        },
+        {
+          "display_url": "pic.x.com/LwdnN1I73o",
+          "end": 31,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2065738831102710258/photo/1",
+          "media_key": "3_2065738822168756225",
+          "start": 8,
+          "url": "https://t.co/LwdnN1I73o"
+        },
+        {
+          "display_url": "pic.x.com/LwdnN1I73o",
+          "end": 31,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2065738831102710258/photo/1",
+          "media_key": "3_2065738822156181504",
+          "start": 8,
+          "url": "https://t.co/LwdnN1I73o"
+        },
+        {
+          "display_url": "pic.x.com/LwdnN1I73o",
+          "end": 31,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2065738831102710258/photo/1",
+          "media_key": "3_2065738822160461824",
+          "start": 8,
+          "url": "https://t.co/LwdnN1I73o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065738831102710258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的新墙纸🤔🥰 https://t.co/LwdnN1I73o"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065738831102710258].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065738831102710258",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065738831102710258"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065738822160355328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr6g5WaEAAucZN.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065738822168756225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr6g5YaQAE9Fq-.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065738822156181504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr6g5VaYAAa0eW.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065738822160461824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr6g5WbsAAcwpw.jpg",
+        "width": 946
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云|XYN|HRT2026 2.4|地球ONLINE创建日期20080627|无证含糖🏳️‍⚧️🍥雌二醇凝胶|担肉＆莎|抑郁|焦虑|网易云重度依赖|同类互FO|DREAM IS BE A GIRL|\n匿名提问https://t.co/3xGifEjlmO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 130,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 107,
+                "url": "https://t.co/3xGifEjlmO"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2029751527485931768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020337247204384768/VQvBUsH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 3048,
+          "like_count": 46621,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 3272
+        },
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

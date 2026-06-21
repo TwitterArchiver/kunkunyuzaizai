@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2067205509103730825",
+    "created_at": "2026-06-19T05:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067844270116294858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1199020790294822913",
+          "start": 0,
+          "username": "A459363930"
+        },
+        {
+          "end": 23,
+          "id": "1789633604802543616",
+          "start": 12,
+          "username": "j_dosukebe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067844270116294858",
+    "in_reply_to_user_id": "1199020790294822913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067326833088147524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A459363930 @j_dosukebe 男生膝盖没有女生好看啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 693,
+        "media_key": "3_2067326817208602624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCeyX5bkAAP5fi.jpg",
+        "width": 1243
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2067205509103730825",
+        "created_at": "2026-06-19T05:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067844270116294858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1199020790294822913",
+              "start": 0,
+              "username": "A459363930"
+            },
+            {
+              "end": 23,
+              "id": "1789633604802543616",
+              "start": 12,
+              "username": "j_dosukebe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067844270116294858",
+        "in_reply_to_user_id": "1199020790294822913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067326833088147524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A459363930 @j_dosukebe 男生膝盖没有女生好看啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067326817208602624"
+          ]
+        },
+        "author_id": "1199020790294822913",
+        "conversation_id": "2067205509103730825",
+        "created_at": "2026-06-17T19:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067326833088147524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1789633604802543616",
+              "start": 0,
+              "username": "j_dosukebe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LybBfKjeAg",
+              "end": 41,
+              "expanded_url": "https://x.com/A459363930/status/2067326833088147524/photo/1",
+              "media_key": "3_2067326817208602624",
+              "start": 18,
+              "url": "https://t.co/LybBfKjeAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067326833088147524",
+        "in_reply_to_user_id": "1789633604802543616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 298068,
+          "like_count": 1376,
+          "quote_count": 12,
+          "reply_count": 15,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067205509103730825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@j_dosukebe 俺ならこう https://t.co/LybBfKjeAg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n好累\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 35,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 12,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 65,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 42,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 3109,
+          "like_count": 47478,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 3329
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-25T17:43:36.000Z",
+        "description": "",
+        "id": "1199020790294822913",
+        "name": "スルトニク",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465610839927717891/NU0DfQOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 3,
+          "like_count": 65,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1853
+        },
+        "url": "",
+        "username": "A459363930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T12:28:04.000Z",
+        "description": "「メス式小型足裏核兵器」※ ふざけて16歳に設定したせいで一部ツイート見れません。助けて",
+        "id": "1789633604802543616",
+        "location": "子宮出身",
+        "name": "神宮寺 どすけ兵衛",
+        "pinned_tweet_id": "1997939204538741018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873910433406730240/oZeJLzuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 584,
+          "like_count": 8375,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 5395
+        },
+        "url": "",
+        "username": "j_dosukebe",
+        "verified": false
+      }
+    ]
+  }
+}

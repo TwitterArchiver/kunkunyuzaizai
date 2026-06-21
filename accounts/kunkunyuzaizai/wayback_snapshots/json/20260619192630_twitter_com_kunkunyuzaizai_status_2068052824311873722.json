@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2067822178041524254",
+    "created_at": "2026-06-19T19:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068052824311873722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885945669674024960",
+          "start": 0,
+          "username": "xiaomaogege661"
+        },
+        {
+          "end": 25,
+          "id": "4888078778",
+          "start": 16,
+          "username": "taburs17"
+        },
+        {
+          "end": 36,
+          "id": "1368897611672018953",
+          "start": 26,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068052824311873722",
+    "in_reply_to_user_id": "1885945669674024960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068023262395949268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomaogege661 @taburs17 @XUEQIUxka 我去才发现是一个单词"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2067822178041524254",
+        "created_at": "2026-06-19T19:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068052824311873722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885945669674024960",
+              "start": 0,
+              "username": "xiaomaogege661"
+            },
+            {
+              "end": 25,
+              "id": "4888078778",
+              "start": 16,
+              "username": "taburs17"
+            },
+            {
+              "end": 36,
+              "id": "1368897611672018953",
+              "start": 26,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068052824311873722",
+        "in_reply_to_user_id": "1885945669674024960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068023262395949268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomaogege661 @taburs17 @XUEQIUxka 我去才发现是一个单词"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885945669674024960",
+        "conversation_id": "2067822178041524254",
+        "created_at": "2026-06-19T17:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068023262395949268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4888078778",
+              "start": 0,
+              "username": "taburs17"
+            },
+            {
+              "end": 20,
+              "id": "1368897611672018953",
+              "start": 10,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068023262395949268",
+        "in_reply_to_user_id": "4888078778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067846112283963549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taburs17 @XUEQIUxka 这不是有没有文化，如果问你Cookie是什么意思，小学生都知道是饼干，如果是在计算机的语境里呢？很正常啊，毕竟大众所熟知的花生米就是下酒菜。行业内的称呼，肯定不是全人类都知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n好累\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 35,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 12,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 65,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 42,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 3109,
+          "like_count": 47527,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 3335
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T06:58:18.000Z",
+        "description": "",
+        "id": "1885945669674024960",
+        "name": "xiaomao661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061165354672701440/tP779CZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "xiaomaogege661",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-10T13:29:01.000Z",
+        "description": "这家伙很懒，什么都没有留下",
+        "id": "4888078778",
+        "name": "喜马拉雅大白菜",
+        "pinned_tweet_id": "1594352817187459072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/697412862390640641/nfhcCa76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 1729,
+          "like_count": 3714,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 627
+        },
+        "url": "",
+        "username": "taburs17",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9361,
+          "following_count": 2404,
+          "like_count": 32919,
+          "listed_count": 26,
+          "media_count": 2088,
+          "tweet_count": 6313
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

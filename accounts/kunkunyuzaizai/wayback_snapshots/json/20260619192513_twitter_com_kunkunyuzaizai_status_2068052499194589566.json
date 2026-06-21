@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2067882519551463924",
+    "created_at": "2026-06-19T19:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068052499194589566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913309341735956480",
+          "start": 0,
+          "username": "yingyang_FW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068052499194589566",
+    "in_reply_to_user_id": "1913309341735956480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067882519551463924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingyang_FW 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067882482855559168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKYKXvbwAA6rZ1.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2067882519551463924",
+        "created_at": "2026-06-19T19:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068052499194589566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913309341735956480",
+              "start": 0,
+              "username": "yingyang_FW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068052499194589566",
+        "in_reply_to_user_id": "1913309341735956480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067882519551463924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingyang_FW 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067882482855559168"
+          ]
+        },
+        "author_id": "1913309341735956480",
+        "conversation_id": "2067882519551463924",
+        "created_at": "2026-06-19T08:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067882519551463924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vyuKSHlQDF",
+              "end": 31,
+              "expanded_url": "https://x.com/yingyang_FW/status/2067882519551463924/photo/1",
+              "media_key": "3_2067882482855559168",
+              "start": 8,
+              "url": "https://t.co/vyuKSHlQDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067882519551463924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 413,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚的药物记录 https://t.co/vyuKSHlQDF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n好累\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 35,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 12,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 65,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 42,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 3109,
+          "like_count": 47522,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 3334
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T19:11:33.000Z",
+        "description": "",
+        "id": "1913309341735956480",
+        "name": "营养要均衡",
+        "pinned_tweet_id": "2061023405026296280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050804664019587073/4cvgjR9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 945,
+          "like_count": 16290,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 1490
+        },
+        "url": "",
+        "username": "yingyang_FW",
+        "verified": false
+      }
+    ]
+  }
+}
