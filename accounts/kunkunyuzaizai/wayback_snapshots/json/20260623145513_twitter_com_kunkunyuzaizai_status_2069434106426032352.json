@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2069139054420279505",
+    "created_at": "2026-06-23T14:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069434106426032352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1898849785559580672",
+          "start": 0,
+          "username": "Sakura_RinSaki"
+        },
+        {
+          "end": 28,
+          "id": "1108658732295028737",
+          "start": 16,
+          "username": "hatachi0525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069434106426032352",
+    "in_reply_to_user_id": "1898849785559580672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069193040305262636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura_RinSaki @hatachi0525 那我更瘦小😭 小腿不到三十 大腿47 48好像  手腕14"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2069139054420279505",
+        "created_at": "2026-06-23T14:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069434106426032352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            },
+            {
+              "end": 28,
+              "id": "1108658732295028737",
+              "start": 16,
+              "username": "hatachi0525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069434106426032352",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069193040305262636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki @hatachi0525 那我更瘦小😭 小腿不到三十 大腿47 48好像  手腕14"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2069139054420279505",
+        "created_at": "2026-06-22T22:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T23:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069193040305262636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1108658732295028737",
+              "start": 0,
+              "username": "hatachi0525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069193040305262636",
+        "in_reply_to_user_id": "1108658732295028737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069139054420279505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatachi0525 天賦黨！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 3145,
+          "like_count": 48506,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 3374
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2617,
+          "following_count": 128,
+          "like_count": 5449,
+          "listed_count": 9,
+          "media_count": 256,
+          "tweet_count": 4504
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-21T09:16:54.000Z",
+        "description": "170/48\n2016.12.19取證/含糖起始日不可考\n\n泛性戀？/顏值控/母胎單\n精神狀態良好（大概\n歡迎同類或藍勾互fo 如果我沒fo回去希望我fo的話請私",
+        "id": "1108658732295028737",
+        "location": "雌二醇星",
+        "name": "柔柔🍥",
+        "pinned_tweet_id": "2058946237144215858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059730096697782272/UItS3II-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 128,
+          "like_count": 524,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 919
+        },
+        "url": "",
+        "username": "hatachi0525",
+        "verified": true
+      }
+    ]
+  }
+}

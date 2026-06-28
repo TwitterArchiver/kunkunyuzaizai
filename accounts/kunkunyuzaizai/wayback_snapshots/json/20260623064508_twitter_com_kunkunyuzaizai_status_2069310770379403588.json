@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2069013195436798380",
+    "created_at": "2026-06-23T06:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069310770379403588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056655773502160896",
+          "start": 0,
+          "username": "simaojie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069310770379403588",
+    "in_reply_to_user_id": "2056655773502160896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069013195436798380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@simaojie 那我骗他钱呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2069013195436798380",
+        "created_at": "2026-06-23T06:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069310770379403588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056655773502160896",
+              "start": 0,
+              "username": "simaojie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069310770379403588",
+        "in_reply_to_user_id": "2056655773502160896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069013195436798380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@simaojie 那我骗他钱呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056655773502160896",
+        "conversation_id": "2069013195436798380",
+        "created_at": "2026-06-22T11:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069013195436798380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069013195436798380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4374,
+          "like_count": 84,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "防骚扰秘诀当然是提钱啊，如果你不想让男的骚扰你，就提钱，绝对再也不会来给你发消息了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 3141,
+          "like_count": 48461,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 3372
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:39:50.000Z",
+        "description": "你们可以叫我kaki/小卉\n欢迎互fo互转！！",
+        "id": "2056655773502160896",
+        "location": "不收门槛不接线下男的别关注别骚扰别评论",
+        "name": "Kaki",
+        "pinned_tweet_id": "2059672691880431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056656578166898688/pLNOT_SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 151,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "simaojie",
+        "verified": false
+      }
+    ]
+  }
+}

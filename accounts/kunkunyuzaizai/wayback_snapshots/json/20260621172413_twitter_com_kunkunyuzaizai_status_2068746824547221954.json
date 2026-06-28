@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2068742062393200907",
+    "created_at": "2026-06-21T17:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068746824547221954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2067966851171426304",
+          "start": 0,
+          "username": "k4h8r8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068746824547221954",
+    "in_reply_to_user_id": "2067966851171426304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068744572185006427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k4h8r8 我还没成年27号才成年呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2068742062393200907",
+        "created_at": "2026-06-21T17:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068746824547221954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2067966851171426304",
+              "start": 0,
+              "username": "k4h8r8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068746824547221954",
+        "in_reply_to_user_id": "2067966851171426304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068744572185006427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4h8r8 我还没成年27号才成年呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067966851171426304",
+        "conversation_id": "2068742062393200907",
+        "created_at": "2026-06-21T17:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068744572185006427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068744572185006427",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068744339556282481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 我才18咱俩不一定谁大呢 em 我平常喊别人喊少爷习惯了 你这个小少爷记得天天开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 3118,
+          "like_count": 47928,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 3347
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T13:45:56.000Z",
+        "description": "4i 山东 最最亲爱的姐姐@otter0416",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "otter0416"
+              }
+            ]
+          }
+        },
+        "id": "2067966851171426304",
+        "name": "三千弱水",
+        "pinned_tweet_id": "2068213717825929669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068005903404789764/LVbyaTBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 24,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "k4h8r8",
+        "verified": false
+      }
+    ]
+  }
+}

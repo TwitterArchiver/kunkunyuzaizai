@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2069075902294794242",
+    "created_at": "2026-06-22T18:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T19:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069125498068947278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910008101371273225",
+          "start": 0,
+          "username": "paopao152025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069125498068947278",
+    "in_reply_to_user_id": "1910008101371273225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069075902294794242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paopao152025 我14岁初中没毕业就休学了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2069075902294794242",
+        "created_at": "2026-06-22T18:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069125498068947278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910008101371273225",
+              "start": 0,
+              "username": "paopao152025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069125498068947278",
+        "in_reply_to_user_id": "1910008101371273225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069075902294794242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paopao152025 我14岁初中没毕业就休学了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910008101371273225",
+        "conversation_id": "2069075902294794242",
+        "created_at": "2026-06-22T15:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069075902294794242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069075902294794242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 997,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于正在上学中且有抑郁症的推友们 如果你们是因为家庭原因 不要休学 因为你休学了只会在家里呆的时间更长并且和同学朋友慢慢失去联系 我一直断断续续的请假已经完全回不到之前一口气上完一周全勤的状态了 本来高中就累 你休学之后复学的难度堪比吃屎 不要觉得自己意志力坚定 远远比你想象中的难！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 3138,
+          "like_count": 48285,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 3369
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T16:33:28.000Z",
+        "description": "第一世@keeganlike 第二世@paonew26\n小号@haoxiangsiaaaa 大号随时都会被封 会自言自语抛出一些疑问和思考 我说的都是胡话瞎发的很多都是上句不接下句纯自己唠叨瞎逼逼🙏 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "keeganlike"
+              },
+              {
+                "end": 27,
+                "start": 18,
+                "username": "paonew26"
+              },
+              {
+                "end": 45,
+                "start": 30,
+                "username": "haoxiangsiaaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%A1%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B3%A1%E6%B3%A133527",
+                "start": 0,
+                "url": "https://t.co/J2oUGc5Ac0"
+              }
+            ]
+          }
+        },
+        "id": "1910008101371273225",
+        "location": "互关可加v",
+        "name": "泡泡",
+        "pinned_tweet_id": "2069031236916613474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025885586859667456/5jfteWE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6001,
+          "following_count": 165,
+          "like_count": 6022,
+          "listed_count": 4,
+          "media_count": 323,
+          "tweet_count": 2956
+        },
+        "url": "https://t.co/J2oUGc5Ac0",
+        "username": "paopao152025",
+        "verified": false
+      }
+    ]
+  }
+}

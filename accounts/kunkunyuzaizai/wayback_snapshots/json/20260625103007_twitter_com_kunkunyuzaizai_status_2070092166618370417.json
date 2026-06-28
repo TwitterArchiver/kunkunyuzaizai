@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1934849652408635855",
+    "created_at": "2026-06-25T10:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070092166618370417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753879113599959040",
+          "start": 0,
+          "username": "kangzy83744"
+        },
+        {
+          "end": 25,
+          "id": "2371241752",
+          "start": 13,
+          "username": "netizen1985"
+        },
+        {
+          "end": 37,
+          "id": "1863024822147809280",
+          "start": 26,
+          "username": "Moli_Lanxi"
+        },
+        {
+          "end": 52,
+          "id": "1878225515561332736",
+          "start": 38,
+          "username": "EScanlon95354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070092166618370417",
+    "in_reply_to_user_id": "1753879113599959040",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935392088612553074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kangzy83744 @netizen1985 @Moli_Lanxi @EScanlon95354 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1934849652408635855",
+        "created_at": "2026-06-25T10:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070092166618370417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753879113599959040",
+              "start": 0,
+              "username": "kangzy83744"
+            },
+            {
+              "end": 25,
+              "id": "2371241752",
+              "start": 13,
+              "username": "netizen1985"
+            },
+            {
+              "end": 37,
+              "id": "1863024822147809280",
+              "start": 26,
+              "username": "Moli_Lanxi"
+            },
+            {
+              "end": 52,
+              "id": "1878225515561332736",
+              "start": 38,
+              "username": "EScanlon95354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070092166618370417",
+        "in_reply_to_user_id": "1753879113599959040",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935392088612553074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kangzy83744 @netizen1985 @Moli_Lanxi @EScanlon95354 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753879113599959040",
+        "conversation_id": "1934849652408635855",
+        "created_at": "2025-06-18T17:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T18:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935392088612553074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2371241752",
+              "start": 0,
+              "username": "netizen1985"
+            },
+            {
+              "end": 24,
+              "id": "1863024822147809280",
+              "start": 13,
+              "username": "Moli_Lanxi"
+            },
+            {
+              "end": 39,
+              "id": "1878225515561332736",
+              "start": 25,
+              "username": "EScanlon95354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935392088612553074",
+        "in_reply_to_user_id": "2371241752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935094724798406824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@netizen1985 @Moli_Lanxi @EScanlon95354 你太小看生理欲望，一旦体验过性欲快感 可不一定舍得阉割了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 3167,
+          "like_count": 48683,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 3400
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T20:33:30.000Z",
+        "description": "✋️這裡卜適媽媽",
+        "id": "1753879113599959040",
+        "name": "鱼我所欲也",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920196193113812994/7OS_kcps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 296,
+          "like_count": 7007,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1667
+        },
+        "url": "",
+        "username": "kangzy83744",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-28T15:06:08.000Z",
+        "description": "",
+        "id": "2371241752",
+        "name": "ladyboy lover",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 144,
+          "like_count": 20,
+          "listed_count": 18,
+          "media_count": 1779,
+          "tweet_count": 12860
+        },
+        "url": "",
+        "username": "netizen1985",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T00:58:38.000Z",
+        "description": "trans girl| hrt24.08.09 | srs25.07.23 |高浓度二刺猿 | coser | 哈夫克优秀雇员| 手术日记↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoliLanxi",
+                "end": 23,
+                "expanded_url": "https://t.me/MoliLanxi",
+                "start": 0,
+                "url": "https://t.co/ZhqiuPRjx1"
+              }
+            ]
+          }
+        },
+        "id": "1863024822147809280",
+        "name": "兰汐",
+        "pinned_tweet_id": "1955677366312988782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979838644690030592/zHMrYOdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4501,
+          "following_count": 167,
+          "like_count": 1427,
+          "listed_count": 13,
+          "media_count": 221,
+          "tweet_count": 3077
+        },
+        "url": "https://t.co/ZhqiuPRjx1",
+        "username": "Moli_Lanxi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T23:40:50.000Z",
+        "description": "友跨不翻车！不雌堕！不吃糖！",
+        "id": "1878225515561332736",
+        "name": "大 E（友跨顺直男）",
+        "pinned_tweet_id": "1913519699222003943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972161890035085312/hmpyjcQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3455,
+          "following_count": 2454,
+          "like_count": 7436,
+          "listed_count": 5,
+          "media_count": 49,
+          "tweet_count": 2549
+        },
+        "url": "",
+        "username": "EScanlon95354",
+        "verified": false
+      }
+    ]
+  }
+}

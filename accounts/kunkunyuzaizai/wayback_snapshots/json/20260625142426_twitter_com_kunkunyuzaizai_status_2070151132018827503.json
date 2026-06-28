@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2070096518775017751",
+    "created_at": "2026-06-25T14:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T15:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070151132018827503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1825118222858985472",
+          "start": 0,
+          "username": "Yuliko717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070151132018827503",
+    "in_reply_to_user_id": "1825118222858985472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070096518775017751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuliko717 这是什么味道的呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2070096501561597952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLp1zOJboAAB6G5.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2070096518775017751",
+        "created_at": "2026-06-25T14:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070151132018827503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1825118222858985472",
+              "start": 0,
+              "username": "Yuliko717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070151132018827503",
+        "in_reply_to_user_id": "1825118222858985472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070096518775017751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuliko717 这是什么味道的呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070096501561597952"
+          ]
+        },
+        "author_id": "1825118222858985472",
+        "conversation_id": "2070096518775017751",
+        "created_at": "2026-06-25T10:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070096518775017751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jv6sfFKm9h",
+              "end": 26,
+              "expanded_url": "https://x.com/Yuliko717/status/2070096518775017751/photo/1",
+              "media_key": "3_2070096501561597952",
+              "start": 3,
+              "url": "https://t.co/Jv6sfFKm9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070096518775017751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好抽 https://t.co/Jv6sfFKm9h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 3170,
+          "like_count": 48762,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 3402
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T10:31:15.000Z",
+        "description": "インターネット・エンジェルただいま降臨\n 坐标：上海 od妹 目前只接受微信支付",
+        "id": "1825118222858985472",
+        "location": "药店",
+        "name": "Yuliko（夜神日版）",
+        "pinned_tweet_id": "2059783532541800789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069609746546479104/Dz_vMxZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4201,
+          "following_count": 204,
+          "like_count": 642,
+          "listed_count": 13,
+          "media_count": 388,
+          "tweet_count": 2334
+        },
+        "url": "",
+        "username": "Yuliko717",
+        "verified": false
+      }
+    ]
+  }
+}

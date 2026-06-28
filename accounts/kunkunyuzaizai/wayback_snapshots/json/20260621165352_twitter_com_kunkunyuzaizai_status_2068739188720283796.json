@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "1846454454834598044",
+    "created_at": "2026-06-21T16:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068739188720283796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735328474934706176",
+          "start": 0,
+          "username": "makinoseiran"
+        },
+        {
+          "end": 29,
+          "id": "1770600121778233344",
+          "start": 14,
+          "username": "hasbeentaken99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068739188720283796",
+    "in_reply_to_user_id": "1735328474934706176",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846498551750406300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makinoseiran @hasbeentaken99 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "1846454454834598044",
+        "created_at": "2026-06-21T16:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068739188720283796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735328474934706176",
+              "start": 0,
+              "username": "makinoseiran"
+            },
+            {
+              "end": 29,
+              "id": "1770600121778233344",
+              "start": 14,
+              "username": "hasbeentaken99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068739188720283796",
+        "in_reply_to_user_id": "1735328474934706176",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846498551750406300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makinoseiran @hasbeentaken99 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735328474934706176",
+        "conversation_id": "1846454454834598044",
+        "created_at": "2024-10-16T10:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-16T11:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846498551750406300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1770600121778233344",
+              "start": 0,
+              "username": "hasbeentaken99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846498551750406300",
+        "in_reply_to_user_id": "1770600121778233344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5354,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846454454834598044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasbeentaken99 4i哥最不能容忍的还是他们会想让MtF操自己（呕）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n好累\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 35,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 12,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 65,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 42,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 3115,
+          "like_count": 47856,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 3343
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-14T15:58:55.000Z",
+        "description": "aka橘猫/橘猫硬件实验室主创/常驻珠三角",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MakinoSeiran",
+                "end": 23,
+                "expanded_url": "http://t.me/MakinoSeiran",
+                "start": 0,
+                "url": "https://t.co/KjfemPlYP9"
+              }
+            ]
+          }
+        },
+        "id": "1735328474934706176",
+        "name": "牧野セイラン (青嵐)",
+        "pinned_tweet_id": "2064583831915802864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995445363399077888/ZpTK7xEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 708,
+          "like_count": 25606,
+          "listed_count": 1,
+          "media_count": 553,
+          "tweet_count": 5244
+        },
+        "url": "https://t.co/KjfemPlYP9",
+        "username": "makinoseiran",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-20T23:55:51.000Z",
+        "description": "来这发点墙内不能发的｜认出勿扰｜没门槛因为没门",
+        "id": "1770600121778233344",
+        "name": "幻想试验箱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000984715847983104/R6P7h7-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32403,
+          "following_count": 99,
+          "like_count": 6195,
+          "listed_count": 47,
+          "media_count": 50,
+          "tweet_count": 6748
+        },
+        "url": "",
+        "username": "hasbeentaken99",
+        "verified": false
+      }
+    ]
+  }
+}

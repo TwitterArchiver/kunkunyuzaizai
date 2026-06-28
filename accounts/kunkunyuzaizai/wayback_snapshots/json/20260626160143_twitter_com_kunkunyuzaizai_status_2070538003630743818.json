@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2066899357404913830",
+    "created_at": "2026-06-26T16:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070538003630743818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2057852096918208512",
+          "start": 0,
+          "username": "hujo4g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070538003630743818",
+    "in_reply_to_user_id": "2057852096918208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070455241863254514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hujo4g 唉 我已经放下了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2066899357404913830",
+        "created_at": "2026-06-26T16:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070538003630743818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2057852096918208512",
+              "start": 0,
+              "username": "hujo4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070538003630743818",
+        "in_reply_to_user_id": "2057852096918208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070455241863254514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hujo4g 唉 我已经放下了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057852096918208512",
+        "conversation_id": "2066899357404913830",
+        "created_at": "2026-06-26T10:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070455241863254514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070455241863254514",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066899357404913830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 一个人挺好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 3174,
+          "like_count": 48818,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 3395
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T15:52:57.000Z",
+        "description": "od",
+        "id": "2057852096918208512",
+        "name": "hu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057852470769111040/5Ye7MKcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "hujo4g",
+        "verified": false
+      }
+    ]
+  }
+}

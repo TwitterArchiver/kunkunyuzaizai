@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2053348990478152065",
+    "created_at": "2026-06-22T03:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T04:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068896646164078758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "822130328273723392",
+          "start": 0,
+          "username": "diaoxianhhh"
+        },
+        {
+          "end": 23,
+          "id": "1245607425580793856",
+          "start": 13,
+          "username": "LengDan__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068896646164078758",
+    "in_reply_to_user_id": "822130328273723392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054848666377011488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diaoxianhhh @LengDan__ 这是SM的S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2053348990478152065",
+        "created_at": "2026-06-22T03:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068896646164078758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "822130328273723392",
+              "start": 0,
+              "username": "diaoxianhhh"
+            },
+            {
+              "end": 23,
+              "id": "1245607425580793856",
+              "start": 13,
+              "username": "LengDan__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068896646164078758",
+        "in_reply_to_user_id": "822130328273723392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054848666377011488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diaoxianhhh @LengDan__ 这是SM的S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "822130328273723392",
+        "conversation_id": "2053348990478152065",
+        "created_at": "2026-05-14T08:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054848666377011488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1245607425580793856",
+              "start": 0,
+              "username": "LengDan__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054848666377011488",
+        "in_reply_to_user_id": "1245607425580793856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1606,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053348990478152065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengDan__ 我是女孩子，但是我并不想操男人，我却希望能够主导一段关系，我想当主人，让他当狗，这个算是4i吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 3120,
+          "like_count": 47971,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 3350
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-19T17:15:19.000Z",
+        "description": "我爱你",
+        "id": "822130328273723392",
+        "location": "home",
+        "name": "vvvven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055648754649157632/jyMc7Ks5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 52,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "diaoxianhhh",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-02T07:02:15.000Z",
+        "description": "欢迎光临\n提问箱:https://t.co/CVIYQKumJT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengdan_",
+                "end": 32,
+                "expanded_url": "https://ngl.link/lengdan_",
+                "start": 9,
+                "url": "https://t.co/CVIYQKumJT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.unifans.io/c/lengdan",
+                "end": 23,
+                "expanded_url": "https://app.unifans.io/c/lengdan",
+                "start": 0,
+                "url": "https://t.co/PciTkec1Rd"
+              }
+            ]
+          }
+        },
+        "id": "1245607425580793856",
+        "location": "完整视频图片内容→",
+        "name": "冷淡",
+        "pinned_tweet_id": "1816098980708901004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793954705900711936/u35tcKcf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54870,
+          "following_count": 342,
+          "like_count": 97,
+          "listed_count": 110,
+          "media_count": 282,
+          "tweet_count": 3645
+        },
+        "url": "https://t.co/PciTkec1Rd",
+        "username": "LengDan__",
+        "verified": false
+      }
+    ]
+  }
+}

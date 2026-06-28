@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2069677532836995573",
+    "created_at": "2026-06-24T07:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T08:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069677532836995573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "2.手机",
+          "end": 38,
+          "expanded_url": "http://2.xn--kput3i",
+          "start": 15,
+          "unwound_url": "http://2.xn--kput3i",
+          "url": "https://t.co/U004lS4WK2"
+        },
+        {
+          "display_url": "5.微博",
+          "end": 79,
+          "expanded_url": "http://5.xn--9krt00a",
+          "start": 56,
+          "unwound_url": "http://5.xn--9krt00a",
+          "url": "https://t.co/fSNMxlBfpp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069677532836995573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "测试你是攻还是受？\n1.姓名：https://t.co/U004lS4WK2号:3.身份证号：4.QQ账号和密码https://t.co/fSNMxlBfpp登录账号和密码6.银行卡号:7.银行卡密码：8.微信账号和密码"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2069677532836995573",
+        "created_at": "2026-06-24T07:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069677532836995573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "2.手机",
+              "end": 38,
+              "expanded_url": "http://2.xn--kput3i",
+              "start": 15,
+              "unwound_url": "http://2.xn--kput3i",
+              "url": "https://t.co/U004lS4WK2"
+            },
+            {
+              "display_url": "5.微博",
+              "end": 79,
+              "expanded_url": "http://5.xn--9krt00a",
+              "start": 56,
+              "unwound_url": "http://5.xn--9krt00a",
+              "url": "https://t.co/fSNMxlBfpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069677532836995573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "测试你是攻还是受？\n1.姓名：https://t.co/U004lS4WK2号:3.身份证号：4.QQ账号和密码https://t.co/fSNMxlBfpp登录账号和密码6.银行卡号:7.银行卡密码：8.微信账号和密码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 3146,
+          "like_count": 48507,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 3386
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

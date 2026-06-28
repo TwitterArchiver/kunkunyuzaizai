@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2069552404639756360",
+    "created_at": "2026-06-24T04:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T05:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069634860004917692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1798434424176226304",
+          "start": 0,
+          "username": "li8964you"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069634860004917692",
+    "in_reply_to_user_id": "1798434424176226304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069555844505874641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li8964you ？(⊙o⊙)啥？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2069555844505874641].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2069555844505874641",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2069555844505874641"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2069552404639756360",
+        "created_at": "2026-06-24T04:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069634860004917692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1798434424176226304",
+              "start": 0,
+              "username": "li8964you"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069634860004917692",
+        "in_reply_to_user_id": "1798434424176226304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069555844505874641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li8964you ？(⊙o⊙)啥？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 3145,
+          "like_count": 48518,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 3380
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T19:19:23.000Z",
+        "description": "碎碎念账号\n经常发布RAMCOA的回忆内容，涉及儿童性贩卖，酷刑，暴力等",
+        "id": "1798434424176226304",
+        "location": "睡眠",
+        "name": "離斿",
+        "pinned_tweet_id": "2013000596664521015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920636124722065408/3kx6w4Ac_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 474,
+          "like_count": 47910,
+          "listed_count": 2,
+          "media_count": 773,
+          "tweet_count": 9026
+        },
+        "url": "",
+        "username": "li8964you",
+        "verified": false
+      }
+    ]
+  }
+}

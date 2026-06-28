@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069073997363609600"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069074017462673511",
+    "created_at": "2026-06-22T15:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069074017462673511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oCx2asbeuv",
+          "end": 33,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2069074017462673511/photo/1",
+          "media_key": "3_2069073997363609600",
+          "start": 10,
+          "url": "https://t.co/oCx2asbeuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069074017462673511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真好吃呀就是有点辣 https://t.co/oCx2asbeuv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2069073997363609600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbT1pLbAAAh_8j.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069073997363609600"
+          ]
+        },
+        "author_id": "1779063322500874240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069074017462673511",
+        "created_at": "2026-06-22T15:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069074017462673511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCx2asbeuv",
+              "end": 33,
+              "expanded_url": "https://x.com/kunkunyuzaizai/status/2069074017462673511/photo/1",
+              "media_key": "3_2069073997363609600",
+              "start": 10,
+              "url": "https://t.co/oCx2asbeuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069074017462673511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真好吃呀就是有点辣 https://t.co/oCx2asbeuv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 3124,
+          "like_count": 48203,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 3366
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

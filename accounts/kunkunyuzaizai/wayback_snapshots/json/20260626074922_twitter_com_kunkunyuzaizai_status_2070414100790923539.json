@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2060220731485741203",
+    "created_at": "2026-06-26T07:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070414100790923539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2057852096918208512",
+          "start": 0,
+          "username": "hujo4g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070414100790923539",
+    "in_reply_to_user_id": "2057852096918208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060220731485741203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hujo4g 那我还是不点赞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2060220731485741203",
+        "created_at": "2026-06-26T07:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070414100790923539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2057852096918208512",
+              "start": 0,
+              "username": "hujo4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070414100790923539",
+        "in_reply_to_user_id": "2057852096918208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060220731485741203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hujo4g 那我还是不点赞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057852096918208512",
+        "conversation_id": "2060220731485741203",
+        "created_at": "2026-05-29T04:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060220731485741203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060220731485741203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不点赞的唧唧小5厘米"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 3176,
+          "like_count": 48824,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 3394
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T15:52:57.000Z",
+        "description": "od",
+        "id": "2057852096918208512",
+        "name": "hu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057852470769111040/5Ye7MKcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 27,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "hujo4g",
+        "verified": false
+      }
+    ]
+  }
+}
