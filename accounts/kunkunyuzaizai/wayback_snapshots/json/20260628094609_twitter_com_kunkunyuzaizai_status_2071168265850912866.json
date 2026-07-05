@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2071120732030108084",
+    "created_at": "2026-06-28T09:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071168265850912866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055095022425722880",
+          "start": 0,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071168265850912866",
+    "in_reply_to_user_id": "2055095022425722880",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071120732030108084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkMtX 😦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2071120732030108084",
+        "created_at": "2026-06-28T09:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071168265850912866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071168265850912866",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071120732030108084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkMtX 😦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055095022425722880",
+        "conversation_id": "2071120732030108084",
+        "created_at": "2026-06-28T06:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071120732030108084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine2024…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/RainEngine2024/status/2071117757316464800",
+              "start": 43,
+              "url": "https://t.co/CuUWiOBaFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071120732030108084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 832,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071117757316464800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我第一次女装和第一次吃糖只隔了4个月，去年11月才知道什么是跨，1月28才开始吃糖的 https://t.co/CuUWiOBaFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 3192,
+          "like_count": 49068,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 3267
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中，不发帖就是没手机了😭|\n前世@UnkXyn|\nMTX🏳️‍⚧️|HRT🍥01.28.2026，被迫断糖06.06.2026|无证|家暴党😭|\n🎂11.13.2011🍰|暂时无法Od💊✝️普瑞巴林重度依赖✝️ |159cm52kg|INFP-T|重度社恐|\n对象💖@Lvmaosamaovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 150,
+                "start": 137,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/AjAoii7tnc"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "location": "🤯",
+        "name": "✟𝗨𝗻𝗸✟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 1122,
+          "like_count": 2972,
+          "listed_count": 15,
+          "media_count": 108,
+          "tweet_count": 773
+        },
+        "url": "https://t.co/AjAoii7tnc",
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

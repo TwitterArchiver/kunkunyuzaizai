@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2071171658094616753",
+    "created_at": "2026-06-29T10:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071539569854718001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050537864908128256",
+          "start": 0,
+          "username": "guoqu10086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071539569854718001",
+    "in_reply_to_user_id": "2050537864908128256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071171658094616753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guoqu10086 没有一点男相😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2071171508953923584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5Hg4wbwAA-aYD.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2071171658094616753",
+        "created_at": "2026-06-29T10:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071539569854718001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050537864908128256",
+              "start": 0,
+              "username": "guoqu10086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071539569854718001",
+        "in_reply_to_user_id": "2050537864908128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071171658094616753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guoqu10086 没有一点男相😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071171508953923584"
+          ]
+        },
+        "author_id": "2050537864908128256",
+        "conversation_id": "2071171658094616753",
+        "created_at": "2026-06-28T09:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071171658094616753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cAIUZAkXcU",
+              "end": 160,
+              "expanded_url": "https://x.com/guoqu10086/status/2071171658094616753/photo/1",
+              "media_key": "3_2071171508953923584",
+              "start": 137,
+              "url": "https://t.co/cAIUZAkXcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071171658094616753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 29410,
+          "like_count": 387,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "26.6.28  讲讲我的故事\n我吃糖和我第一次女装隔了2年还是三年来着，这张图片还是我第一次伪街的时候拍的，我是今年才知道的跨然后吃的糖，之前十二十三岁的时候就想要成为女生，就学习化妆，后来被发现了全扔了，还怀疑我是同性恋骂我一顿，再后来处对象了，他们也就打消这个怀疑了 https://t.co/cAIUZAkXcU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 3199,
+          "like_count": 49300,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 3269
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T11:28:32.000Z",
+        "description": "年龄党丨mtf丨反对党（母亲反对父亲超级反对)丨出厂日期:10.3.4丨🍥hrt:26.5.18丨无证含糖丨上班族丨不o丨不刀丨同类互fo丨各类fps又菜又爱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiutao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiutao",
+                "start": 0,
+                "url": "https://t.co/r2yUTmzIja"
+              }
+            ]
+          }
+        },
+        "id": "2050537864908128256",
+        "location": "翁法罗斯",
+        "name": "玖桃🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066341755046486016/Z5gd4bcy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 191,
+          "like_count": 145,
+          "listed_count": 5,
+          "media_count": 27,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/r2yUTmzIja",
+        "username": "guoqu10086",
+        "verified": true
+      }
+    ]
+  }
+}

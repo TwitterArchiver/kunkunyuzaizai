@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2071552018133762241",
+    "created_at": "2026-06-29T11:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071552018133762241"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071552018133762241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天天向上草莓味还不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2071552018133762241",
+        "created_at": "2026-06-29T11:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071552018133762241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071552018133762241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天天向上草莓味还不错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 3199,
+          "like_count": 49304,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 3270
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

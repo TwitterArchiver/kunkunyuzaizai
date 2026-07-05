@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2070760965600334131",
+    "created_at": "2026-06-28T06:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071120164142346417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1833326507235606528",
+          "start": 0,
+          "username": "1yvv_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071120164142346417",
+    "in_reply_to_user_id": "1833326507235606528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070760965600334131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1yvv_ 羡慕队"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2070760965600334131",
+        "created_at": "2026-06-28T06:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071120164142346417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1833326507235606528",
+              "start": 0,
+              "username": "1yvv_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071120164142346417",
+        "in_reply_to_user_id": "1833326507235606528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070760965600334131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1yvv_ 羡慕队"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833326507235606528",
+        "conversation_id": "2070760965600334131",
+        "created_at": "2026-06-27T06:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070760965600334131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070760965600334131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日宜行善，免费帮4i小男孩看腿相、喉相、乳相，臀相，腿白腿嫩的可插队"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 3190,
+          "like_count": 49052,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 3412
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T02:08:36.000Z",
+        "description": "一些莫名其妙碎碎念！嗯对！",
+        "id": "1833326507235606528",
+        "name": "重生成小恶魔励志摧毁世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975639971982970880/p7gMyli1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 69,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "1yvv_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2071596735240298972",
+    "created_at": "2026-06-29T19:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T20:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071670757466497298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063564638328147968",
+          "start": 0,
+          "username": "frontier_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071670757466497298",
+    "in_reply_to_user_id": "2063564638328147968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071664380685820112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frontier_tut 我只有网上有很多朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2071596735240298972",
+        "created_at": "2026-06-29T19:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T20:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071670757466497298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063564638328147968",
+              "start": 0,
+              "username": "frontier_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071670757466497298",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071664380685820112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frontier_tut 我只有网上有很多朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2071596735240298972",
+        "created_at": "2026-06-29T18:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T19:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071664380685820112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071664380685820112",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071655811794026942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 摸摸哦🫳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 3204,
+          "like_count": 49441,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 3276
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 162,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      }
+    ]
+  }
+}

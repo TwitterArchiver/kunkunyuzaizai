@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2055945964071145473",
+    "created_at": "2026-06-28T05:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071096897687990462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1257389785330651136",
+          "start": 0,
+          "username": "cdxx999999"
+        },
+        {
+          "end": 23,
+          "id": "1948532870261387264",
+          "start": 12,
+          "username": "isls482454"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071096897687990462",
+    "in_reply_to_user_id": "1257389785330651136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056155138814013736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cdxx999999 @isls482454 那你这个腿😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2055945964071145473",
+        "created_at": "2026-06-28T05:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071096897687990462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1257389785330651136",
+              "start": 0,
+              "username": "cdxx999999"
+            },
+            {
+              "end": 23,
+              "id": "1948532870261387264",
+              "start": 12,
+              "username": "isls482454"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071096897687990462",
+        "in_reply_to_user_id": "1257389785330651136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056155138814013736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cdxx999999 @isls482454 那你这个腿😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257389785330651136",
+        "conversation_id": "2055945964071145473",
+        "created_at": "2026-05-17T23:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056155138814013736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948532870261387264",
+              "start": 0,
+              "username": "isls482454"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056155138814013736",
+        "in_reply_to_user_id": "1948532870261387264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5614,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056031681010876694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isls482454 我没用过任何激素哦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 3178,
+          "like_count": 48951,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 3408
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-04T19:21:58.000Z",
+        "description": "四爱男娘｜纯天然不含糖｜有老婆主💕｜不约不线下｜出原味👙可定制｜完整视频进群看｜🚪99/329/399/599/1899 过🚪请私信 ｜分身@cdxx696969",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "cdxx696969"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "user.fast-ip.com/register?invit…",
+                "end": 23,
+                "expanded_url": "https://user.fast-ip.com/register?invite_code=8EY2RVUB",
+                "start": 0,
+                "url": "https://t.co/HX3mJW7Eyl"
+              }
+            ]
+          }
+        },
+        "id": "1257389785330651136",
+        "location": "自用🪜👇",
+        "name": "熙熙",
+        "pinned_tweet_id": "2070749471856800045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063305341132238848/T_G8toRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238305,
+          "following_count": 794,
+          "like_count": 2476,
+          "listed_count": 1063,
+          "media_count": 101,
+          "tweet_count": 1317
+        },
+        "url": "https://t.co/HX3mJW7Eyl",
+        "username": "cdxx999999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T23:57:26.000Z",
+        "description": "",
+        "id": "1948532870261387264",
+        "name": "is ls",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948533013480128512/URp4H8nK_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "isls482454",
+        "verified": false
+      }
+    ]
+  }
+}

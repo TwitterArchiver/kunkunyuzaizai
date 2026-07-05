@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2063639953024942315",
+    "created_at": "2026-06-28T05:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071108294719254629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1915363168614047747",
+          "start": 0,
+          "username": "linlinbaoboji"
+        },
+        {
+          "end": 27,
+          "id": "1696772057739177985",
+          "start": 15,
+          "username": "sissymanman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071108294719254629",
+    "in_reply_to_user_id": "1915363168614047747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063639953024942315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlinbaoboji @sissymanman 长不胖怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2063639953024942315",
+        "created_at": "2026-06-28T05:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071108294719254629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1915363168614047747",
+              "start": 0,
+              "username": "linlinbaoboji"
+            },
+            {
+              "end": 27,
+              "id": "1696772057739177985",
+              "start": 15,
+              "username": "sissymanman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071108294719254629",
+        "in_reply_to_user_id": "1915363168614047747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063639953024942315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlinbaoboji @sissymanman 长不胖怎么办"
+      },
+      {
+        "article": {
+          "title": "三个月沙漏塑形计划｜第一个月（基础定型期）完整执行细则＋达标效果"
+        },
+        "attachments": {},
+        "author_id": "1915363168614047747",
+        "conversation_id": "2063639953024942315",
+        "created_at": "2026-06-07T15:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063639953024942315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2061…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2061119060537200641",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2061119060537200641",
+              "url": "https://t.co/idKUX11ON4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063639953024942315",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 806,
+          "impression_count": 199425,
+          "like_count": 796,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/idKUX11ON4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n性取向女攻\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 15,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 68,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 45,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 3180,
+          "like_count": 48985,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 3410
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T11:12:45.000Z",
+        "description": "专注女性化身材雕刻✨ 细腰・蜜桃臀・S曲线进行时 |真实变身训练＋身材打磨日常 \n梦想做擦边主播🙃",
+        "id": "1915363168614047747",
+        "name": "琳宝啵唧🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046271111172968448/YLraqAX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 306,
+          "like_count": 206,
+          "listed_count": 9,
+          "media_count": 56,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "linlinbaoboji",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-30T06:29:27.000Z",
+        "description": "喜欢4i的小伪娘呀\ncd\n最爱前锁后塞了，许愿能不能天降主人🥺\n可0可1",
+        "id": "1696772057739177985",
+        "name": "乐咪呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062767447271415808/9W4_jtA3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 701,
+          "like_count": 2786,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "sissymanman",
+        "verified": false
+      }
+    ]
+  }
+}
