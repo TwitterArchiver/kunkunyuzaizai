@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2074357671747260878",
+    "created_at": "2026-07-07T05:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074371713643803065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708446662514110464",
+          "start": 0,
+          "username": "TixItem4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074371713643803065",
+    "in_reply_to_user_id": "1708446662514110464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074357671747260878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TixItem4527 这不是正规的，我问了好几个AI都是会诈骗的有概率"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074357379635056640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmZC95bkAALtal.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074357383812599808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmZDNdb0AAPdN8.jpg",
+        "width": 922
+      },
+      {
+        "height": 430,
+        "media_key": "3_2074357668475711488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmZTx6aMAAxT4d.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2074357671747260878",
+        "created_at": "2026-07-07T05:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074371713643803065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074371713643803065",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074357671747260878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 这不是正规的，我问了好几个AI都是会诈骗的有概率"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074357379635056640",
+            "3_2074357383812599808",
+            "3_2074357668475711488"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2074357671747260878",
+        "created_at": "2026-07-07T04:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074357671747260878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0EU8e9ebjH",
+              "end": 113,
+              "expanded_url": "https://x.com/TixItem4527/status/2074357671747260878/photo/1",
+              "media_key": "3_2074357379635056640",
+              "start": 90,
+              "url": "https://t.co/0EU8e9ebjH"
+            },
+            {
+              "display_url": "pic.x.com/0EU8e9ebjH",
+              "end": 113,
+              "expanded_url": "https://x.com/TixItem4527/status/2074357671747260878/photo/1",
+              "media_key": "3_2074357383812599808",
+              "start": 90,
+              "url": "https://t.co/0EU8e9ebjH"
+            },
+            {
+              "display_url": "pic.x.com/0EU8e9ebjH",
+              "end": 113,
+              "expanded_url": "https://x.com/TixItem4527/status/2074357671747260878/photo/1",
+              "media_key": "3_2074357668475711488",
+              "start": 90,
+              "url": "https://t.co/0EU8e9ebjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074357671747260878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎哟我操孩子们如果有人莫名其妙给你私聊发了这个链接千万别点，虽然是个正规的但是登录了后他会接管你的x账号给你xchat中的所有聊天自动分享他这个链接，跟传染病一样，见到了千万别点 https://t.co/0EU8e9ebjH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n跨性别\n精神病OD🚬 MHA属性\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 49,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 26,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 79,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 56,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 3210,
+          "like_count": 49629,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 3249
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|56kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界岛",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 3,
+          "like_count": 22,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 1408
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}
