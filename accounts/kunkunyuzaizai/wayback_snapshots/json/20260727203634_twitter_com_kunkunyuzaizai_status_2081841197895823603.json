@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2004176601056223412",
+    "created_at": "2026-07-27T20:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T21:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081841197895823603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824094337980071936",
+          "start": 0,
+          "username": "jQ13407720920"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081841197895823603",
+    "in_reply_to_user_id": "1824094337980071936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004176601056223412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jQ13407720920 好大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004176596316631040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BD_uqasAA3pdt.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2004176601056223412",
+        "created_at": "2026-07-27T20:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081841197895823603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824094337980071936",
+              "start": 0,
+              "username": "jQ13407720920"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081841197895823603",
+        "in_reply_to_user_id": "1824094337980071936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004176601056223412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jQ13407720920 好大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004176596316631040"
+          ]
+        },
+        "author_id": "1824094337980071936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2004176601056223412",
+        "created_at": "2025-12-25T13:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T14:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004176601056223412"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "四爱女攻"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRi3q3lCKI",
+              "end": 45,
+              "expanded_url": "https://x.com/jQ13407720920/status/2004176601056223412/photo/1",
+              "media_key": "3_2004176596316631040",
+              "start": 22,
+              "url": "https://t.co/pRi3q3lCKI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004176601056223412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 874,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的武器很久没用过了，快发霉了\n#四爱女攻 https://t.co/pRi3q3lCKI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n跨性别\n精神病 OD(偶尔) 🚬 MHA属性\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 55,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 32,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 85,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 62,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 3205,
+          "like_count": 50303,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 3277
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T14:43:16.000Z",
+        "description": "已婚找小三版",
+        "id": "1824094337980071936",
+        "name": "sss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846445724541898753/A6dsbCee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 36,
+          "like_count": 217,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "jQ13407720920",
+        "verified": false
+      }
+    ]
+  }
+}

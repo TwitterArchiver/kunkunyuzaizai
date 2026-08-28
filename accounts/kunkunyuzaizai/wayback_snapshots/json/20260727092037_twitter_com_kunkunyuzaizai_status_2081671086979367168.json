@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081671075428286464"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2081671086979367168",
+    "created_at": "2026-07-27T09:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081671086979367168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VIKvgeBJAl",
+          "end": 26,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2081671086979367168/photo/1",
+          "media_key": "3_2081671075428286464",
+          "start": 3,
+          "url": "https://t.co/VIKvgeBJAl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081671086979367168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦哦 https://t.co/VIKvgeBJAl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2079,
+        "media_key": "3_2081671075428286464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOU0F4bwAAsjZZ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081671075428286464"
+          ]
+        },
+        "author_id": "1779063322500874240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081671086979367168",
+        "created_at": "2026-07-27T09:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081671086979367168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VIKvgeBJAl",
+              "end": 26,
+              "expanded_url": "https://x.com/kunkunyuzaizai/status/2081671086979367168/photo/1",
+              "media_key": "3_2081671075428286464",
+              "start": 3,
+              "url": "https://t.co/VIKvgeBJAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081671086979367168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦 https://t.co/VIKvgeBJAl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n跨性别\n精神病 OD(偶尔) 🚬 MHA属性\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 55,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 32,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 85,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 62,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 3206,
+          "like_count": 50298,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 3274
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2082743552917020945",
+    "created_at": "2026-07-31T07:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083092055908306987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735017872353808385",
+          "start": 0,
+          "username": "whitecloud_ybw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083092055908306987",
+    "in_reply_to_user_id": "1735017872353808385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082743552917020945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitecloud_ybw 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2082743537863737344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdkNnybwAARhMS.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2082743552917020945",
+        "created_at": "2026-07-31T07:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083092055908306987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735017872353808385",
+              "start": 0,
+              "username": "whitecloud_ybw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083092055908306987",
+        "in_reply_to_user_id": "1735017872353808385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082743552917020945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitecloud_ybw 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082743537863737344"
+          ]
+        },
+        "author_id": "1735017872353808385",
+        "conversation_id": "2082743552917020945",
+        "created_at": "2026-07-30T08:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082743552917020945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHyCQW7nWH",
+              "end": 31,
+              "expanded_url": "https://x.com/whitecloud_ybw/status/2082743552917020945/photo/1",
+              "media_key": "3_2082743537863737344",
+              "start": 8,
+              "url": "https://t.co/uHyCQW7nWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082743552917020945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4961,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于可以走掉了 https://t.co/uHyCQW7nWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n跨性别\n精神病 OD(偶尔) 🚬 MHA属性\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 55,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 32,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 85,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 62,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 1,
+          "like_count": 50714,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 3292
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T19:24:40.000Z",
+        "description": "尹白雯☁️ A cloud in the sky shaped like my love for you.准大一企鹅/已成年小朋友/hrt25.7.23/友善回fo/小海豹@HayakawaFeixue/木子酱@MZiyu81757/微似活人@xiweiyoi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "HayakawaFeixue"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "xiweiyoi"
+              }
+            ]
+          }
+        },
+        "id": "1735017872353808385",
+        "location": "南极洲…或者就在你身侧",
+        "name": "尹家小白雯",
+        "pinned_tweet_id": "2060885474701672690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360696917225476/5TXcHSHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 678,
+          "like_count": 8805,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1326
+        },
+        "url": "",
+        "username": "whitecloud_ybw",
+        "verified": false
+      }
+    ]
+  }
+}

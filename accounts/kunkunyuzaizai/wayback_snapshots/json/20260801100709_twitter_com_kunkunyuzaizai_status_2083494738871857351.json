@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083494732542726144",
+        "3_2083494732559536129"
+      ]
+    },
+    "author_id": "1779063322500874240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083494738871857351",
+    "created_at": "2026-08-01T10:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083494738871857351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lCyC3ctNev",
+          "end": 28,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2083494738871857351/photo/1",
+          "media_key": "3_2083494732542726144",
+          "start": 5,
+          "url": "https://t.co/lCyC3ctNev"
+        },
+        {
+          "display_url": "pic.x.com/lCyC3ctNev",
+          "end": 28,
+          "expanded_url": "https://x.com/kunkunyuzaizai/status/2083494738871857351/photo/1",
+          "media_key": "3_2083494732559536129",
+          "start": 5,
+          "url": "https://t.co/lCyC3ctNev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083494738871857351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "剪头发了 https://t.co/lCyC3ctNev"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2083494732542726144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoPa6CbUAAOiEy.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2079,
+        "media_key": "3_2083494732559536129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoPa6Gb0AEmDEp.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083494732542726144",
+            "3_2083494732559536129"
+          ]
+        },
+        "author_id": "1779063322500874240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083494738871857351",
+        "created_at": "2026-08-01T10:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083494738871857351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCyC3ctNev",
+              "end": 28,
+              "expanded_url": "https://x.com/kunkunyuzaizai/status/2083494738871857351/photo/1",
+              "media_key": "3_2083494732542726144",
+              "start": 5,
+              "url": "https://t.co/lCyC3ctNev"
+            },
+            {
+              "display_url": "pic.x.com/lCyC3ctNev",
+              "end": 28,
+              "expanded_url": "https://x.com/kunkunyuzaizai/status/2083494738871857351/photo/1",
+              "media_key": "3_2083494732559536129",
+              "start": 5,
+              "url": "https://t.co/lCyC3ctNev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083494738871857351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剪头发了 https://t.co/lCyC3ctNev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n跨性别\n精神病 OD(偶尔) 🚬 MHA属性\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 55,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 32,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 85,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 62,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 3189,
+          "like_count": 50769,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 3298
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      }
+    ]
+  }
+}

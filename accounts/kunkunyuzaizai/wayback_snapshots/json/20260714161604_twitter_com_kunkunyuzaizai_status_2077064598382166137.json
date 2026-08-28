@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2076320770150580396",
+    "created_at": "2026-07-14T16:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077064598382166137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881598433737490432",
+          "start": 0,
+          "username": "HaikerWolf"
+        },
+        {
+          "end": 25,
+          "id": "1876613242887282688",
+          "start": 12,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077064598382166137",
+    "in_reply_to_user_id": "1881598433737490432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076350037848883491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaikerWolf @liujiayi1111 不过肺抽得好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2076320770150580396",
+        "created_at": "2026-07-14T16:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077064598382166137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881598433737490432",
+              "start": 0,
+              "username": "HaikerWolf"
+            },
+            {
+              "end": 25,
+              "id": "1876613242887282688",
+              "start": 12,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077064598382166137",
+        "in_reply_to_user_id": "1881598433737490432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076350037848883491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaikerWolf @liujiayi1111 不过肺抽得好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881598433737490432",
+        "conversation_id": "2076320770150580396",
+        "created_at": "2026-07-12T16:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076350037848883491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076350037848883491",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 409,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076320770150580396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 成瘾概率应该没那么高，有很多人都是不过肺的，抽烟只是单纯好奇或耍帅。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n跨性别\n精神病OD🚬 MHA属性\n匿名提问https://t.co/3xGifEjlmO\nTG个人频道https://t.co/RDVqeQbSNN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 49,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 26,
+                "url": "https://t.co/3xGifEjlmO"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 79,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 56,
+                "url": "https://t.co/RDVqeQbSNN"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "name": "困困鱼崽仔小云🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061842458238185719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 3209,
+          "like_count": 49796,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 3256
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T07:03:34.000Z",
+        "description": "男\n成都求学ing\n日常发牢骚而已",
+        "id": "1881598433737490432",
+        "name": "Haiker Away",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014684249740414976/dD4RWIWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 337,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "HaikerWolf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/liujiayi1111/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/liujiayi1111/status/2058900883270758469",
+                "start": 0,
+                "url": "https://t.co/er9WmJIKdu"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9396,
+          "following_count": 98,
+          "like_count": 12609,
+          "listed_count": 27,
+          "media_count": 287,
+          "tweet_count": 2911
+        },
+        "url": "https://t.co/er9WmJIKdu",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

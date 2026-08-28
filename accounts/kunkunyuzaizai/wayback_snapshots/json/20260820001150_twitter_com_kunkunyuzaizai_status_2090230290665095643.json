@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2090230290665095643",
+    "created_at": "2026-08-20T00:11:50.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T01:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090230290665095643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "qntwx.com/kunkunyu627",
+          "end": 81,
+          "expanded_url": "https://qntwx.com/kunkunyu627",
+          "start": 58,
+          "status": 200,
+          "unwound_url": "https://qntwx.com/kunkunyu627",
+          "url": "https://t.co/1CNEv9eFgu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090230290665095643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Hi，我正在使用&lt;轻匿提问箱App&gt;，点击下方链接，来向我匿名提问吧，Ask me anything\n\nhttps://t.co/1CNEv9eFgu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2090230290665095643",
+        "created_at": "2026-08-20T00:11:50.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T01:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090230290665095643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "qntwx.com/kunkunyu627",
+              "end": 81,
+              "expanded_url": "https://qntwx.com/kunkunyu627",
+              "start": 58,
+              "status": 200,
+              "unwound_url": "https://qntwx.com/kunkunyu627",
+              "url": "https://t.co/1CNEv9eFgu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090230290665095643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Hi，我正在使用&lt;轻匿提问箱App&gt;，点击下方链接，来向我匿名提问吧，Ask me anything\n\nhttps://t.co/1CNEv9eFgu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n有对象1i/4i\n跨性别\nOD(偶尔) 🚬 MHA属性\n抑郁焦虑\n匿名提问https://t.co/3xGifEiNxg\nTG个人频道https://t.co/RDVqeQbkYf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 65,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 42,
+                "url": "https://t.co/3xGifEiNxg"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 95,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 72,
+                "url": "https://t.co/RDVqeQbkYf"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090230290665095643",
+        "name": "困困鱼崽仔小云🏳️‍⚧️",
+        "pinned_tweet_id": "2089601247896805680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779063322500874240/1787034765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773986592329728/9NB2_vOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 3129,
+          "like_count": 51404,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 3332
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
