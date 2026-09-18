@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2080714328744112480",
+    "created_at": "2026-09-03T18:23:07.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T19:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095578352157589586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1992701329928867840",
+          "start": 0,
+          "username": "xingchmfn158431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095578352157589586",
+    "in_reply_to_user_id": "1992701329928867840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080714328744112480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingchmfn158431 机器人可以关掉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080714321739608064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAupspbcAAKXZm.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2080714328744112480",
+        "created_at": "2026-09-03T18:23:07.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T19:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095578352157589586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992701329928867840",
+              "start": 0,
+              "username": "xingchmfn158431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095578352157589586",
+        "in_reply_to_user_id": "1992701329928867840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080714328744112480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingchmfn158431 机器人可以关掉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080714321739608064"
+          ]
+        },
+        "author_id": "1992701329928867840",
+        "conversation_id": "2080714328744112480",
+        "created_at": "2026-07-24T17:58:48.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080714328744112480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t2YL7domtg",
+              "end": 49,
+              "expanded_url": "https://x.com/xingchmfn158431/status/2080714328744112480/photo/1",
+              "media_key": "3_2080714321739608064",
+              "start": 26,
+              "url": "https://t.co/t2YL7domtg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080714328744112480",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2080714321739608064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5573,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我最近有在看提问箱 但收到的都是机器人的提问😖 https://t.co/t2YL7domtg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n有对象1i/4i\n跨性别\nOD(偶尔) 🚬 MHA属性\n抑郁焦虑\n匿名提问https://t.co/3xGifEiNxg\nTG个人频道https://t.co/RDVqeQbkYf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 65,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 42,
+                "url": "https://t.co/3xGifEiNxg"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 95,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 72,
+                "url": "https://t.co/RDVqeQbkYf"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095578352157589586",
+        "name": "困困鱼崽仔小云🏳️‍⚧️",
+        "pinned_tweet_id": "2089601247896805680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779063322500874240/1787034765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094481316003905536/iVqMNkkX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 3103,
+          "like_count": 51566,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 3350
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T21:06:57.000Z",
+        "description": "你说啊 你说你最喜欢小番茄了🥺\n\nhttps://t.co/9is1a1lhQR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 40,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%95%AA%E8%8C%842",
+                "start": 17,
+                "url": "https://t.co/9is1a1lhQR"
+              }
+            ]
+          }
+        },
+        "id": "1992701329928867840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094843837969739863",
+        "name": "小番茄ヾ(๑╹ヮ╹๑)ﾉ”",
+        "pinned_tweet_id": "2080713928267743498",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053567530615332864/1bKIVotr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2617,
+          "following_count": 23,
+          "like_count": 13,
+          "listed_count": 9,
+          "media_count": 33,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "xingchmfn158431",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
