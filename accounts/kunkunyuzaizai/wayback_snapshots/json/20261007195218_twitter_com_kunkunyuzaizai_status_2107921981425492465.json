@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2106558462486602072",
+    "created_at": "2026-10-07T19:52:18.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T20:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107921981425492465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1416991798770102273",
+          "start": 0,
+          "username": "vegetable_ccai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107921981425492465",
+    "in_reply_to_user_id": "1416991798770102273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106558462486602072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vegetable_ccai 好贵啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106558454941052928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTv_wPVbcAAxFbA.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2106558462486602072",
+        "created_at": "2026-10-07T19:52:18.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T20:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107921981425492465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1416991798770102273",
+              "start": 0,
+              "username": "vegetable_ccai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107921981425492465",
+        "in_reply_to_user_id": "1416991798770102273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106558462486602072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vegetable_ccai 好贵啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106558454941052928"
+          ]
+        },
+        "author_id": "1416991798770102273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2106558462486602072",
+        "created_at": "2026-10-04T01:34:10.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T02:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106558462486602072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KzF3ZPV5HE",
+              "end": 48,
+              "expanded_url": "https://x.com/vegetable_ccai/status/2106558462486602072/photo/1",
+              "media_key": "3_2106558454941052928",
+              "start": 25,
+              "url": "https://t.co/KzF3ZPV5HE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106558462486602072",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106558454941052928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌豆角为什么都放豆角\n写了备注商家也不一定会看 https://t.co/KzF3ZPV5HE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n跨性别\nOD(偶尔) 🚬 MHA属性\n抑郁焦虑\n匿名提问https://t.co/3xGifEiNxg\nTG个人频道https://t.co/RDVqeQbkYf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 56,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 33,
+                "url": "https://t.co/3xGifEiNxg"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 86,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 63,
+                "url": "https://t.co/RDVqeQbkYf"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107921981425492465",
+        "name": "困困鱼崽仔小云🏳️‍⚧️",
+        "pinned_tweet_id": "2089601247896805680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779063322500874240/1787034765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106830831629316096/IiQmLZHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 3068,
+          "like_count": 51800,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 3423
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-19T05:22:43.000Z",
+        "description": "0x16yo 前端er\n可以叫我菜菜🥦\n每天都在探索好吃的，快来交朋友吧",
+        "id": "1416991798770102273",
+        "is_identity_verified": false,
+        "location": "菜星",
+        "most_recent_tweet_id": "2107911028839473416",
+        "name": "${name}🍟🍔🍳🍕🍖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1416991798770102273/1730575366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889000441029214209/YwLs4wKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 940,
+          "like_count": 3597,
+          "listed_count": 3,
+          "media_count": 393,
+          "tweet_count": 2295
+        },
+        "url": "",
+        "username": "vegetable_ccai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

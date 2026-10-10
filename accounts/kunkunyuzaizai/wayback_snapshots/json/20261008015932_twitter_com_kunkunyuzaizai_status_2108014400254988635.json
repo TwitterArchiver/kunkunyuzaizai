@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2107868272507203663",
+    "created_at": "2026-10-08T01:59:32.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T02:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108014400254988635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818546901899509760",
+          "start": 0,
+          "username": "XiaoQi_077s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108014400254988635",
+    "in_reply_to_user_id": "1818546901899509760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107990548346966050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoQi_077s Root的初衷是优化设备"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2107868272507203663",
+        "created_at": "2026-10-08T01:59:32.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T02:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108014400254988635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818546901899509760",
+              "start": 0,
+              "username": "XiaoQi_077s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108014400254988635",
+        "in_reply_to_user_id": "1818546901899509760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107990548346966050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoQi_077s Root的初衷是优化设备"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818546901899509760",
+        "conversation_id": "2107868272507203663",
+        "created_at": "2026-10-08T00:24:45.000Z",
+        "display_text_range": [
+          16,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T01:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107990548346966050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107990548346966050",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107868272507203663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 刷机圈一部分是被黑灰产搞臭的，另一部分就是内核外挂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n跨性别\nOD(偶尔) 🚬 MHA属性\n抑郁焦虑\n匿名提问https://t.co/3xGifEiNxg\nTG个人频道https://t.co/RDVqeQbkYf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 56,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 33,
+                "url": "https://t.co/3xGifEiNxg"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 86,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 63,
+                "url": "https://t.co/RDVqeQbkYf"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108014400254988635",
+        "name": "困困鱼崽仔小云🏳️‍⚧️",
+        "pinned_tweet_id": "2089601247896805680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779063322500874240/1787034765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106830831629316096/IiQmLZHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 3069,
+          "like_count": 51824,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 3424
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-31T07:19:14.000Z",
+        "description": "🍥喵☺️喜欢玩VRChat😋☁☁vrc猫猫一个\n会点Python☁喜欢折腾各种Android设备\n想要你们开开心心的🥰\n爱你们，谢谢你们喜欢我😘😘\n常日抑郁🥺重度焦虑🥹(还有点强迫?)想要有人陪我😢\nEmail📬:me@xiaoqicy.top",
+        "id": "1818546901899509760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108008445488378288",
+        "name": "小柒🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2102791078512615926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818546901899509760/1781367446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096262421774249984/1Is68wzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 846,
+          "like_count": 4051,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 1430
+        },
+        "url": "",
+        "username": "XiaoQi_077s",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

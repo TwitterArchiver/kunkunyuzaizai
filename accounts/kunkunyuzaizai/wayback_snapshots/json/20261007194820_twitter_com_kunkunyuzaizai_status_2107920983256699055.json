@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2107868272507203663",
+    "created_at": "2026-10-07T19:48:20.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T20:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107920983256699055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1416991798770102273",
+          "start": 0,
+          "username": "vegetable_ccai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107920983256699055",
+    "in_reply_to_user_id": "1416991798770102273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107911028839473416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vegetable_ccai 你太敏感了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2107868272507203663",
+        "created_at": "2026-10-07T19:48:20.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T20:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107920983256699055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1416991798770102273",
+              "start": 0,
+              "username": "vegetable_ccai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107920983256699055",
+        "in_reply_to_user_id": "1416991798770102273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107911028839473416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vegetable_ccai 你太敏感了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416991798770102273",
+        "conversation_id": "2107868272507203663",
+        "created_at": "2026-10-07T19:08:47.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T20:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107911028839473416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107911028839473416",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107868272507203663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai 好像是外挂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n跨性别\nOD(偶尔) 🚬 MHA属性\n抑郁焦虑\n匿名提问https://t.co/3xGifEiNxg\nTG个人频道https://t.co/RDVqeQbkYf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 56,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 33,
+                "url": "https://t.co/3xGifEiNxg"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 86,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 63,
+                "url": "https://t.co/RDVqeQbkYf"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107920983256699055",
+        "name": "困困鱼崽仔小云🏳️‍⚧️",
+        "pinned_tweet_id": "2089601247896805680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779063322500874240/1787034765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106830831629316096/IiQmLZHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 3068,
+          "like_count": 51793,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 3421
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-19T05:22:43.000Z",
+        "description": "0x16yo 前端er\n可以叫我菜菜🥦\n每天都在探索好吃的，快来交朋友吧",
+        "id": "1416991798770102273",
+        "is_identity_verified": false,
+        "location": "菜星",
+        "most_recent_tweet_id": "2107911028839473416",
+        "name": "${name}🍟🍔🍳🍕🍖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1416991798770102273/1730575366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889000441029214209/YwLs4wKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 940,
+          "like_count": 3597,
+          "listed_count": 3,
+          "media_count": 393,
+          "tweet_count": 2295
+        },
+        "url": "",
+        "username": "vegetable_ccai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

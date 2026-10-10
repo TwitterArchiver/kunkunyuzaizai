@@ -1,0 +1,665 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2106062901039808698",
+    "created_at": "2026-10-03T05:02:57.000Z",
+    "display_text_range": [
+      84,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T06:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106248619485438430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 25,
+          "id": "1758876738652942336",
+          "start": 13,
+          "username": "Felicia1337"
+        },
+        {
+          "end": 34,
+          "id": "1512976991976402949",
+          "start": 26,
+          "username": "bghtnya"
+        },
+        {
+          "end": 45,
+          "id": "1499411488645074945",
+          "start": 35,
+          "username": "runnaosfa"
+        },
+        {
+          "end": 58,
+          "id": "2038547314835705856",
+          "start": 46,
+          "username": "asaltfishes"
+        },
+        {
+          "end": 75,
+          "id": "1640917359493005313",
+          "start": 59,
+          "username": "shizukululu0721"
+        },
+        {
+          "end": 83,
+          "id": "2032037309219315712",
+          "start": 76,
+          "username": "fcjdfb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106248619485438430",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106187321758617779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1raQ_love @Felicia1337 @bghtnya @runnaosfa @asaltfishes @shizukululu0721 @fcjdfb 看着像7英寸的手机原来不是吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2106062901039808698",
+        "created_at": "2026-10-03T05:02:57.000Z",
+        "display_text_range": [
+          84,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106248619485438430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 25,
+              "id": "1758876738652942336",
+              "start": 13,
+              "username": "Felicia1337"
+            },
+            {
+              "end": 34,
+              "id": "1512976991976402949",
+              "start": 26,
+              "username": "bghtnya"
+            },
+            {
+              "end": 45,
+              "id": "1499411488645074945",
+              "start": 35,
+              "username": "runnaosfa"
+            },
+            {
+              "end": 58,
+              "id": "2038547314835705856",
+              "start": 46,
+              "username": "asaltfishes"
+            },
+            {
+              "end": 75,
+              "id": "1640917359493005313",
+              "start": 59,
+              "username": "shizukululu0721"
+            },
+            {
+              "end": 83,
+              "id": "2032037309219315712",
+              "start": 76,
+              "username": "fcjdfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106248619485438430",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106187321758617779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love @Felicia1337 @bghtnya @runnaosfa @asaltfishes @shizukululu0721 @fcjdfb 看着像7英寸的手机原来不是吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2106062901039808698",
+        "created_at": "2026-10-03T00:59:23.000Z",
+        "display_text_range": [
+          87,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T01:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106187321758617779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779063322500874240",
+              "start": 0,
+              "username": "kunkunyuzaizai"
+            },
+            {
+              "end": 28,
+              "id": "1758876738652942336",
+              "start": 16,
+              "username": "Felicia1337"
+            },
+            {
+              "end": 37,
+              "id": "1512976991976402949",
+              "start": 29,
+              "username": "bghtnya"
+            },
+            {
+              "end": 48,
+              "id": "1499411488645074945",
+              "start": 38,
+              "username": "runnaosfa"
+            },
+            {
+              "end": 61,
+              "id": "2038547314835705856",
+              "start": 49,
+              "username": "asaltfishes"
+            },
+            {
+              "end": 78,
+              "id": "1640917359493005313",
+              "start": 62,
+              "username": "shizukululu0721"
+            },
+            {
+              "end": 86,
+              "id": "2032037309219315712",
+              "start": 79,
+              "username": "fcjdfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106187321758617779",
+        "in_reply_to_user_id": "1779063322500874240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106117040583188854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunyuzaizai @Felicia1337 @bghtnya @runnaosfa @asaltfishes @shizukululu0721 @fcjdfb 不是华为喵，联想平板"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n跨性别\nOD(偶尔) 🚬 MHA属性\n抑郁焦虑\n匿名提问https://t.co/3xGifEiNxg\nTG个人频道https://t.co/RDVqeQbkYf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 56,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 33,
+                "url": "https://t.co/3xGifEiNxg"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 86,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 63,
+                "url": "https://t.co/RDVqeQbkYf"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106248619485438430",
+        "name": "困困鱼崽仔小云🏳️‍⚧️",
+        "pinned_tweet_id": "2089601247896805680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779063322500874240/1787034765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094481316003905536/iVqMNkkX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 3069,
+          "like_count": 51686,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3387
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/温柔与爱/生活日常/业余技术/原创文案/负面内容/秋月喵 @qiuylove/里推 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "qiuylove"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "Tianjin/Xiamen/Suzhou",
+        "most_recent_tweet_id": "2106219825999864064",
+        "name": "🌈Akiramenai💫",
+        "pinned_tweet_id": "2098695582013677606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1790157811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102700382493556736/npAiY7DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8819,
+          "following_count": 1326,
+          "like_count": 229509,
+          "listed_count": 6,
+          "media_count": 1395,
+          "tweet_count": 10103
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-17T15:31:21.000Z",
+        "description": "23,June/不自残不嗑药不吸毒不抽烟不喝酒五好青少年/请和我互fo!/会善待每一个人/垃圾桶@Bxpctsy/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "Bxpctsy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OsvXTXb",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OsvXTXb",
+                "start": 0,
+                "url": "https://t.co/dyKMx8isH8"
+              }
+            ]
+          }
+        },
+        "id": "1758876738652942336",
+        "is_identity_verified": false,
+        "location": "Peking",
+        "most_recent_tweet_id": "2106228917615186139",
+        "name": "月溪嘻嘻嘻嘻",
+        "pinned_tweet_id": "2103748190164189307",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758876738652942336/1783689110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082380247195090944/cp3FHFik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 1006,
+          "like_count": 90944,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 2355
+        },
+        "url": "https://t.co/dyKMx8isH8",
+        "username": "Felicia1337",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2106245962821955606",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11346,
+          "following_count": 2343,
+          "like_count": 189317,
+          "listed_count": 19,
+          "media_count": 4299,
+          "tweet_count": 51914
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-03T15:48:58.000Z",
+        "description": "一个友跨男喜欢玩星际公民和战术小队，还有断箭，是尼龙佬，肥宅，郊狼专家（存疑）雌激素药师（也就是比一般人懂点）男/药娘（并不是）\n友跨，友同，双性恋switch\n欢迎来和我进行无效的社交\n前任ex  @lianshufa  是可爱的女高呢\n\nhttps://t.co/FtV3YvE7EY提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 100,
+                "username": "lianshufa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/runnaaosfa",
+                "end": 144,
+                "expanded_url": "https://ngl.link/runnaaosfa",
+                "start": 121,
+                "url": "https://t.co/FtV3YvE7EY"
+              }
+            ]
+          }
+        },
+        "id": "1499411488645074945",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2106050311119139120",
+        "name": "奥斯润珐（）",
+        "pinned_tweet_id": "1616034566858506240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499411488645074945/1671849870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928397150133817344/gPy64LUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 1176,
+          "like_count": 1833,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 5438
+        },
+        "url": "",
+        "username": "runnaosfa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-03-30T09:22:54.000Z",
+        "description": "這裡是saltfish喵～\nFrom 110｜090928｜简/繁/En｜欢迎互fo \n妹妹&恋人@meowania_Fan\nMtFtX | HRT 2026.7.9｜社恐!!｜ISFP-T \nAnother @asaltfishMeow｜Loading…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "meowania_Fan"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "asaltfishMeow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/asaltfishes",
+                "end": 23,
+                "expanded_url": "http://ngl.link/asaltfishes",
+                "start": 0,
+                "url": "https://t.co/5ihgjUgzux"
+              }
+            ]
+          }
+        },
+        "id": "2038547314835705856",
+        "is_identity_verified": false,
+        "location": "Heaven Forever",
+        "most_recent_tweet_id": "2106222213619937332",
+        "name": "saltfish🏳️‍⚧️",
+        "pinned_tweet_id": "2094206779135815920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038547314835705856/1785291915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096215303781056512/3vu2t4do_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 1578,
+          "like_count": 6597,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 1405
+        },
+        "url": "https://t.co/5ihgjUgzux",
+        "username": "asaltfishes",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-29T03:22:47.000Z",
+        "description": "成分在推文里啦🥰｜日常和碎碎念✨｜偶尔负能警告⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Lulushizukuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Lulushizukuuu",
+                "start": 0,
+                "url": "https://t.co/IxTJNDUbn0"
+              }
+            ]
+          }
+        },
+        "id": "1640917359493005313",
+        "is_identity_verified": false,
+        "location": "XUZ/SZV",
+        "most_recent_tweet_id": "2106239782250746083",
+        "name": "雨下るる",
+        "pinned_tweet_id": "2098781312379461839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640917359493005313/1770278755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089256914173779969/LJrgpZEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 1807,
+          "like_count": 6188,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 3450
+        },
+        "url": "https://t.co/IxTJNDUbn0",
+        "username": "shizukululu0721",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2106245309294862849",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 65,
+          "like_count": 1029,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1741
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

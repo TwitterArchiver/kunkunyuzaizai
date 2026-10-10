@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1779063322500874240",
+    "conversation_id": "2104614530148090178",
+    "created_at": "2026-09-29T09:57:19.000Z",
+    "display_text_range": [
+      22,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T10:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104873147774513605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1613066923801202689",
+          "start": 0,
+          "username": "tingDavid6"
+        },
+        {
+          "end": 21,
+          "id": "1617882051776253956",
+          "start": 12,
+          "username": "snghuhu3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104873147774513605",
+    "in_reply_to_user_id": "1613066923801202689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104675771336069416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingDavid6 @snghuhu3 我现实一个朋友都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779063322500874240",
+        "conversation_id": "2104614530148090178",
+        "created_at": "2026-09-29T09:57:19.000Z",
+        "display_text_range": [
+          22,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T10:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104873147774513605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1613066923801202689",
+              "start": 0,
+              "username": "tingDavid6"
+            },
+            {
+              "end": 21,
+              "id": "1617882051776253956",
+              "start": 12,
+              "username": "snghuhu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104873147774513605",
+        "in_reply_to_user_id": "1613066923801202689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104675771336069416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingDavid6 @snghuhu3 我现实一个朋友都没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613066923801202689",
+        "conversation_id": "2104614530148090178",
+        "created_at": "2026-09-28T20:53:01.000Z",
+        "display_text_range": [
+          26,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T21:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104675771336069416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1617882051776253956",
+              "start": 0,
+              "username": "snghuhu3"
+            },
+            {
+              "end": 25,
+              "id": "1779063322500874240",
+              "start": 10,
+              "username": "kunkunyuzaizai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104675771336069416",
+        "in_reply_to_user_id": "1617882051776253956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104658448025878624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snghuhu3 @kunkunyuzaizai 如果你现实里也是这样刻薄的样子，那你的朋友应该很少吧，你留下前半段话就可以了，后半段占据道德高地的样子把你前半段话的价值完全抵消了，提建议不像提建议，搞对立倒是像那么回事了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-13T08:25:35.000Z",
+        "description": "我是小云\n跨性别\nOD(偶尔) 🚬 MHA属性\n抑郁焦虑\n匿名提问https://t.co/3xGifEiNxg\nTG个人频道https://t.co/RDVqeQbkYf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkunyu627",
+                "end": 56,
+                "expanded_url": "https://ngl.link/kunkunyu627",
+                "start": 33,
+                "url": "https://t.co/3xGifEiNxg"
+              },
+              {
+                "display_url": "t.me/kunkunyuzai627",
+                "end": 86,
+                "expanded_url": "https://t.me/kunkunyuzai627",
+                "start": 63,
+                "url": "https://t.co/RDVqeQbkYf"
+              }
+            ]
+          }
+        },
+        "id": "1779063322500874240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104873147774513605",
+        "name": "困困鱼崽仔小云🏳️‍⚧️",
+        "pinned_tweet_id": "2089601247896805680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779063322500874240/1787034765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094481316003905536/iVqMNkkX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 3061,
+          "like_count": 51585,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3372
+        },
+        "url": "",
+        "username": "kunkunyuzaizai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-11T06:55:12.000Z",
+        "description": "没意义的饭局，走不到最后的人，看不起你的亲戚，虚情假意的朋友，\n                                                和\n扬在脸上的自信，长在心里的善良，融进血液里的骨气，刻在生命里的坚强，",
+        "id": "1613066923801202689",
+        "is_identity_verified": false,
+        "location": "Sapporo City Atsubetsu Ward",
+        "most_recent_tweet_id": "2104677487951356338",
+        "name": "ting",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613066923801202689/1673424455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033229863956705280/5MyzT8m3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 920,
+          "like_count": 4934,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 1271
+        },
+        "url": "",
+        "username": "tingDavid6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-24T13:48:52.000Z",
+        "description": "08 一个人",
+        "id": "1617882051776253956",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104842279139901852",
+        "name": "天堂是我烧的",
+        "pinned_tweet_id": "1620742305232879616",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1617882051776253956/1790354150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103520203393130496/cyiui3uO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "snghuhu3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
